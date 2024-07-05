@@ -1,3 +1,3 @@
 # Lily & Roger Blog
 
-欢迎来到 Lily & Roger 的 Blog.
+Welcome to Lily & Roger Blog powered by Jekyll and Github Pages.
