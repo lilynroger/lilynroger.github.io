@@ -4,6 +4,7 @@ title: "斯塔万格 (Stavanger)"
 date: 2024-07-15 00:00:00 +0800
 categories: posts
 tags: 旅行 挪威 徒步
+img_url_base: /assets/images/2024/scandinavia/stavanger
 ---
 
 斯塔万格 (Stavanger), 挪威的第四大城市和石油之都. 在这里可以在历史悠久的老城和多彩的步行街尽情漫步. 也可以前往吕瑟峡湾 (Lysefjord), 挑战极富盛名位列挪威三大奇石之中的布道台 (布道石/Preikestolen/Pulpit Rock) 和奇迹石 (Kjeragbolten).
@@ -34,17 +35,17 @@ tags: 旅行 挪威 徒步
 
 Radisson Blu Atlantic Hotel 坐拥市中心最佳的位置, 没有之一. 面对着城市公园, 距离火车站和巴士总站, 港口, 老城, 步行街都在几百米范围之内. 设施不错, 有健身房和桑拿室. 
 
-![Radisson Blu Atlantic Hotel](/assets/images/2024-scandinavia/radisson-blu-atlantic-hotel.jpg)
+![Radisson Blu Atlantic Hotel](/assets/images/2024/scandinavia/stavanger/radisson-blu-atlantic-hotel.jpg)
 
 Radisson Blu Atlantic Hotel 没有自己的停车场. 最近的公共停车场是其背后 (西南方) 的圣奥拉夫地下停车场 (P-St.Olav, Stavanger). 从酒店去往停车场不是特别远. 车位还是比较充裕的. 停车缴费是自助的. 停车场出入口有自助缴费机. 如下: 
 
-![P-St.Olav, Stavanger](/assets/images/2024-scandinavia/p-st-olav-stavanger.jpg)
+![P-St.Olav, Stavanger](/assets/images/2024/scandinavia/stavanger/p-st-olav-stavanger.jpg)
 
 此外, 去往布道台和奇迹石的直达大巴就在 Radisson Blu Atlantic Hotel 前门停车.
 
 Staysville - Kong Carls Gate 是一家公寓式的旅馆. 在一个安静的社区中. 距离 Radisson Blu Atlantic Hotel 也就 800 米. 即使步行去市中心各处也还是比较方便的.
 
-![Staysville - Kong Carls Gate](/assets/images/2024-scandinavia/staysville-kong-carls-gate.jpg)
+![Staysville - Kong Carls Gate](/assets/images/2024/scandinavia/stavanger/staysville-kong-carls-gate.jpg)
 
 公寓中电器和厨房设施一应俱全. 自驾的话是路边停车. 每天 125 NOK 停车费. 
 
@@ -65,25 +66,25 @@ Staysville - Kong Carls Gate 是一家公寓式的旅馆. 在一个安静的社�
 
 斯塔万格本地人口中的 Vågen 即港口区, 包括港口东西两侧的 Strandkaien 和 Skagenkaien 大街. 这里是城市的心脏. 餐馆和酒吧林立. 你不可能错过这里. 
 
-![Vågen i Stavanger](/assets/images/2024-scandinavia/vagen-i-stavanger.jpg)
+![Vågen i Stavanger](/assets/images/2024/scandinavia/stavanger/vagen-i-stavanger.jpg)
 
 ### 斯塔万格老城
 
 在港口区的西侧, 173 座建于 18 到 19 世纪的白色木房子得以很好的保存至今, 这里就是老城. 在一个晴朗的夏日, 花上半小时漫步老城, 拍一些不错的照片还是值得的.
 
-![Gamle Stavanger](/assets/images/2024-scandinavia/gamle-stavanger.jpg)
+![Gamle Stavanger](/assets/images/2024/scandinavia/stavanger/gamle-stavanger.jpg)
 
 ### 多彩步行街
 
 在港口区的东侧有一条街道叫做 Øvre Holmegate. 本地人称之为 Fargegaten. 挪威语直译为 “多彩的街道”. 过去这里只是一个僻静而无聊的街道. 一个理发师 Tom Kjørsvik 突发奇想, 提出改造这条老街的点子. 而艺术家 Craig Flannagan 则提供了色彩的设计. 经过数年的努力, 想法成为现实. 这里已经是斯塔万格最主要的景点之一. 五颜六色, 鳞次栉比的各种店铺, 绝对是最出片的地方.
 
-![Øvre Holmegate](/assets/images/2024-scandinavia/øvre-holmegate.jpg)
+![Øvre Holmegate](/assets/images/2024/scandinavia/stavanger/øvre-holmegate.jpg)
 
 ### 海鲜市场
 
 挪威的海鲜不用多说了. 而挪威最著名的海鲜市场之一 Fisketorget 就在斯塔万格港口区的中心. 
 
-![Fisketorget Stavanger](/assets/images/2024-scandinavia/fisketorget-stavanger.jpg)
+![Fisketorget Stavanger](/assets/images/2024/scandinavia/stavanger/fisketorget-stavanger.jpg)
 
 正如它的招牌 "Fisketorget Restaurant & Sjømatutsalg" 所示, 它结合了餐馆和海鲜产品折扣店. 前面是餐馆, 右后侧一个小门进去则是柜台. 
 
@@ -91,7 +92,7 @@ Staysville - Kong Carls Gate 是一家公寓式的旅馆. 在一个安静的社�
 
 三剑纪念碑, 挪威语 Sverd i fjell, 直译即 "石中剑". 这座纪念碑是为了纪念维京人领袖 Harald Fairhair 击败其他王国从而第一次统一挪威的战役, 由雕塑家 Fritz Røed 设计建造, 并由奥拉夫国王在 1983 年亲自揭幕的. 距离市中心 5 公里.
 
-![Sverd i fjell](/assets/images/2024-scandinavia/sverd-i-fjell.jpg)
+![Sverd i fjell](/assets/images/2024/scandinavia/stavanger/sverd-i-fjell.jpg)
 
 单单三剑纪念碑, 可能未必值得抽出时间离开市中心. 但是这里沿着 Hafrsfjord 峡湾的海边步道和海滨公园风景秀丽, 是值得悠闲的度过两三个小时的. 尤其不要错过 Håhammaren Bro, 别具一格的步道桥. 在艰苦的布道台和奇迹石徒步之后, 这里是放松和恢复的不二之选.
 
