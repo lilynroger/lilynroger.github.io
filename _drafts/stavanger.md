@@ -4,14 +4,13 @@ title: "斯塔万格 (Stavanger)"
 date: 2024-07-15 00:00:00 +0800
 categories: posts
 tags: 旅行 挪威 徒步
-img_url_base: /assets/images/2024/scandinavia/stavanger
 ---
 
-斯塔万格 (Stavanger), 挪威的第四大城市和石油之都. 在这里可以在历史悠久的老城和多彩的步行街尽情漫步. 也可以前往吕瑟峡湾 (Lysefjord), 挑战极富盛名位列挪威三大奇石之中的布道台 (布道石/Preikestolen/Pulpit Rock) 和奇迹石 (Kjeragbolten).
+斯塔万格 (Stavanger), 挪威的第四大城市和石油之都. 在这里可以尽情漫步于历史悠久的老城和多彩的步行街. 也可以由此前往吕瑟峡湾 (Lysefjord), 挑战极富盛名位列挪威三大奇石之中的布道台 (布道石/Preikestolen/Pulpit Rock) 和奇迹石 (Kjeragbolten).
 
 ## 自驾和公共交通
 
-斯塔万格市中心很小, 都在步行距离之内. 市区的公共交通也很方便. 去往吕瑟峡湾的公共交通则是个问题. 虽然坐公交车和轮渡基本上哪里都可以到. 但是车船都非常有限. 尤其是星期天完全没有公共交通了. 对于布道台和奇迹石徒步, 公共交通理论上虽然是可以的, 但很难. 
+斯塔万格市中心很紧凑, 游客的去处基本上都在步行距离之内. 市区的公共交通也很方便. 去往吕瑟峡湾的公共交通则是个问题. 虽然坐公共汽车和轮渡基本上哪里都可以到. 但是车船都非常有限. 尤其是星期天完全没有公共交通了. 对于布道台和奇迹石徒步, 公共交通理论上虽然是可以的, 但很难. 
 
 如果不想自驾, 还有一个选项就是乘坐由 [Go Fjords](https://gofjords.com/) 运营, 从市中心到布道台和奇迹石徒步起点的往返直达大巴. 缺点是必须提前预定. 不想顶着风雨徒步的话, 只能提前一两天紧盯着天气预报, 随时抢定. 需要注意的是, 这个旅游巴士只有夏天有, 六月份开始运营, 且六月份只有周末才有, 七八月每日运营.
 
@@ -28,12 +27,14 @@ img_url_base: /assets/images/2024/scandinavia/stavanger
 
 ## 住宿
 
-斯塔万格是我们挪威徒步之旅的第一站. 时值六月, 历史平均 17 天降雨. 我们可不想冒雨徒步峡湾, 所以选择在斯塔万格城里住宿. 天公作美则随时出发去峡湾; 阴雨天则在城里逛逛, 吃吃喝喝, 不至于无事可做. 由于行程安排的原因, 我们先是在酒店里住了 2 晚, 然后搬到了一间公寓式旅馆住了 4 晚.
+斯塔万格是我们挪威徒步之旅的第一站. 时值六月, 历史平均 17 天降雨. 我们可不想冒雨徒步峡湾, 所以选择在斯塔万格城里住宿. 这样天公作美则随时出发去峡湾; 阴雨天则在可以城里逛逛, 吃吃喝喝, 不至于无事可做. 由于预订的原因, 我们先是在酒店里住了 2 晚, 然后搬到了一间公寓式旅馆住了 4 晚.
 
 * Radisson Blu Atlantic Hotel, Stavanger
 * Staysville - Kong Carls Gate
 
-Radisson Blu Atlantic Hotel 坐拥市中心最佳的位置, 没有之一. 面对着城市公园, 距离火车站和巴士总站, 港口, 老城, 步行街都在几百米范围之内. 设施不错, 有健身房和桑拿室. 
+### 酒店
+
+Radisson Blu Atlantic Hotel 坐拥市中心最佳的位置, 没有之一. 面对着城市公园, 距离火车站和巴士总站, 港口, 老城, 步行街都在几百米范围之内. 设施不错, 有健身房和桑拿室. 自助早餐属于平均水平.
 
 ![Radisson Blu Atlantic Hotel](/assets/images/2024/scandinavia/stavanger/radisson-blu-atlantic-hotel.jpg)
 
@@ -41,7 +42,9 @@ Radisson Blu Atlantic Hotel 没有自己的停车场. 最近的公共停车场�
 
 ![P-St.Olav, Stavanger](/assets/images/2024/scandinavia/stavanger/p-st-olav-stavanger.jpg)
 
-此外, 去往布道台和奇迹石的直达大巴就在 Radisson Blu Atlantic Hotel 前门停车.
+此外, 去往布道台和奇迹石的直达大巴就在 Radisson Blu Atlantic Hotel 前门停车. 非常方便.
+
+### 公寓
 
 Staysville - Kong Carls Gate 是一家公寓式的旅馆. 在一个安静的社区中. 距离 Radisson Blu Atlantic Hotel 也就 800 米. 即使步行去市中心各处也还是比较方便的.
 
@@ -50,6 +53,15 @@ Staysville - Kong Carls Gate 是一家公寓式的旅馆. 在一个安静的社�
 公寓中电器和厨房设施一应俱全. 自驾的话是路边停车. 每天 125 NOK 停车费. 
 
 我们推荐在斯塔万格租住这种有厨房的公寓或者旅馆. 一方面是因为挪威最有名的海鲜市场之一 Fisketorget Stavanger 就在码头上. 只要不介意下厨, 可以多尝尝那里的海鲜. 此外, 洗衣机和干衣机对于布道台和奇迹石徒步也是非常有帮助的.
+
+### 峡湾住宿
+
+我们在计划时, 还曾经考虑过住进峡湾里. 下面两处是我们曾经重点考虑的峡湾住宿选项：
+
+* 私家农场 [Gøysa Gard](https://lysefjorden.com/goysa-gard/) 就在 Forsand 的极佳位置. 坐拥峡湾和群山的美景.
+* 如果你的行程订的足够早, 可以试试能不能抢订到 [The Bolder](https://www.thebolder.no/), 俯瞰峡湾的小木屋.
+
+需要注意的是, 前往奇迹石的路线选择有限. 住在峡湾里未必比斯塔万格城里更近或者更方便. 需要谨慎规划.
 
 ## 景点
 
@@ -86,7 +98,7 @@ Staysville - Kong Carls Gate 是一家公寓式的旅馆. 在一个安静的社�
 
 ![Fisketorget Stavanger](/assets/images/2024/scandinavia/stavanger/fisketorget-stavanger.jpg)
 
-正如它的招牌 "Fisketorget Restaurant & Sjømatutsalg" 所示, 它结合了餐馆和海鲜产品折扣店. 前面是餐馆, 右后侧一个小门进去则是柜台. 
+正如它的招牌 "Fisketorget Restaurant & Sjømatutsalg" 所示, 它结合了餐馆和海鲜产品折扣店. 前面是餐馆, 右后侧一个小门进去则是柜台.
 
 ### 三剑纪念碑
 
@@ -98,4 +110,4 @@ Staysville - Kong Carls Gate 是一家公寓式的旅馆. 在一个安静的社�
 
 ### 奥特莱斯
 
-如果你喜欢挪威, 多半也像我们一样喜欢挪威的户外品牌. 斯塔万格往南半小时车程的 Ålgård 小城有一个奥特莱斯. 好多个品牌在这里都有折扣店. 尤其是挪威本土品牌 Norrøna 极少数的线下折扣店之一 Norrøna Outlet Store Ålgård 就在这里. 而且规模不小. 自驾前往奇迹石徒步的路线也会经过这里. 你也许想顺便采购些装备.
+如果你喜欢挪威, 也许也像我们一样喜欢挪威的户外品牌. 斯塔万格往南半小时车程的 Ålgård 小城有一个奥特莱斯. 好多个品牌在这里都有折扣店. 尤其是挪威本土品牌 [Norrøna](https://www.norrona.com/) 极少数的线下折扣店之一 Norrøna Outlet Store Ålgård 就在这里. 而且规模不小. 自驾前往奇迹石徒步的路线也会经过这里. 可以顺便采购些户外装备.
