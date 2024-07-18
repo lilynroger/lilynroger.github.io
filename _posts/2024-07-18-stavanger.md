@@ -2,7 +2,7 @@
 layout: post
 title: "斯塔万格 (Stavanger)"
 categories: posts
-tags: 旅行 挪威 徒步
+tags: 2024-Scandinavia 旅行 挪威 徒步
 ---
 
 斯塔万格 (Stavanger), 挪威的第四大城市和石油之都. 在这里可以尽情漫步于历史悠久的老城和多彩的步行街. 也可以由此前往吕瑟峡湾 (Lysefjord), 挑战极富盛名位列挪威三大奇石之中的布道台 (布道石/Preikestolen/Pulpit Rock) 和奇迹石 (Kjeragbolten).
