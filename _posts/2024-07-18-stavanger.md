@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "斯塔万格 (Stavanger)"
-date: 2024-07-15 00:00:00 +0800
 categories: posts
 tags: 旅行 挪威 徒步
 ---
