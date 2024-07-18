@@ -1,3 +1,3 @@
-# Lily & Roger Blog
+# Lily & Roger Pages
 
-Welcome to Lily & Roger Blog powered by Jekyll and Github Pages.
+Welcome to Lily & Roger Pages powered by Jekyll and Github Pages.
