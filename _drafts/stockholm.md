@@ -6,7 +6,12 @@ date: 2024-05-27 12:00:00 +0200
 tags: 2024-Scandinavia 旅行 瑞典
 ---
 
-瑞典的斯德哥尔摩 (Stockholm) 是我们斯堪的纳维亚之旅的的第一站. 不过在这里我们只停留 4 晚. 初探这座城市.
+瑞典的斯德哥尔摩 (Stockholm) 是我们斯堪的纳维亚之旅的的第一站. 不过在这里我们只停留 4 晚. 初探这座城市 - 斯堪的纳维亚的首都 (当然是瑞典人自封的).
+
+![斯德哥尔摩之狮 (The Lions of Stockholm)](/assets/images/2024/scandinavia/stockholm/the-lions-of-stockholm.jpeg)
+
+> [!TIP]
+> 斯德哥尔摩之狮 (The Lions of Stockholm) - 在斯德哥尔摩各处步行街道常见的狮子造型的水泥路障, 已经成为斯德哥尔摩城市标志之一.
 
 具体的风景名胜等去处, 我们按照个人喜好的优先级挑选了几处. 特别的是, 斯德哥尔摩的地铁站也闻名遐迩, 一定要去几个打卡.
 
@@ -56,21 +61,9 @@ tags: 2024-Scandinavia 旅行 瑞典
 
 ### 老城 (Gamla Stan)
 
-老城位于市中心的小岛. 长宽 700 米左右. 作为斯德哥尔摩的发源地, 已经有超 700 年的历史. 广义的老城还包括西侧的骑士岛以及北边的圣灵岛.
+老城位于市中心的小岛. 长宽 700 米左右. 作为斯德哥尔摩的发源地, 已经有超 700 年的历史. 广义的老城还包括西侧的骑士岛以及北边的圣灵岛. 
 
-在老城除了那些各取所好的博物馆之外, 以下是一些值得一提的亮点.
-
-* Riddarholmen Church: 骑士岛教堂. 斯德哥尔摩标志性的远景照片中的突出小岛就是骑士岛了. 而其中高耸的尖塔就是教堂的钟楼. 
-
-* The Royal Palace: 皇家宫殿. 瑞典国王官邸, 欧洲最大的宫殿之一. 不要错过这里的皇家卫兵换岗仪式. 仪式基本上每天都有. 持续大约 40 分钟. 平日从下午 12:15 在皇宫外院开始；周末则从 1:15 开始. 参考: [Changing of the Guard](https://www.forsvarsmakten.se/en/activities/events/the-royal-guards/changing-of-the-guard/)
-
-* Stortorget: 直译即 “大广场”, 老城的中心. 广场西侧五颜六色的墙面是城里最出片的地方.
-
-* Gamla Stans Cykel: 从 1913 年前后开始 Gamla Stans Cykel 就一直在老城这里售卖和修理自行车. 在这里可以租辆自行车游览老城.
-
-* Gamla Stans Polkagriskokeri: 糖果店. 瑞典传统拐杖糖.
-
-* Christoffers Blommor: 窄巷中一个漂亮的小花店.
+老城毫无疑问是斯德哥尔摩旅程的首要目的地. 除了那些各取所好的博物馆之外, 骑士岛教堂 (Riddarholmen Church), 皇家宫殿 (The Royal Palace), 大广场 (Stortorget) 等等著名的景点都在这里.
 
 ### 斯德哥尔摩地铁站
 
