@@ -18,8 +18,8 @@ tags: 2024-Scandinavia 旅行 瑞典 机场
 
 机场快线在机场有两座车站. 分别是:
 
-* Arlanda South (Terminal 2, 3 and 4)
-* Arlanda North (Terminal 5)
+* 南站: Arlanda South (Terminal 2, 3 and 4)
+* 北站: Arlanda North (Terminal 5)
 
 在航站楼乘坐滚梯或者电梯下楼就是机场快线的车站. 亮黄色的标志非常明显.
 
