@@ -41,19 +41,17 @@ tags: 2024-Scandinavia 旅行 瑞典
 
 ## 骑士岛教堂
 
-斯德哥尔摩标志性的远景照片中的突出小岛就是骑士岛了. 而其中高耸的尖塔就是骑士岛教堂 (Riddarholmen Church) 的钟楼. 如果可能, 不要错过教堂前的晨曦. 当然我们在六月去的, 日出时间太早了, 做不到啊.  
+斯德哥尔摩标志性的远景照片中的突出小岛就是骑士岛了. 而其中高耸的尖塔就是骑士岛教堂 (Riddarholmen Church) 的钟楼. 购票的时候推荐购买骑士岛教堂和皇宫的套票.
 
 ![Riddarholmen Church](/assets/images/2024/scandinavia/stockholm-gamla-stan/riddarholmen-church.jpeg)
+
+如果可能, 不要错过教堂前的晨曦. 当然我们在六月去的, 日出时间太早了, 做不到啊.  
 
 ## Polkagriskokeri 糖果店
 
 老城中的糖果店. 现场制作和售卖瑞典传统拐杖糖.
 
 ![Polkagriskokeri](/assets/images/2024/scandinavia/stockholm-gamla-stan/polkagriskokeri.jpeg)
-
-## Gamla Stans Cykel
-
-从 1913 年前后开始 Gamla Stans Cykel 就一直在老城这里售卖和修理自行车. 在这里可以租辆自行车游览老城.
 
 ## Christoffers Blommor
 
@@ -67,6 +65,9 @@ tags: 2024-Scandinavia 旅行 瑞典
 
 ![Mårten-Trotzigs-Grand](/assets/images/2024/scandinavia/stockholm-gamla-stan/narrow-street.jpeg)
 
+## Gamla Stans Cykel
+
+从 1913 年前后开始 Gamla Stans Cykel 就一直在老城这里售卖和修理自行车. 在这里可以租辆自行车游览老城.
 
 ## 其它
 
