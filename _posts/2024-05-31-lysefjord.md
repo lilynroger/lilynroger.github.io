@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "吕瑟峡湾 (Lysefjord)"
-date: 2024-07-15 00:00:00 +0800
+date: 2024-05-31 17:00:00 +0200
 categories: posts
 tags: 2024-Scandinavia 旅行 挪威 峡湾 徒步
 ---
