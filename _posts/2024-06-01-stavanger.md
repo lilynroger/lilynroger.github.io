@@ -2,6 +2,7 @@
 layout: post
 title: "斯塔万格 (Stavanger)"
 categories: posts
+date: 2024-06-01 00:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 徒步
 ---
 
