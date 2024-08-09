@@ -2,6 +2,7 @@
 layout: post
 title: "斯塔万格海鲜市场 (Fisketorget Stavanger)"
 categories: posts
+date: 2024-06-01 08:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 美食 海鲜
 ---
 
