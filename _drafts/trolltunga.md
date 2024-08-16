@@ -3,10 +3,10 @@ layout: post
 title: "徒步巨魔之舌 (Trolltunga)"
 categories: posts
 date: 2024-06-07 08:00:00 +0200
-tags: 2024-Scandinavia 旅行 挪威 交通
+tags: 2024-Scandinavia 旅行 挪威 徒步
 ---
 
-巨魔之舌 (Trolltunga) 和 "奇迹石" (Kjeragbolten) 与 “布道石” (Preikestolen) 并称挪威的三大奇石. 其中巨魔之舌是我们的最爱. 巨魔之舌徒步是我们此次斯堪的纳维亚之行最重要的目标.
+“巨魔之舌” (Trolltunga) 和 "奇迹石" (Kjeragbolten) 与 “布道石” (Preikestolen) 并称挪威的三大奇石. 其中巨魔之舌是我们的最爱. 巨魔之舌徒步是我们此次斯堪的纳维亚之行最重要的目标.
 
 ![巨魔之舌](/assets/images/2024/scandinavia/trolltunga/trolltunga-roger.jpeg)
 
