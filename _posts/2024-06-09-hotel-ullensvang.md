@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ullensvang 酒店"
+title: "Hotel Ullensvang"
 categories: posts
 date: 2024-06-09 08:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 住宿
