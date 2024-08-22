@@ -6,7 +6,7 @@ date: 2024-06-11 08:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 交通
 ---
 
-完成哈当厄尔 (Hardanger) 的[王后之路 (Dronningstien) 徒步]({% post_url  2024-06-10-dronningstien %})后, 我们启程出发去卑尔根 (Bergen) 休整. 准备前往我们此次[斯堪的纳维亚之旅]({% post_url 2024-05-27-scandinavia %})下一个目的地 - 奥勒松 (Ålesund) 和盖朗厄尔 (Geiranger) 地区.
+完成哈当厄尔 (Hardanger) 的[王后之路 (Dronningstien) 徒步]({% post_url  2024-06-10-dronningstien %})后, 我们启程出发去卑尔根 (Bergen) 休整. 准备前往我们此次[斯堪的纳维亚之旅]({% post_url 2024-05-27-scandinavia %})的下一个目的地 - 奥勒松 (Ålesund) 和盖朗厄尔 (Geiranger) 地区.
 
 ![Voss 火车站](/assets/images/2024/scandinavia/hardanger-to-bergen/voss-station.jpeg)
 
@@ -22,8 +22,8 @@ tags: 2024-Scandinavia 旅行 挪威 交通
 
 在 Voss 火车站, 前往卑尔根的车次很多.
 
-* 卑尔根线 (Bergenbanen, Oslo - Bergen) 的长途火车 F4 
-* Voss 线 (Vossebanen, Voss/Myrdal - Bergen) 的短途火车 (Regional Train) R40
+* 卑尔根线 (挪威语: Bergenbanen, Oslo - Bergen) 的长途火车 F4 
+* Voss 线 (挪威语: Vossebanen, Voss/Myrdal - Bergen) 的短途火车 (Regional Train) R40
 
 其中 Voss 线是卑尔根线的一段. 长途火车 F4 可以预订座位, 车次较少. 短途的 R40 虽然车次很多, 但是不能预订座位. 上车以后自己找空位. 至少我们乘坐的那一班 R40 座位还是非常充裕的.
 
