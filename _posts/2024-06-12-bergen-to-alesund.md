@@ -6,7 +6,7 @@ date: 2024-06-12 08:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 交通
 ---
 
-因为我们此前曾经来过卑尔根 (Bergen) 了, 而且此次[斯堪的纳维亚之旅]({% post_url 2024-05-27-scandinavia %})的重点是峡湾, 所以我们此次在卑尔根没有过多的停留. 休息了一晚之后, 直接从卑尔根乘机前往奥勒松 (Ålesund) 和盖朗厄尔 (Geiranger) 地区, 我们的下一个目的地.
+因为我们几年前去过卑尔根 (Bergen) 了, 而且此次[斯堪的纳维亚之旅]({% post_url 2024-05-27-scandinavia %})的重点是峡湾, 所以我们此次在卑尔根没有过多的停留. 休息了一晚之后, 直接从卑尔根乘机前往奥勒松 (Ålesund) 和盖朗厄尔 (Geiranger) 地区, 我们的下一个目的地.
 
 ![卑尔根 (Bergen)](/assets/images/2024/scandinavia/bergen-to-alesund/bergen.jpeg)
 
