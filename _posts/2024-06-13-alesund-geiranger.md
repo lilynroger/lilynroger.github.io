@@ -2,7 +2,7 @@
 layout: post
 title: "奥勒松和盖朗厄尔地区"
 categories: posts
-date: 2024-06-13 08:00:00 +0200
+date: 2024-06-13 00:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 交通
 ---
 
