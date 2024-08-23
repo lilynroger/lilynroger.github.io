@@ -2,7 +2,7 @@
 layout: post
 title: "在挪威买酒 (Vinmonopolet)"
 categories: posts
-date: 2024-06-13 08:00:00 +0200
+date: 2024-06-13 20:00:00 +0200
 tags: 2024-Scandinavia 旅行 瑞典
 ---
 和[在瑞典买酒]({% post_url 2024-05-30-systembolaget %})基本上只能在 Systembolaget 专卖店类似. 挪威的酒类专卖店名字叫 "Vinmonopolet". 直译就是 “酒类专营” 的意思.
