@@ -45,7 +45,7 @@ tags: 2024-Scandinavia 旅行 挪威 交通
 
 ## 奥拉夫之路
 
-[圣奥拉夫之路 (St. Olav Ways)](https://www.pilegrimsleden.no/en) 是指以特龙海姆 (Trondheim) 的尼达洛斯主教座堂 (Nidaros Cathedral) 为终点的数条延续了上千年的朝圣之路 (The pilgrim paths). 虽然不如西班牙朝圣之路的名气大. 但也是很多人有生之年必去的人生目标.
+[圣奥拉夫之路 (St. Olav Ways)](https://www.pilegrimsleden.no/en) 是指以特隆赫姆 (Trondheim) 的尼达洛斯主教座堂 (Nidaros Cathedral) 为终点的数条延续了上千年的朝圣之路 (The pilgrim paths). 虽然不如西班牙朝圣之路的名气大. 但也是很多人有生之年必去的人生目标.
 
 以挪威的不同地方为起点, 一共有九条圣奥拉夫之路通往尼达洛斯主教座堂. 我们这次在奥勒松和盖朗厄尔这里的行程和其中的两条朝圣之路有交叉的部分. 虽然特龙海姆不在我们此次行程中, 无法完成朝圣之旅. 但是一定要去探访一下圣奥拉夫之路.
 
