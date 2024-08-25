@@ -25,11 +25,11 @@ tags: 2024-Scandinavia 旅行 挪威 自驾 跑步
 
 ![步道](/assets/images/2024/scandinavia/the-atlantic-road/walking-path.jpeg)
 
-## 住在大西洋路
+## 住在大西洋路的老渔村
 
 大西洋路是我们的重要目的地之一. 我们在规划行程时, 很早就预定了在大西洋路的一个渔村的住宿. 三天两晚. 可以随时去看大西洋路. 尽可能避免糟糕的天气带来的任何遗憾.
 
-渔村旅馆的名字叫 Håholmen Havstuer by Classic Norway Hotels. 就在紧邻大西洋路的 Håholmen 小岛上.
+渔村旅馆的名字叫 [Håholmen Havstuer by Classic Norway Hotels]({% post_url 2024-06-14-haholmen-havstuer %}). 就在紧邻大西洋路的 Håholmen 小岛上.
 
 ![Håholmen Havstuer](/assets/images/2024/scandinavia/the-atlantic-road/haholmen-havstuer.jpeg)
 
