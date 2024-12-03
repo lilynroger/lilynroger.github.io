@@ -6,7 +6,7 @@ date: 2024-06-10 08:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 住宿
 ---
 
-哈当厄尔的 ”王后之路“, 挪威语为 ”Dronningstien“, 直译为 ”Queen's Trail“. 这跳徒步路线以挪威王后 Sonja 命名. 经常被称为 "宋雅王后的全景徒步之路" (”HM Queen Sonja’s panoramic hiking trail“). 壮丽的峡湾全景风光是王后之路的卖点. 使其成为挪威最热门的徒步路线之一. 也是我们此次[斯堪的纳维亚之旅]({% post_url 2024-05-27-scandinavia %})的重要目标之一.
+哈当厄尔的 ”王后之路“, 挪威语为 ”Dronningstien“, 直译为 ”Queen's Trail“. 这条徒步路线以挪威王后 Sonja 命名. 经常被称为 "宋雅王后的全景徒步之路" (”HM Queen Sonja’s panoramic hiking trail“). 壮丽的峡湾全景风光是王后之路的卖点. 使其成为挪威最热门的徒步路线之一. 也是我们此次[斯堪的纳维亚之旅]({% post_url 2024-05-27-scandinavia %})的重要目标之一.
 
 ## 基本信息
 
