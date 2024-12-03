@@ -22,7 +22,7 @@ tags: 2024-Scandinavia 旅行 挪威 美酒
 
 ![Lofthus Sideri 苹果酒庄](/assets/images/2024/scandinavia/hardanger-ciders/lofthus-sideri.jpeg)
 
-即便你不在哈当厄尔, 挪威的很多地方也可以买到哈当厄尔苹果酒. 尝尝看, 很有可能你会像我们一样爱上它. 比如在奥勒松 (Ålesund), 你可以在酒类专卖店 Vinmonopolet 中找到哈当厄尔苹果酒.
+即便你不在哈当厄尔, 挪威的很多地方也可以买到哈当厄尔苹果酒. 尝尝看, 很有可能你会像我们一样爱上它. 比如在奥勒松 (Ålesund), 你可以在[酒类专卖店 Vinmonopolet]({% post_url 2024-06-13-vinmonopolet %}) 中找到哈当厄尔苹果酒.
 
 ![Vinmonopolet 的苹果酒](/assets/images/2024/scandinavia/hardanger-ciders/vinmonopolet.jpeg)
 
