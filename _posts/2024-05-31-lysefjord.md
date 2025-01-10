@@ -1,22 +1,22 @@
 ---
 layout: post
-title: "吕瑟峡湾 (Lysefjord)"
+title: "吕瑟峡湾 | Lysefjord"
 date: 2024-05-31 17:00:00 +0200
 categories: posts
 tags: 2024-Scandinavia 旅行 挪威 峡湾 徒步
 ---
 
-吕瑟峡湾 (Lysefjord) 是挪威最知名的峡湾之一. 距离斯塔万格不远. 这里是包括布道台 (布道石/Preikestolen/Pulpit Rock) 在内的几个举世闻名的徒步路线的所在地. 
+吕瑟峡湾 (Lysefjord) 是挪威最知名的峡湾之一. 距离斯塔万格不远. 这里包括布道台 (布道石/Preikestolen/Pulpit Rock) 在内的几个举世闻名的徒步路线的所在地. 
 
 ### 徒步者的天堂
 
 吕瑟峡湾的名字直译为 Light Fjord 即明亮的峡湾. 据说是因其两边的浅色花岗岩悬崖反射光线而得名. 这里绝对是徒步者的天堂, 其中最有名气的包括: 
 
-* 布道台 (Preikestolen) : 挪威最具标志性的自然景观. 
-* 奇迹石 (Kjeragbolten) : 跳上卡在近千米高的悬崖间的巨石.
+* [布道台 (Preikestolen)]({% post_url 2024-06-02-preikestolen %}): 挪威最具标志性的自然景观. 
+* [奇迹石 (Kjeragbolten)]({% post_url 2024-06-03-kjeragbolten %}): 跳上卡在近千米高的悬崖间的巨石.
 * 弗勒利 (Flørli) : 世界最长的 4444 级木质台阶. 
 
-其中布道台和奇迹石与哈当厄尔峡湾中的巨魔之舌并称挪威的三大奇石. 我们此次旅行在这里的主要目的就是布道台和奇迹石.
+其中吕瑟峡湾的布道台和奇迹石与哈当厄尔峡湾中的巨魔之舌并称挪威的三大奇石. 我们此次[斯堪的纳维亚之旅]({% post_url 2024-05-27-scandinavia %}).
 
 ### 周围兴趣点
 
