@@ -18,11 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lily & Roger Pages
+title: Lily & Roger
+lang: zh
 author: Lily & Roger
 email: us@lilyroger.com
 description: >- # this means to ignore newlines until "baseurl:"
-  生活, 旅行, 马拉松, 网球.
+  生活, 旅行, 马拉松, 网球
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
