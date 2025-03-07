@@ -31,7 +31,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
-date_format: "%Y 年 %m 月 %d 日"
 plugins:
   - jekyll-feed
 
@@ -54,3 +53,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+show_excerpts: true
+date_format: "%Y 年 %m 月 %d 日"
+header_pages:
+  - posts.markdown
+  - about.markdown
