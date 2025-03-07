@@ -25,7 +25,10 @@ a {
 }
 
 header {
+    padding-top: 12px;
+    padding-bottom: 12px;
     background-color: #F3F2EB;
+    font-weight: 400;
 }
 
 main {
