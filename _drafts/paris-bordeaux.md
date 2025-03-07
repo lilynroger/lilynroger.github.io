@@ -14,7 +14,7 @@ tags: 2024-France-Benelux 旅行 法国 交通
 
 ## CDGVAL
 
-我们住在 Holiday Inn Express Paris - CDG Airport, 一家的机场酒店. 周围还有另外几家机场酒店.
+我们住在 Holiday Inn Express Paris - CDG Airport, 一家机场酒店. 周围还有另外几家机场酒店.
 
 > [!TIP]
 > 在这里我们发现喜来登的机场酒店是最方便的. 就在二号航站楼内.
