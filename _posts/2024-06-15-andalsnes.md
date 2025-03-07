@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "翁达尔斯内斯 (Åndalsnes) - 巨魔之墙, 巨魔之路和劳马线"
+title: "翁达尔斯内斯 (Åndalsnes)"
+subtitle: "巨魔之墙, 巨魔之路和劳马线"
 categories: posts
 date: 2024-06-15 00:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 住宿 交通

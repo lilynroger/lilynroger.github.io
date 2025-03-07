@@ -1,12 +1,18 @@
+body {
+    font-family: Roboto, Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;    
+    font-weight: 300;
+    color: #263238;
+}
+
 header {
     margin-bottom: 32px;
     padding-top: 16px;
 }
 
 footer {
-    margin-top: 32px;
+    margin-top: 64px;
     padding-top: 32px;
     padding-bottom: 48px;
-    background-color: #424242;
-    color: #EEEEEE;
+    background-color: #37474F;
+    color: #B0BEC5;
 }
