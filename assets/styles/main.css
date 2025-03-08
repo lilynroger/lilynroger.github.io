@@ -20,10 +20,6 @@ h6,
     font-weight: 400;
 }
 
-a {
-    text-decoration: none;
-}
-
 header {
     padding-top: 12px;
     padding-bottom: 12px;
@@ -40,6 +36,16 @@ footer {
     color: #B0BEC5;
 }
 
-.home .cover h3 {
+.home section {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.home section h4 {
+    font-size: 18px;
+}
+
+.home section.cover h3 {
     color: #E65100;
 }
+

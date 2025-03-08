@@ -1,0 +1,31 @@
+<div class="card h-100 border-0 shadow post-card">
+  {%- if post.thumbnail -%}
+  <img src="{{ post.thumbnail | relative_url }}" class="card-img-top" alt="{{ post.title | escape }}">
+  {%- endif -%}
+  <div class="card-body">
+    <h5 class="card-title">
+      <a class="link-dark link-offset-2-hover link-underline-opacity-0 link-underline-opacity-75-hover"
+        href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h5>
+    {%- if post.subtitle -%}
+    <h6 class="card-subtitle text-body-secondary">
+      {{ post.subtitle | escape }}
+    </h6>
+    {%- endif -%}
+    {%- if site.show_excerpts -%}
+    <p class="card-text text-body-secondary py-2">
+      {{ post.excerpt | strip_html | truncatewords: 50 }}
+    </p>
+    {%- endif -%}
+    {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+    <p class="card-text">
+      <small>
+        <date class="text-body-tertiary">
+          {{ post.date | date: date_format }}
+        </date>
+      </small>
+    </p>
+  </div>
+</div>

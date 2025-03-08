@@ -5,7 +5,7 @@ layout: default
 
   {{ content }}
 
-  <div class="cover row">
+  <section class="cover row position-relative">
     <div class="col col-12 col-lg-4 align-self-center">
       <h3 class="mb-3">斯堪的纳维亚之旅</h3>
       <p>
@@ -13,12 +13,29 @@ layout: default
         这次旅行的重点是挪威的峡湾徒步和特罗姆瑟 (Tromsø) 的日不落马拉松 (Midnight Sun
         Marathon). 顺路打卡丹麦的哥本哈根和瑞典的斯德哥尔摩.</p>
       <p>
-        <a href="{% post_url 2024-05-27-scandinavia %}" class="btn btn-outline-dark">去看看</a>
+        <a href="{% post_url 2024-05-27-scandinavia %}" class="btn btn-outline-dark stretched-link">去看看</a>
       </p>
     </div>
     <div class="col col-12 col-lg-8">
       <img src="{{ '/assets/images/2024/scandinavia/scandinavia/cover.png' | relative_url }}"
         class="img-fluid rounded-3" alt="...">
     </div>
-  </div>
+  </section>
+
+  {%- if site.posts.size > 0 -%}
+  <section class="latest-blogs my-5">
+
+    <h4 class="text-center my-5">最新博客文章</h4>
+
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-3">
+      {%- for post in site.posts limit:4 -%}
+      <div class="col">
+        {% include post-card.html post = post %}
+      </div>
+      {%- endfor -%}
+    </div>
+  </section>
+  {%- endif -%}
+
+
 </div>
