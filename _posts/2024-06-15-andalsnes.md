@@ -1,13 +1,14 @@
 ---
 layout: post
-title: "翁达尔斯内斯 (Åndalsnes)"
-subtitle: "巨魔之墙, 巨魔之路和劳马线"
+title: "翁达尔斯内斯"
+subtitle: "Åndalsnes"
+thumbnail: "/assets/images/2024/scandinavia/andalsnes/kyllingbrua-md.jpeg"
 categories: posts
 date: 2024-06-15 00:00:00 +0200
-tags: 2024-Scandinavia 旅行 挪威 住宿 交通
+tags: 2024-Scandinavia 欧洲 斯堪的纳维亚 挪威 城市 住宿 交通
 ---
 
-翁达尔斯内斯 (Åndalsnes) 是挪威西部劳马市 (Rauma Municipality) 的一座小城, 同时也是该市的行政中心. 翁达尔斯内斯就坐落在劳马河的河口. 是挪威的 "登山运动之都". 这一篇攻略将帮你快速了解有关翁达尔斯内斯最重要的信息. 包括翁达尔斯内斯做什么, 何时去, 怎么去以及住哪里.
+人称 "登山运动之都" 的翁达尔斯内斯是挪威西部劳马市的一座小城, 同时也是该市的行政中心. 这一篇指南将帮你快速了解在翁达尔斯内斯做什么, 何时去, 怎么去以及住哪里.
 
 * TOC
 {:toc}
@@ -139,6 +140,8 @@ tags: 2024-Scandinavia 旅行 挪威 住宿 交通
 
 ## 多语言对照
 
+* 翁达尔斯内斯 - Åndalsnes
+* 劳马市 - Rauma Municipality
 * 巨魔之墙 - Troll Wall, 挪威语: Trollveggen
 * 巨魔之路 - Troll Path, 挪威语: Trollstigen
 * 鸡桥 - Kylling Bridge, 挪威语: Kyllingbrua

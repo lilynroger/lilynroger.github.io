@@ -1,17 +1,22 @@
 ---
 layout: post
-title: "住在大西洋路的老渔村 (Håholmen Havstuer)"
+title: "住在大西洋路的老渔村"
+subtitle: "Håholmen Havstuer"
+thumbnail: /assets/images/2024/scandinavia/haholmen-havstuer/cabins-md.jpeg
 categories: posts
 date: 2024-06-14 12:00:00 +0200
-tags: 2024-Scandinavia 旅行 挪威 住宿 美食
+tags: 2024-Scandinavia 欧洲 斯堪的纳维亚 挪威 住宿 木屋 美食
 ---
 
-[大西洋路 (The Atlantic Road)]({% post_url 2024-06-14-the-atlantic-road %})是我们在挪威的首要目的地之一. 所以我们在规划行程时, 很早就预定了在大西洋路边的一个老渔村的住宿. 三天两晚. 这样可以随时去看大西洋路. 跑步打卡. 尽可能避免糟糕的天气带来的任何遗憾. 旅馆的名字叫 [Håholmen Havstuer by Classic Norway Hotels](https://haholmen.no/en/). 就在紧邻大西洋路的 Håholmen 小岛上. 
+[大西洋路]({% post_url 2024-06-14-the-atlantic-road %})是我们此行的首要目的地之一. 所以在规划行程时, 很早就预定了在大西洋路边的一个渔村的住宿. 三天两晚. 这样可以随时去看大西洋路. 跑步打卡.
 
->[!TIP]
+* TOC
+{:toc}
+
+旅馆的名字叫 [Håholmen Havstuer by Classic Norway Hotels](https://haholmen.no/en/). 就在紧邻大西洋路的 Håholmen 小岛上. 原本主要是为了大西洋路. 没想到这个童话般的渔村成了我们此行中最大的亮点之一. 甚至可以说 “一定要去体验一下 Håholmen Havstuer, 因为还可以顺便看看大西洋路”.
+
+> [!TIP]
 > 包括 Håholmen Havstuer 在内, 这次我们在挪威住了几家 [Classic Norway Hotels](https://classicnorway.no/) 的旅馆. 都非常满意.
-
-原本主要是为了大西洋路. 没想到这个童话般的渔村成了我们此行中最大的亮点之一. 甚至可以说 “一定要去体验一下 Håholmen Havstuer, 因为还可以顺便看看大西洋路”.
 
 ## 如何前往
 
@@ -26,7 +31,7 @@ Håholmen 是大西洋路边上的一个小岛. 岛上有快艇接送客人.
 
 ## 房间
 
-岛上一共有 47 个风格各异的房间. 绝大部分由 17 世纪和 18 世纪的渔屋改造而来. 我们预订的是岛上最小的房间之一. 
+岛上一共有 47 个风格各异的房间. 绝大部分由 17 世纪和 18 世纪的渔屋改造而来. 我们预订的是岛上最小的房间之一.
 
 ![房间](/assets/images/2024/scandinavia/haholmen-havstuer/room.jpeg)
 
@@ -36,11 +41,11 @@ Håholmen 是大西洋路边上的一个小岛. 岛上有快艇接送客人.
 
 小岛的环境美到不真实. 传统的木屋散落在岛上的绿草和鲜花之间. 周围就是大西洋和星罗棋布的岩礁.
 
-![渔屋](/assets/images/2024/scandinavia/haholmen-havstuer/houses.jpeg)
+![渔屋](/assets/images/2024/scandinavia/haholmen-havstuer/cabins.jpeg)
 
 在岛的中央有个小山丘. 在这里可以俯瞰整个小岛. 也可以远眺大西洋路的几乎整个全貌.
 
-![大西洋路](/assets/images/2024/scandinavia/haholmen-havstuer/the-atlantic-road.jpeg)
+![大西洋路](/assets/images/2024/scandinavia/haholmen-havstuer/the-atlantic-road.jpeg "大西洋路")
 
 我们还特意坚持到午夜, 就为了欣赏岛上的夕阳.
 
@@ -66,6 +71,11 @@ Håholmen 是大西洋路边上的一个小岛. 岛上有快艇接送客人.
 
 鳕鱼干是本地名产. 大西洋路所连接的西北边的小城克里斯蒂安松 (Kristiansund) 被称为 "鳕鱼干之城 (Clipfish Town)". 岛上的餐厅里就挂着一条鳕鱼干.
 
-![加盐腌制的鳕鱼干 (Clipfish)](/assets/images/2024/scandinavia/haholmen-havstuer/clipfish.jpeg)
+![加盐腌制的鳕鱼干](/assets/images/2024/scandinavia/haholmen-havstuer/clipfish.jpeg "加盐腌制的鳕鱼干")
 
 虽然即便按照北方人的口味标准, 鳕鱼干也够咸的了. 不过作为一种最重要的的挪威传统美食之一不妨一试.
+
+## 多语言对照
+
+* 大西洋路 - The Atlantic Road
+* 鳕鱼干 - Clipfish
