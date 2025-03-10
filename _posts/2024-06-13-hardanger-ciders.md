@@ -1,12 +1,16 @@
 ---
 layout: post
 title: "哈当厄尔苹果酒"
+subtitle: "Cider from Hardanger"
+thumbnail: /assets/images/2024/scandinavia/hardanger-ciders/lofthus-sideri-md.jpeg
 categories: posts
 date: 2024-06-13 08:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 美酒
 ---
 
-哈当厄尔地区常被称为 “挪威的果园”. 这里出产好城市挪威最好的苹果. 也是挪威苹果酒 (英语: Cider, 挪威语: Sider) 和苹果汁的核心产区. 苹果酒是产量仅次于葡萄酒的世界第二大果酒. 现如今, “哈当厄尔苹果酒” 如同 “法国香槟” 一样受原产地名称保护. 称为最好中的最好的. 超过 50 家果农成为挪威哈当厄尔苹果酒工会的会员. 
+哈当厄尔地区常被称为 "挪威的果园". 这里出产挪威最好的苹果. 也是挪威苹果酒和苹果汁的核心产区. 
+
+苹果酒是产量仅次于葡萄酒的世界第二大果酒. 现如今, "哈当厄尔苹果酒" 如同 "法国香槟" 一样受原产地名称保护. 称为最好中的最好的. 超过 50 家果农成为挪威哈当厄尔苹果酒工会的会员. 
 
 ![Lofthus 的苹果园](/assets/images/2024/scandinavia/hardanger-ciders/apples.jpeg)
 
@@ -27,3 +31,7 @@ tags: 2024-Scandinavia 旅行 挪威 美酒
 ![Vinmonopolet 的苹果酒](/assets/images/2024/scandinavia/hardanger-ciders/vinmonopolet.jpeg)
 
 在挪威, 忘了贵的离谱的啤酒吧. 尝尝苹果酒. 如果你五月份来挪威, 那是哈当厄尔收获的季节, 也是最美的时间, 去果园转转吧.
+
+## 多语言对照
+
+* 苹果酒 - 英语: Cider, 挪威语: Sider

@@ -56,7 +56,7 @@ tags: 2024-Scandinavia 旅行 挪威 峡湾 徒步
 如果喜欢住在峡湾里, 近距离的体验峡湾. Forsand 和 Lysebotn 都可以. 我们受行程安排所限，最终决定把斯塔万格当作根据地, 住在城里. 以便更灵活地安排徒步的时间. 更好地应对天气因素. 下面两处是我们曾经重点考虑的峡湾住宿选项: 
 
 * 私家农场 [Gøysa Gard](https://lysefjorden.com/goysa-gard/) 就在 Forsand 的极佳位置. 坐拥峡湾和群山的美景. 
-* 如果你的行程订的足够早，可以看看那是否喜欢 [The Bolder](https://www.thebolder.no/)，俯瞰峡湾的小木屋. 
+* 如果你的行程订的足够早，可以看看是否喜欢 [The Bolder](https://www.thebolder.no/)，俯瞰峡湾的小木屋. 
 
 更多信息可以参考[吕瑟峡湾的官方网站](https://lysefjorden365.com/). 
 
