@@ -14,7 +14,7 @@ tags: 2024-Scandinavia 旅行 挪威 美酒
 
 ![Lofthus 的苹果园](/assets/images/2024/scandinavia/hardanger-ciders/apples.jpeg)
 
-在酒店餐厅里, 一边欣赏峡湾的壮丽风光, 一边品尝着小清晰的哈当厄尔苹果酒. 一切都是如此和谐的融合在一在.
+在酒店餐厅里, 一边欣赏峡湾的壮丽风光, 一边品尝着哈当厄尔苹果酒. 一切都是如此和谐.
 
 ![Tyssedal Hotel](/assets/images/2024/scandinavia/hardanger-ciders/cider-tyssedal-hotel.jpeg)
 
