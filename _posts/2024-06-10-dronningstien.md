@@ -1,12 +1,16 @@
 ---
 layout: post
-title: "徒步王后之路 (Dronningstien)"
+title: "王后之路徒步"
+subtitle: "Dronningstien Hike"
+thumbnail: /assets/images/2024/scandinavia/dronningstien/cairn-md.jpeg
 categories: posts
 date: 2024-06-10 08:00:00 +0200
-tags: 2024-Scandinavia 旅行 挪威 住宿
+tags: 2024-Scandinavia 欧洲 斯堪的纳维亚 挪威 徒步
 ---
 
-哈当厄尔的 ”王后之路“, 挪威语为 ”Dronningstien“, 直译为 ”Queen's Trail“. 这条徒步路线以挪威王后 Sonja 命名. 经常被称为 "宋雅王后的全景徒步之路" (”HM Queen Sonja’s panoramic hiking trail“). 壮丽的峡湾全景风光是王后之路的卖点. 使其成为挪威最热门的徒步路线之一. 也是我们此次[斯堪的纳维亚之旅]({% post_url 2024-05-27-scandinavia %})的重要目标之一.
+挪威哈当厄尔的 "王后之路" 是挪威最热门的徒步路线之一. 壮丽的哈当厄尔峡湾全景风光是这条徒步路线的卖点. 
+
+"王后之路" 是我们此次[斯堪的纳维亚之旅]({% post_url 2024-05-27-scandinavia %})的重要目标之一. 它的挪威语名字是 "Dronningstien". 直译成英文就是 "Queen's Trail", 即 "王后之路". 这条徒步路线以挪威王后宋雅 (Sonja) 命名. 经常被称为 "宋雅王后陛下的全景徒步之路" ("HM Queen Sonja’s panoramic hiking trail"). 
 
 ## 基本信息
 
@@ -29,7 +33,7 @@ tags: 2024-Scandinavia 旅行 挪威 住宿
 
 ## 徒步路段
 
-女王之路徒步的整个路线分为几段. 而 “女王之路” 所指的其实是在哈当厄尔高山台地 (Hardangervidda) 之上的一段.
+女王之路徒步的整个路线分为几段. 而 "女王之路" 所指的其实是在哈当厄尔高山台地 (Hardangervidda) 之上的一段.
 
 * Kinsarvik 到 Røte 的停车场. 大约 3 公里. 这段绝大部分人会选择自驾或者搭乘区间车.
 * 从 Røte 停车场到女王之路 (Dronningstien) 的起点. 大约 3 公里, 陡峭. 推荐的徒步地点.
@@ -68,7 +72,7 @@ tags: 2024-Scandinavia 旅行 挪威 住宿
 
 ![王后之路的路标](/assets/images/2024/scandinavia/dronningstien/trail-marker.jpeg)
 
-女王之路作为挪威最美的徒步路线之一, 沿途美景不断. 我们最喜欢其中两处非常有特点的拍照打卡点. 首先是距离起点 3 公里左右有一突出峭壁而俯瞰峡湾的巨石. 有点像[巨魔之舌]({% post_url 2024-06-07-trolltunga %}), 只是小很多. 我们戏称为 “小舌头”. 
+女王之路作为挪威最美的徒步路线之一, 沿途美景不断. 我们最喜欢其中两处非常有特点的拍照打卡点. 首先是距离起点 3 公里左右有一突出峭壁而俯瞰峡湾的巨石. 有点像[巨魔之舌]({% post_url 2024-06-07-trolltunga %}), 只是小很多. 我们戏称为 "小舌头". 
 
 ![王后之路的小舌头](/assets/images/2024/scandinavia/dronningstien/rock-formation.jpeg)
 
@@ -105,3 +109,7 @@ tags: 2024-Scandinavia 旅行 挪威 住宿
 我们买了两支小瓶的苹果酒. 结果还没有回到旅馆, 路上就已经喝光了. 于是我们只好在回旅馆前, 在附近的超市买了另外两支来自 Åkre 农场的 Edel 苹果酒. 晚上在旅馆房间里犒劳自己.
 
 ![苹果酒](/assets/images/2024/scandinavia/dronningstien/edel.jpeg)
+
+## 多语言对照
+
+* 王后之路 - Queen's Trail, 挪威语: Dronningstien
