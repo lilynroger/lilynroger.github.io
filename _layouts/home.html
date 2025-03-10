@@ -23,9 +23,10 @@ layout: default
   </section>
 
   {%- if site.posts.size > 0 -%}
-  <section class="latest-blogs my-5">
+  <section class="post-list latest my-3">
 
-    <h4 class="text-center my-5">最新博客文章</h4>
+    <h4 class="text-center my-5"><a href="{{ '/posts' | relative_url }}"
+        class="link-dark link-offset-2-hover link-underline-opacity-0 link-underline-opacity-75-hover">最新博客文章</a></h4>
 
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-3">
       {%- for post in site.posts limit:4 -%}
@@ -37,5 +38,23 @@ layout: default
   </section>
   {%- endif -%}
 
+  {%- if site.tags["精选"] -%}
+  {%- assign posts = site.tags["精选"] -%}
+  <section class="post-list featured my-3">
+
+    <h4 class="text-center my-5">
+      <a href="{{ '/posts' | relative_url }}"
+        class="link-dark link-offset-2-hover link-underline-opacity-0 link-underline-opacity-75-hover">精选博客文章</a>
+    </h4>
+
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-3">
+      {%- for post in posts -%}
+      <div class="col">
+        {% include post-card.html post = post %}
+      </div>
+      {%- endfor -%}
+    </div>
+  </section>
+  {% endif %}
 
 </div>

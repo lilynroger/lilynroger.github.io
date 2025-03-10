@@ -3,7 +3,7 @@ layout: post
 title: "徒步奇迹石 (Kjeragbolten)"
 categories: posts
 date: 2024-06-03 08:00:00 +0200
-tags: 2024-Scandinavia 旅行 挪威 徒步
+tags: 2024-Scandinavia 旅行 挪威 徒步 精选
 ---
 
 "奇迹石" 与 “布道石” (Preikestolen) 和 "巨魔之舌" (Trolltunga) 并称挪威的三大奇石. 奇迹石在挪威语中称为 "Kjeragbolten". 在吕瑟峡湾的最高峰 Kjerag 之上, 五立方米左右大小的奇迹石就卡在两边近千米绝壁之间. 喜欢冒险的人把踏上勉强可以立足的奇迹石当作人生目标之一.

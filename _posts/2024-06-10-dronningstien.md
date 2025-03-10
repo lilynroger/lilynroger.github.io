@@ -5,7 +5,7 @@ subtitle: "Dronningstien Hike"
 thumbnail: /assets/images/2024/scandinavia/dronningstien/cairn-md.jpeg
 categories: posts
 date: 2024-06-10 08:00:00 +0200
-tags: 2024-Scandinavia 欧洲 斯堪的纳维亚 挪威 徒步
+tags: 2024-Scandinavia 欧洲 斯堪的纳维亚 挪威 徒步 精选
 ---
 
 挪威哈当厄尔的 "王后之路" 是挪威最热门的徒步路线之一. 壮丽的哈当厄尔峡湾全景风光是这条徒步路线的卖点. 

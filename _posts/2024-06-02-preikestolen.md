@@ -3,7 +3,7 @@ layout: post
 title: "布道台徒步 | 布道台, Preikestolen, Pulpit Rock"
 categories: posts
 date: 2024-06-02 08:00:00 +0200
-tags: 2024-Scandinavia 旅行 挪威 峡湾 徒步
+tags: 2024-Scandinavia 旅行 挪威 峡湾 徒步 精选
 ---
 
 布道台 (Pulpit Rock) 也称布道石. 本地人称为 Preikestolen, 直译即 "布道台". 电影 "碟中谍 6: 全面瓦解" 片尾中阿汤哥和大超在悬崖之上打斗的场面就是在这里. 如今, 徒步到布道台已经成为挪威最著名的徒步线路. 布道台与奇迹石和巨魔之舌一起并称挪威三大奇石.
