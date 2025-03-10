@@ -128,7 +128,7 @@ tags: 2024-Scandinavia 欧洲 斯堪的纳维亚 挪威 城市 住宿 交通
 
 在离开翁达尔斯内斯前往盖朗厄尔前, 你也许想在翁达尔斯内斯买些啤酒, 红酒或者苹果酒带上. 
 
-挪威对酒类销售控制极其严格. 除了低醇啤酒和饮料之类, 其它酒类都由 Vinmonopolet 专营店销售. 翁达尔斯内斯车站附近就有一家. 而且盖朗厄尔-巨魔之路沿线只此一家了.
+挪威对酒类销售控制极其严格. 除了低醇啤酒和饮料之类, 其它酒类都由 [Vinmonopolet](({% post_url 2024-06-13-vinmonopolet %})) 专营店销售. 翁达尔斯内斯车站附近就有一家. 而且盖朗厄尔-巨魔之路沿线只此一家了.
 
 ![Vinmonopolet](/assets/images/2024/scandinavia/andalsnes/vinmonopolet.jpeg "Vinmonopolet")
 
