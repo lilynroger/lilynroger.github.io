@@ -1,23 +1,34 @@
 ---
 layout: post
 title: "从巴黎到波尔多"
+subtitle: "From Paris to Bordeaux"
+thumbnail: /assets/images/2024/france-benelux/paris-bordeaux/ouigo-md.jpeg
 categories: posts
 date: 2024-09-04 06:00:00 +0200
-tags: 2024-France-Benelux 旅行 法国 交通
+tags: 2024-France-Benelux 旅行 欧洲 法国 机场 交通
 ---
 
-由于巴黎奥运会的原因, 巴黎物价飞涨. 所以我们此次去波尔多的行程尽可能避开巴黎. 从北京出发, 乘坐的阿联酋航空的航班中转迪拜到巴黎. 然后从巴黎乘火车前往波尔多. 
+由于巴黎奥运会的原因, 巴黎物价飞涨. 所以我们此次去波尔多的行程尽可能避开巴黎. 乘坐的阿联酋航空的航班从北京出发到巴黎戴高乐机场. 然后从机场乘火车前往波尔多. 
 
-* 阿联酋航空没有去波尔多的航班. 北京经迪拜去巴黎的机票比其他航空公司去波尔多的便宜很多.
-* 选择在戴高乐机场休息一晚, 这样就可以选择在迪拜中转停留时间更短的航班了. 
-* 最关键的是, 戴高乐机场有一趟一大早出发直达波尔多的高铁. 票价可以低到 16 欧元. 极具性价比.
+* TOC
+{:toc}
 
-## CDGVAL
+## 航班
+
+我们选择从北京飞巴黎的航班而不是飞波尔多, 主要是性价比的考虑:
+
+* 阿联酋航空没有去波尔多的航班. 北京经迪拜去巴黎的机票比其它航空公司去波尔多的便宜很多.
+* 选择晚上到巴黎的航班, 在戴高乐机场休息一晚, 这样就不用选择在迪拜中转停留时间超长的航班了. 
+* 最关键的是, 戴高乐机场有一趟一大早出发直达波尔多的高铁. 票价可以低到 16 欧元 (2024 年). 极具性价比.
+
+## 机场酒店
 
 我们住在 Holiday Inn Express Paris - CDG Airport, 一家机场酒店. 周围还有另外几家机场酒店.
 
 > [!TIP]
-> 在这里我们发现喜来登的机场酒店是最方便的. 就在二号航站楼内.
+> 在这里我们发现喜来登的机场酒店是最方便的. 就在二号航站楼内. 不用出机场.
+
+## 戴高乐机场内线
 
 从航站楼前往机场酒店可以乘坐免费的戴高乐机场内线 (英文: Airport Shuttle), 即 [CDGVAL](https://www.parisaeroport.fr/en/passengers/access/paris-charles-de-gaulle/cdgval). CDGVAL (Véhicule Automatique Léger) 是戴高乐机场的无人驾驶自动轻型轨道交通. 在每天的 4:00AM 到次日的 1:00AM 间运营. 连接着机场的航站楼, 停车场和火车站.
 
@@ -54,7 +65,11 @@ OUIGO Essential 的基础票价每人才 19 欧元. 提前选座每人另加 3 �
 
 ![波尔多圣让火车站](/assets/images/2024/france-benelux/paris-bordeaux/bordeaux-st-jean.jpeg)
 
-## 法国火车小知识
+## 小贴士
+
+奇怪的知识又要增加了.
+
+### 法国火车小知识
 
 法国的铁路系统由 SNCF 即法国国家铁路局 (Socicte Nationale des Chemins de Fer Francais) 运营.
 在 [SNCF Connect](https://www.sncf-connect.com/en-en) 网站上可以在线预定火车票. 电子车票则可以在 SNCF Connect 的手机小程序中查看和使用.
