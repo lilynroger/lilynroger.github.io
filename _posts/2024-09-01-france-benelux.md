@@ -56,7 +56,7 @@ tags: 2024-France-Benelux 欧洲 比荷卢 法国 比利时 荷兰 卢森堡 跑
 | 巴黎 | Holiday Inn Express Paris - Cdg Airport, an IHG Hotel | 1 | 旅馆 |
 | 波尔多 | B&B Bordeaux Saint Michel | 8 | 民宿 |
 | 兰斯 | Holiday Inn Reims Centre | 3 | 旅馆 |
-| 卢森堡 | Park Inn by Radisson Luxembourg City | 1 | 民宿 |
+| 卢森堡 | Park Inn by Radisson Luxembourg City | 1 | 旅馆 |
 | 布鲁塞尔 | Adagio Access Brussels Europe Aparthotel | 5 | 酒店式公寓 |
 | 阿姆斯特丹 | Eden Hotel Amsterdam | 4 | 旅馆 |
 
@@ -68,7 +68,7 @@ tags: 2024-France-Benelux 欧洲 比荷卢 法国 比利时 荷兰 卢森堡 跑
 
 ### 法国 - 巴黎
 
-由于巴黎奥运会, 巴黎的物价都已经上了天. 这次只在戴高乐机场酒店中转停留. 第二天一早乘火车从巴黎到波尔多.
+由于巴黎奥运会, 巴黎的物价都已经上了天. 这次在去波尔多之前会在戴高乐机场酒店中转停留. 第二天一早乘火车去波尔多. 从波尔多去兰斯的路上也会再次途径巴黎.
 
 ### 法国 - 波尔多
 
