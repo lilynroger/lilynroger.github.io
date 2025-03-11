@@ -1,20 +1,25 @@
 ---
 layout: post
-title: "徒步巨魔之舌 (Trolltunga)"
+title: "巨魔之舌徒步"
+subtitle: "Trolltunga Hike"
+thumbnail: /assets/images/2024/scandinavia/trolltunga/trolltunga-roger-md.jpeg
 categories: posts
 date: 2024-06-07 08:00:00 +0200
-tags: 2024-Scandinavia 旅行 挪威 徒步 精选
+tags: 2024-Scandinavia 欧洲 北欧 斯堪的纳维亚 挪威 徒步 精选
 ---
 
-“巨魔之舌” (Trolltunga) 和 "奇迹石" (Kjeragbolten) 与 “布道石” (Preikestolen) 并称挪威的三大奇石. 其中巨魔之舌是我们的最爱. 巨魔之舌徒步是我们此次斯堪的纳维亚之行最重要的目标.
+巨魔之舌, [奇迹石]({% post_url 2024-06-03-kjeragbolten %})与[布道石]({% post_url 2024-06-02-preikestolen %}) (也称 "布道台") 并称挪威三大奇石. 其中巨魔之舌是我们的最爱. 巨魔之舌徒步是我们此次[斯堪的纳维亚之旅]({% post_url 2024-05-27-scandinavia %})最重要的目标.
+
+* TOC
+{:toc}
 
 ![巨魔之舌](/assets/images/2024/scandinavia/trolltunga/trolltunga-roger.jpeg)
 
-巨魔之舌所在的地区的天气多变. 而徒步需要一个相当长的时间窗口. 为了更好的跟踪天气变化, 随时出发去徒步. 我们选择住在距离出发点最近的 Tyssedal 村.
+巨魔之舌所在的地区的天气多变. 而徒步需要一个相当长的时间窗口. 为了更好的跟踪天气变化, 随时出发去徒步. 我们选择住在距离出发点最近的村庄 - 蒂瑟达尔 (Tyssedal).
 
 ## 基本信息
 
-巨魔之舌 (Trolltunga) 徒步是极具挑战. 是三大奇石徒步中距离最远的. 徒步的基本信息如下:
+巨魔之舌徒步是非常挑战体力的. 是三大奇石徒步中距离最远的一个. 徒步的基本信息如下:
 
 * 海拔 1,180 米
 * 往返 27 公里 (从 P2 出发) 或者 20 公里 (从 P3 出发)
@@ -30,12 +35,12 @@ tags: 2024-Scandinavia 旅行 挪威 徒步 精选
 
 巨魔之舌徒步需要先了解几个重要的地点:
 
-* Bergen: 徒步起点附近最大的城市
-* Odda: 徒步起点最近最大 (依然很小) 的城镇
-* Tyssedal: 徒步起点最近的小村
-* P1 Tyssedal: 第一停车场
-* P2 Skjeggedal: 第二停车场
-* P3 Mågelitopp: 第三停车场
+* Bergen (卑尔根): 徒步起点附近最大的市
+* Odda (奥达): 徒步起点最近最大 (依然很小) 的镇
+* Tyssedal (蒂瑟达尔): 徒步起点最近的小村庄
+* P1 Tyssedal (蒂瑟达尔): 第一停车场
+* P2 Skjeggedal (谢格达尔): 第二停车场
+* P3 Mågelitopp (莫格利托普): 第三停车场
 
 从 Odda 到 Tyssedal 以及 P1 和 P2 之间都有区间车. 但是要注意十分有限. 可以参考[区间车时刻表](https://trolltunga.com/parking-and-transportation/shuttle-buses-and-taxi/).
 
@@ -114,6 +119,15 @@ P1 到 P2 以及 P3 之间的公路都是收费的. 当然停车场也都是收�
 
 近些年来, 巨魔之舌甚至成了一些情侣举办婚礼的梦想之地. 这甚至成了当地每年的一个保留项目. 如果你也有兴趣, 可以参考[这里](https://trolltunga.com/plan-your-trip/wedding-at-trolltunga/). 
 
+![巨魔之舌上的婚礼](/assets/images/2024/scandinavia/trolltunga/wedding.jpeg)
+
 在 2024 年的 6 月 20 日和 21 日两天里, 创纪录的来自 11 个不同国家的 20 对情侣在 Ullensvang 的市长的见证下, 在巨魔之舌之上交换了他们的结婚誓言. 由于人数众多, 婚礼仪式甚至一直持续到午夜. 好在这里临近夏至完全无需担心黑夜. 我们在电视上看到这个新闻的时候也是羡慕不已.
 
-![巨魔之舌上的婚礼](/assets/images/2024/scandinavia/trolltunga/wedding.jpeg)
+## 多语言对照
+
+* 巨魔之舌 - 挪威语: Trolltunga
+* 奇迹石 - 挪威语: Kjeragbolten
+* 布道石 (布道台) - 英语: Pulpit Rock, 挪威语: Preikestolen
+* 蒂瑟达尔 - 挪威语: Tyssedal
+* 卑尔根 - 挪威语: Bergen
+* 奥达 - 挪威语: Odda

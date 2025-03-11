@@ -1,15 +1,21 @@
 ---
 layout: post
-title: "布道台徒步 | 布道台, Preikestolen, Pulpit Rock"
+title: "布道台 (布道石) 徒步"
+subtitle: "Pulpit Rock (Preikestolen) Hike"
+thumbnail: /assets/images/2024/scandinavia/preikestolen/preikestolen-md.jpeg
 categories: posts
 date: 2024-06-02 08:00:00 +0200
-tags: 2024-Scandinavia 旅行 挪威 峡湾 徒步 精选
+tags: 2024-Scandinavia 欧洲 北欧 斯堪的纳维亚 挪威 峡湾 徒步 精选
 ---
 
-布道台 (Pulpit Rock) 也称布道石. 本地人称为 Preikestolen, 直译即 "布道台". 电影 "碟中谍 6: 全面瓦解" 片尾中阿汤哥和大超在悬崖之上打斗的场面就是在这里. 如今, 徒步到布道台已经成为挪威最著名的徒步线路. 布道台与奇迹石和巨魔之舌一起并称挪威三大奇石.
+"布道台" 也称 "布道石". 本地人称之为 Preikestolen. 布道台徒步是挪威最著名的徒步. 与[奇迹石]({% post_url 2024-06-03-kjeragbolten %})和[巨魔之舌]({% post_url 2024-06-07-trolltunga %})一起并称挪威三大奇石.
 
-![布道台 (Pulpit Rock/Preikestolen)](/assets/images/2024/scandinavia/preikestolen/preikestolen.jpeg)
+* TOC
+{:toc}
 
+![布道台 (Pulpit Rock/Preikestolen)](/assets/images/2024/scandinavia/preikestolen/preikestolen.jpeg "布道台 (Pulpit Rock/Preikestolen)")
+
+电影 "碟中谍 6: 全面瓦解" 片尾中阿汤哥和大超在悬崖之上打斗的场面就是在这里拍摄的. 
 
 ## 基本信息
 
@@ -45,7 +51,6 @@ tags: 2024-Scandinavia 旅行 挪威 峡湾 徒步 精选
 
 ![布道台 (Pulpit Rock/Preikestolen)](/assets/images/2024/scandinavia/preikestolen/trail-map.jpg)
 
-
 ## 徒步线路
 
 来自尼泊尔的下里巴人在 2013-2014 年间帮助维修和升级了布道台的徒步路线.
@@ -79,3 +84,9 @@ tags: 2024-Scandinavia 旅行 挪威 峡湾 徒步 精选
 ![路标)](/assets/images/2024/scandinavia/preikestolen/above-preikenstolen.jpeg)
 
 整个布道台徒步路线, 途中并没有多少值得一提的风景. 但终点的布道台本身值得一切努力. 
+
+## 多语言对照
+
+* 巨魔之舌 - 挪威语: Trolltunga
+* 奇迹石 - 挪威语: Kjeragbolten
+* 布道台 (布道石, 圣坛岩) - 英语: Pulpit Rock, 挪威语: Preikestolen
