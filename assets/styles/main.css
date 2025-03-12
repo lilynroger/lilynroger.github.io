@@ -53,6 +53,15 @@ footer {
     color: #B0BEC5;
 }
 
+blockquote {
+    background: #f9f9f9;
+    border-left: 6px solid #4CAF50;
+    padding: 1em;
+}
+blockquote p:last-child {
+    margin-bottom: 0;
+}
+
 .home section {
     padding-top: 24px;
     padding-bottom: 24px;
