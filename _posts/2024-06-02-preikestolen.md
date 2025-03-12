@@ -35,7 +35,7 @@ tags: 2024-Scandinavia 欧洲 北欧 斯堪的纳维亚 挪威 峡湾 徒步 精
 
 ## 如何前往
 
-布道台徒步路线的起点在布道台山中小屋 (Preikestolen Fjellstue/Preikestolen BaseCamp). 自驾前往无疑是最便捷的方式. 从斯塔万格出发大约需要 40 分钟车程. 途中要经过 [Ryfast Tunnels]((https://ferde.no/en/toll-stations-and-prices/ryfast)) - 收费的海底隧道系统.
+布道台徒步路线的起点在布道台山中小屋 (Preikestolen Fjellstue/Preikestolen BaseCamp). 自驾前往无疑是最便捷的方式. 从斯塔万格出发大约需要 40 分钟车程. 途中要经过 [Ryfast Tunnels](https://ferde.no/en/toll-stations-and-prices/ryfast) - 收费的海底隧道系统.
 
 > TIP: 这个隧道也是世界上最深 (最深处 292 米) 的海底公路隧道.
 
