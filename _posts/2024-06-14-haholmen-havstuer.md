@@ -2,7 +2,7 @@
 layout: post
 title: "住在大西洋路的老渔村"
 subtitle: "Håholmen Havstuer"
-thumbnail: /assets/images/2024/scandinavia/haholmen-havstuer/cabins-md.jpeg
+image: /assets/images/2024/scandinavia/haholmen-havstuer/cabins-md.jpeg
 categories: posts
 date: 2024-06-14 12:00:00 +0200
 tags: 2024-Scandinavia 欧洲 斯堪的纳维亚 挪威 住宿 木屋 美食

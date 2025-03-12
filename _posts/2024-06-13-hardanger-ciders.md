@@ -2,7 +2,7 @@
 layout: post
 title: "哈当厄尔苹果酒"
 subtitle: "Cider from Hardanger"
-thumbnail: /assets/images/2024/scandinavia/hardanger-ciders/lofthus-sideri-md.jpeg
+image: /assets/images/2024/scandinavia/hardanger-ciders/lofthus-sideri-md.jpeg
 categories: posts
 date: 2024-06-13 08:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 美酒

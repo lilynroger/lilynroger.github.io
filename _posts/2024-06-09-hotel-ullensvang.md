@@ -2,7 +2,7 @@
 layout: post
 title: "乌兰斯万酒店"
 subtitle: "Hotel Ullensvang"
-thumbnail: /assets/images/2024/scandinavia/hotel-ullensvang/fjord-md.jpeg
+image: /assets/images/2024/scandinavia/hotel-ullensvang/fjord-md.jpeg
 categories: posts
 date: 2024-06-09 08:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 住宿

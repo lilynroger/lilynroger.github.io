@@ -2,7 +2,7 @@
 layout: post
 title: "翁达尔斯内斯"
 subtitle: "Åndalsnes"
-thumbnail: "/assets/images/2024/scandinavia/andalsnes/kyllingbrua-md.jpeg"
+image: "/assets/images/2024/scandinavia/andalsnes/kyllingbrua-md.jpeg"
 categories: posts
 date: 2024-06-15 00:00:00 +0200
 tags: 2024-Scandinavia 欧洲 斯堪的纳维亚 挪威 城市 住宿 交通

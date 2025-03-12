@@ -2,7 +2,7 @@
 layout: post
 title: "从巴黎到波尔多"
 subtitle: "From Paris to Bordeaux"
-thumbnail: /assets/images/2024/france-benelux/paris-bordeaux/ouigo-md.jpeg
+image: /assets/images/2024/france-benelux/paris-bordeaux/ouigo-md.jpeg
 categories: posts
 date: 2024-09-04 06:00:00 +0200
 tags: 2024-France-Benelux 旅行 欧洲 法国 机场 交通

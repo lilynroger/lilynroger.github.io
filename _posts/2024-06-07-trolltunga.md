@@ -2,7 +2,7 @@
 layout: post
 title: "巨魔之舌徒步"
 subtitle: "Trolltunga Hike"
-thumbnail: /assets/images/2024/scandinavia/trolltunga/trolltunga-roger-md.jpeg
+image: /assets/images/2024/scandinavia/trolltunga/trolltunga-roger-md.jpeg
 categories: posts
 date: 2024-06-07 08:00:00 +0200
 tags: 2024-Scandinavia 欧洲 北欧 斯堪的纳维亚 挪威 徒步 精选

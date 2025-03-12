@@ -2,7 +2,7 @@
 layout: post
 title: "奇迹石徒步"
 subtitle: "Kjeragbolten Hike"
-thumbnail: /assets/images/2024/scandinavia/kjeragbolten/kjeragbolten-md.jpeg
+image: /assets/images/2024/scandinavia/kjeragbolten/kjeragbolten-md.jpeg
 categories: posts
 date: 2024-06-03 08:00:00 +0200
 tags: 2024-Scandinavia 欧洲 北欧 斯堪的纳维亚 挪威 徒步 精选

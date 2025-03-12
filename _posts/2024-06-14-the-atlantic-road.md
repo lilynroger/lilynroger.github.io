@@ -2,7 +2,7 @@
 layout: post
 title: "大西洋路"
 subtitle: "The Atlantic Road"
-thumbnail: /assets/images/2024/scandinavia/the-atlantic-road/storseisundbrua-md.jpeg
+image: /assets/images/2024/scandinavia/the-atlantic-road/storseisundbrua-md.jpeg
 categories: posts
 date: 2024-06-14 00:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 自驾 跑步

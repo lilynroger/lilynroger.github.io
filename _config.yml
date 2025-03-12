@@ -20,6 +20,7 @@
 
 title: Lily & Roger
 lang: zh
+locale: zh_CN
 author: Lily & Roger
 email: us@lilyroger.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -54,6 +55,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+logo: /assets/images/logo.svg
 show_excerpts: true
 date_format: "%Y 年 %m 月 %d 日"
 header_pages:

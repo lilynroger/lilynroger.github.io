@@ -2,7 +2,7 @@
 layout: post
 title: "在挪威买酒"
 subtitle: "Buying alcohol in Norway"
-thumbnail: /assets/images/2024/scandinavia/vinmonopolet/vinmonopolet-md.jpeg
+image: /assets/images/2024/scandinavia/vinmonopolet/vinmonopolet-md.jpeg
 categories: posts
 date: 2024-06-13 20:00:00 +0200
 tags: 2024-Scandinavia 旅行 挪威 美酒

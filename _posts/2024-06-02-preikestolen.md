@@ -2,7 +2,7 @@
 layout: post
 title: "布道台 (布道石) 徒步"
 subtitle: "Pulpit Rock (Preikestolen) Hike"
-thumbnail: /assets/images/2024/scandinavia/preikestolen/preikestolen-md.jpeg
+image: /assets/images/2024/scandinavia/preikestolen/preikestolen-md.jpeg
 categories: posts
 date: 2024-06-02 08:00:00 +0200
 tags: 2024-Scandinavia 欧洲 北欧 斯堪的纳维亚 挪威 峡湾 徒步 精选

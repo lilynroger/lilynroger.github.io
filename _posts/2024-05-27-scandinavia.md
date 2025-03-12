@@ -2,7 +2,7 @@
 layout: post
 title: "2024 斯堪的纳维亚之旅"
 subtitle: "2024 Scandinavia"
-thumbnail: /assets/images/2024/scandinavia/scandinavia/trolltunga-md.jpeg
+image: /assets/images/2024/scandinavia/scandinavia/trolltunga-md.jpeg
 categories: posts
 date: 2024-05-27 00:00:00 +0800
 tags: 2024-Scandinavia 欧洲 瑞典 挪威 丹麦

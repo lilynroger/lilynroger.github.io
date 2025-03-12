@@ -2,7 +2,7 @@
 layout: post
 title: "2024 法比荷卢之旅"
 subtitle: "2024 France and Benelux"
-thumbnail: /assets/images/2024/france-benelux/france-benelux/water-mirror-md.jpeg
+image: /assets/images/2024/france-benelux/france-benelux/water-mirror-md.jpeg
 categories: posts
 date: 2024-09-01 00:00:00 +0200
 tags: 2024-France-Benelux 欧洲 比荷卢 法国 比利时 荷兰 卢森堡 跑步 马拉松 博物馆 美食 生蚝 红酒 啤酒 香槟
