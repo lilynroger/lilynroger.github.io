@@ -22,19 +22,18 @@ h6,
     margin-bottom: 1em;
 }
 
-h1:first-of-type,
-h2:first-of-type,
-h3:first-of-type,
-h4:first-of-type,
-h5:first-of-type,
-h6:first-of-type,
-.h1:first-of-type,
-.h2:first-of-type,
-.h3:first-of-type,
-.h4:first-of-type,
-.h5:first-of-type,
-.h6:first-of-type {
+h1,
+.h1 {
     margin-top: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-underline-offset: 2px;
 }
 
 header {
@@ -58,6 +57,7 @@ blockquote {
     border-left: 6px solid #4CAF50;
     padding: 1em;
 }
+
 blockquote p:last-child {
     margin-bottom: 0;
 }
@@ -71,3 +71,7 @@ blockquote p:last-child {
     color: #E65100;
 }
 
+.post h1 {
+    /* h1 in a post always has subtitle or time right below it */
+    margin-bottom: 0.25em;
+}
