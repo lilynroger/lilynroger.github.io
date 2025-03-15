@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "火奴鲁鲁的公共交通"
-subtitle: "瓦胡岛火奴鲁鲁公交车全攻略"
+subtitle: "瓦胡岛火奴鲁鲁公交车攻略"
 image: /assets/images/2025/us-italy/honolulu-public-transportation/holo-md.png
 categories: posts
-date: 2025-04-10 06:00:00 -1000
+date: 2025-03-15 06:00:00 +0800
 tags: 2025-US-Italy 北美洲 美国 夏威夷 瓦胡岛 火奴鲁鲁 交通
 ---
 
@@ -223,13 +223,15 @@ tags: 2025-US-Italy 北美洲 美国 夏威夷 瓦胡岛 火奴鲁鲁 交通
 
 ## 多语言对照
 
-* 火奴鲁鲁 (檀香山) - 英语 (夏威夷语): Honolulu 
+* 火奴鲁鲁 (檀香山) - Honolulu 
 * 瓦胡岛 (欧胡岛) - 英语: Oahu, 夏威夷语: Oʻahu
-* 火奴鲁鲁国际机场 - 英语: Honolulu International Airport
+* 火奴鲁鲁国际机场 - Honolulu International Airport
 * 威基基海滩 - 英语: Waikiki, 夏威夷语: Waikīkī
 * 阿拉莫阿那中心 - Ala Moana Center
 * 钻石头山 - Diamond Head
-* Hawaii Convention Center
+* 夏威夷会展中心 - Hawaii Convention Center
 * 伊奥拉尼宫 - ʻIolani Palace
 * 主教博物馆 - Bishop Museum
 * 向风海岸 (东部海岸) - Windward Coast
+* 背风海岸 (西部海岸) - Leeward Coast
+* 北岸 - North Shore
