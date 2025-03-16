@@ -158,15 +158,15 @@ tags: 2025-US-Italy 北美洲 美国 夏威夷 瓦胡岛 火奴鲁鲁 交通
 
 #### 夏威夷会展中心 - 2/8/13 路
 
-火奴鲁鲁马拉松 (Honolulu Marathon) 和 夏威夷半程马拉松 (The Hapalua) 的博览会都是在夏威夷会展中心. 从威基基可以乘坐 2 路和 8 路公交车.
+火奴鲁鲁马拉松 (Honolulu Marathon) 和夏威夷半程马拉松 (The Hapalua) 的博览会都是在夏威夷会展中心. 从威基基可以乘坐 2 路和 8 路公交车.
 
 #### 夏威夷大学 - 13 路 
 
-13 路同样经过库希欧大街. 向东到动物园后继续向北去往夏威夷大学. 为什么要提这个线路? 因为它在去往夏威夷大学的路上会经过以下三处我们每次去夏威夷都会去的地方:
+13 路同样经过库希欧大街. 向东到动物园后转向北走卡帕胡鲁大道 (Kapahulu Avenue) 去往夏威夷大学. 为什么要提这个线路? 因为它在卡帕胡鲁大道会经过好几个我们每次去夏威夷都会去的地方:
 
-* Ono Seafood - 海鲜饭
-* Leonard's Bakery - 葡萄牙甜甜圈
-* Sweet E's Café - 最好的早餐
+* [Ono Seafood](https://ono-seafood.com) - 海鲜饭 (Poke))
+* [Leonard's Bakery](https://leonardshawaii.com/home/) - 葡萄牙甜甜圈 (Malasada)
+* [Sweet E's Café](https://sweetescafe.com) - 最好的早餐
 
 #### 火奴鲁鲁国际机场 - 20 路 
 
