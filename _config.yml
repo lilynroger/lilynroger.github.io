@@ -55,6 +55,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+timezone: Etc/UTC
 logo: /assets/images/logo.svg
 show_excerpts: true
 date_format: "%Y 年 %m 月 %d 日"
