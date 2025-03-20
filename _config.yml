@@ -24,9 +24,9 @@ locale: zh_CN
 author: Lily & Roger
 email: us@lilyroger.com
 description: >- # this means to ignore newlines until "baseurl:"
-  生活, 旅行, 马拉松, 网球
+  我们既享受旅行, 也热衷于计划并记录旅行. 欢迎访问我们的旅行见闻和攻略.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lilyroger.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
@@ -55,8 +55,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+logo: “/assets/images/logo.svg”
+tagline: "生活, 旅行, 徒步, 马拉松, 网球"
 timezone: Etc/UTC
-logo: /assets/images/logo.svg
 show_excerpts: true
 date_format: "%Y 年 %m 月 %d 日"
 header_pages:

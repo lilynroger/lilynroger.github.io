@@ -5,6 +5,7 @@ subtitle: "Drone Laws in Hawaii"
 image: /assets/images/2025/us-italy/drone-laws-hawaii/trust-certificate-w-bg.png
 categories: posts
 date: 2025-03-19 00:00:00 +0000
+modified_time: 2025-03-20 00:00:00 +0000
 tags: 2025-US-Italy 北美洲 美国 夏威夷 无人机
 ---
 
