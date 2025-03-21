@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "火奴鲁鲁国际机场"
-subtitle: "火奴鲁鲁机场攻略指南"
+title: "火奴鲁鲁国际机场攻略"
+subtitle: "Honolulu International Airport (HNL) Guide"
 image: /assets/images/2025/us-italy/airport-hnl/terminals-map-md.jpg
 categories: posts
 date: 2025-04-09 00:00:00 +0000
