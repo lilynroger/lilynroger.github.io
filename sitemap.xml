@@ -6,7 +6,13 @@
     <url>
         <loc>https://lilyroger.com/</loc>
         <lastmod>2025-03-17</lastmod>
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <url>
+        <loc>https://lilyroger.com/posts/</loc>
+        <lastmod>2025-03-20</lastmod>
+        <changefreq>weekly</changefreq>
     </url>
 
     <url>
