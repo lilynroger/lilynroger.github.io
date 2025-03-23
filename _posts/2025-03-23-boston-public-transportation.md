@@ -115,15 +115,6 @@ tags: 2025-US-Italy 北美洲 美国 波士顿 城市 交通
 * 贝肯山 (Beacon Hill): Bowdoin 站就在贝肯山边上
 * 波士顿洛根国际机场: Airport 站可以换乘机场班车前往各航站楼
 
-### 换乘站
-
-绿, 蓝, 橙和红四条地铁线路在市中心的波士顿公园周围都有换乘站:
-
-* 绿线/红线: Park Street
-* 蓝线/橙线: State Street
-* 蓝线/绿线: Government Center
-* 红线/橙线: Downtown Crossing
-
 ## 其它出行方式
 
 这里简单介绍一下波士顿的其它交通出行方式.
