@@ -5,7 +5,7 @@ subtitle: Boston Logan International Airport (BOS) Guide
 image: /assets/images/2025/us-italy/airport-bos/terminal-map-md.png
 categories: posts
 date: 2025-04-17 06:00:00 -0400
-tags: 2025-US-Italy 北美洲 美国 波士顿 城市 机场 交通
+tags: 2025-US-Italy 北美洲 美国 波士顿 机场 交通
 ---
 
 终于来到波士顿, 几天之后就将站上波士顿马拉松的起跑线了. 这篇机场指南包含了我们收集到的关于波士顿洛根国际机场的航站楼信息和交通信息等等.

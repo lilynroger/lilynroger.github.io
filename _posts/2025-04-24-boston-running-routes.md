@@ -5,7 +5,7 @@ subtitle: "Best Running Routes in Boston"
 categories: posts
 date: 2025-04-24 12:00:00 -0400
 modified_time: 2025-04-24 12:00:00 -0400
-tags: 2025-US-Italy 北美洲 美国 波士顿 城市 跑步
+tags: 2025-US-Italy 北美洲 美国 波士顿 跑步
 ---
 
 波士顿曾被[跑者世界](https://www.runnersworld.com)评为美国最佳跑步城市的第三位. 不仅是因为波士顿马拉松和这座城市悠久的跑步文化, 更是因为非常适合步行的城市特征. 我们在此精选了三条标志性的跑步路线, 包括查尔斯河畔, 翡翠项链绿廊, 和海滨步道.
