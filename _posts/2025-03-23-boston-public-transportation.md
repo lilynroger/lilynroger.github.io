@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "波士顿的公共交通指南"
-subtitle: "MBTA, T 和 Charlie"
+subtitle: "MBTA, T, Charlie in Boston"
 image: /assets/images/2025/us-italy/boston-public-transportation/charliecard-md.png
 categories: posts
 date: 2025-03-23 12:00:00 +0800
-tags: 2025-US-Italy 北美洲 美国 波士顿 城市 交通
+modified_time: 2025-03-29 08:00:00 +0800
+tags: 2025-US-Italy 北美洲 美国 波士顿 交通
 ---
 
 波士顿市区很小. 两条腿基本上就是你的最佳 "交通工具" 了. 这一篇攻略将帮助你了解波士顿的公共交通系统. 什么是 MBTA 和 T, 还有究竟谁是查理. 作为游客, 最理想的公共交通工具是地铁. 所以我们重点介绍的是波士顿的地铁, 包括红, 橙, 蓝, 绿, 四条地铁线路.
