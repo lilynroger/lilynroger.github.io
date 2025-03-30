@@ -94,9 +94,3 @@ MBTA 的蓝线地铁连接着波士顿市中心和机场站 ([Airport Station](h
 ## TODO
 
 * 哪里可以购买 CharlieTicket 
-
-## 多语言对照
-
-* 波士顿洛根国际机场 - Boston Logan International Airport
-* 爱德华·劳伦斯·洛根将军国际机场 - General Edward Lawrence Logan International Airport
-* 马萨诸塞湾交通管理局 - The Massachusetts Bay Transportation Authority (MBTA)

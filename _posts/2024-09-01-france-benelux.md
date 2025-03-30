@@ -107,23 +107,3 @@ tags: 2024-France-Benelux 欧洲 比荷卢 法国 比利时 荷兰 卢森堡 跑
 * 桑斯安斯 - 美到无法形容的风车村, 木鞋.
 * 哈勒姆 - 弗兰斯·哈尔斯博物馆, 大广场和其中的圣巴沃教堂
 * 海牙 - 莫瑞泰斯皇家美术馆的 "戴珍珠耳环的少女"
-
-## 多语言对照
-
-* 梅多克红酒马拉松 - Marathon des Châteaux du Médoc
-* 梅多克 - Médoc
-* 波尔多 - Bordeaux
-* 兰斯 - Reims
-* 卢森堡 - Luxembourg
-* 比利时 - Belgium
-* 卡纳蕾 - 又译: 可露丽, 法语: Canelé
-* 圣埃美隆 - Saint-Emilion
-* 阿尔卡雄 - Arcachon
-* 酩悦香槟 - Moët Chandon
-* 桑斯安斯 - Zaanse Schans
-* 哈勒姆 - Haarlem
-* 海牙 - The Hague, 荷兰语: Den Haag
-* 莫瑞泰斯皇家美术馆 - 荷兰语: Mauritshuis
-* 荷兰国立博物馆 - 荷兰语: Rijksmuseum
-* 鲱鱼 - Herring, 荷兰语: Haring
-* 荷式松饼 - Stroopwafel

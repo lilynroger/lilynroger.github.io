@@ -221,18 +221,3 @@ tags: 2025-US-Italy 北美洲 美国 夏威夷 瓦胡岛 火奴鲁鲁 交通
 夏威夷的轻轨系统叫 [Skyline](https://www8.honolulu.gov/dts/skyline/home/). 计划分三段建设. 其中第一段已经通车, 服务于阿罗哈体育场 (Aloha Stadium) 以西的一段线路. 在 2025 年还计划开通第二段. 将线路东延至卡利希交通中心站 (Kalihi Transit Center). 第二段在火奴鲁鲁国际机场有一站. 最后一段再向东扩展几站, 计划在 2031 年前后通车.
 
 总的来说, 轻轨并不通往主要的游客聚集区, 和游客的关系不大.
-
-## 多语言对照
-
-* 火奴鲁鲁 (檀香山) - Honolulu 
-* 瓦胡岛 (欧胡岛) - 英语: Oahu, 夏威夷语: Oʻahu
-* 火奴鲁鲁国际机场 - Honolulu International Airport
-* 威基基海滩 - 英语: Waikiki, 夏威夷语: Waikīkī
-* 阿拉莫阿那中心 - Ala Moana Center
-* 钻石头山 - Diamond Head
-* 夏威夷会展中心 - Hawaii Convention Center
-* 伊奥拉尼宫 - ʻIolani Palace
-* 主教博物馆 - Bishop Museum
-* 向风海岸 (东部海岸) - Windward Coast
-* 背风海岸 (西部海岸) - Leeward Coast
-* 北岸 - North Shore

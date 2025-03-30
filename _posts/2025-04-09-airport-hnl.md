@@ -107,16 +107,3 @@ tags: 2025-US-Italy 北美洲 美国 夏威夷 欧胡岛 火奴鲁鲁 机场
 
 * 哪里可以购买 SIM 卡
 * 哪里可以购买 HOLO 卡
-
-## 多语言对照
-
-* 火奴鲁鲁 (檀香山) - 英语 (夏威夷语): Honolulu 
-* 瓦胡岛 (欧胡岛) - 英语: Oahu, 夏威夷语: Oʻahu
-* 丹尼尔·健·井上国际机场 - 英语: Daniel K. Inouye International Airport
-* 火奴鲁鲁国际机场 - 英语: Honolulu International Airport
-* 威基基海滩 - 英语: Waikiki, 夏威夷语: Waikīkī
-* 阿拉莫阿那中心 - Ala Moana Center
-* 钻石头山 - Diamond Head
-* 伊娃海滩 - Eva Beach
-* 岛际航站楼 - Interisland Terminal
-* 海外航站楼 - Overseas Terminal
