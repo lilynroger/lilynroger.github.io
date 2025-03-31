@@ -1,16 +1,22 @@
 ---
 layout: post
-title: "斯德哥尔摩机场交通"
+title: 斯德哥尔摩机场交通
+subtitle: Airport Transfer in Stockholm (ARN)
+image: /assets/images/2024/scandinavia/arn-airport-transport/ground-transportation-md.jpeg
 categories: posts
 date: 2024-05-27 15:00:00 +0200
-tags: 2024-Scandinavia 旅行 瑞典 机场
+modified_time: 2025-04-01 08:00:00 +0800
+tags: 2024-Scandinavia 旅行 欧洲 北欧 斯堪的纳维亚 瑞典 机场 交通
 ---
+
 由斯德哥尔摩机场 (Stockholm Arlanda Airport/ARN) 到市中心的中央车站有很多交通方式可以选择. 所谓的车站通行费使得机场公共交通的费用令人困惑. 不同的交通方式费用相差悬殊. 所以, 这里稍微仔细地罗列一下我们所了解到的情况.
 
 首先要特别重点指出的是, 旅客进出斯德哥尔摩 Arlanda 机场的 Arlanda Central Station (Arlanda C) 车站需要缴纳一笔额外的车站通行费 (Station Access Fee/Passage Fee). 当前 (2024 年 5 月), 这笔费用为 SEK 135 每成人. 这导致在这个车站乘坐火车, 即便是最普通的通勤火车而非高速火车也一样贵的离谱.
 
 > [!TIP]
 > 因为车站通行费的原因, 省钱的关键就是如何绕开 Arlanda Central Station (Arlanda C) 车站.
+
+斯德哥尔摩是我们[斯堪的纳维亚之旅]({% post_url 2024-05-27-scandinavia %})的第一站. 相关的攻略可以参考我们的[斯德哥尔摩攻略]({% post_url 2024-05-27-stockholm %}).
 
 ## 机场快线
 
