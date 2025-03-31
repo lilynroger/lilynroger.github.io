@@ -27,6 +27,8 @@ tags: 2024-Scandinavia 旅行 欧洲 北欧 斯堪的纳维亚 瑞典 城市
 * 皇后岛 (Drottningholm)
 * 动物园岛 (Djurgården)
 
+如果你乘飞机去斯德哥尔摩, 可以参考我们的[斯德哥尔摩机场交通攻略]({% post_url 2024-05-27-arn-airport-tranport %}).
+
 ![斯德哥尔摩之狮 (The Lions of Stockholm)](/assets/images/2024/scandinavia/stockholm/the-lions-of-stockholm.jpeg)
 
 > [!TIP]
