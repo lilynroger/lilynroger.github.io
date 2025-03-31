@@ -1,12 +1,18 @@
 ---
 layout: post
-title: "斯塔万格 (Stavanger)"
+title: 挪威斯塔万格攻略
+subtitle:  Guide to Stavanger, Norway
 categories: posts
 date: 2024-06-01 00:00:00 +0200
-tags: 2024-Scandinavia 旅行 挪威 徒步
+modified_time: 2025-03-31 12:00:00 +0800
+image: /assets/images/2024/scandinavia/stavanger/stavanger-md.jpg
+tags: 2024-Scandinavia 旅行 欧洲 北欧 斯堪的纳维亚 挪威 斯塔万格 城市
 ---
 
-斯塔万格 (Stavanger), 挪威的第四大城市和石油之都. 在这里可以尽情漫步于历史悠久的老城和多彩的步行街. 也可以由此前往吕瑟峡湾 (Lysefjord), 挑战极富盛名位列挪威三大奇石之中的布道台 (布道石/Preikestolen/Pulpit Rock) 和奇迹石 (Kjeragbolten).
+斯塔万格 (Stavanger), 挪威的第四大城市和石油之都. 在这里可以尽情漫步于历史悠久的老城和多彩的步行街. 也可以由此前往吕瑟峡湾 (Lysefjord), 挑战极富盛名, 位列挪威三大奇石之中的布道台 (布道石/Preikestolen/Pulpit Rock) 和奇迹石 (Kjeragbolten).
+
+* TOC
+{:toc}
 
 ## 自驾和公共交通
 
