@@ -68,6 +68,7 @@ Håholmen 是大西洋路边上的一个小岛. 岛上有快艇接送客人.
 ![圣代 (Summer Sundae)](/assets/images/2024/scandinavia/haholmen-havstuer/summer-sundae.jpeg)
 
 ## 鳕鱼干之城
+{: #clipfish }
 
 鳕鱼干是本地名产. 大西洋路所连接的西北边的小城克里斯蒂安松 (Kristiansund) 被称为 "鳕鱼干之城 (Clipfish Town)". 岛上的餐厅里就挂着一条鳕鱼干.
 

@@ -5,7 +5,7 @@ subtitle: "瓦胡岛火奴鲁鲁公交车攻略"
 image: /assets/images/2025/us-italy/honolulu-public-transportation/holo-md.png
 categories: posts
 date: 2025-03-15 12:00:00 +0800
-modified_time: 2025-03-23 08:00:00 +0800
+modified_time: 2025-04-10 12:00:00 -1000
 tags: 2025-US-Italy 北美洲 美国 夏威夷 瓦胡岛 火奴鲁鲁 交通
 ---
 
@@ -67,6 +67,8 @@ tags: 2025-US-Italy 北美洲 美国 夏威夷 瓦胡岛 火奴鲁鲁 交通
 * Foodland 超市
 * TIMES 超市
 * 轻轨站上的 HOLO 公交卡自动售卖机
+
+其中, 我们发现 ABC 超市里只有预装了单日通票的 HOLO 卡; 7-Eleven 里有售预装了七日通票的 HOLO 卡. 但是要注意, 7-Eleven 购买 HOLO 卡只支持现金, 不接受信用卡.
 
 购买新卡或置换新卡的费用是 2 美金. 不过, 我们没有发现有退卡这一说.
 

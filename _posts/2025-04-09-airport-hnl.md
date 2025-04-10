@@ -4,8 +4,8 @@ title: "火奴鲁鲁国际机场攻略"
 subtitle: "Honolulu International Airport (HNL) Guide"
 image: /assets/images/2025/us-italy/airport-hnl/terminals-map-md.jpg
 categories: posts
-date: 2025-04-09 09:00:00 -1000
-modified_time: 2025-04-09 09:00:00 -1000
+date: 2025-04-09 11:00:00 -1000
+modified_time: 2025-04-09 11:00:00 -1000
 tags: 2025-US-Italy 北美洲 美国 夏威夷 欧胡岛 火奴鲁鲁 机场
 ---
 
@@ -60,7 +60,7 @@ tags: 2025-US-Italy 北美洲 美国 夏威夷 欧胡岛 火奴鲁鲁 机场
 
 #### 公交车站
 
-公交车站就在机场的上层 (Upper Level). 在一号航站楼, 二号航站楼的东西两侧共有三个车站. 
+公交车站就在机场的上层 (Upper Level). 在一号航站楼, 二号航站楼的东西两侧共有三个车站. 如果在一号航站楼, 或者二号航站楼的西侧的公交车站上车, 此时人会少一点.
 
 > [!TIP]
 > 注意: 国际到达行李提取是在底层  (Ground Level). 所以提取行李之后要上楼去找公交车站. 楼下是看不到的.
@@ -102,8 +102,3 @@ tags: 2025-US-Italy 北美洲 美国 夏威夷 欧胡岛 火奴鲁鲁 机场
 夏威夷的轻轨系统叫 [Skyline](https://www8.honolulu.gov/dts/skyline/home/). 计划分三段建设. 其中第一段已经通车, 服务于阿罗哈体育场 (Aloha Stadium) 以西的一段线路. 在 2025 年还计划开通第二段. 将线路东延至卡利希交通中心站 (Kalihi Transit Center). 第二段在火奴鲁鲁国际机场有一站. 最后一段再向东扩展几站, 计划在 2031 年前后通车.
 
 总的来说, 轻轨并不通往主要的游客聚集区, 和游客的关系不大.
-
-## TODO
-
-* 哪里可以购买 SIM 卡
-* 哪里可以购买 HOLO 卡
