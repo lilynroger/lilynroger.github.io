@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 波士顿洛根国际机场指南
-subtitle: Boston Logan International Airport (BOS) Guide
+title: 波士顿洛根国际机场攻略
+subtitle: Guide to Boston Logan International Airport (BOS)
 image: /assets/images/2025/us-italy/airport-bos/terminal-map-md.png
 categories: posts
-date: 2025-04-17 06:00:00 -0400
+date: 2025-04-17 07:00:00 -0400
 tags: 2025-US-Italy 北美洲 美国 波士顿 机场 交通
 ---
 
-终于来到波士顿, 几天之后就将站上波士顿马拉松的起跑线了. 这篇机场指南包含了我们收集到的关于波士顿洛根国际机场的航站楼信息和交通信息等等.
+终于来到波士顿, 几天之后就将站上波士顿马拉松的起跑线了. 这篇机场指南包含了我们收集到的关于波士顿洛根国际机场的航站楼信息和地面交通信息等等.
 
 * TOC
 {:toc}
@@ -63,13 +63,11 @@ tags: 2025-US-Italy 北美洲 美国 波士顿 机场 交通
 
 MBTA 的银线 1 路 (Silver Line 1), 即 SL1 路是一条公交车线路. 连接波士顿洛根国际机场的所有航站楼, 波士顿南站火车站, 和红线地铁. 单程用时大约在20 分钟. 从机场出发乘坐银线 1 路去往市区时是免费的, 而且在波士顿南站换乘红线地铁也是免费的.
 
-银线 1 路是从机场前往南站, 市中心, 海港区, 剑桥, 哈佛大学, 麻省理工的最佳选择. 我们此行就是住在波士顿万豪的剑桥店 (Boston Marriott Cambridge), 从机场出发到酒店需要大约 35 分钟.
-
-TODO: 银线 1 路的照片
+银线 1 路是从机场前往南站, 市中心, 海港区, 剑桥, 哈佛大学, 麻省理工的最佳选择.
 
 #### MBTA 蓝线
 
-MBTA 的蓝线地铁连接着波士顿市中心和机场站 ([Airport Station](https://www.mbta.com/stops/place-aport)). 到达机场站后, 换乘免费的 88 路机场穿梭巴士就可以前往所有航站楼.
+MBTA 的蓝线地铁连接着波士顿市中心和机场站 ([Airport Station](https://www.mbta.com/stops/place-aport)). 到达机场站后, 换乘免费的 88 路机场摆渡车就可以前往所有航站楼.
 
 蓝线地铁可以换乘橙线和绿线地铁. 是前往市中心, 后湾区 (Back Bay), 芬威公园 (Fenway Park) 等地的不错选择.
 
@@ -79,9 +77,9 @@ MBTA 的蓝线地铁连接着波士顿市中心和机场站 ([Airport Station](h
 
 波士顿洛根国际机场的 [Logan Express](https://loganexpress.com) 是机场大巴服务. 连接着后湾区以及另外四个郊区和机场的所有航站楼. 如果住在后湾区, 也可以选择乘坐机场大巴.
 
-### 机场内穿梭巴士
+### 机场内摆渡巴士
 
-波士顿洛根国际机场的[免费班车系统](https://www.massport.com/logan-airport/getting-to-logan/on-airport-shuttle)连接着所有的航站楼, 租车中心, 水上运输码头和蓝线地铁机场站. 
+波士顿洛根国际机场的[免费摆渡车系统](https://www.massport.com/logan-airport/getting-to-logan/on-airport-shuttle)连接着所有的航站楼, 租车中心, 水上运输码头和蓝线地铁机场站. 
 
 其中 55路, 66 路和 88 路连接着蓝线地铁机场站和所有航站楼, 而且 88 路是 24 小时的. 11 路来往于 A, B, C, E 四座航站楼之间. 22 路, 33 路和 55 路连接着不同航站楼, 蓝线地铁机场站和租车中心.
 
@@ -91,6 +89,12 @@ MBTA 的蓝线地铁连接着波士顿市中心和机场站 ([Airport Station](h
 
 波士顿洛根国际机场各航站楼也有 Uber 和 Lyft 等网约车的指定乘车点.
 
-## TODO
+## 在机场购买查理卡
 
-* 哪里可以购买 CharlieTicket 
+公交车和地铁是游客在波士顿的最佳出行选择. 推荐使用查理卡 (CharlieCard) 搭乘公共交通. 详细信息可以参考我们的[波士顿的公共交通攻略]({% post_url 2025-03-23-boston-public-transportation %}).
+
+在波士顿洛根国际机场的航站楼内就可以找到自动售票机, 直接购买查理卡. 
+
+![波士顿洛根国际机场自动售票机](/assets/images/2025/us-italy/airport-bos/t-tickets.jpeg "波士顿洛根国际机场自动售票机")
+
+也可以乘坐免费的银线 1 路公交车 (SL1) 到南站 (South Station) 领取查理卡.

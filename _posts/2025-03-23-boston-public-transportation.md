@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "波士顿的公共交通指南"
+title: "波士顿的公共交通攻略"
 subtitle: "MBTA, T, Charlie in Boston"
 image: /assets/images/2025/us-italy/boston-public-transportation/charliecard-md.png
 categories: posts
@@ -198,7 +198,7 @@ tags: 2025-US-Italy 北美洲 美国 波士顿 交通
 * 地铁站和公交车站的人工窗口
 * 部分便利店, 超市等等
 
-如果你是从波士顿洛根国际机场到达, 可以乘坐免费的银线 1 路公交车到南站领取查理卡.
+如果你是从波士顿洛根国际机场到达, 在机场里的自动售票机上就可以购买查理卡, 也可以乘坐免费的银线 1 路公交车 (SL1) 到南站 (South Station) 领取查理卡.
 
 ### 地铁和公交车通票
 
