@@ -5,7 +5,7 @@ subtitle: "MBTA, T, Charlie in Boston"
 image: /assets/images/2025/us-italy/boston-public-transportation/charliecard-md.png
 categories: posts
 date: 2025-03-23 12:00:00 +0800
-modified_time: 2025-03-29 08:00:00 +0800
+modified_time: 2025-04-17 07:00:00 -0400
 tags: 2025-US-Italy 北美洲 美国 波士顿 交通
 ---
 
