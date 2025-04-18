@@ -4,12 +4,12 @@ title: "波士顿自由之路"
 subtitle: "Boston Freedom Trail"
 image: /assets/images/2025/us-italy/boston-freedom-trail/medallion.jpeg
 categories: posts
-date: 2025-04-18 08:30:00 -0400
-modified_time: 2025-04-18 08:30:00 -0400
+date: 2025-04-18 07:30:00 -0400
+modified_time: 2025-04-18 07:30:00 -0400
 tags: 2025-US-Italy 北美洲 美国 波士顿 景点
 ---
 
-自由之路 ([Freedom Trail](https://www.thefreedomtrail.org/)) 在任何关于波士顿的城市观光指南中都是排第一的. 可它不是一处景点, 而是一条长约 4 公里的步行街. 从市中心的波士顿公园蜿蜒向北到查尔斯顿的邦克山纪念碑, 将 16 处在美国历史中具有重要意义的城市地标连接起来.
+自由之路 ([Freedom Trail](https://www.thefreedomtrail.org/)) 在任何关于波士顿的城市观光指南中都是排第一的. 可它不是一处景点, 而是一连串长约四公里的步行道. 从市中心的波士顿公园蜿蜒向北到查尔斯顿的邦克山纪念碑, 将 16 处在美国历史中具有重要意义的城市地标连接起来.
 
 * TOC
 {:toc}
