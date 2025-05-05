@@ -8,7 +8,7 @@ modified_time: 2025-04-28 12:00:00 +0100
 tags: 2025-US-Italy 欧洲 葡萄牙 里斯本 美食
 ---
 
-这篇里斯本吃喝攻略, 重点介绍游客通常必打卡的葡式蛋挞 (Pastéis de Nata), 腌鳕鱼 (Bacalhau), 猪扒包 (Bifana), 烤沙丁鱼 (Grilled sardines), 波特酒 (Port Wine) 和樱桃酒 (Ginjinha).
+这篇里斯本吃喝攻略, 重点介绍游客通常必打卡的葡式蛋挞 (Pastéis de Nata), 腌鳕鱼 (Bacalhau), 猪扒包 (Bifana), 烤沙丁鱼 (Grilled sardines), 波特酒 (Port Wine) 和樱桃利口酒 (Ginjinha).
 
 * TOC
 {:toc}
