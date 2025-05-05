@@ -1,12 +1,17 @@
 ---
 layout: post
-title: "皮蒂宫和波波利花园 | Pitti Palace and Boboli Gardens"
+title: 皮蒂宫和波波利花园攻略
+subtitle: Pitti Palace and Boboli Gardens
+image: /assets/images/2025/us-italy/pitti-palace-boboli-gardens/raffael-velata-md.jpg
 categories: posts
 date: 2025-04-29 15:00:00 +0200
-tags: 2025-US-Italy 旅行 意大利 博物馆 艺术
+tags: 2025-US-Italy 旅行 欧洲 意大利 佛罗伦萨 博物馆 艺术
 ---
 
 在佛罗伦萨阿尔诺河的对岸, 皮蒂宫和波波利花园就坐落在波波利山脚下. 在 1550 年, 美第奇家族的科西莫一世大公从卢卡·皮蒂手工买下了皮蒂宫, 作为新的大公宅邸. 在随后的几百年中, 先后承载了三个王朝家族在此的兴衰. 时至今日, 皮蒂宫仍然保留着它第一任主人的名字.
+
+> [!NOTE]
+这篇攻略是我们为意大利之行准备的备忘录. 很遗憾, 我们被南欧大停电困在了里斯本, 错过了行程在佛罗伦萨的部分. 只能日后有机会再补上.
 
 如今的皮蒂宫分作五个博物馆:
 
@@ -188,7 +193,6 @@ La Fornarina 的意思是 "面包师的女儿". 这位 "面包西施" 是画家�
 * 乔尔乔·瓦萨里 - Giorgio Vasari
 * 马可·韦斯普奇 - Marco Vespucci
 * 阿美利哥·韦斯普奇 - Amerigo Vespucci
-
 
 > [!NOTE]
 > 其中 "帕拉蒂娜美术馆" 是意大利语的音译. 英语音译可以为 "帕拉丁美术馆". 另外称呼 "美术馆" 而不是 "画廊", 是为了和乌菲兹美术馆的称呼保持一致.
