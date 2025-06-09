@@ -2,9 +2,10 @@
 layout: post
 title: 罗弗敦群岛和法罗群岛夏季打包攻略
 subtitle: Lofoten and Faroe Summer Packing List
+image: /assets/images/2025/lofoten-faroe/lofoten-faroe-summer-packing-list/packing-list-md.jpeg
 categories: posts
 date: 2025-06-08 12:00:00 +0800
-modified_time: 2025-06-08 12:00:00 +0800
+modified_time: 2025-06-09 08:00:00 +0800
 tags: 2025-Lofoten-Faroe 旅行 欧洲 北欧 斯堪的纳维亚 挪威 丹麦 徒步
 ---
 
@@ -15,7 +16,6 @@ tags: 2025-Lofoten-Faroe 旅行 欧洲 北欧 斯堪的纳维亚 挪威 丹麦 �
 我们的罗弗敦群岛和法罗群岛之行在罗弗敦和法罗分别停留了九晚和六晚, 此外进入和离开欧洲时分别在奥斯陆和哥本哈根短暂停留两晚和一晚. 这里分享的打包清单就是这十八晚行程的清单.
 
 ![罗弗敦群岛和法罗群岛夏季打包列表](/assets/images/2025/lofoten-faroe/lofoten-faroe-summer-packing-list/packing-list.jpeg "罗弗敦群岛和法罗群岛夏季打包列表")
-
 
 * TOC
 {:toc}
@@ -140,9 +140,16 @@ tags: 2025-Lofoten-Faroe 旅行 欧洲 北欧 斯堪的纳维亚 挪威 丹麦 �
 
 合适的背包要比行李箱更便捷. 对于两三周之内, 且目的地不跨越气候带的旅行, 我们会尝试极致的轻装旅行, 不托运行李. 这样, 不用提心吊胆的浪费时间等候行李提取, 有时还可以买到更加便宜的机票.
 
-北欧的主要航空公司对机舱内随身行李的要求是最大尺寸为 55x40x20 厘米, 此外还可以带一件个人物品, 比如小包, 最大尺寸为 40x30x15 厘米. 带入机舱的行李总重量不能超过 8 公斤. 
+符合北欧主要航空公司要求的机舱内随身行李的最大尺寸为 55 x 40 x 20 厘米. 也有慷慨一点的航空公司, 允许比如 55 x 40 x 23 厘米, 甚至 55 x 40 x 25 厘米的. 随身行李重量基本上都规定不能超过 8 公斤. 此外, 通常还可以带一件小点的装个人物品的小包或者袋子.
 
-对于随身携带的液体, 国内外的要求差不多. 每个容器的容量不能大于 100 毫升, 将所有的容器装到一个容量不超过 1 升的透明的密封塑料袋中, 接受安检.
+对于随身携带的液体, 国内外的要求差不多. 每个液体容器的容量不能大于 100 毫升, 将所有的容器装到一个容量不超过 1 升的透明的密封塑料袋中, 接受安检. 需要注意的是类似牙膏这种也是液体.
+
+北欧主要航空公司的随身行李的政策如下:
+
+* [斯堪的纳维亚航空 (SAS)](https://www.flysas.com/en/travel-info/baggage/carry-on/)
+* [挪威人航空 (Norwegian Air Shuttle)](https://www.norwegian.com/uk/travel-info/baggage/hand-baggage/)
+* [维德勒航空公司 (Widerøe)](https://www.wideroe.no/en/travel-info/baggage)
+* [大西洋航空公司 (Atlantic Airways, 法罗群岛的航空公司)](https://www.atlanticairways.com/en/travel-info/luggage)
 
 我们的打包列表中的全部物品除了穿在身上的之外, 可以装在两个 30 升左右的小型背包中. 此外, 我们还带了一个轻便的束绳包逛街时用. 登机的时候, 全部座位上要用到的诸如拖鞋, 头枕, 眼罩, 充电线, 水果和零食等等也放在这个束绳包里, 这样不用每次打开头顶的行李架取用.
 
