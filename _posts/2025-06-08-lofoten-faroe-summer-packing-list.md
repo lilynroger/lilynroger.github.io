@@ -5,8 +5,8 @@ subtitle: Lofoten and Faroe Summer Packing List
 image: /assets/images/2025/lofoten-faroe/lofoten-faroe-summer-packing-list/packing-list-md.jpeg
 categories: posts
 date: 2025-06-08 12:00:00 +0800
-modified_time: 2025-06-09 08:00:00 +0800
-tags: 2025-Lofoten-Faroe 旅行 欧洲 北欧 斯堪的纳维亚 挪威 丹麦 徒步
+modified_time: 2025-06-10 08:00:00 +0800
+tags: 2025-Lofoten-Faroe 旅行 欧洲 北欧 斯堪的纳维亚 挪威 丹麦 罗弗敦群岛 法罗群岛 徒步
 ---
 
 罗弗敦群岛和法罗群岛都是徒步者的天堂. 夏季是探访这两个群岛的最佳时间. 最长的日照时间, 最少的降雨, 可以尽情体验经典的北欧风光, 文化和活动. 在出发去探险之前, 最重要的问题就是究竟应该带上哪些东西. 在这一篇攻略中, 我们将分享我们的罗弗敦群岛和法罗群岛夏季之旅的打包清单, 以及我们的个人体会和经验.
