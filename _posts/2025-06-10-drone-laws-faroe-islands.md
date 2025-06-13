@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "法罗群岛无人机法规和飞行攻略"
+title: "法罗群岛无人机攻略"
 subtitle: "Drone Laws in Faroe Islands, Denmark"
-image: /assets/images/2025/lofoten-faroe/drone-law-faroe-islands/drone-zones.jpg
+image: /assets/images/2025/lofoten-faroe/drone-law-faroe-islands/drone-zones-md.jpg
 categories: posts
 date: 2025-06-10 08:00:00 +0800
 modified_time: 2025-06-10 08:00:00 +0800
