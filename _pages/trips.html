@@ -1,0 +1,41 @@
+---
+layout: default
+title: 旅行
+image: assets/images/16x9/trips-1920x1080.jpg
+permalink: /trips/
+
+# jekyll-seo-tag
+# see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
+canonical_url: https://lilyroger.com/trips/
+
+# article:modified_time
+# see _includes/head.html
+modified_time: 2025-07-21 00:00:00 +0000
+---
+<div class="collection">
+
+  <header class="container">
+    <div class="hero-image-div">
+      {%- if page.image -%}
+      <img src="{{ page.image | relative_url }}" class="hero-image shadow rounded-3" alt="{{ page.title | escape }}">
+      {%- endif -%}
+    </div>
+    <div class="hero-text-div">
+      {%- if page.title -%}
+      <h1 class="display-1">{{ page.title | escape }}</h1>
+      {%- endif -%}
+    </div>
+  </header>
+
+  <div class="container collection-items">
+
+    <div class="row row-cols-1 row-cols-lg-2 g-3">
+      {%- for item in site.trips -%}
+      <div class="col">
+        {% include collection-item-card.html item = item %}
+      </div>
+      {%- endfor -%}
+    </div>
+  </div>
+
+</div>

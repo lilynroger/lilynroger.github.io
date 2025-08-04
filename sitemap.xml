@@ -4,8 +4,7 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">    
     {% 
         assign latest_modified_date = site.posts
         | where_exp: "post", "post.modified_time"
@@ -25,6 +24,11 @@ layout: null
         <changefreq>weekly</changefreq>
     </url>
 
+    <url>
+        <loc>https://lilyroger.com/trips/</loc>
+        <lastmod>{{ latest_modified_date | date: "%Y-%m-%d" }}</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
     {% for post in site.posts %}
     <url>
         <loc>https://lilyroger.com{{ post.url }}</loc>

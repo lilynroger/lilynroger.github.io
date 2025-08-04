@@ -58,11 +58,16 @@ plugins:
 include:
   - _pages
 
+collections:
+  trips:
+    output: true
+
 logo: /assets/images/logo.svg
 tagline: 生活, 旅行, 徒步, 马拉松, 网球
 timezone: Etc/UTC
 show_excerpts: true
 date_format: "%Y 年 %m 月 %d 日"
 header_pages:
+  - _pages/trips.html
   - _pages/posts.markdown
   - _pages/about.markdown
