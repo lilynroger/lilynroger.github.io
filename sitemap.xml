@@ -18,17 +18,37 @@ layout: null
         <changefreq>weekly</changefreq>
     </url>
 
+    <!-- The page of the trips collection -->
+    <url>
+        <loc>https://lilyroger.com/trips/</loc>
+        <lastmod>{{ latest_modified_date | date: "%Y-%m-%d" }}</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <!-- Items in the trip collection -->
+    {%- assign items = site.trips | reverse -%}
+    {% for item in items %}
+    <url>
+        <loc>https://lilyroger.com{{ item.url }}</loc>
+        <lastmod>
+        {%- if item.modified_time -%}
+        {{ item.modified_time | date: "%Y-%m-%d" }}
+        {%- else -%}
+        {{ item.date | date: "%Y-%m-%d" }}
+        {%- endif -%}
+        </lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    {% endfor %}
+
+    <!-- The page of all posts -->
     <url>
         <loc>https://lilyroger.com/posts/</loc>
         <lastmod>{{ latest_modified_date | date: "%Y-%m-%d" }}</lastmod>
         <changefreq>weekly</changefreq>
     </url>
 
-    <url>
-        <loc>https://lilyroger.com/trips/</loc>
-        <lastmod>{{ latest_modified_date | date: "%Y-%m-%d" }}</lastmod>
-        <changefreq>weekly</changefreq>
-    </url>
+    <!-- The posts -->
     {% for post in site.posts %}
     <url>
         <loc>https://lilyroger.com{{ post.url }}</loc>
