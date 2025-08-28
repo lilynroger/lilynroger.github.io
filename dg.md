@@ -60,7 +60,7 @@ In the `sitemap.xml` file, there is an entry for the trips page:
 
 ```xml
 <url>
-    <loc>https://lilyroger.com/trips/</loc>
+    <loc>https://lilyroger.com/trips</loc>
     <lastmod>{{ latest_modified_date | date: "%Y-%m-%d" }}</lastmod>
     <changefreq>weekly</changefreq>
 </url>

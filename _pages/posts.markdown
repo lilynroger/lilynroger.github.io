@@ -1,11 +1,11 @@
 ---
 layout: posts
 title: 博客
-permalink: /posts/
+permalink: /posts
 
 # jekyll-seo-tag
 # see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
-canonical_url: https://lilyroger.com/posts/
+canonical_url: https://lilyroger.com/posts
 
 # article:modified_time
 # see _includes/head.html

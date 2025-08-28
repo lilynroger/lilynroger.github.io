@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 关于我们
-permalink: /about/
+permalink: /about
 ---
 
 <p>我们是 Lily & Roger.</p>

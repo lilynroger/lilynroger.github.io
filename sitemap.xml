@@ -20,7 +20,7 @@ layout: null
 
     <!-- The page of the trips collection -->
     <url>
-        <loc>https://lilyroger.com/trips/</loc>
+        <loc>https://lilyroger.com/trips</loc>
         <lastmod>{{ latest_modified_date | date: "%Y-%m-%d" }}</lastmod>
         <changefreq>weekly</changefreq>
     </url>
@@ -43,7 +43,7 @@ layout: null
 
     <!-- The page of all posts -->
     <url>
-        <loc>https://lilyroger.com/posts/</loc>
+        <loc>https://lilyroger.com/posts</loc>
         <lastmod>{{ latest_modified_date | date: "%Y-%m-%d" }}</lastmod>
         <changefreq>weekly</changefreq>
     </url>
