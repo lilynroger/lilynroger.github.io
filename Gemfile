@@ -15,6 +15,7 @@ gem "minima", "~> 2.5"
 gem "github-pages", "~> 232", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-asciidoc", "~> 3.0", ">= 3.0.1"
   gem "jekyll-feed", "~> 0.12"
 end
 
