@@ -1,5 +1,41 @@
 # Developer Guide
 
+## Jekyll Asciidoc Plugin
+
+The [Jekyll Asciidoc Plugin](https://github.com/asciidoctor/jekyll-asciidoc) is used to converts AsciiDoc source files to HTML pages using Asciidoctor. Follow the instruction 
+given in the linked page to install and config the plugin.
+
+### Preview images in Visual Source Code
+
+Currently, there is no known better way to preview images in AsciiDoc files in Visual Source code. The workaround is to set different `imagesdir` attributes for the AsciiDoc extension of Visual Source Code and the Jekyll Asciidoc Plugin.
+
+For the AsciiDoc extension of Visual Source Code, add the following attribute to workspace settings:
+
+```
+"asciidoc.preview.asciidoctorAttributes": {
+  "imagesdir": "${workspaceFolder}"
+}
+```
+
+For the Jekyll Asciidoc Plugin, add the following to `_config.yml`:
+
+```
+asciidoctor:
+  attributes:
+    imagesdir: "/"
+```
+
+Now, in a AsciiDoc file, you can insert an [image macro](https://docs.asciidoctor.org/asciidoc/latest/macros/images-directory/
+) like this:
+
+```
+image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/undersea-tunnels-map.webp[法罗群岛的海底隧道地图]
+```
+
+Because the image macro' target is a relative path, the value of `imagesdir` is added to the target path, making the image macro works for both the Visual Studio Code and the Jekyll Asciidoc Plugin.
+
+The issue of the workround is that we can't use `imagesdir` in an AsciiDoc file to define the common path in all the image macros in the file.
+
 ## Site Structure Overview
 
 The content of the website is organized using the following facilities supported by Jekyll:
@@ -72,3 +108,6 @@ In the `sitemap.xml` file, there is an entry for the trips page:
 
 Hero images are used at the top of collection pages with a 16:9 aspect ratio and 1920 x 1080 pixels.
 
+## TODOs
+
+* Add [giscus](https://giscus.app) comments to Github Pages.

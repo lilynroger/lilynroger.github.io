@@ -56,6 +56,15 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+asciidoc:
+  ext: asciidoc, adoc
+
+asciidoctor:
+  attributes:
+    imagesdir: "/"
+    toc: auto
+    toc-title: 目录
+
 include:
   - _pages
 
