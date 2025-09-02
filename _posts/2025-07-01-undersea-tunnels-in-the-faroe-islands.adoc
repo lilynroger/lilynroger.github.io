@@ -5,8 +5,6 @@
 :page-categories: posts
 :page-date: 2025-07-01 01:00:00 +0100
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 交通]
-:figure-caption!:
-:sectnums:
 
 法罗群岛有 18 个岛屿. 其中有 7 个岛屿由隧道, 桥梁和堤道连接起来, 可以自驾抵达. 其它的岛屿则需要坐船或者直升机前往. 截止至 2025 年, 法罗群岛一共有 4 条海底隧道, 连着着主要的 5 个岛屿. 所有的海底隧道都是收费的, 而且不便宜. 自驾游法罗群岛时, 有必要了解海底隧道, 并相应的规划行程, 避免浪费海底隧道通行费.
 
@@ -78,8 +76,8 @@ image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/un
 
 这里吐槽一下, 租车公司的账单中关于隧道通行费的条目完全是个谜, 看不懂啊:
 
-.租车账单
-image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/rental-bill.webp[租车账单]
+.法罗群岛租车账单
+image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/rental-bill.webp[法罗群岛的租车账单]
 
 其中我们在沃格隧道和北岛隧道各往返了一次共计费两次, 东岛隧道往返了一次计费两次. 但是, 这账单让人困惑. 好在总的隧道收费没有高出预期太多, 也就不纠结了.
 
@@ -93,11 +91,11 @@ image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/re
 
 === 海峡大桥
 
-法罗群岛唯一的跨海峡大桥是连接主岛斯特莱默岛与东岛艾斯特洛伊岛的 Streymin Bridge (法罗语: Brúgvin um Streymin). 这座大桥横跨在两座岛之间的最窄处 Sundini 海峡. 大桥是连接主岛上的首都托尔斯港 (Tórshavn) 和北方诸岛上的第二大城镇克拉克斯维克 (Klaksvík).
+法罗群岛唯一的跨海峡大桥是连接主岛斯特莱默岛与东岛艾斯特洛伊岛的 Streymin Bridge (法罗语: Brúgvin um Streymin). 这座大桥横跨在两座岛之间最窄处的 Sundini 海峡. 大桥是连接主岛上的首都托尔斯港 (Tórshavn) 和北方诸岛上的第二大城镇克拉克斯维克 (Klaksvík) 的 10 号国家公路的一部分.
 
-这座桥对自驾游客的意义在于它是免费的. 可以省去东岛隧道的通行费. 特别是往返于托尔斯港和东岛北部的村镇时, 走大桥和走海底隧道的耗时差别不大.
+这座桥对自驾游客的意义在于它是免费的. 可以省去东岛隧道的通行费. 特别是往返于托尔斯港和东岛北部的村镇时, 走大桥和走海底隧道的耗时差别不大, 即可以观赏沿途风光, 还可以省钱.
 
-TIP: 在东岛距离海峡大桥不远, 有一个颇受本地人和游客喜爱的海鲜店 https://sjogati.fo/[Sjógæti]. 旅途劳累不妨拐个小弯去稍作停留, 尝尝炸鱼薯条, 或者买点海鲜回去吃.
+TIP: 在东岛距离海峡大桥不远, 有一个颇受本地人和游客喜爱的海鲜小店 https://sjogati.fo/[Sjógæti]. 旅途劳累不妨拐个主路去稍作停留, 尝尝炸鱼薯条, 或者买点海鲜回去吃.
 
 === 堤道
 

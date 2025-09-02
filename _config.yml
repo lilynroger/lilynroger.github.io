@@ -62,8 +62,12 @@ asciidoc:
 asciidoctor:
   attributes:
     imagesdir: "/"
+    icons: font
     toc: auto
     toc-title: 目录
+    figure-caption: 图片
+    sectnums: all
+    sectanchors: true
 
 include:
   - _pages
