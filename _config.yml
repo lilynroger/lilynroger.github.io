@@ -24,7 +24,7 @@ locale: zh_CN
 author: Lily & Roger
 email: us@lilyroger.com
 description: >- # this means to ignore newlines until "baseurl:"
-  我们既享受旅行, 也热衷于计划并记录旅行. 欢迎访问我们的旅行见闻和攻略.
+  欢迎来到 Lily 和 Roger 的网站. 我们享受旅行, 也热衷于计划并记录旅行. 希望你喜欢我们的关于行程, 城市, 机场, 交通, 无人机, 徒步, 马拉松, 和更多趣事的旅行攻略和游记. 希望这些点滴能够激发你的旅行灵感, 并帮助你计划下一次属于你的独特旅行.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lilyroger.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
