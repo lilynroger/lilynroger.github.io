@@ -55,12 +55,14 @@ TIP: 法罗语中的地名有很多常见的构成部分, 比如 -dalur 的意�
 
 位于世界边缘尽头 Gásadalur 毫无疑问是法罗群岛最漂亮的村庄. 我们在法罗群岛的前半段行程就选择住在这里的 https://www.booking.com/hotel/fo/gasadalur-apartments-world-famous-waterfall.html[Gásadalur Apartments], 一家非常有代表性的公寓民宿. 下面这张照片中的瀑布就是穆拉瀑布. 瀑布背景中的小村子就是 Gásadalur 村. 我们就住在村子右边连着的三间黑色的公寓之一, 终身难忘的体验.
 
+.穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)
 image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/mulafossur.webp[穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)]
 
 从 Gásadalur, 经 Bøur 到 Sørvágur 的这段公路, 是法罗群岛的link:https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[旅游观光公路]中的一条. 这些旅游观光公路在法罗语中被称为 Sóljuleiðir, 译成英语是 Buttercup Route. 这是以法罗群岛的 "国花" Buttercup (黄油色杯形的小花) 命名的.
 
 以 Gásadalur 作为西侧起点的这段旅游观光公路是 45 号公路, 被称为 Gásadalsleið, 字面意思就是是 "鹅谷之路", -leið 就是 "路" 的意思. 下面这张照片就是 Gásadalur 村头的公路:
 
+.戈萨达鲁尔村 (Gásadalur)
 image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/gasadalur.webp[戈萨达鲁尔村 (Gásadalur)]
 
 法罗群岛的名字的含义就是 "绵羊之岛". 在法罗群岛自驾, 一定要时刻小心这些无处不在的羊!
@@ -69,10 +71,12 @@ image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/gasada
 
 从 Gásadalur 向东穿过隧道, 沿着海滨公路不远就到了 Bøur, 一个宁静的小村庄. 在村子的东侧驶下公路有一个小停车场可以停车, 然后可以漫步这个典型的法罗群岛村庄. 这里有很多草皮屋顶的房子, 一座教堂, 还有一个山涧瀑布. 也许还会碰到两条热情的牧羊犬, 一定要陪着你逛完村子直到离开.
 
+.Bøur 村
 image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/bour.webp[Bøur 村]
 
 从 Bøur 继续向东不远, 在峡湾边的坡地上就是 https://www.theview.fo[The View Cottage]. 这里的几间温馨的草顶小屋也是附近绝佳的住宿选项之一. 拥有鹅谷之路上最佳的海景. 在远处就是著名的大海蚀柱和小海蚀柱 (Drangarnir), 高耸的无人岛尖峰岛 (Tindhólmur) 和鹅岛 (Gáshólmur), 还有一如既往笼罩云雾中的 Mykines 岛.
 
+.The View Cottage
 image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/the-view-cottage.webp[The View Cottage]
 
 无人岛 Tindhólmur 名字也是典型的维京名字, 第一部分 tind 很常见, 意思是 "峰 (Peak)", 第二部分 hólmur 更常见, 意思是 "小岛". 这个名字是因为这座岛的的五个明显的尖峰. 有趣的是, 五个尖峰也都有名字, 译成中文分别是 "最远的", "鹰", "小的", "宽的", "弯的". 第二个大概是因为看上去像一只蹲着的鹰, 其他的不用多说了.
@@ -83,7 +87,8 @@ image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/the-vi
 
 作为沃格岛上最大的村庄, Sørvágur 是岛上的中心和交通枢纽. 沃格机场就在 Sørvágur 村的东侧. 这里的港口也是前往海鹦岛 Mykines 的门户. 来往 Sørvágur 和 Mykines 之间的 https://www.ssl.fo/en/timetable/ferry/36-soervagur-mykines/[Jósup] 号轮渡就在这里的港口停靠. 这艘船还服务于一些热门的乘船游览项目, 比如 https://guidetofaroeislands.fo/book-holiday-trips/drangarnir-sea-stacks-boat-tour/[Drangarnir Sea Stacks Boat Tour].
 
-image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/ferry-josup.webp[往返 Sørvágur 和 Mykines 之间的 Jósup 号渡轮]
+.往返 Sørvágur 和 Mykines 之间的 Jósup 号轮渡
+image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/ferry-josup.webp[往返 Sørvágur 和 Mykines 之间的 Jósup 号轮渡]
 
 沃格岛主要的超市之一 https://visitfaroeislands.com/dk/whatson/places/place/a-sorvagur0[Á Sørvágur] 也在村子的中央, 交通和停车都很方便. 这里是采购食品, 水果和其他生活用品的理想去处. 如果刚刚搭乘飞机到达法罗群岛, 而且是自驾游, 推荐这里作为第一站.
 
@@ -117,7 +122,8 @@ image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/trollk
 
 徒步回来后, 推荐在 Sandavágur 东南端的海鲜餐馆 https://visitvagar.fo/en/whatson/places/place/fiskastykkid0?region=7[Fiskastykkið] 犒赏一下自己. 餐馆主打均衡营养的海鲜菜式, 内部装潢很有当地特色, 尤其是其中的的鱼皮吊灯.
 
-image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/fiskastykkid.webp[The café FISKASTYKKIÐ]
+.The café Fiskastykkið
+image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/fiskastykkid.webp[The café Fiskastykkið]
 
 == 收费的徒步
 
@@ -129,7 +135,7 @@ image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/fiskas
 
 == 参考资源
 
-* https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[法罗群岛的旅游观光公路官网]
-* https://visitfaroeislands.com/en[法罗群岛旅游局官网: Visit Faroe Islands]
-* https://visitvagar.fo/en[法罗群岛旅游官网之沃格岛: Visit Vágar]
-* https://www.fae.fo/en[法罗群岛机场官网: Vágar Airport]
+* 法罗群岛的国家工程管理局官网之旅游观光公路: https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Sóljuleiðir]
+* 法罗群岛旅游局官网: https://visitfaroeislands.com/en[Visit Faroe Islands]
+* 法罗群岛旅游官网之沃格岛: https://visitvagar.fo/en[Visit Vágar]
+* 法罗群岛机场官网: https://www.fae.fo/en[Vágar Airport]
