@@ -1,4 +1,5 @@
 .post-content {
+
     h1>a.anchor,
     h2>a.anchor,
     h3>a.anchor,
@@ -44,14 +45,12 @@
     }
 }
 
-.post-content {
+.paragraph, .ulist {
+    margin-bottom: 1em;
+
     p {
         margin: 0;
     }
-}
-
-.paragraph {
-    margin-bottom: 1em;
 }
 
 span.icon>.fa {
