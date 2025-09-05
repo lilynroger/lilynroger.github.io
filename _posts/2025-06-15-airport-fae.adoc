@@ -1,0 +1,107 @@
+= 法罗群岛沃格机场攻略
+:page-categories: posts
+:page-date: 2025-06-15 08:00:00 +0800
+:page-image: assets/images/2025/lofoten-faroe/airport-fae/airport-fae.png
+:page-modified_time: 2025-06-15 08:00:00 +0800
+:page-page-layout: post
+:page-subtitle: Guide to Vágar Airport (FAE), Faroe Islands
+:page-tags: [2025-Lofoten-Faroe, 旅行, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 机场]
+:page-liquid:
+:toc:
+:sectnums:
+
+沃格机场 (Vágar Airport) 是法罗群岛唯一的民用机场, 位于沃格岛上的瑟沃格村 (Sørvágur) 以东 1.9 公里, 首都托尔斯港 (Tórshavn) 以西 46 公里. 作为丹麦的海外高度自治领地. 法罗群岛也拥有自己的 "国航", 即大西洋航空 (Atlantic Airways), 沃格机场是它的基地. 这篇机场攻略将帮助你了解沃格机场的实用信息.
+
+[#_quick_facts]
+== 基本信息
+
+* 机场代码: FAE
+* 机场正式名称: 沃格机场 (Vágar Airport), 法罗语: Vága Floghavn
+* 位置: 沃格岛上的瑟沃格村以东 1.9 公里, 首都托尔斯港以西 46 公里
+* 航站楼: 一座航站楼
+* 公共交通: 公交车
+* 官方网站: https://www.fae.fo/en
+
+[#_terminal]
+== 航站楼
+
+沃格机场很小, 有一座 2014 年 6 月建成启用的现代化 "袖珍" 航站楼. 到达区和出发区都集中在一栋一层的建筑中. 出了航站楼左手旁边就是租车中心, 面前就是停车场, 不会迷路的.
+
+.沃格机场平面布局
+image:assets/images/2025/lofoten-faroe/airport-fae/fae-layout.webp[沃格机场平面布局]
+
+[#_buying_alcohol_at_duty_free_fae]
+=== 免税店买酒
+
+值得一提的是沃格机场的免税店. 和很多其他北欧地区一样, 法罗群岛实行酒类专卖制度, 包括啤酒在内的酒类都只能在国家酒类专卖店才能买到. 法罗语中, 国家酒类专卖店称为 https://rusan.fo/[Rúsdrekkasøla Landsins], 当地人也简称为 Rúsan. 不过, 专卖店的定价高的离谱, 而且整个法罗群岛也没几家专卖店, 非常不便.
+
+当地人回到法罗群岛时, 也会在机场免税店采购酒水. 如果需要, 不要忘了在机场免税店带上些酒. 特别是本地啤酒 https://www.oy.fo/en/oy[OY] 和 https://bjor.fo/[Føroya Bjór], 前者来自法罗群岛的首都托尔斯港 (Tórshavn), 后者来自第二大城镇克拉克斯维克 (Klaksvík).
+
+更多的信息, 可以参考机场免税店的官网: https://en.dutyfree.fo[Duty Free FAE Plus].
+
+.沃格机场免税店
+image:assets/images/2025/lofoten-faroe/airport-fae/fae-dutyfree.webp[沃格机场免税店]
+
+[#_airlines]
+== 航线和航空公司
+
+法罗群岛的直飞航班信息可以参考: https://www.flightsfrom.com/FAE[]
+
+往返法罗群岛最频繁的航线当然是哥本哈根和法罗群岛之间的航线. 大西洋航空和斯堪的纳维亚航空 (SAS, Scandinavian Airlines, 北欧航空) 都有每日往返哥本哈根和法罗群岛的航班, 平均每天有 3 到 4 班航班.
+
+欧洲少数主要城市和法罗群岛之间也有每周 1 到 3 班的直飞航班. 比如, 巴黎, 伦敦, 奥斯陆等等.
+
+[#_faroe_lofoten]
+=== 法罗群岛到罗弗敦群岛
+
+特别值得一提的是维德罗航空 (https://www.wideroe.no/en[Widerøe]) 每周有两班往返于法罗群岛和挪威的卑尔根 (Bergen) 之间的航班. 我们的罗弗敦群岛和法罗群岛之行就是乘坐的维德罗航空的航班, 当天中转两次, 从法罗群岛出发, 晚上到了罗弗敦群岛.
+
+具体的路线是:
+
+* 沃格 (Vágar) - 卑尔根 (Bergen) - 博多 (Bodø) - 斯沃尔韦尔 (Svolvær)
+
+罗弗敦群岛的莱克内斯 (Leknes) 也有机场, 所以也可以选择从博多到莱克内斯:
+
+* 沃格 (Vágar) - 卑尔根 (Bergen) - 博多 (Bodø) - 莱克内斯 (Leknes)
+
+用机场代码表示, 两条路线分别是:
+
+* FAE - BGO - BOO - SVJ
+* FAE - BGO - BOO - LKN
+
+NOTE: 需要注意的是, 这个当日的联程航班路线在我们常用的在线旅游平台上都没有. 我们是直接在维德罗航空的官网预订的.
+
+[#_public_transport]
+== 公共交通
+
+沃格机场位于瑟沃格村郊外. 沃格岛和斯特莱默岛 (Streymoy) 之间的海底隧道为机场与首都托尔斯港 (Tórshavn) 以及沿途的众多村庄和居民点提供了便捷的连接. 从机场开车到托尔斯港平均需要 40 分钟.
+
+法罗群岛的公共交通由其国家公共交通系统运营商 https://www.ssl.fo/en/timetable/helicopter[Strandfaraskip Landsins], 简称 SSL 负责, 主要包括公交车和轮渡, 有固定的线路和时间表. 其中往返机场和首都可以乘坐 300 路公交车:
+
+* https://www.ssl.fo/en/timetable/bus/300-torshavn-airport-soervagur[300 Tórshavn - Airport - Sørvágur]
+
+法罗群岛被称为 "世界的边缘", "世界的尽头", "与世隔绝" 是它的名片. 不难想象, 这里的公共交通不比国内. 特别是公交车的车费也相当贵. 体验法罗群岛的最佳选项还是自驾游, 特别是第一次来访的游客.
+
+[#_helicopter]
+=== 法罗群岛的直升机
+
+有意思的是, 在法罗群岛直升机也属于 "公共交通", 也有固定的航线和时间表, 而且价格还算合理. 如果没能订到轮渡需要替代方案, 或者只是想体验一下, 也可以考虑直升机.
+
+举例而言, 对游客而言非常热门的从沃格岛飞海鹦岛 Mykines 的直升机的价格是 435 丹麦克朗. 作为对比, 轮渡的预定价格是 123 丹麦克朗 (2025 年的价格). 
+
+需要注意的是本地人乘坐直升机的价格非常便宜, 比如沃格岛飞海鹦岛只要 145 丹麦克朗. 而直升机班次很少, 座位也很少. 所以一定要提前预定直升机. 此外, 直升机不可以预定当天的往返票, 同一天的行程只能是单程. 这就意味着当天往返的行程需要提前预定好直升机加轮渡.
+
+法罗群岛的直升机也是由 SSL 负责管理的, 运营则是由法罗群岛的 "国航", 大西洋航空负责运营.
+
+[#_resources]
+== 参考资源
+
+* 沃格机场官网: https://www.fae.fo/en[Vágar Airport]
+* 大西洋航空官网: https://www.atlanticairways.com/en[Atlantic Airways]
+* 机场免税店的官网: https://en.dutyfree.fo[Duty Free FAE Plus]
+* 国家酒类专卖店官网: https://rusan.fo/[Rúsdrekkasøla Landsins]
+* 维德罗航空官网: https://www.wideroe.no/en[Widerøe]
+* 法罗群岛公共交通的官网: https://www.ssl.fo/en/[Strandfaraskip Landsins (SSL)]
+* 大西洋航空官网之直升机: https://www.atlanticairways.com/en/helicopter/[Helicopter]
+* 法罗群岛公共交通线路图: https://www.ssl.fo/en/timetable/route-overview[Route Overview]
+* 法罗群岛旅游信息官网: https://visitfaroeislands.com/en/plan-your-stay/getting-around/public-transportation0[Visit Faroe Islands]
