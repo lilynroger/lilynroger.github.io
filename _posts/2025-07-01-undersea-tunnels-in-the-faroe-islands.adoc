@@ -8,6 +8,7 @@
 
 法罗群岛有 18 个岛屿. 其中有 7 个岛屿由隧道, 桥梁和堤道连接起来, 可以自驾抵达. 其它的岛屿则需要坐船或者直升机前往. 截止至 2025 年, 法罗群岛一共有 4 条海底隧道, 连接着主要的 5 个岛屿. 所有的海底隧道都是收费的, 而且不便宜. 自驾游法罗群岛时, 有必要了解海底隧道, 并相应的规划行程, 避免浪费海底隧道通行费.
 
+[#_undersea_tunnels]
 == 海底隧道
 
 截止至 2025 年, 法罗群岛一共有 4 条海底隧道:
@@ -22,6 +23,7 @@
 .法罗群岛的海底隧道
 image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/undersea-tunnels-map.webp[法罗群岛的海底隧道地图]
 
+[#_vagatunnilin]
 === Vágatunnilin
 
 沃格隧道, 连接西部的机场所地沃格岛 (Vágar) 和首都托尔斯港 (Tórshavn) 所在的主岛斯特莱默岛 (Streymoy). 具体来说, 出口的信息如下:
@@ -31,6 +33,7 @@ image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/un
 
 多数游客都是乘飞机抵达法罗群岛的唯一机场沃格机场, 然后在机场取车开始自驾游. 所以这条隧道基本上是游客们前往其它岛的必经之路.
 
+[#_eysturoyartunnilin]
 === Eysturoyartunnilin
 
 艾斯特洛伊岛隧道, 即东岛隧道, 连接首都托尔斯港所在的主岛斯特莱默岛与东岛 (Eysturoy) 上的两个小镇: 斯特伦杜尔 (Strendur) 和鲁纳维克 (Runavík). 就是说东岛隧道有三个出口, 分别是:
@@ -44,6 +47,7 @@ image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/un
 .海底隧道环岛指示牌
 image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/undersea-roundabout.webp[海底隧道环岛指示牌]
 
+[#_nordoyatunnilin]
 === Norðoyatunnilin
 
 北方诸岛隧道, 或者简称北岛隧道, 连接着北方诸岛中的博罗伊岛 (Borðoy) 和艾斯特洛伊岛 (Eysturoy). 具体来说是连接着:
@@ -51,6 +55,7 @@ image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/un
 * 克拉克斯维克 (Klaksvík), 博罗伊岛 (Borðoy)
 * 莱尔维克 (Leirvík), 艾斯特洛伊岛 (Eysturoy)
 
+[#_sandoyartunnilin]
 === Sandoyartunnilin
 
 沙岛隧道, 中文也称桑岛隧道, 连接着主岛斯特莱默岛及其以南的沙岛 (Sandoy). 具体来说是连接着:
@@ -58,6 +63,7 @@ image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/un
 * 托尔斯港 (Tórshavn) / 奇尔丘伯乌尔 (Kirkjubøur), 斯特莱默岛 (Streymoy)
 * 桑杜尔 (Sandur) / 斯科蓬 (Skopun), 沙岛 (Sandoy)
 
+[#_undersea_tunnel_fee]
 == 海底隧道的收费
 
 法罗群岛全部四条海底隧道都是收费隧道. 具体价格参见 https://www.tunnil.fo/english[Tunnil].
@@ -81,14 +87,17 @@ image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/re
 
 其中我们在沃格隧道和北岛隧道各往返了一次共计费两次, 东岛隧道往返了一次计费两次. 但是, 这账单让人困惑. 好在总的隧道收费没有高出预期太多, 也就不纠结了.
 
+[#_other_road_connections]
 == 其他交通连接设施
 
 除了海底隧道之外, 规划法罗群岛自驾行程还可能需要考虑其它交通连接设施, 包括山岭隧道, 以及连接岛屿的海峡大桥和堤道.
 
+[#_mountain_tunnels]
 === 山岭隧道
 
 法罗群岛不少城镇和偏远的村庄是通过很多山岭隧道连接在一起的. 多数较新的山岭隧道都是双车道的, 但也有单车道的. 好消息是所有山岭隧道都是免费通行的.
 
+[#_bridge]
 === 海峡大桥
 
 法罗群岛唯一的跨海峡大桥是连接主岛斯特莱默岛与东岛艾斯特洛伊岛的 Streymin Bridge (法罗语: Brúgvin um Streymin). 这座大桥横跨在两座岛之间最窄处的 Sundini 海峡. 大桥是连接主岛上的首都托尔斯港 (Tórshavn) 和北方诸岛上的第二大城镇克拉克斯维克 (Klaksvík) 的 10 号国家公路的一部分.
@@ -97,6 +106,7 @@ image::assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/re
 
 TIP: 在东岛距离海峡大桥不远, 有一个颇受本地人和游客喜爱的海鲜小店 https://sjogati.fo/[Sjógæti]. 旅途劳累不妨拐下主路去稍作停留, 尝尝炸鱼薯条, 或者买点海鲜回去吃.
 
+[#_causeways]
 === 堤道
 
 法罗群岛北方诸岛中有两条跨海峡的堤道将两个岛连接到北方诸岛的枢纽博罗伊岛 (Borðoy):
@@ -106,16 +116,19 @@ TIP: 在东岛距离海峡大桥不远, 有一个颇受本地人和游客喜爱�
 
 这两条堤道使得可以自驾前往的岛从海底隧道连接的五个岛增加到了七个岛.
 
-== 关于其它交通工具
+[#_public_transport]
+== 公共交通
 
-在享受自驾游的同时, 这里有一些其它交通工具的有用信息.
+在享受自驾游的同时, 这里有一些公共交通的有用信息.
 
+[#_buese]
 === 公交车
 
 法罗群岛的 https://www.ssl.fo/en[Strandfaraskip Landsins] 负责运营和管理公交车和轮渡. 游览法罗群岛的最佳选项还是自驾游. 不仅是因为很多景点偏远, 甚至近乎与世隔绝, 公共交通非常不便. 还因为法罗群岛的公交车真的很贵, 参考官网上的 https://www.ssl.fo/en/prices/prices/buses[Prices of Buses].
 
 公交车虽然不是最理想的选项, 但有些行程可以考虑乘坐公交车. 比如前往卡尔索伊岛 (Kalsoy) 如果不想开车乘坐轮渡, 或者没有为车子订到轮渡, 也可以乘坐轮渡过海, 然后换乘公交车. 这个岛上的公交车完全接驳轮渡和岛上的热门景点, 包括卡卢林灯塔 (Kallurin), 007 邦德墓碑, 海豹女雕像等等.
 
+[#_ferries]
 === 轮渡
 
 法罗群岛的轮渡也是 https://www.ssl.fo/en[Strandfaraskip Landsins] 负责运营的. 其中有三条岛间的轮渡线路是汽车轮渡:
@@ -128,16 +141,18 @@ TIP: 在东岛距离海峡大桥不远, 有一个颇受本地人和游客喜爱�
 
 NOTE: 尽管诺尔索伊岛 (Nólsoy) 有汽车轮渡, 但是完全不值得开车过去. 这个岛很小, 只有一个定居点, 步行就足够了. 去这个岛的游客很多是为了徒步诺尔索伊岛灯塔, 也无法开车. 
 
+[#_helicopter]
 === 直升机
 
-有意思的是, 在法罗群岛, 直升机也是一个定期的交通工具. 没能订到轮渡需要替代方案, 或者只是想体验一下, 也可以考虑直升机.
+有意思的是, 在法罗群岛直升机也属于 "公共交通", 也有固定的航线和时间表, 而且价格还算合理. 如果没能订到轮渡需要替代方案, 或者只是想体验一下, 也可以考虑直升机.
+
+举例而言, 对游客而言非常热门的从沃格岛飞海鹦岛 Mykines 的直升机的价格是 435 丹麦克朗. 作为对比, 轮渡的预定价格是 123 丹麦克朗 (2025 年的价格). 
+
+需要注意的是本地人乘坐直升机的价格非常便宜, 比如沃格岛飞海鹦岛只要 145 丹麦克朗. 而直升机班次很少, 座位也很少. 所以一定要提前预定直升机. 此外, 直升机不可以预定当天的往返票, 同一天的行程只能是单程. 这就意味着当天往返的行程需要提前预定好直升机加轮渡.
 
 法罗群岛的直升机也是由 https://www.ssl.fo/en/timetable/helicopter[Strandfaraskip Landsins] 负责管理的. 运营则是由法罗群岛的 "国航", 大西洋航空 (https://www.atlanticairways.com/en/helicopter/[Atlantic Airways]) 负责运营.
 
-法罗群岛的直升机的价格不算离谱, 比如对游客而言非常热门的从沃格岛飞海鹦岛 Mykines 岛的直升机的价格是 435 丹麦克朗. 作为对比, 轮渡的预定价格是 123 丹麦克朗 (2025 年的价格). 
-
-需要注意的本地人乘坐直升机的价格非常便宜, 比如沃格岛飞海鹦岛只要 145 丹麦克朗. 而直升机班次很少, 一周四班, 座位也很有限. 所以一定要提前预定直升机. 此外, 直升机不可以预定当天的往返票, 同一天的行程只能是单程. 这就意味着当天往返的行程需要提前预定好直升机加轮渡.
-
+[#_resources]
 == 参考资源
 
 * https://www.tunnil.fo/english[法罗群岛海底隧道的官网: Tunnil]
