@@ -44,6 +44,16 @@
     }
 }
 
+.post-content {
+    p {
+        margin: 0;
+    }
+}
+
+.paragraph {
+    margin-bottom: 1em;
+}
+
 span.icon>.fa {
     cursor: default;
 }
