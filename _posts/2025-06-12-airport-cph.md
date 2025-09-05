@@ -2,7 +2,7 @@
 layout: post
 title: 哥本哈根机场攻略
 subtitle: Guide to Copenhagen Airport (CPH)
-image: /assets/images/2025/lofoten-faroe/airport-cph/airport-cph.jpg
+image: /assets/images/2025/lofoten-faroe/airport-cph/airport-cph.png
 categories: posts
 date: 2025-06-12 08:00:00 +0800
 modified_time: 2025-06-12 08:00:00 +0800
@@ -17,7 +17,7 @@ tags: 2025-Lofoten-Faroe 旅行 欧洲 北欧 斯堪的纳维亚 丹麦 哥本�
 ## 基本信息
 
 * 机场代码: CPH
-* 机场正式名称: 哥本哈根机场, 卡斯特鲁普 (Copenhagen Airport, Kastrup)
+* 机场正式名称: 哥本哈根机场 (Copenhagen Airport, 丹麦语: Københavns Lufthavne)
 * 位置: 市中心以南 8 公里的卡斯特鲁普 (Kastrup) 小镇
 * 航站楼: 航站楼 2, 3
 * 公共交通: 推荐连接市中心的地铁和火车
