@@ -1,7 +1,7 @@
 = 法罗群岛三大岛跳岛自驾一日游
 :page-categories: posts
 :page-date: 2025-07-01 01:00:00 +0100
-:page-image: assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/risin_kellingin.webp
+:page-image: assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/risin-kellingin.webp
 :page-page-layout: post
 :page-subtitle: One Day Island Hopping Road Trip in Faroe Islands
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 自驾]
@@ -35,7 +35,7 @@ image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/route-m
 * **F:** Funningur, Eysturoy
 * **G:** Tórshavn, Streymoy
 
-为了方便交流, 以下是中文的起点, 终点, 途径点和所在岛屿:
+为了方便交流, 以下是中文的起点, 终点, 途径点和所在岛屿的速查表:
 
 * **A:** 戈萨达鲁尔, 沃格 (机场)
 * **B:** 萨克松, 斯特莱默 (主岛)
@@ -58,12 +58,12 @@ image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/route-m
 [#_times]
 === 时间
 
-作为参考, 以下是大致的起点时间, 到达各个途经点和终点的时间, 其中包含了相对宽松的游玩时间:
+作为参考, 便于在行程中把握时间, 以下是大致的起点时间, 到达各个途经点和终点的时间速查表, 其中包含了相对宽松的游玩时间:
 
-* **10:00 A.** 戈萨达鲁尔 (Gásadalur)
+* **09:30 A.** 戈萨达鲁尔 (Gásadalur)
 * **11:00 B.** 萨克松 (Saksun)
 * **13:00 C.** 特约尔努维克 (Tjørnuvík)
-* **15:00 D.** 艾迪 (Eiði)
+* **14:30 D.** 艾迪 (Eiði)
 * **16:30 E.** 格约格夫 (Gjógv)
 * **18:00 F.** 富宁厄 (Funningur)
 * **19:00 G.** 托尔斯港 (Tórshavn)
@@ -81,19 +81,32 @@ image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/route-m
 * **1 Kirkjumørk**, Funningur, Faroe Islands
 * **Tórshavn**, Faroe Islands
 
+[#_tourists_routes]
+=== 旅游观光公路
+
+作为参考, 以下是行程依次途经的旅游观光公路的一览表:
+
+. 鹅谷之路 (法罗语: Gásadalsleið): 45 号公路
+. 萨克松之路 (法罗语: Saksunarleið): 53 公路
+. 特约尔努维克之路 (法罗语: Tjørnuvíkleið): 594 号公路
+. 艾迪垭口之路 (法罗语: Um Eiðisskarð)
+. 峡谷之路 (法罗语: Gjáarleið)
+. 富宁厄之路 (法罗语: Funningsleið)
+. 岛屿之路 (法罗语: Oyggjarvegurin): 50 号公路
+
 [#_gasadalur]
-== Gásadalur
+== 戈萨达鲁尔 (Gásadalur)
 
 沃格岛最西端的山谷中隐藏着戈萨达鲁尔村 (Gásadalur). 它的名字的字面意思是 "鹅谷". 直到 2004 年随着山岭隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最具标志性的的的穆拉瀑布 (Múlafossur) 的所在地. 座落在世界边缘的尽头, 戈萨达鲁尔村 (Gásadalur) 毫无疑问是法罗群岛最漂亮的村庄. 我们在法罗群岛的前半段行程就选择住在这里的 {url-gasadalur-apartments}[Gásadalur Apartments] 民宿, 终身难忘的体验. 我们就是从这里出发开始我们的跳岛自驾游.
 
-.穆拉瀑布 (Múlafossur) 和戈村 (Gásadalur)
-image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/mulafossur.webp[穆拉瀑布 (Múlafossur) 和戈村 (Gásadalur)]
+.穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/mulafossur.webp[穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)]
 
 从戈萨达鲁尔村 (Gásadalur) 一直延伸到机场所在的瑟沃格村 (Sørvágur) 的 45 号公路, 被称为 "鹅谷之路" (Gásadalsleið), 是法罗群岛旅游观光公路中的一条.
 
 TIP: 法罗群岛的旅游观光公路 (Tourist Routes) 在法罗语中被称为 https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Sóljuleiðir], 译成英语是 Buttercup Routes. 这是以法罗群岛的 "国花" Buttercup 命名的. 直译就是 "黄油杯子", 中文学名毛茛 (gèn), 是一种黄油色杯形的小花. 这种花遍布法罗群岛的草丛中.
 
-"鹅谷之路" 是法罗群岛最佳的观景点之一. 可以远眺著名的海蚀柱拱门 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/drangarnir[Drangarnir]), 无人小岛尖峰岛 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/tindholmur0[Tindhólmur]) 和似乎总是笼罩云雾中的海鹦岛 Mykines 岛. 而作为沃格岛上最大的村庄, 瑟沃格村 (Sørvágur) 是岛上的中心和交通枢纽. 沃格机场就在 Sørvágur 村的东侧. 这里的港口也是前往海鹦岛 Mykines 岛的门户.
+在鹅谷之路上, 特别是伯尔村 (Bøur) 那里, 可以远眺著名的海蚀柱拱门 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/drangarnir[Drangarnir]), 尖峰岛 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/tindholmur0[Tindhólmur]) 和似乎总是笼罩云雾中的海鹦岛 Mykines 岛. 而作为沃格岛上最大的村庄, 瑟沃格村 (Sørvágur) 是岛上的中心和交通枢纽. 沃格机场就在 Sørvágur 村的东侧. 这里的港口也是前往海鹦岛 Mykines 岛的门户.
 
 从瑟沃格村 (Sørvágur) 向东继续前行是 11 号公路. 过了沃格机场之后, 会路过法罗群岛最大的湖 - 悬湖 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/the-lakes/lake-leitisvatn-sorvagsvatn[Sørvágsvatn/Leitisvatn]). 法罗群岛的文化标志之一, 取材于当地传说的 https://visitvagar.fo/en/whatson/places/place/the-nix-statue[The Nix] 雕像就伫立在悬湖近岸的浅水中.
 
@@ -102,17 +115,158 @@ TIP: 法罗群岛的旅游观光公路 (Tourist Routes) 在法罗语中被称为
 自驾游在沃格岛西侧的最后一站是桑达沃格村 (Sandavágur). 它是我们最喜欢的村庄之一, 风景如画, 特别是村庄教堂极具特色的红色屋顶使其成为法罗群岛最漂亮的教堂之一.
 
 .桑达沃格村 (Sandavágur)
-image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/sandavagur.webp[Sandavágur]
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/sandavagur.webp[桑达沃格村 (Sandavágur)]
 
 桑达沃格村 (Sandavágur) 最吸引人的, 莫过于从村子出发徒步去看当地人称 https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1[Trøllkonufingur] 的奇石景观了. 这个名字的字面意思就是 Troll Woman's Finger 或者 The Witch's Finger, 也就是 "女巨魔的手指" 或者 "女巫的手指".
 
-image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/trollkonufingur.webp[Sandavágur]
+.女巫的手指
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/trollkonufingur.webp[女巫的手指]
 
 女巫手指是法罗群岛少有的几个免费的热门徒步路线之一. 徒步往返需要大概一小时时间. 如果你想把这个徒步加到这个三大岛自驾游中, 需要提前一小时出发. 有关徒步的详细信息可以参考我们的攻略: link:{% post_url 2025-06-29-hiking-trollkonufingur %}[徒步法罗群岛的女巫手指].
 
 从戈萨达鲁尔村 (Gásadalur) 到桑达沃格村 (Sandavágur) 这段自驾游还可以参考我们的攻略: link:{% post_url 2025-06-29-one-day-road-trip-on-vagar-island %}[法罗群岛沃格岛自驾一日游]
 
 从桑达沃格村 (Sandavágur) 沿着 11 号公路一直向北前行就是连接沃格岛和主岛斯特莱默岛 (Streymoy) 的沃格海底隧道 (Vágatunnilin) 了. 法罗群岛的所有海底隧道都是收费的. 因此规划自驾行程时要对海底隧道有些了解, 以免花费不必要的通行费. 详细信息可以参考我们的攻略: link:{% post_url 2025-07-01-undersea-tunnels-in-the-faroe-islands %}[法罗群岛的海底隧道].
+
+[#_saksun]
+== 萨克松 (Saksun)
+
+穿过沃格海底隧道就来到了法罗群岛的主岛斯特莱默岛 (Streymoy), 首都托尔斯港的所在地. 在这个岛上, 我们将首先前往西北部的偏远山村萨克松(Saksun).
+
+TIP: 斯特莱默岛 (Streymoy) 的名字来自法罗语的 _streym + oy_. 第一部分的意思就是 _stream_, 第二部分是 _island_, 一般认为名字的意思是 _island of streams_ 或者 _island of currents_.
+
+法罗群岛的 10 号公路是交通大动脉. 这条公路将首都托尔斯港一直连接到位于北方诸岛上的第二大城镇克拉克斯维克 (Klaksvík). 在斯特莱默岛上, 10 号公路向东南去往托尔斯港. 向西北则去往斯特莱默岛和东岛埃斯图罗伊岛之间的海峡大桥. 我们就是沿着 10 号公路向西北, 在接近海峡大桥之前, 在一个叫 Hvalvík 的小村子那里左转到 53 号公路上.
+
+TIP: Hvalvík 由 _hval_ + _vík_ 构成. 前者意思是 "鲸", 如果你有兴趣尝尝法罗群岛的鲸肉, 你就遇到到这个词, 不妨记住. 后缀 _-vík_ 在法罗群岛地名中很常见, 指的是 "海湾". 所以 Hvalvík 直译就是 "鲸湾". 因为始于 Hvalvík, 53 号公路也叫 Hvalvíkvegur. 其中, _-vegur_ 就是 "路" 的意思, Hvalvíkvegur 直译就是 "鲸湾路".
+
+53 号公路穿过狭长的峡谷, 一直通往萨克松 (Saksun). 这条公路是法罗群岛旅游观光公路中的一条, 称为 "萨克松之路" (法罗语: Saksunarleið). 萨克松之路沿途极其僻静, 但风景秀丽. 不过这条路大部分路段都很狭窄, 只有一条车道. 在单车道上遇到迎面而来的交通时, 需要驶入路侧临时停车带避让.
+
+来到萨克松之后, 首先就是一个很大的停车场, 完全不用担心停车的问题. 这里也有一个公共卫生间.
+
+萨克松是法罗群岛最上镜的村庄之一. 这里有高山, 瀑布, 小溪, 泻湖, 沙滩, 大西洋, 构成一套完美的自然环境. 村庄中心的草顶小教堂 (Saksun Church) 是最经典的法罗群岛地标之一. 宁静超脱的氛围和原始的山村风貌, 完美的诠释了法罗群岛的独特之美.
+
+.萨克松 (Saksun)
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/saksun.webp[萨克松 (Saksun)]
+
+村子里几栋散落的草顶小屋现在是 Dúvugarðar 露天博物馆的一部分. 博物馆之在夏季向游客开放. 门票不便宜, 每人 150 丹麦克朗 (2025 年).
+
+在萨克松, 可以停留 90 分钟左右. 参观一下博物馆, 或是探访一下泻湖的沙滩, 又或是爬上半山腰, 俯瞰萨克松全貌.
+
+萨克松 (Saksun) 是多条徒步路线的起点, 其中最热门的是萨克松 - 特约尔努维克 (Saksun - Tjørnuvík) 的徒步路线:
+
+.萨克松 - 特约尔努维克 (Saksun - Tjørnuvík) 的徒步路线
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/hiking-route-saksun-tjornuvik.webp[萨克松 - 特约尔努维克 (Saksun - Tjørnuvík)]
+
+特约尔努维克 (Tjørnuvík) 正是我们这次自驾游的下一站. 从萨克松原路折返, 沿着 53 号公路回到 10 号公路后左转沿 10 号公路向北, 前往特约尔努维克.
+
+[#_tjornuvik]
+== 特约尔努维克 (Tjørnuvík)
+
+沿 10 号公路向北, 会来到通往东岛埃斯图罗伊岛的海峡大桥. 这座大桥的名字是斯特莱默桥 (Streymin Bridge, 法罗语: Brúgvin um Streymin). 前往特约尔努维克 (Tjørnuvík) 时, 不要开上斯特莱默桥, 而是在上桥前左转驶下 10 号公路, 转到 594 号公路上. 它也是一条旅游观光公路, 被称为 "特约尔努维克之路" (法罗语: Tjørnuvíkleið). 中途会路过法罗群岛最大的瀑布 - 福萨瀑布 (https://visitfaroeislands.com/fo/whatson/places/place/fossa-waterfall[Fossá]), 可以停车稍作停留.
+
+特约尔努维克之路全程都比较狭窄. 尤其是到达特约尔努维克之前的最后一段山路, 崎岖陡峭, 只能遵循交通信号灯的指示, 每隔几分钟, 交替单向通行. 还要留意随时可能出现的羊!
+
+.特约尔努维克 (Tjørnuvík) 的交通信号灯
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/tjornuvik-traffic-light.webp[特约尔努维克 (Tjørnuvík) 的交通信号灯]
+
+特约尔努维克的村口就是一个小型的停车场. 夏季时车位会比较紧张, 有时可能要等别人离开, 好在游客在这里通常停留的时间都不长. 停车场的斜对面就是一个漂亮温馨的小咖啡馆 https://visitfaroeislands.com/en/whatson/places/place/cafe-solja[Café Sólja].
+
+特约尔努维克拥有独特的黑沙滩和强劲的海浪, 使得这里成为冲浪者的天堂. 热门的萨克松 - 特约尔努维克 (Saksun - Tjørnuvík) 的徒步路线也吸引着无数徒步爱好者. 但是这里最知名的景观还是远处一对高耸的被称为 "巨人和女巫" (The Giant and The Witch, 法罗语: Risin og Kellingin) 的海蚀柱. 因其苍凉而和壮美, 成为法罗群岛的名片之一.
+
+.特约尔努维克 (Tjørnuvík)
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/tjornuvik.webp[特约尔努维克 (Tjørnuvík)]
+
+每年的 6 月和 7 月是特约尔努维克的干草季 (Hay Season). 村民收割牧草, 晒干, 以供在漫长的冬季喂养羊群. 收割干草在特约尔努维克已经不仅仅是一项农牧业的生产劳作, 更是一种传统的仪式和文化. 在此期间请务必注意不要踩踏村庄围栏内的草场.
+
+.特约尔努维克 (Tjørnuvík) 干草季
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/tjornuvik-hay-season.webp[特约尔努维克 (Tjørnuvík) 干草季]
+
+海蚀柱 "巨人和女巫" 的位置实际上就是东岛埃斯图罗伊岛西北部的悬崖边, 临近艾迪 (Eiði), 我们自驾游的下一站. 从特约尔努维克出发, 需要首先沿着 594 号公路原路返回到跨海峡的斯特莱默大桥.
+
+[#_eidi]
+== 艾迪 (Eiði)
+
+从斯特莱默岛跨越斯特莱默大桥就到了东岛埃斯图罗伊岛. 斯特莱默大桥对于法罗群岛自驾游非常重要. 它是法罗群岛唯一的岛屿间的大桥. 经过这座大桥来往于斯特莱默岛和东岛埃斯图罗伊岛, 可以省去连接两岛之间的东岛海底隧道 (Eysturoyartunnilin) 的通行费. 特别是前往东岛西北部时, 走大桥和走海底隧道所需的时间区别不大, 格外划算.
+
+在东岛埃斯图罗伊岛这一侧, 大桥以北的海边是一个叫 Norðskáli 的小村子. 村子里有一个颇受本地人和游客喜爱的海鲜小店: https://sjogati.fo/[Sjógæti]. 旅途劳累不妨拐下主路去稍作停留, 尝尝炸鱼薯条, 或者买点海鲜回去吃. 这里还有两个相对较大的杂货店: Á við Norðskála 和 Bónus Norðskála, 采购水果, 食品很方便. 值得一提的是, 法罗群岛实行酒类国家专营. 为数不多的酒类国有专卖店之一 Rúsdrekkasøla Landsins - Norðskáli 也在这里. 如果你错过了沃格机场的免税酒水, 可以在这里买, 当然价格要贵很多.
+
+参考下面的图示:
+
+.斯特莱默大桥 (Streymin Bridge) 的路口
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/streymin-bridge-roads.webp[斯特莱默大桥 (Streymin Bridge) 的路口]
+
+由西向东过桥后, 导航软件可能会提示不能左转进入 Norðskáli 村的内部路, 需要到前面很远的环岛掉头. 但我们发现, 这里路面上有左转指示, 我们是跟随貌似本地的小货车左转的. 下了主路后, 右侧就有停车场. 杂货店, 酒类专卖店都在这里. 沿着村庄的内部路继续往北没多远, 左手边就能看到 Sjógæti 海鲜店. 继续向北可以回到 62 号公路, 一直到艾迪 (Eiði).
+
+艾迪 (Eiði) 是东岛埃斯图罗伊岛西北部的一个宁静而美丽的村庄. 自驾来这里, 可以将车停在教堂边 (Eiðis kirkja) 的停车场. 白色的教堂非常醒目, 很容易找到. 这里也有一个公共卫生间. 步行游览艾迪需要一小时左右的时间.
+
+.艾迪 (Eiði)
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/eidi.webp[艾迪 (Eiði)]
+
+号称 "世界上最美的足球场" 就在艾迪. 事实上, 这里有两片足球场. 毗邻教堂的是一片新的足球场. 走过这片球场, 是一个不大的湖, 环湖步道很适合舒缓驾车的疲劳. 沿着步道可以来到大西洋的岸边, 另一片旧的足球场就在这里的山脚上. 座落在世界的边缘, 狂野的北大西洋岸边, 这片足球场是法罗群岛的另一个名片, 是无数风光大片和明信片的主题. 如今, 这片足球场被用作露营车营地, 多少影响了画面的质感.
+
+.艾迪的露营地 (Eiði Camping)
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/eidi-camping.webp[艾迪的露营地 (Eiði Camping)]
+
+离开艾迪, 我们向东前往格约格夫 (Gjógv) 和富宁厄 (Funningur). 这里都是山路, 需要翻越法罗群岛的最高峰 Slættaratindur 南坡的垭口. 垭口东侧有个三岔路口分别通往东岛埃斯图罗伊岛西北部的三个村庄, 而这三条路都是旅游观光公路:
+
+* 通往西边的艾迪 (Eiði): 艾迪垭口之路 (Um Eiðisskarð)
+* 通往北边的格约格夫 (Gjógv): 峡谷之路 (Gjáarleið)
+* 通往东边的富宁厄 (Funningur): 富宁厄之路 (Funningsleið)
+
+其中艾迪垭口之路是我们在法罗群岛最喜欢的一段路. 从艾迪教堂出发, 向左一路向上爬去往垭口. 途中在山上的高地会经过一个小停车场, 这里是巨人和女巫海蚀柱的观景点 (Risin og Kellingin viewpoint).
+
+.巨人和女巫海蚀柱 (The Giant and The Witch, 法罗语: Risin og Kellingin)
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/eidi-risin-kellingin.webp[巨人和女巫海蚀柱 (The Giant and The Witch, 法罗语: Risin og Kellingin)]
+
+继续向东不到 5 公里, 在垭口的最高处还有一个停车场. 这里是登顶最高峰 https://visitfaroeislands.com/en/whatson/places/place/slattaratindur0[Slættaratindur] 的徒步路线的起点. 法罗语 Slættaratindur 的字面意思是 Flat Summit, 大意就是平顶山, 只因为这座山的顶峰是有上千平米的平地. 每年的夏至 (6 月 21 日), 人们来到这里登顶, 观赏紧随日落之后的日出已经成为一项传统.
+
+经过 Slættaratindur 徒步起点的停车场, 向垭口的东侧继续前行, 经过两个发卡弯就是三岔路口了. 向右的发卡弯就是去往东边的富宁厄之路 (Funningsleið) 了. 我们在这里继续直行就是峡谷之路 (Gjáarleið) 去往我们的下一站, 格约格夫 (Gjógv).
+
+[#_gjogv]
+== 格约格夫 (Gjógv)
+
+沿峡谷之路 (Gjáarleið) 向北 5 公里左右就到了格约格夫 (Gjógv). 法罗语 Gjógv 的意思就是峡谷 (Gorge), 这个村子说白了就叫 "峡谷村". 因村庄里的著名的景观海蚀峡谷而得名.
+
+在格约格夫比较困扰我们的是如何停车. 沿峡谷之路下来刚到村子, 右手边就有一个整洁而且足以容纳几十辆车的停车场, 但却挂着私人停车场 (Privat Parkering) 的牌子. 在格约格夫天然港 (Gjógv Natural Harbour) 那里也有一小片空地可以停下几辆车, 但并没有任何标识.
+
+.格约格夫 (Gjógv)
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/gjogv.webp[格约格夫 (Gjógv)]
+
+格约格夫 (Gjógv) 的海蚀峡谷也是法罗群岛比较知名的景点之一. 沿峡谷的南岸的步道走到尽头, 可以看到一张观景长椅, 称为 "玛丽的长椅" (Mary's Bench, 丹麦语: Mary's Bænk), 以丹麦王储妃玛丽的名字命名. 玛丽于 2005 年到访, 是第一个坐上长椅的人. 如果你有勇气, 在峡谷这一侧最前端的悬崖上,有一处石阶, 可以站上去, 脚下就是狂野的北大西洋.
+
+峡谷的北岸有一条沿着悬崖向上的步道, 通往在半山腰上的一条徒步路线的起点. 如果你运气好, 在夏季有机会这边的悬崖上见到海鹦 (Puffins). 我们正在徒步而上时, 突遇大雨, 没办法只好打道回府了.
+
+.格约格夫 (Gjógv) 的海蚀峡谷
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/gjogv-gorge.webp[约格夫 (Gjógv) 的海蚀峡谷]
+
+在游玩了格约格夫之后, 我们开车原路回到了三岔口, 从这里取左道转向富宁厄之路 (Funningsleið) 前往东边的富宁厄 (Funningur).
+
+[#_funningur]
+== 富宁厄 (Funningur)
+
+在富宁厄之路 (Funningsleið) 上, 可以俯瞰古老的富宁厄 (Funningur). 根据传说, 爱尔兰的僧人早在 825 年前后, 就是在这里登陆, 成为法罗群岛最早的定居者. 只是后来被挪威的维京人赶走了. 法罗语的 Funningur 的含义就是 "发现" (finding) 或者 "找到的土地" (found land).
+
+.富宁厄 (Funningur)
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/funningur.webp[富宁厄 (Funningur)]
+
+富宁厄是个很小的村子, 有一座古老的草顶木屋教堂就坐落在峡湾的岸边. 依托壮丽的峡湾, 还是非常上相的. 在码头那里有一个简陋的公共卫生间. 村子里并没有杂货店, 也没有餐馆. 这里的居民有需要时, 也是到海峡大桥那边的 Norðskáli 采购的.
+
+富宁厄是我们在东岛埃斯图罗伊岛的最后一站, 之后我们直接赶往位于主岛斯特莱默岛的首都托尔斯港入住.
+
+[#_torshavn]
+== 托尔斯港 (Tórshavn)
+
+从富宁厄前往托尔斯港, 导航软件会推荐经东岛埃斯图罗伊岛的 Strendur, 穿过东岛海底隧道 (Eysturoyartunnilin) 到主岛斯特莱默岛. 我们则选择还是跨越斯特莱默大桥, 然后经 10 号公路, 转到 50 号公路去托尔斯港. 虽然这样会多花 20 分钟左右的时间, 但是一方面可以省去海底隧道的通行费, 另一方面是因为 50 号公路是这次自驾游的第 7 条旅游观光公路, 被称为 "岛屿之路" (https://visitfaroeislands.com/en/whatson/places/place/oyggjarvegurin0[Oyggjarvegurin]).
+
+.法罗群岛的旅游观光公路 - 岛屿之路 (Oyggjarvegurin)
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/oyggjarvegurin.webp[法罗群岛的旅游观光公路 - 岛屿之路 (Oyggjarvegurin)]
+
+在晚上 8 点前, 我们就顺利到达了托尔斯港并入住了我们的民宿. 就在托尔斯港的地标之一, 西教堂 (https://www.visittorshavn.fo/place/vesturkirkjan-church-of-western-torshavn0/[Vesturkirkjan]) 旁边:
+
+.托尔斯港的西教堂 (Vesturkirkjan)
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/vesturkirkjan.webp[法罗群岛的旅游观光公路 - 岛屿之路 (Oyggjarvegurin)]
+
+七月初完全不用担心天色, 法罗群岛这时基本上没有真正意义上的黑夜. 而且我们在海峡大桥那里也采购好了食品, 不必在托尔斯港的第一天就开车在城里去采购了.
 
 [#_resources]
 == 参考资源
