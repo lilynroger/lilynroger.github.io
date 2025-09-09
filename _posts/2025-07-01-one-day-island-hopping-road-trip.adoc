@@ -1,6 +1,6 @@
 = 法罗群岛三大岛跳岛自驾一日游
 :page-categories: posts
-:page-date: 2025-07-01 01:00:00 +0100
+:page-date: 2025-07-01 09:00:00 +0100
 :page-image: assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/risin-kellingin.webp
 :page-page-layout: post
 :page-subtitle: One Day Island Hopping Road Trip in Faroe Islands
