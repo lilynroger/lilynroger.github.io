@@ -60,12 +60,14 @@ TIP: 法罗语中的地名有很多常见的构成部分, 比如 -dalur 的意�
 .穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)
 image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/mulafossur.webp[穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)]
 
-从 Gásadalur, 经 Bøur 到 Sørvágur 的这段公路, 是法罗群岛的link:https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[旅游观光公路]中的一条. 这些旅游观光公路在法罗语中被称为 Sóljuleiðir, 译成英语是 Buttercup Route. 这是以法罗群岛的 "国花" Buttercup (黄油色杯形的小花) 命名的.
+从戈萨达鲁尔村 (Gásadalur) 一直延伸到机场所在的瑟沃格村 (Sørvágur) 的 45 号公路, 被称为 "鹅谷之路" (Gásadalsleið), 是法罗群岛旅游观光公路中的一条.
 
-以 Gásadalur 作为西侧起点的这段旅游观光公路是 45 号公路, 被称为 Gásadalsleið, 字面意思就是是 "鹅谷之路", -leið 就是 "路" 的意思. 下面这张照片就是 Gásadalur 村头的公路:
+TIP: 法罗群岛的旅游观光公路 (Tourist Routes) 在法罗语中被称为 https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Sóljuleiðir], 译成英语是 Buttercup Routes. 这是以法罗群岛的 "国花" Buttercup 命名的. 直译就是 "黄油杯子", 中文学名毛茛 (gèn), 是一种黄油色杯形的小花. 这种花遍布法罗群岛的草丛中.
 
-.戈萨达鲁尔村 (Gásadalur)
-image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/gasadalur.webp[戈萨达鲁尔村 (Gásadalur)]
+下面这张照片就是戈萨达鲁尔村 (Gásadalur) 的 "鹅谷之路":
+
+.戈萨达鲁尔村 (Gásadalur) 的 "鹅谷之路"
+image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/gasadalur.webp[戈萨达鲁尔村 (Gásadalur) 的 "鹅谷之路"]
 
 法罗群岛的名字的含义就是 "绵羊之岛". 在法罗群岛自驾, 一定要时刻小心这些无处不在的羊!
 
@@ -99,7 +101,7 @@ image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/ferry-
 [#_vatnsoyrar]
 == Vatnsoyrar
 
-从 Sørvágur 继续向东继续前行是 11 号公路. 过了机场不远就是 Vatnsoyrar 村了. 它就在法罗群岛最大的湖 - 悬湖 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/the-lakes/lake-leitisvatn-sorvagsvatn[Sørvágsvatn/Leitisvatn]) 的砾石滩之上, 是岛上唯一不在海边, 而是在湖边的 "内陆" 定居点.
+从 Sørvágur 向东继续前行是 11 号公路. 过了机场不远就是 Vatnsoyrar 村了. 它就在法罗群岛最大的湖 - 悬湖 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/the-lakes/lake-leitisvatn-sorvagsvatn[Sørvágsvatn/Leitisvatn]) 的砾石滩之上, 是岛上唯一不在海边, 而是在湖边的 "内陆" 定居点.
 
 如果你的行程很悠闲, 不妨拐下公路去湖边. 法罗群岛的文化标志之一, 取材于当地传说的 https://visitvagar.fo/en/whatson/places/place/the-nix-statue[The Nix] 雕像就伫立在悬湖近岸的浅水中.
 
