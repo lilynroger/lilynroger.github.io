@@ -10,7 +10,7 @@
 :sectnums:
 :url-gasadalur-apartments: https://www.booking.com/hotel/fo/gasadalur-apartments-world-famous-waterfall.html
 
-首都托尔斯港 (Tórshavn) 所在的斯特莱默 (Streymoy), 东岛埃斯图罗伊 (Eysturoy), 和机场所在的沃格 (Vágar), 是法罗群岛最大的的三个岛. 这篇游记记录了我们自驾从戈萨达鲁尔 (Gásadalur) 出发, 游览萨克松 (Saksun), 特约尔努维克 (Tjørnuvík), 艾迪 (Eiði), 格约格夫 (Gjógv), 最后到达托尔斯港的一天.
+首都托尔斯港 (Tórshavn) 所在的斯特莱默 (Streymoy), 东岛埃斯图罗伊 (Eysturoy) 和机场所在的沃格 (Vágar) 是法罗群岛最大的的三个岛. 这篇游记记录了我们自驾从戈萨达鲁尔 (Gásadalur) 出发, 游览萨克松 (Saksun), 特约尔努维克 (Tjørnuvík), 艾迪 (Eiði), 格约格夫 (Gjógv), 富宁厄 (Funningur), 最后到达托尔斯港的一天.
 
 [#_overview]
 == 行程简介
@@ -97,7 +97,7 @@ image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/route-m
 [#_gasadalur]
 == 戈萨达鲁尔 (Gásadalur)
 
-沃格岛最西端的山谷中隐藏着戈萨达鲁尔村 (Gásadalur). 它的名字的字面意思是 "鹅谷". 直到 2004 年随着山岭隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最具标志性的的的穆拉瀑布 (Múlafossur) 的所在地. 座落在世界边缘的尽头, 戈萨达鲁尔村 (Gásadalur) 毫无疑问是法罗群岛最漂亮的村庄. 我们在法罗群岛的前半段行程就选择住在这里的 {url-gasadalur-apartments}[Gásadalur Apartments] 民宿, 终身难忘的体验. 我们就是从这里出发开始我们的跳岛自驾游.
+沃格岛最西端的山谷中隐藏着戈萨达鲁尔村 (Gásadalur). 它的名字的字面意思是 "鹅谷". 直到 2004 年随着山岭隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最具标志性的穆拉瀑布 (Múlafossur) 的所在地. 座落在世界边缘的尽头, 戈萨达鲁尔村 (Gásadalur) 毫无疑问是法罗群岛最漂亮的村庄. 我们在法罗群岛的前半段行程就选择住在这里的 {url-gasadalur-apartments}[Gásadalur Apartments] 民宿, 终身难忘的体验. 我们就是从这里出发开始我们的跳岛自驾游.
 
 .穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)
 image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/mulafossur.webp[穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)]
@@ -110,9 +110,9 @@ TIP: 法罗群岛的旅游观光公路 (Tourist Routes) 在法罗语中被称为
 
 从瑟沃格村 (Sørvágur) 向东继续前行是 11 号公路. 过了沃格机场之后, 会路过法罗群岛最大的湖 - 悬湖 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/the-lakes/lake-leitisvatn-sorvagsvatn[Sørvágsvatn/Leitisvatn]). 法罗群岛的文化标志之一, 取材于当地传说的 https://visitvagar.fo/en/whatson/places/place/the-nix-statue[The Nix] 雕像就伫立在悬湖近岸的浅水中.
 
-继续 11 号公路下一个村子就是米德沃格村了 (Miðvágur) 了. 多数游客来到这个村子是为了著名的 Trælanípa/Bøsdalafossur 徒步路线. 路线的起点就在这个村子的教堂边, 而终点就是 https://visitvagar.fo/en/whatson/places/place/tralanipan0?region=7[Trælanípa] 悬崖, 和 http://visitvagar.fo/en/whatson/places/place/bosdalafossur-waterfall?region=7[Bøsdalafossur] 瀑布.
+沿着 11 号公路的下一个村子就是米德沃格 (Miðvágur) 了. 多数游客来到这里都是为了著名的 Trælanípa/Bøsdalafossur 徒步路线. 路线的起点就在村庄教堂边, 而终点就是 https://visitvagar.fo/en/whatson/places/place/tralanipan0?region=7[Trælanípa] 悬崖, 和 http://visitvagar.fo/en/whatson/places/place/bosdalafossur-waterfall?region=7[Bøsdalafossur] 瀑布.
 
-自驾游在沃格岛西侧的最后一站是桑达沃格村 (Sandavágur). 它是我们最喜欢的村庄之一, 风景如画, 特别是村庄教堂极具特色的红色屋顶使其成为法罗群岛最漂亮的教堂之一.
+自驾游在沃格岛东端的最后一站是桑达沃格村 (Sandavágur). 它是我们最喜欢的村庄之一, 风景如画, 特别是村庄教堂极具特色的红色屋顶使其成为法罗群岛最漂亮的教堂之一.
 
 .桑达沃格村 (Sandavágur)
 image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/sandavagur.webp[桑达沃格村 (Sandavágur)]
@@ -137,7 +137,7 @@ TIP: 斯特莱默岛 (Streymoy) 的名字来自法罗语的 _streym + oy_. 第�
 
 法罗群岛的 10 号公路是交通大动脉. 这条公路将首都托尔斯港一直连接到位于北方诸岛上的第二大城镇克拉克斯维克 (Klaksvík). 在斯特莱默岛上, 10 号公路向东南去往托尔斯港. 向西北则去往斯特莱默岛和东岛埃斯图罗伊岛之间的海峡大桥. 我们就是沿着 10 号公路向西北, 在接近海峡大桥之前, 在一个叫 Hvalvík 的小村子那里左转到 53 号公路上.
 
-TIP: Hvalvík 由 _hval_ + _vík_ 构成. 前者意思是 "鲸", 如果你有兴趣尝尝法罗群岛的鲸肉, 你就遇到到这个词, 不妨记住. 后缀 _-vík_ 在法罗群岛地名中很常见, 指的是 "海湾". 所以 Hvalvík 直译就是 "鲸湾". 因为始于 Hvalvík, 53 号公路也叫 Hvalvíkvegur. 其中, _-vegur_ 就是 "路" 的意思, Hvalvíkvegur 直译就是 "鲸湾路".
+TIP: Hvalvík 由 _hval_ + _vík_ 构成. 前者意思是 "鲸", 如果你有兴趣尝尝法罗群岛的鲸肉, 你可能就会遇到这个词, 不妨记住. 后缀 _-vík_ 在法罗群岛地名中很常见, 指的是 "海湾". 所以 Hvalvík 直译就是 "鲸湾". 因为始于 Hvalvík, 53 号公路也叫 Hvalvíkvegur. 其中, _-vegur_ 就是 "路" 的意思, Hvalvíkvegur 直译就是 "鲸湾路".
 
 53 号公路穿过狭长的峡谷, 一直通往萨克松 (Saksun). 这条公路是法罗群岛旅游观光公路中的一条, 称为 "萨克松之路" (法罗语: Saksunarleið). 萨克松之路沿途极其僻静, 但风景秀丽. 不过这条路大部分路段都很狭窄, 只有一条车道. 在单车道上遇到迎面而来的交通时, 需要驶入路侧临时停车带避让.
 
@@ -148,11 +148,11 @@ TIP: Hvalvík 由 _hval_ + _vík_ 构成. 前者意思是 "鲸", 如果你有兴
 .萨克松 (Saksun)
 image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/saksun.webp[萨克松 (Saksun)]
 
-村子里几栋散落的草顶小屋现在是 Dúvugarðar 露天博物馆的一部分. 博物馆之在夏季向游客开放. 门票不便宜, 每人 150 丹麦克朗 (2025 年).
+村子里几栋散落的草顶小屋现在是 Dúvugarðar 露天博物馆的一部分. 博物馆只在夏季向游客开放. 门票不便宜, 每人 150 丹麦克朗 (2025 年).
 
 在萨克松, 可以停留 90 分钟左右. 参观一下博物馆, 或是探访一下泻湖的沙滩, 又或是爬上半山腰, 俯瞰萨克松全貌.
 
-萨克松 (Saksun) 是多条徒步路线的起点, 其中最热门的是萨克松 - 特约尔努维克 (Saksun - Tjørnuvík) 的徒步路线:
+萨克松 (Saksun) 是多条徒步路线的起点, 其中最热门的是萨克松 - 特约尔努维克 (Saksun - Tjørnuvík) 的徒步路线. 虽然这条路线本身难度不大, 但是却是点对点 (link:{% post_url 2025-08-28-types-of-hiking-by-trail-format %}[Point-to-Point]) 类型的. 从交通的角度讲并不容易. 特别是萨克松这里完全没有公共交通, 而路线的另一端特约尔努维克那里的公共交通也非常有限.
 
 .萨克松 - 特约尔努维克 (Saksun - Tjørnuvík) 的徒步路线
 image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/hiking-route-saksun-tjornuvik.webp[萨克松 - 特约尔努维克 (Saksun - Tjørnuvík)]
@@ -213,28 +213,28 @@ image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/eidi-ca
 * 通往北边的格约格夫 (Gjógv): 峡谷之路 (Gjáarleið)
 * 通往东边的富宁厄 (Funningur): 富宁厄之路 (Funningsleið)
 
-其中艾迪垭口之路是我们在法罗群岛最喜欢的一段路. 从艾迪教堂出发, 向左一路向上爬去往垭口. 途中在山上的高地会经过一个小停车场, 这里是巨人和女巫海蚀柱的观景点 (Risin og Kellingin viewpoint).
+其中艾迪垭口之路是我们在法罗群岛最喜欢的一段路. 从艾迪教堂出发, 向左一路向上去往垭口. 途中在高山台地上会经过一个道路左侧的小停车场, 这里是巨人和女巫海蚀柱的观景点 (Risin og Kellingin viewpoint).
 
 .巨人和女巫海蚀柱 (The Giant and The Witch, 法罗语: Risin og Kellingin)
 image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/eidi-risin-kellingin.webp[巨人和女巫海蚀柱 (The Giant and The Witch, 法罗语: Risin og Kellingin)]
 
-继续向东不到 5 公里, 在垭口的最高处还有一个停车场. 这里是登顶最高峰 https://visitfaroeislands.com/en/whatson/places/place/slattaratindur0[Slættaratindur] 的徒步路线的起点. 法罗语 Slættaratindur 的字面意思是 Flat Summit, 大意就是平顶山, 只因为这座山的顶峰是有上千平米的平地. 每年的夏至 (6 月 21 日), 人们来到这里登顶, 观赏紧随日落之后的日出已经成为一项传统.
+继续向东不到 5 公里, 在垭口的最高处还有一个停车场. 这里是登顶最高峰 https://visitfaroeislands.com/en/whatson/places/place/slattaratindur0[Slættaratindur] 的徒步路线的起点. 法罗语 Slættaratindur 的字面意思是 Flat Summit, 大意就是平顶山, 只因为这座山的顶峰是一块上千平米的平地. 每年的 6 月 21 日, 人们来到这里登顶, 观赏紧随日落之后的日出已经成为一项传统.
 
-经过 Slættaratindur 徒步起点的停车场, 向垭口的东侧继续前行, 经过两个发卡弯就是三岔路口了. 向右的发卡弯就是去往东边的富宁厄之路 (Funningsleið) 了. 我们在这里继续直行就是峡谷之路 (Gjáarleið) 去往我们的下一站, 格约格夫 (Gjógv).
+经过 Slættaratindur 徒步起点的停车场, 向垭口的东侧继续前行, 经过两个发卡弯就是三岔路口了. 向右的发卡弯就是去往东边的富宁厄之路 (Funningsleið) 了. 我们在这里继续直行就是峡谷之路 (Gjáarleið), 去往我们的下一站, 格约格夫 (Gjógv).
 
 [#_gjogv]
 == 格约格夫 (Gjógv)
 
-沿峡谷之路 (Gjáarleið) 向北 5 公里左右就到了格约格夫 (Gjógv). 法罗语 Gjógv 的意思就是峡谷 (Gorge), 这个村子说白了就叫 "峡谷村". 因村庄里的著名的景观海蚀峡谷而得名.
+沿峡谷之路 (Gjáarleið) 向北 5 公里左右就到了格约格夫 (Gjógv). 法罗语 Gjógv 的意思就是 "峡谷" (Gorge), 这个村子直译就叫 "峡谷村", 因村子里的著名的海蚀峡谷景观而得名.
 
 在格约格夫比较困扰我们的是如何停车. 沿峡谷之路下来刚到村子, 右手边就有一个整洁而且足以容纳几十辆车的停车场, 但却挂着私人停车场 (Privat Parkering) 的牌子. 在格约格夫天然港 (Gjógv Natural Harbour) 那里也有一小片空地可以停下几辆车, 但并没有任何标识.
 
 .格约格夫 (Gjógv)
 image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/gjogv.webp[格约格夫 (Gjógv)]
 
-格约格夫 (Gjógv) 的海蚀峡谷也是法罗群岛比较知名的景点之一. 沿峡谷的南岸的步道走到尽头, 可以看到一张观景长椅, 称为 "玛丽的长椅" (Mary's Bench, 丹麦语: Mary's Bænk), 以丹麦王储妃玛丽的名字命名. 玛丽于 2005 年到访, 是第一个坐上长椅的人. 如果你有勇气, 在峡谷这一侧最前端的悬崖上,有一处石阶, 可以站上去, 脚下就是狂野的北大西洋.
+格约格夫 (Gjógv) 的海蚀峡谷也是法罗群岛比较知名的景点之一. 沿峡谷的南岸的步道走到尽头, 可以看到一张观景长椅, 称为 "玛丽的长椅" (Mary's Bench, 丹麦语: Mary's Bænk), 以丹麦王妃玛丽的名字命名. 当时还是王储妃的玛丽于 2005 年到访, 是第一个坐上长椅的人. 如果你有勇气, 在峡谷这一侧最前端的悬崖上,有一处石阶, 可以站上去, 直面脚下狂野的北大西洋.
 
-峡谷的北岸有一条沿着悬崖向上的步道, 通往在半山腰上的一条徒步路线的起点. 如果你运气好, 在夏季有机会这边的悬崖上见到海鹦 (Puffins). 我们正在徒步而上时, 突遇大雨, 没办法只好打道回府了.
+峡谷的北岸有一条沿着悬崖而上的步道, 通往在半山腰的一条徒步路线的起点. 如果你运气好, 在夏季有机会这边的悬崖上见到海鹦 (Puffins). 我们正在徒步而上时, 突遇大雨, 没办法只好打道回府了.
 
 .格约格夫 (Gjógv) 的海蚀峡谷
 image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/gjogv-gorge.webp[约格夫 (Gjógv) 的海蚀峡谷]
