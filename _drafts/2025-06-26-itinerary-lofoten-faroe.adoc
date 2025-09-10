@@ -8,13 +8,17 @@
 :page-liquid:
 :toc:
 :sectnums:
+:url-gasadalur-apartments: https://www.booking.com/hotel/fo/gasadalur-apartments-world-famous-waterfall.html
 
 挪威的罗弗敦群岛拥有山峰, 峡湾, 岛屿和沙滩, 吸引着来自世界各地的徒步, 登山, 冲浪和皮划艇爱好者来到这座户外运动的天堂. 而丹麦的法罗群岛作为北大西洋上最后的的秘境, 世界的边缘, 同样拥有峡湾, 悬崖, 海蚀柱, 童话般的草顶村落, 此外还有蠢萌的海鹦. 我们的罗弗敦群岛和法罗群岛之旅在 18 天的行程中一次探访两个群岛.
 
+[#_stays]
 == 住宿
 
 罗弗敦群岛是我们此行的主要目的地, 然后是法罗群岛. 我们分别在罗弗敦群岛和法罗群岛住了 9 晚和 6 晚. 此外, 乘机到达和离开北欧时分别在哥本哈根和奥斯陆停留了 1 晚和 2 晚. 下面是此行的住宿一览表:
 
+.住宿一览表
+[cols="4,6,2"]
 |===
 | 地点 | 住宿 | 停留
 
@@ -47,10 +51,12 @@
 | 2 晚
 |===
 
+[#_flights]
 == 航班
 
 往返北欧的航班我们选择了阿联酋航空. 在哥本哈根, 法罗群岛, 罗弗敦群岛和奥斯陆之间也选择搭乘飞机. 下面是此行的航班一览表:
 
+.航班一览表
 |===
 | 出发 - 中转 - 到达 | 航空公司
 
@@ -70,10 +76,13 @@
 | 阿联酋航空 (Emirates)
 |===
 
+[#_cars]
 == 租车
 
 罗弗敦群岛和法罗群岛的公共交通都相当有限. 初次探访两地, 租车是最佳选择. 下面是此行租车的一览表:
 
+.租车一览表
+[cols="9,3"]
 |===
 | 租车地点 | 租车公司
 
@@ -84,6 +93,7 @@
 | Hertz
 |===
 
+[#_day1]
 == D1: 抵达丹麦哥本哈根
 
 我们搭乘阿联酋航空的航班, 凌晨从北京出发, 在迪拜中转, 当日中午就可以到达丹麦首都哥本哈根. 我们选择在哥本哈根停留一晚, 第二天下午搭乘飞机前往法罗群岛. 这样行程会稍微轻松一些, 也稳妥一点.
@@ -103,12 +113,15 @@
 
 说到晚饭, 推荐位于哥本哈根北门车站 (Nørreport) 附近的 Torvehallerne 食品市场, 不管是本地人还是游客都非常喜爱.
 
+.罗森堡宫 (Rosenborg Castle)
 image::assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/rosenborg-castle.webp[罗森堡宫 (Rosenborg Castle)]
 
+[#_where_we_stayed_in_cph]
 === 我们在哥本哈根的住处
 
 Scandic Palace Hotel 是哥本哈根最大的广场市政厅广场 (City Hall Square, 丹麦语: Rådhuspladsen) 上的标志性建筑. 酒店历史悠久, 但又不是很贵. 地铁 Rådhuspladsen 站就在广场上. 蒂沃利花园近在咫尺, 哥本哈根中央火车站 (Copenhagen Central Station, 丹麦语: København H) 也步行可达.
 
+[#_day2]
 == D2: 抵达法罗群岛的沃格岛
 
 这一天我们从哥本哈根出发飞往法罗群岛. 大西洋航空公司 (Atlantic Airways) 和北欧航空 (Scandinavian Airlines) 在夏季每天都有往返于link:https://www.flightsfrom.com/FAE-CPH[哥本哈根和法罗群岛之间的航班]. 我们选择中午的航班. 上午可以借着晨跑的机会再次领略城市风光. 而下午到达法罗群岛以后可以直接入住.
@@ -121,18 +134,22 @@ Scandic Palace Hotel 是哥本哈根最大的广场市政厅广场 (City Hall Sq
 
 法罗群岛的各大诸岛虽然有四通八达的海底隧道连接在一起, 但是收费不菲. 行程安排上最好避免经常往返这些海底隧道. 沃格岛是法罗群岛的 "西岛". 这里有机场, 瀑布, 悬湖和海蚀柱. 前往米基内斯岛观海鹦的轮渡也在这里. 所以, 我们在法罗群岛前半段旅程就以沃格岛为落脚点探访群岛的西部.
 
+[#_where_we_stayed_on_vagar]
 === 我们在沃格岛的住处
 
-沃格岛最西端的山谷中隐藏着加萨达鲁尔村 (Gásadalur). 直到 2004 年随着穿山隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最著名的穆拉瀑布 (Múlafossur) 的所在地. 我们选择住在这里最最代表性的一家民宿, Gásadalur Apartments @ World famous waterfall, 是的, 名字有点长.
+沃格岛最西端的山谷中隐藏着加萨达鲁尔村 (Gásadalur). 直到 2004 年随着穿山隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最著名的穆拉瀑布 (Múlafossur) 的所在地. 我们选择住在这里最最代表性的一家民宿: {url-gasadalur-apartments}[Gásadalur Apartments].
 
 下面这张照片中的瀑布就是穆拉瀑布. 瀑布背景中的小村子就是 Gásadalur 村, 而村子前排右边连着的三间公寓就是 Gásadalur Apartments 了. 住在这个世界边缘的尽头, 绝对是终身难忘的体验.
 
+.穆拉瀑布 (Múlafossur) 和加萨达鲁尔村 (Gásadalur)
 image::assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/mulafossur.webp[穆拉瀑布 (Múlafossur) 和加萨达鲁尔村 (Gásadalur)]
 
+[#_day3]
 == D3: 沃格岛自驾游
 
 今天是轻松的沃格岛一日自驾游. 从沃格岛西侧我们住的 Gásadalur 出发, 一直到沃格岛东侧的 Sandavágur, 然后原路返回. 自西向东依次是下面这几个村庄:
 
+.沃格岛自驾游的行程
 |===
 | 法罗语名 | 音译 | 字面意思
 
@@ -170,6 +187,7 @@ TIP: 法罗语中的地名有很多常见的构成部分, 比如 -dalur 的意�
 .女巫手指 (Trøllkonufingur)
 image::assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/trollkonufingur.webp[女巫手指 (Trøllkonufingur)]
 
+[#_day4]
 == D4: 米基内斯岛看海鹦
 
 大西洋海雀 (Puffin), 俗称海鹦鹉或者海鹦 (Sea Parrot). 因为它蠢萌的长相, 有时也被戏称 "小丑海鸟" (Clowns of the Sea).
@@ -180,13 +198,14 @@ image::assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/trollkonufingur.
 
 IMPORTANT: 前往米基内斯岛的轮渡极易受到天气因素影响, 被取消是家常便饭, 可能的话, 尽量灵活规划行程. 好在所有的预定在被取消时都可以获得全额的退款. 
 
-此外, 米基内斯岛也不是法罗群岛唯一能够观赏海鹦的地方, 我们在卡尔索伊岛 (Kalsoy) 徒步卡卢林灯塔 (Kallurin) 时, 在邦德的墓碑所在的悬崖那里, 近距离看到了很多的海鹦. 值得一提的是, 不论在哪里看海鹦, 都需要长焦相机才能拍出完美的照片, 手机差强人意. 下面这张照片是手机拉进拍的.
+此外, 米基内斯岛也不是法罗群岛唯一能够观赏海鹦的地方, 我们在卡尔索伊岛 (Kalsoy) 徒步卡卢林灯塔 (Kallurin) 时, 在邦德的墓碑所在的悬崖那里, 近距离看到了很多的海鹦. 值得一提的是, 不论在哪里看海鹦, 都需要长焦相机才能拍出完美的照片, 手机差强人意. 下面这张照片是手机拉近拍的.
 
 .邦德的墓碑附近的海鹦
 image::assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/puffins-kalsoy.webp[邦德的墓碑附近的海鹦]
 
 天公不作美, 我们预定的这一天前往海鹦岛的轮渡因天气原因取消了. 不过, 这里有一些有用的信息, 希望你有好运气.
 
+[#_getting_to_mykines]
 === 如何前往米基内斯岛
 
 在沃格岛上的 Sørvágur 村, 也就是紧邻机场西侧的村子, 有一个港口, 前往米基内斯岛的 36 号线轮渡就在这里停靠. 在夏季, 每天有早中晚三班轮渡往返于 Sørvágur 到米基内斯岛. 在负责运营法罗群岛公共交通的机构 https://www.ssl.fo/en[Strandfaraskip Landsins] 的官网上, 有这条轮渡的详细信息: https://www.ssl.fo/en/timetable/ferry/36-soervagur-mykines/[36 Sørvágur - Mykines].
@@ -199,7 +218,32 @@ NOTE: 米基内斯岛的轮渡码头在岛的西侧, 非常狭小和简陋. 糟�
 
 需要注意的本地人乘坐直升机的价格非常便宜, 比如沃格岛飞海鹦岛只要 145 丹麦克朗. 而直升机班次很少, 一周四班, 座位也很有限. 所以一定要提前预定直升机. 此外, 直升机不可以预定当天的往返票, 同一天的行程只能是单程. 这就意味着当天往返的行程需要提前预定好直升机加轮渡.
 
+[#_day5]
 == D5: 三大岛跳岛自驾游 + 抵达托尔斯港
+
+我们在法罗群岛的行程分为两段, 前半段住在沃格岛的戈萨达鲁尔, 后半段住在主岛斯特莱默岛上的首都托尔斯港. 在退房离开戈萨达鲁尔前往托尔斯港的当天, 云淡风轻. 与其早早的去托尔斯港等待入住, 我们决定不如趁着稍纵即逝的好天气, 来个三大岛跳岛自驾一日游.
+
+我们的自驾游路线串联起了法罗群岛最大的 3 个岛上主要的亮点村镇. 整个线路途经法罗群岛 11 条旅游观光公路中的 7 条. 全程大部分时间都是行驶在旅游观光公路上. 以下是自驾游的起点, 终点, 途径点和所在岛屿:
+
+.三大岛跳岛自驾游的行程
+|===
+| 法罗语地名, 岛屿名 | 中文地名, 岛屿名
+
+| Gásadalur, Vágar | 戈萨达鲁尔, 沃格 (机场)
+| Saksun, Streymoy | 萨克松, 斯特莱默 (主岛)
+| Tjørnuvík, Streymoy | 特约尔努维克, 斯特莱默 (主岛)
+| Eiði, Eysturoy | 艾迪, 埃斯图罗伊 (东岛)
+| Gjógv, Eysturoy | 格约格夫, 埃斯图罗伊 (东岛)
+| Funningur, Eysturoy | 富宁厄, 埃斯图罗伊 (东岛)
+| Tórshavn, Streymoy | 托尔斯港, 斯特莱默 (主岛)
+|===
+
+这一天的详细信息可以参考我们的游记: link:{% post_url 2025-07-01-one-day-island-hopping-road-trip %}[法罗群岛三大岛跳岛自驾一日游].
+
+.法罗群岛三大岛跳岛自驾一日游路线图
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/island-hopping-route-map.webp[.法罗群岛三大岛跳岛自驾一日游路线图]
+
+== D6: 徒步卡尔索伊岛 (Kalsoy) 的卡卢林灯塔 (Kallurin)
 
 TBD
 
