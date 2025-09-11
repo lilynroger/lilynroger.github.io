@@ -41,7 +41,7 @@ https://www.mbta.com[MBTA] 的出行方式:
 
 小贴士:
 
-* 使用查理卡, 支持两小时以内免费或者打折换乘最多两次 (没有购买通票时).
+* 使用查理卡, 支持两小时以内免费换乘最多两次 (没有购买通票时).
 * 地铁运行方向 Inbound 是去往市中心; Outbound 则是驶离市中心方向.
 * 蓝, 橙, 和红线是标准的地铁列车, 绿线则是轻轨电车  (Light rail trolley), 车顶用电弓的那种.
 * 地铁在地下运行时, 每站都停. 但是绿线地铁在地面上运行时, 乘客到站前, 需要主动要求停站.
@@ -83,7 +83,7 @@ image::assets/images/2025/us-italy/boston-public-transportation/2025-08-25-subwa
 [#_the_green_line]
 === 绿线
 
-绿线是波士顿最古老的地铁线路, 也是如今最复杂的地铁线路. 这条线路有 B, C, D, E 四条分支. 连接着波士顿市中心及西部和北部的八个不同城镇. 乘车时要注意看清是不是正确的支线. 绿线是轻轨电车, 线路即有地下行驶的部分, 也有地上部分. 绿线是因为它穿过波士顿的 https://www.emeraldnecklace.org[Emerald Necklace] 公园系统而得名.
+绿线是波士顿最古老的地铁线路, 也是如今最复杂的地铁线路. 这条线路有 B, C, D, E 四条分支. 连接着波士顿市中心及西部和北部的八个不同城镇. 乘车时要注意看清是不是正确的支线. 绿线是轻轨电车, 线路既有地下行驶的部分, 也有地上部分. 绿线是因为它穿过波士顿的 https://www.emeraldnecklace.org[Emerald Necklace] 公园系统而得名.
 
 .波士顿绿线地铁
 image::assets/images/2025/us-italy/boston-public-transportation/green-line.webp[波士顿绿线地铁]
@@ -115,7 +115,7 @@ image::assets/images/2025/us-italy/boston-public-transportation/park-street-subw
 [#_the_orange_line]
 === 橙线
 
-橙线连接北部, 市中心和南部. 因其上的 Washington 街以前曾经叫 Orange 街而得名.
+橙线连接北部, 市中心和南部. 因为其上的 Washington 街以前曾经叫 Orange 街而得名.
 
 * 最老的 https://www.haymarketboston.org[Haymarket] 农贸市场: Haymarket 站
 * 北岸花园球馆 (TD Garden): North Station 站
@@ -135,9 +135,9 @@ image::assets/images/2025/us-italy/boston-public-transportation/orange-line.webp
 * 波士顿洛根国际机场: Airport 站可以换乘机场班车前往各航站楼
 
 [#_other_modes_of_transit]
-== 其它出行方式
+== 其他出行方式
 
-这里简单介绍一下波士顿的其它交通出行方式.
+这里简单介绍一下波士顿的其他交通出行方式.
 
 [#_silver_lines]
 === 银线
@@ -166,9 +166,9 @@ image::assets/images/2025/us-italy/boston-public-transportation/south-station.we
 
 通勤火车涵盖整个大波士顿地区及其周边地区. 通勤火车是波士顿周边一日游的理想交通工具.
 
-* 塞勒姆 (https://www.salem.org[Salem]): 女巫之城, 半小时火车车程, 往返火车票 16 美金.
+* 塞勒姆 (https://www.salem.org[Salem]): 女巫之城, 半小时火车车程, 往返火车票 16 美元.
 
-TIP: 每个周末, 包括周六日, 可以购买https://www.mbta.com/fares/commuter-rail-weekends[通勤火车周末通票]. 只要 10 美金, 全部通勤火车线路, 无限乘坐. 这个通票可以在火车站直接购买, 也可以在 mTicket 应用程序里购买.
+TIP: 每个周末, 包括周六日, 可以购买通勤火车周末通票, 只要 10 美元, 全部通勤火车线路, 无限乘坐. 这个通票可以在火车站直接购买, 也可以在 mTicket 应用程序里购买. 详情可以参考官网信息: https://www.mbta.com/fares/commuter-rail-weekends[$10 Commuter Rail Weekend and Holiday Passes]
 
 [#_ferry]
 === 轮渡
@@ -180,7 +180,7 @@ TIP: 每个周末, 包括周六日, 可以购买https://www.mbta.com/fares/commu
 
 波士顿的共享单车系统叫 https://bluebikes.com[Bluebikes]. 有数千辆传统和电动共享单车, 超过 400 个市区和周边地区的站点. 使用 Bluebikes 共享单车需要下载 Bluebikes 手机应用. 不能使用公交查理卡付费.
 
-波士顿共享单车的骑行费比较贵. 比如单次骑行是 2.95 美元 30 分钟; 超时后 0.25 美元每分钟 (2025 年). Bluebikes 也支持单日骑行通票. 参考官网https://bluebikes.com/pricing[最新的骑行费]信息.
+波士顿共享单车的骑行费比较贵. 比如单次骑行是 2.95 美元 30 分钟; 超时后 0.25 美元每分钟 (2025 年). Bluebikes 也支持单日骑行通票. 参考官网有关骑行费的最新信息: https://bluebikes.com/pricing[Plans & Pricing]. 
 
 [#_fares_and_tickets]
 == 车费和车票
@@ -194,7 +194,7 @@ TIP: 每个周末, 包括周六日, 可以购买https://www.mbta.com/fares/commu
 
 [cols="3,3,6"]
 |===
-| 类型 | 票价 (美金) | 备注
+| 类型 | 票价 (美元) | 备注
 
 | 地铁
 | $2.40
@@ -232,7 +232,7 @@ TIP: 每个周末, 包括周六日, 可以购买https://www.mbta.com/fares/commu
 * 查理卡没有工本费.
 * 查理卡比纸质的查理票耐用.
 * 查理卡换乘优惠政策比查理票要多.
-* 可以https://mycharlie.mbta.com[在线管理查理卡].
+* 可以在线管理查理卡: https://mycharlie.mbta.com[MyCharlie].
 * 作为游客我们不需要查理卡不支持的月票.
 
 所以, 推荐在任何可用的情形下都使用查理卡. 在乘火车和渡轮时使用 mTicket 应用程序.
@@ -257,7 +257,7 @@ image::assets/images/2025/us-italy/boston-public-transportation/fare-vending-mac
 买到查理卡之后, 就可以为其充值, 如果在波士顿游览时间比较长, 比如一周, 推荐充七日通票.
 
 |===
-| 通票 | 票价 (美金)
+| 通票 | 票价 (美元)
 
 | 单日通票 (Adult 1-Day Pass)
 | $11.00
