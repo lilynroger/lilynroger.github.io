@@ -8,6 +8,7 @@
 :page-liquid:
 :toc:
 :sectnums:
+:url-trail-difficulty: https://visitfaroeislands.com/en/see-do/activities/hiking/trail-difficulty
 
 法罗语 https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1[Trøllkonufingur] 的意思是 Troll Woman's Finger/The Witch's Finger, 女巨魔的手指或女巫的手指. 它是一座巍峨耸立于海平面上高 313 米的奇石, 在沃格岛 (Vágar) 上的 Sandavágur 村的东南端. 前往女巫手指的观景点需要徒步, 是法罗群岛少数无需徒步费的热门徒步路线之一.
 
@@ -20,7 +21,7 @@ image::assets/images/2025/lofoten-faroe/hiking-trollkonufingur/trollkonufingur.w
 * *距离*: 3 公里 (往返)
 * *累计爬升*: 100 米
 * *用时*: 1 小时
-* *难度*: 简单
+* *难度*: 简单 (Easy), {url-trail-difficulty}[法罗群岛步道难度]
 
 == 传说
 
@@ -76,4 +77,5 @@ image::assets/images/2025/lofoten-faroe/hiking-trollkonufingur/fiskastykkid.webp
 * 法罗群岛旅游官网之女巫手指: https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1[Trøllkonufingur]
 * 法罗群岛旅游官网之沃格岛: https://visitvagar.fo/en[Visit Vágar]
 * 法罗群岛旅游局官网: https://visitfaroeislands.com/en[Visit Faroe Islands]
+* 法罗群岛旅游推广机构官网 - 步道难度: https://visitfaroeislands.com/en/see-do/activities/hiking/trail-difficulty[Trail Difficulty]
 
