@@ -2,15 +2,15 @@
 :page-categories: posts
 :page-date: 2025-06-15 08:00:00 +0800
 :page-image: assets/images/2025/lofoten-faroe/airport-fae/airport-fae.png
-:page-modified_time: 2025-06-15 08:00:00 +0800
-:page-page-layout: post
+:page-modified_time: 2025-09-12 08:00:00 +0800
+:page-layout: post
 :page-subtitle: Guide to Vágar Airport (FAE), Faroe Islands
 :page-tags: [2025-Lofoten-Faroe, 旅行, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 机场]
 :page-liquid:
 :toc:
 :sectnums:
 
-沃格机场 (Vágar Airport) 是法罗群岛唯一的民用机场, 位于沃格岛上的瑟沃格村 (Sørvágur) 以东 1.9 公里, 首都托尔斯港 (Tórshavn) 以西 46 公里. 作为丹麦的海外高度自治领地. 法罗群岛也拥有自己的 "国航", 即大西洋航空 (Atlantic Airways), 沃格机场是它的基地. 这篇机场攻略将帮助你了解沃格机场的实用信息.
+沃格机场 (Vágar Airport, 法罗语: Vága Floghavn) 是法罗群岛唯一的机场, 位于沃格岛的瑟沃格村 (Sørvágur) 以东 1.9 公里, 首都托尔斯港 (Tórshavn) 以西 46 公里. 作为丹麦的海外自治领地. 法罗群岛拥有自己的 "国航", 即大西洋航空 (Atlantic Airways), 沃格机场是它的基地. 这篇攻略将帮助你了解沃格机场的实用信息.
 
 [#_quick_facts]
 == 基本信息
@@ -20,7 +20,7 @@
 * *位置:* 沃格岛上的瑟沃格村以东 1.9 公里, 首都托尔斯港以西 46 公里
 * *航站楼:* 一座航站楼
 * *公共交通:* 公交车
-* *官方网站:* https://www.fae.fo/en
+* *官方网站:* https://www.fae.fo/en[Vága Floghavn]
 
 [#_terminal]
 == 航站楼
@@ -71,6 +71,9 @@ image::assets/images/2025/lofoten-faroe/airport-fae/fae-dutyfree.webp[沃格机�
 
 NOTE: 需要注意的是, 这个当日的联程航班路线在我们常用的在线旅游平台上都没有. 我们是直接在维德罗航空的官网预订的.
 
+.威德罗航空 (Widerøe) 的螺旋桨飞机
+image::assets/images/2025/lofoten-faroe/airport-fae/wideroe.webp[威德罗航空 (Widerøe) 的螺旋桨飞机]
+
 [#_public_transport]
 == 公共交通
 
@@ -101,7 +104,7 @@ NOTE: 需要注意的是, 这个当日的联程航班路线在我们常用的在
 * 机场免税店的官网: https://en.dutyfree.fo[Duty Free FAE Plus]
 * 国家酒类专卖店官网: https://rusan.fo/[Rúsdrekkasøla Landsins]
 * 维德罗航空官网: https://www.wideroe.no/en[Widerøe]
-* 法罗群岛公共交通的官网: https://www.ssl.fo/en/[Strandfaraskip Landsins (SSL)]
-* 大西洋航空官网之直升机: https://www.atlanticairways.com/en/helicopter/[Helicopter]
-* 法罗群岛公共交通线路图: https://www.ssl.fo/en/timetable/route-overview[Route Overview]
-* 法罗群岛旅游信息官网: https://visitfaroeislands.com/en/plan-your-stay/getting-around/public-transportation0[Visit Faroe Islands]
+* 法罗群岛公共交通官网: https://www.ssl.fo/en/[Strandfaraskip Landsins (SSL)]
+* 大西洋航空官网 - 直升机: https://www.atlanticairways.com/en/helicopter/[Helicopter]
+* 法罗群岛公共交通官网 - 线路图: https://www.ssl.fo/en/timetable/route-overview[Route Overview]
+* 法罗群岛旅游推广机构官网: https://visitfaroeislands.com/en/plan-your-stay/getting-around/public-transportation0[Visit Faroe Islands]
