@@ -1,0 +1,121 @@
+= 徒步挪威的布道石 / 布道台
+:page-layout: post
+:page-categories: posts
+:page-image: /assets/images/2024/scandinavia/preikestolen/preikestolen-landscape.webp
+:page-date: 2024-06-02 08:00:00 +0200
+:page-modified_time: 2025-09-13 08:00:00 +0800
+:page-subtitle: Hiking Pulpit Rock (Preikestolen) in Norway
+:page-tags: [2024-Scandinavia, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 峡湾, 徒步, 精选]
+:page-liquid:
+:toc:
+:sectnums:
+:url-scandinavia: {% post_url 2024-05-27-scandinavia %}
+:url-kjeragbolten: {% post_url 2024-06-03-kjeragbolten %}
+:url-preikestolen: {% post_url 2024-06-02-preikestolen %}
+:url-trolltunga: {% post_url 2024-06-07-trolltunga %}
+:url-hike-types: {% post_url 25-08-28-types-of-hiking-by-trail-format %}
+:url-grading-of-trails: https://www.dnt.no/om-dnt/english/need-to-know-about-norwegian-outdoor-life/grading-of-trails/
+
+布道石 (The Pulpit Rock, 挪威语: Preikestolen) 也译作布道台或者圣坛岩. 布道石是挪威国家风景徒步路线之一, 与奇迹石 (link:{url-kjeragbolten}[Kjeragbolten]) 和巨魔之舌 / 恶魔之舌 (link:{url-trolltunga}[Trolltunga]) 一起并称 "挪威三大奇石". 电影 "碟中谍 6: 全面瓦解" 片尾中阿汤哥和大超在悬崖之上打斗的场面就是在布道石之上拍摄的.
+
+[#_quick_facts]
+== 基本信息
+
+布道石徒步路线的基本信息如下:
+
+* **类型: ** 往返 (Out-and-Back / There-and-Back), link:{url-hike-types}[徒步类型]
+* **难度: ** 中等 (Blue | Moderate), {url-grading-of-trails}[挪威步道分级]
+* **海拔高度: ** 604 米
+* **累计爬升: ** 500 米
+* ** 距离: ** 往返 8 公里
+* ** 用时: ** 往返 4 小时
+
+布道石是挪威国家风景徒步路线之一, 在挪威最著名的徒步路线中算是最轻松的了. 虽然有点夸张了, 但是一般认为布道石徒步 "适合所有人". 在布道石徒步的路上, 肯定会看到很多小朋友跟着父母一起, 甚至还有很多父母背着婴儿. 当然海少不了很多狗狗走在主人前面. 但即便如此, 也不能大意, 尤其是在恶劣的天气中. 实际上, 最好避免在恶劣的天气中徒步布道石.
+
+WARNING: 我们去布道石的时候, 2024 年 6 月, 一个独自徒步的人在接近布道石的最后一段路上失足坠落罹难. 当时天气甚至都不是很糟糕的. 务必要时刻保持敬畏之心.
+
+更多的信息可以参考布道石的官方网站: https://preikestolen365.com/[Preikestolen 365].
+
+[#_how_to_get_to_preikestolen]
+== 如何前往
+
+布道石徒步路线的起点在布道石大本营 (https://preikestolenbasecamp.com/en/[Preikestolen BaseCamp]). 自驾前往无疑是最便捷, 灵活和可靠的方式. 特别是如果想要最佳的徒步体验, 拍出完美的照片, 好天气是关键. 密切关注天气, 能够随时出发去布道石很重要. 自驾从布道石附近最大的城市斯塔万格 (Stavanger) 出发大约需要 40 分钟. 途中要经过收费的海底隧道系统: https://ferde.no/en/toll-stations-and-prices/ryfast[Ryfast Tunnels].
+
+TIP: 这个隧道也是 (当时) 世界上最深的海底公路隧道, 最深处在海底 292 米.
+
+此外还可以乘坐 https://gofjords.com/[Go Fjords] 运营的直达旅游大巴: https://gofjords.com/experiences/hiking/stavanger/preikestolen-express-bus-round-trip/[Preikestolen Express Bus]. 在夏季每天最多有四班往返于斯塔万格市中心的丽笙酒店 (Radission Blu) 和布道石徒步的起点之间. 需要提前预定. 夏季往返票价是 NOK 476 每人 (2024 年). 需要注意的是, 我们去布道石时是 6 月初, 此时还不是旺季. 当时这个大巴只在周末才有, 且周六和周日都是只有一班车往返. 显然, 如果过早地预订, 完全无法预测徒步当天的天气. 太晚的话又会担心售罄. 我们在 6 月的第一个周末的前一天, 曾经尝试预订过, 仍然可以订到座位. 当然这肯定不可靠. 基于自己的旅行计划做好权衡, 提前每日跟踪天气变化吧.
+
+[#_trailhead]
+== 徒步起点
+
+布道石徒步的起点在布道石大本营 (Preikestolen BaseCamp). 这里也是第一停车场 (P1 - Preikestolen Parking), 也叫下停车场 (Lower Parking). 第一停车场是主要停车场, 服务设施更齐全一些, 旅游大巴也停在这个停车场. 布道石大本营还提供了几个不同的住宿选项, 包括旅馆, 帐篷等等. 其中 Pulpit Rock Mountain Lodge 是一个非常漂亮的山中旅馆, 对应的挪威语是 Preikestolen Fjellstue. 在徒步去往布道石途中的路牌上, 就是用这个旅馆的挪威语名字标识起点的.
+
+当 P1 停车场停满的时候, 工作人员将车辆导向到第二停车场 (P2 - Moslimyrå), 也叫上停车场 (Upper Parking). 这个停车场的设施比较少, 只有停车缴费的自助机器, 厕所和一些指示牌. 停车费是 NOK 250 (2024 年). 从 P2 停车场出发徒步的话, 起点海拔会略微高一点, 且不会经过 P1 停车场, 但是也会稍远一点. 单程多出接近 1 公里. 具体的路线可以参考下面的地图:
+
+.布道石 (Pulpit Rock / Preikestolen) 地图
+image::assets/images/2024/scandinavia/preikestolen/trail-map.webp[布道石 (Pulpit Rock / Preikestolen) 地图]
+
+[#_trail_details]
+== 徒步线路
+
+来自尼泊尔的夏尔巴人在 2013-2014 年间帮助维修和升级了布道石徒步的步道.
+
+.尼泊尔的夏尔巴人升级了布道石徒步的步道
+image::assets/images/2024/scandinavia/preikestolen/sherpas.webp[尼泊尔的夏尔巴人升级了布道石徒步的步道]
+
+现在的布道石徒步 "路况" 可以说是非常好的. 包括巨石, 石板, 石阶, 土路, 草地, 木踏板, 小桥等等. 在晴朗的夏日, 整个路线还是比较轻松的. 并不要求多少特别的能力或者经验.
+
+.布道石徒步路况
+image::assets/images/2024/scandinavia/preikestolen/trail-condition.webp[布道石徒步路况]
+
+当然, 雨天或者雨后也有不少泥泞和容易打滑的路段. 好在大部分的这种路段都修有踏板甚至小桥.
+
+.布道石徒步路线上的木桥
+image::assets/images/2024/scandinavia/preikestolen/bridge.webp[布道石徒步路线上的木桥]
+
+在整个徒步路线上, 每 500 米就会有一个路牌. 标记着距离布道石以及起点的距离. 还记得布道石徒步的起点的名字吗? 就是 Preikestolen fjellstue, 也就是大本营那个旅馆的挪威语名字.
+
+.布道石徒步路线上的路牌
+image::assets/images/2024/scandinavia/preikestolen/trail-sign.webp[布道石徒步路线上的路牌]
+
+在常规的徒步时间走在这条路线上, 基本不用担心迷路. 视线范围内几乎一直有人. 当然, 如果需要, 沿途都有涂写在路边石头上的红色的大写字母 "T" 标记出徒步路线. 只要跟着这些标记就可以了.
+
+.布道石徒步路线上的路标
+image::assets/images/2024/scandinavia/preikestolen/trail-marker.webp[布道石徒步路线上的路标]
+
+如果遇到极端天气, 甚至不幸遇险, 万不得已的情况, 在距离第一停车场起点大约 3 公里的途中, 可以找到一个应急的避难山屋避险或求救.
+
+.布道石徒步路线上的避难山屋
+image::assets/images/2024/scandinavia/preikestolen/shelter.webp[布道石徒步路线上的避难山屋]
+
+终于到达布道石后, 最重要的当然是拍照. 大家基本上都是自觉排队等待拍照. 同伴之间可以轮流排队, 相互帮忙拍照. 
+
+在布道台上, 注意不要站在或者坐在正在拍照的人的后方入画, 影响其他人拍照. 在旺季, 每天无数来自世界各地的游客会来到布道台. 总会有人有意或无意的坐在布道台的边缘, 靠近拍照点. 想拍到一张没有其他人入画的照片非常不容易. 我们在六月初去挪威徒步, 也主要是想避开七八月的旺季. 虽然天气更多变, 但人确实少了很多.
+
+.布道石
+image::assets/images/2024/scandinavia/preikestolen/preikestolen-portrait.webp[布道石]
+
+此外, 在布道石靠近入口这一侧, 可以继续沿着巨石上的路径继续向上攀爬, 来到布道石的上方. 这里可以俯瞰布道石. 这一段路线虽然也有红色的大写字母 "T" 路标. 但是不容易注意到, 要仔细观察.
+
+.俯瞰布道石
+image::assets/images/2024/scandinavia/preikestolen/above-preikenstolen.webp[俯瞰布道石]
+
+虽然布道石徒步是挪威的国家风景徒步路线之一, 不过, 布道石徒步途中并没有多少值得一提的风景. 但终点的布道石本身值得一切努力.
+
+[#_multilingual]
+== 多语言对照
+
+* **巨魔之舌** - 英语: Troll's Tongue, 挪威语: Trolltunga
+* **奇迹石** - 挪威语: Kjeragbolten
+* **布道石 / 布道石 / 圣坛岩** - 英语: Pulpit Rock, 挪威语: Preikestolen
+* **斯塔万格** - Stavanger
+* **卑尔根** - 挪威语: Bergen
+* **奥达** - 挪威语: Odda
+
+[#_resources]
+== 参考资源
+
+* 布道石的官方网站: https://preikestolen365.com/[Preikestolen 365]
+* 挪威官方旅游指南 - 徒步布道石: https://www.visitnorway.com/places-to-go/fjord-norway/ryfylke/the-lysefjord-area/hiking-to-preikestolen/[Visit Norway - Hiking to Preikestolen]
+* 挪威国家风景徒步路线: https://www.nasjonaleturiststier.no/en/[Norwegian Scenic Hikes]
+* 挪威徒步协会官网 (DNT) - 步道分级: {url-grading-of-trails}[Grading of trails]
