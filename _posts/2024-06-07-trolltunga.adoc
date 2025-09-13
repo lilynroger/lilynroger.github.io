@@ -12,6 +12,8 @@
 :url-kjeragbolten: {% post_url 2024-06-03-kjeragbolten %}
 :url-preikestolen: {% post_url 2024-06-02-preikestolen %}
 :url-scandinavia: {% post_url 2024-05-27-scandinavia %}
+:url-hike-types: {% post_url 25-08-28-types-of-hiking-by-trail-format %}
+:url-grading-of-trails: https://www.dnt.no/om-dnt/english/need-to-know-about-norwegian-outdoor-life/grading-of-trails/
 
 巨魔之舌 / 恶魔之舌 (Trolltunga) 是挪威最令人叹为观止的奇石景观, 与奇迹石 (link:{url-kjeragbolten}[Kjeragbolten]) 和布道石 / 布道台 (link:{url-preikestolen}[Preikestolen / The Pulpit Rock]) 并称挪威三大奇石. 巨魔之舌是全球徒步和摄影爱好者向往的目的地, 也是我们的最爱. 徒步去巨魔之舌是我们此次 link:{url-scandinavia}[2024 斯堪的纳维亚之旅]最重要的目标.
 
@@ -22,7 +24,8 @@ TIP: 挪威语 Trolltunga 的中文译法有很多, 常见的包括 "恶魔之�
 
 穿越高山地形的巨魔之舌徒步遥远而漫长, 是三大奇石徒步中距离最远的一个, 是非常挑战体力的. 徒步的基本信息如下:
 
-* **难度: ** 专业 (Expert), https://www.dnt.no/om-dnt/english/need-to-know-about-norwegian-outdoor-life/grading-of-trails/[挪威步道分级]
+* **类型: ** 往返 (Out-and-Back / There-and-Back), link:{url-hike-types}[徒步类型]
+* **难度: ** 专业 (Black | Expert), {url-grading-of-trails}[挪威步道分级]
 * **海拔高度:** 1180 米
 * **徒步季:** 六月 - 九月, 其他季节需要向导带领
 
@@ -115,7 +118,7 @@ image::assets/images/2024/scandinavia/trolltunga/trail-shelter-inside.webp[巨�
 .巨魔之舌豪华露营
 image::assets/images/2024/scandinavia/trolltunga/trolltunga-active-glamping.webp[巨魔之舌豪华露营]
 
-巨魔之舌徒步不如奇迹石徒步的地方是, 奇迹石徒步的步道是挪威观光步道之一, 而巨魔之舌路上没有什么出众的风景. 经过漫长而略显枯燥的跋涉之后, 终于来到了巨魔之舌所在的高山台地. 建议先仔细阅读这里树立的指示牌, 了解一些必要的注意事项. 其中重要的一条是, 不要长时间占据着拍照点, 时间不要超过一分钟.
+虽然都被列为挪威的国家风景徒步路线之一, 巨魔之舌徒步在沿途的风景方面不如奇迹石徒步. 巨魔之舌路上没有什么特别出众的风景. 经过漫长而略显枯燥的跋涉之后, 终于来到了巨魔之舌所在的高山台地. 建议先仔细阅读这里树立的指示牌, 了解一些必要的注意事项. 其中重要的一条是, 不要长时间占据着拍照点, 时间不要超过一分钟.
 
 .巨魔之舌注意事项指示牌
 image::assets/images/2024/scandinavia/trolltunga/trolltunga-instructions.webp[巨魔之舌注意事项指示牌]
@@ -179,4 +182,5 @@ image::assets/images/2024/scandinavia/trolltunga/trolltunga-hardanger-cider-at-t
 
 * 巨魔之舌官网: https://www.trolltunga.com/en[Trolltunga]
 * 挪威官方旅游指南 - 巨魔之舌: https://www.visitnorway.com/places-to-go/fjord-norway/the-hardangerfjord-region/listings-hardanger-fjord/trolltunga/8625/[Visit Norway - Trolltunga]
-* 挪威徒步协会官网 (DNT) - 步道分级: https://www.dnt.no/om-dnt/english/need-to-know-about-norwegian-outdoor-life/grading-of-trails/[Grading of trails]
+* 挪威国家风景徒步路线: https://www.nasjonaleturiststier.no/en/[Norwegian Scenic Hikes]
+* 挪威徒步协会官网 (DNT) - 步道分级: {url-grading-of-trails}[Grading of trails]
