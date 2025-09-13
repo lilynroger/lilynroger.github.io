@@ -4,7 +4,7 @@
 :page-image: /assets/images/2024/scandinavia/preikestolen/preikestolen-landscape.webp
 :page-date: 2024-06-02 08:00:00 +0200
 :page-modified_time: 2025-09-13 08:00:00 +0800
-:page-subtitle: Hiking Pulpit Rock (Preikestolen) in Norway
+:page-subtitle: Hiking to Pulpit Rock (Preikestolen) in Norway
 :page-tags: [2024-Scandinavia, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 峡湾, 徒步, 精选]
 :page-liquid:
 :toc:
@@ -30,7 +30,7 @@
 * ** 距离: ** 往返 8 公里
 * ** 用时: ** 往返 4 小时
 
-布道石是挪威国家风景徒步路线之一, 在挪威最著名的徒步路线中算是最轻松的了. 虽然有点夸张了, 但是一般认为布道石徒步 "适合所有人". 在布道石徒步的路上, 肯定会看到很多小朋友跟着父母一起, 甚至还有很多父母背着婴儿. 当然海少不了很多狗狗走在主人前面. 但即便如此, 也不能大意, 尤其是在恶劣的天气中. 实际上, 最好避免在恶劣的天气中徒步布道石.
+布道石是挪威国家风景徒步路线之一, 在挪威最著名的徒步路线中算是最轻松的了. 虽然有点夸张了, 但是一般认为布道石徒步 "适合所有人". 在布道石徒步的路上, 肯定会看到很多小朋友跟着父母一起, 甚至还有很多父母背着婴儿. 当然还少不了很多狗狗走在主人前面. 但即便如此, 也不能大意, 尤其是在恶劣的天气中. 实际上, 最好避免在恶劣的天气中徒步布道石.
 
 WARNING: 我们去布道石的时候, 2024 年 6 月, 一个独自徒步的人在接近布道石的最后一段路上失足坠落罹难. 当时天气甚至都不是很糟糕的. 务必要时刻保持敬畏之心.
 
@@ -95,7 +95,7 @@ image::assets/images/2024/scandinavia/preikestolen/shelter.webp[布道石徒步�
 .布道石
 image::assets/images/2024/scandinavia/preikestolen/preikestolen-portrait.webp[布道石]
 
-此外, 在布道石靠近入口这一侧, 可以继续沿着巨石上的路径继续向上攀爬, 来到布道石的上方. 这里可以俯瞰布道石. 这一段路线虽然也有红色的大写字母 "T" 路标. 但是不容易注意到, 要仔细观察.
+此外, 在布道石靠近入口这一侧, 可以沿着巨石上的路径继续向上攀爬, 来到布道石的上方. 这里可以俯瞰布道石. 这一段路线虽然也有红色的大写字母 "T" 路标. 但是不容易注意到, 要仔细观察.
 
 .俯瞰布道石
 image::assets/images/2024/scandinavia/preikestolen/above-preikenstolen.webp[俯瞰布道石]
