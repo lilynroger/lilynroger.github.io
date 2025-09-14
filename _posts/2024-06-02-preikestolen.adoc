@@ -13,7 +13,7 @@
 :url-kjeragbolten: {% post_url 2024-06-03-kjeragbolten %}
 :url-preikestolen: {% post_url 2024-06-02-preikestolen %}
 :url-trolltunga: {% post_url 2024-06-07-trolltunga %}
-:url-hike-types: {% post_url 25-08-28-types-of-hiking-by-trail-format %}
+:url-hike-types: {% post_url 2025-08-28-types-of-hiking-by-trail-format %}
 :url-grading-of-trails: https://www.dnt.no/om-dnt/english/need-to-know-about-norwegian-outdoor-life/grading-of-trails/
 
 布道石 (The Pulpit Rock, 挪威语: Preikestolen) 也译作布道台或者圣坛岩. 布道石是挪威国家风景徒步路线之一, 与奇迹石 (link:{url-kjeragbolten}[Kjeragbolten]) 和巨魔之舌 / 恶魔之舌 (link:{url-trolltunga}[Trolltunga]) 一起并称 "挪威三大奇石". 电影 "碟中谍 6: 全面瓦解" 片尾中阿汤哥和大超在悬崖之上打斗的场面就是在布道石之上拍摄的.
