@@ -189,7 +189,7 @@ Trøllanes 是卡尔索伊岛最北部的村庄. Trøllanes 音译的话是 "特
 [#the-kiosk]
 === 迷你咖啡馆: Kioskin á Trøllanesi
 
-Trøllanes 真的是太小了, 一目了然. 走进 Trøllanes, 在东侧的有一个售货亭叫做 Kioskin á Trøllanesi. 这里提供汽水, 糖果和一些纪念品. 夏季这里就成了一个迷你咖啡馆, 可以享用新鲜制作的华夫饼和咖啡. 这个小亭子常被形容为 "世界尽头的小亭子".
+Trøllanes 真的是太小了, 一目了然. 走进 Trøllanes, 在东侧有一个售货亭叫做 Kioskin á Trøllanesi. 这里提供汽水, 糖果和一些纪念品. 夏季这里就成了一个迷你咖啡馆, 可以享用新鲜制作的华夫饼和咖啡. 这个小亭子常被形容为 "世界尽头的小亭子".
 
 .Kioskin á Trøllanesi
 image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/kiosk.webp[Kioskin á Trøllanesi]
@@ -205,7 +205,7 @@ image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/puffin-cliff.webp[海
 [#hiking-to-kallur-lighthouse]
 == 徒步卡鲁尔灯塔
 
-在卡尔索伊岛, 徒步到徒步卡鲁尔灯塔无疑是最大的亮点. 卡鲁尔灯塔也是法罗群岛最佳的徒步路线之一.
+卡鲁尔灯塔徒步无疑是卡尔索伊岛最大的亮点, 也是法罗群岛最佳的徒步路线之一.
 
 [#kallur_lighhouse_hike_quick_facts]
 === 基本信息
@@ -256,7 +256,7 @@ image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/james-bond-headstone.
 [#puffins-cliff-near-james-bond-headstone]
 === 海鹦观鸟点
 
-卡鲁尔灯塔徒步是我们在法罗群岛最喜欢的徒步路线的原因之一是海鹦. 詹姆斯·邦德的墓碑这里的悬崖是海鹦的栖息地. 趴在悬崖的边上, 就可以近距离的看到很多海鹦:
+卡鲁尔灯塔徒步是我们在法罗群岛最喜欢的徒步路线的原因之一是海鹦. 在詹姆斯·邦德的墓碑旁边的悬崖是海鹦的栖息地. 趴在悬崖的边上, 就可以近距离的看到很多海鹦:
 
 .卡鲁尔灯塔附近的海鹦
 image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/puffins.webp[卡鲁尔灯塔附近的海鹦]
@@ -278,7 +278,7 @@ image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/kallur-lighthouse.web
 
 Mikladalur 的地名也是两部分构成, 前半部分 mikl 意思是 "巨大", 而 -adalur 是非常常见的后缀, 意思是 "山谷". 所以 Mikladalur 就是 "巨大的山谷". 法罗语的发音大概就是 "米克拉达鲁尔". Mikladalur 的名字恰如其分, 它是卡尔索伊岛上最大的村庄, 在 Trøllanes 以南十分钟车程. 这里以村中散落的童话般的草顶房子 (Turf House) 和海豹女的雕像而闻名.
 
-Mikladalur 最吸引人的风光是一幢房前还有个小草顶窝棚的草顶木屋:
+Mikladalur 最经典的风光是其中的一幢草顶木屋, 房前还有个小草顶窝棚:
 
 .Mikladalur 的草顶房子
 image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/mikladalur.webp[Mikladalur 的草顶房子]
@@ -300,7 +300,7 @@ image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/seal-woman-statue.web
 [#_the_legend_of_the_seal_woman]
 === 传说
 
-传说法罗群岛周围的海豹曾经是和你我一样的人, 只是选择了以海豹的形态在海洋中生活. 每年一次, 他们能够脱下海豹皮, 化身为人形登上陆地. 一位年轻的 Mikladalur 农夫在月夜的海岸边, 目睹了一位海豹女脱下海豹皮, 化身为人形在岸边翩翩起舞. 他为海豹女的美丽所倾倒, 于是偷走了她的海豹皮. 失去了返回大海能力海豹女, 被迫留在了人间, 成为了这位渔农夫的妻子.
+传说法罗群岛周围的海豹曾经是和你我一样的人, 只是选择了以海豹的形态在海洋中生活. 每年一次, 他们能够脱下海豹皮, 化身为人形登上陆地. 一位年轻的 Mikladalur 农夫在月夜的海岸边, 目睹了一位海豹女脱下海豹皮, 化身为人形在岸边翩翩起舞. 他为海豹女的美丽所倾倒, 于是偷走了她的海豹皮. 失去了返回大海能力的海豹女, 被迫留在了人间, 成为了这位农夫的妻子.
 
 他们在一起生活了许多年, 海豹女也成为了一位贤惠的妻子和母亲. 然而, 她始终深深地思念着海洋和原来的家, 常常独自一人惆怅地凝望着大海. 后来, 她偶然发现了被丈夫藏起来的海豹皮. 于是, 她毫不犹豫地披上外皮, 义无反顾地返回了大海, 离开了她的人类家庭.
 
