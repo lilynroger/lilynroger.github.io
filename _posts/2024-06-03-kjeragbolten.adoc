@@ -25,7 +25,7 @@
 [#quick-facts]
 == 基本信息
 
-奇迹石的徒步的重要信息如下:
+奇迹石徒步的重要信息如下:
 
 * *类型:* 往返 (Out-and-Back / There-and-Back), link:{url-hike-types}[徒步类型]
 * *难度:* 专业 (Black | Expert), {url-grading-of-trails}[挪威步道分级]
@@ -34,7 +34,7 @@
 * *距离:* 往返 11 公里
 * *用时:* 往返 5-6 小时
 
-更多信息可以参考谢拉格的官方网站: https://kjerag.info[Kjerag].
+更多信息可以参考谢拉格山的官方网站: https://kjerag.info[Kjerag].
 
 [#getting-to-trailhead]
 == 如何前往
@@ -44,17 +44,16 @@
 .Øygardstøl/Kjerag Café & Restaurant
 image::assets/images/2024/scandinavia/kjeragbolten/restaurant.webp[Øygardstøl/Kjerag Café & Restaurant]
 
-去往奇迹石徒步起点相比步道石来说要麻烦一点. 大部分人选择从附近最大的城市斯塔万格 (Stavanger) 出发. 但是无论通过哪种方式前往都不是很容易. 具体信息可以参考谢拉格的官方网站 - 如何前往: https://kjerag.info/how-to-get-to-kjerag/[
-How to Get to Kjerag].
+去往奇迹石徒步起点相比步道石来说要麻烦一点. 大部分人选择从附近最大的城市斯塔万格 (Stavanger) 出发. 但是无论通过哪种方式前往都不是很容易. 具体信息可以参考谢拉格山的官方网站 - 如何前往: https://kjerag.info/how-to-get-to-kjerag/[How to Get to Kjerag].
 
 [#kjerag-express-bus]
 === 直达旅游大巴
 
 这个选项应该是最轻松的了. 在夏天, https://gofjords.com/[Go Frjords] 运营一趟在斯塔万格和奇迹石徒步起点之间的往返旅游大巴 https://gofjords.com/experiences/hiking/stavanger/kjerag-express-bus-round-trip/[Kjerag Express Bus Round trip]. 单程需要 2.5 小时左右.
 
-这个选项的缺点首先是必须提前预定且时间固定. 这意味着无法根据天气情况谁是调整徒步的时间. 其次, 限于发车时间, 你必须能在不足 6 个小时的时间内内完成徒步, 才能赶上返程的大巴.
+这个选项的缺点首先是必须提前预定且时间固定. 这意味着无法根据天气情况随时调整徒步的时间. 其次, 限于发车时间, 你必须能在不足 6 个小时的时间内完成徒步, 才能赶上返程的大巴.
 
-此外需要注意的是, 在 2024 年平季的 6 月和 9 月, 这个直达的旅游大巴只在周末才有运营. 旺季 7 月和 8 月每天都有. 其他月份停止运营. 票价是 NOK 880 每人.
+此外需要注意的是, 在 2024 年平季的 6 月和 9 月, 这个直达的旅游大巴只在周末才有运营. 旺季 7 月和 8 月每天都有. 其他月份停止运营. 票价是每人 880 挪威克朗 (2024 年).
 
 [#drive]
 === 自驾
@@ -140,7 +139,7 @@ image::assets/images/2024/scandinavia/kjeragbolten/last-step-to-kjeragbolten.web
 [#resources]
 == 参考资源
 
-* 谢拉格的官方网站: https://kjerag.info[Kjerag]
+* 谢拉格山的官方网站: https://kjerag.info[Kjerag]
 * 挪威官方旅游指南 - 徒步奇迹石: https://www.visitnorway.com/places-to-go/fjord-norway/ryfylke/the-lysefjord-area/hiking-to-kjerag/[Visit Norway - Hiking to Kjerag]
 * 挪威国家风景徒步路线: https://www.nasjonaleturiststier.no/en/[Norwegian Scenic Hikes]
 * 挪威徒步协会官网 (DNT) - 步道分级: {url-grading-of-trails}[Grading of trails]
