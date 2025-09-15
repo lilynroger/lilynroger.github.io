@@ -68,7 +68,7 @@ image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/schedule-official.web
 | 10:00 - 10:20 | Klaksvík- Syðradalur | 轮渡 56 路 | 一三五六日
 |===
 
-上表中可以看出, 只有在每周一三五二这才有接驳. 实际上, 如果是周二或者周四, 需要更早的从 Tórshavn 出发, 比如乘坐 06:10 的公交 400 路.
+上表中可以看出, 只有在每周一三五才有接驳. 实际上, 如果是周二或者周四, 需要更早的从 Tórshavn 出发, 比如乘坐 06:10 的公交 400 路.
 
 [%autowidth.stretch]
 .卡尔索伊岛一日游时刻表 - 更早出发
@@ -87,7 +87,7 @@ image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/schedule-official.web
 .我们的卡尔索伊岛一日游行程 (背景是卡鲁尔灯塔附近的 Borgarin 峰)
 image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/schedule-ours.webp[我们的卡尔索伊岛一日游行程 (背景是卡鲁尔灯塔附近的 Borgarin 峰)]
 
-我们选择乘坐 14:35 的公交车离开 Trøllanes 去 Mikladalur. 这样我们在 Trøllanes 和卡鲁尔灯塔就有超过三小时的时间, 有充裕的时间拍照, 观赏海鹰, 甚至有时间野餐.
+我们选择乘坐 14:35 的公交车离开 Trøllanes 去 Mikladalur. 这样我们在 Trøllanes 和卡鲁尔灯塔就有超过三小时的时间, 有充裕的时间拍照, 观赏海鹦, 甚至有时间野餐.
 
 [#torshavn-klaksvik]
 === Tórshavn - Klaksvík: 自驾 / 公交 400 路
