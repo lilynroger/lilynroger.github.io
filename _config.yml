@@ -66,6 +66,7 @@ asciidoctor:
     toc: auto
     toc-title: 目录
     figure-caption: 图片
+    table-caption: 表格
     sectnums: all
     sectanchors: true
 

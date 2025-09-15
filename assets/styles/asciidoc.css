@@ -140,3 +140,7 @@ span.icon>.fa {
 p.tableblock {
     margin: 0;
 }
+
+.tableblock .paragraph:last-of-type {
+    margin-bottom: 0;
+}

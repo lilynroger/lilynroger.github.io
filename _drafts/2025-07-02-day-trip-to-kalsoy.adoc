@@ -1,0 +1,322 @@
+= 卡尔索伊岛一日游及徒步卡鲁尔灯塔
+:page-subtitle: Day Trip to Kalsoy | Hiking Kallur Lighthouse
+:page-image: assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/kallur-lighthouse.webp
+:page-date: 2025-07-02 07:00:00 +0100
+:page-layout: post
+:page-categories: posts
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 运动, 徒步]
+:page-liquid:
+:toc:
+:sectnums:
+:url-undersea-tunnels: {% post_url 2025-07-01-undersea-tunnels-in-the-faroe-islands %}
+:url-trail-difficulty: https://visitfaroeislands.com/en/see-do/activities/hiking/trail-difficulty
+
+卡尔索伊岛 (Kalsoy) 是法罗群岛北方诸岛之一, 是包括卡鲁尔灯塔 (Kallur Lighthouse) 和海豹女雕像 (Seal Woman) 在内的热门景点的所在地. 卡尔索伊岛也是 007 系列电影 "无暇赴死" 的外景拍摄地之一. 詹姆斯·邦德的墓碑就在卡鲁尔灯塔附近. 因此卡尔索伊岛一日游及徒步卡鲁尔灯塔已经成为法罗群岛的必游项目.
+
+[#about-kalsoy]
+== 关于卡尔索伊岛
+
+卡尔索伊岛在法罗群岛的东北部, 与其东边的库诺伊岛 (Kunoy) 岛隔海相望. 卡尔索伊的意思是 "男人岛", 而库诺伊的意思是 "女人岛". 卡尔索伊岛因其狭长的形状和岛上四座连绵的山岭隧道, 经常被戏称为 "笛子岛", 四座隧道就是笛子的孔.
+
+卡尔索伊岛有四个村庄, 加起来也就百十来号居民. 从南到北, 四个村庄依次是:
+
+* Syðradalur: 轮渡码头所在地, 上岛的门户.
+* Húsar: 只有一座非常醒目的红顶白色教堂. 狂热的摄影爱好者可能会想在此停留一下.
+* Mikladalur: 童话般的村庄, 海豹女雕像的所在地.
+* Trøllanes: 卡鲁尔灯塔徒步的起点所在地, 邦德的墓碑就在卡鲁尔灯塔附近.
+
+其中最吸引人的村庄无疑是北部的两个村庄. 游客基本上都是上岛后先去最北端的 Trøllanes 徒步, 然后回到 Mikladalur 游览.
+
+[#day-trip-to-kalsoy]
+== 卡尔索伊岛一日游
+
+卡尔索伊岛人烟稀少, 公共交通基本上是专门为游客设计的. 法罗群岛的第二大城镇, 北方诸岛的交通枢纽克拉克斯维克 (Klaksvík) 和卡尔索伊岛上的 Syðradalur 之间有 56 路 Sam 号轮渡. 而卡尔索伊岛上有 506 路公交车连接岛上的四个村子. 轮渡和公交车的时刻表是接驳的, 公交车会等轮渡, 反之亦然, 所以不用担心乘坐公交车或者轮渡晚点错过了接驳之类的.
+
+听起来很简单? 错! 糟糕的是, 卡尔索伊岛的轮渡和公交车没有几班, 而且时刻表非常复杂. 周一到周日, 夏季和冬季可能都不相同. 轮渡需要提前预定, 行程需要围绕预定的轮渡来制定. 加上多数卡尔索伊岛一日游的游客是从首都托尔斯港 (Tórshavn) 出发, 还要考虑托尔斯港到克拉克斯维克的交通. 这就使得卡尔索伊岛一日游的行程规划非常烧脑.
+
+.卡尔索伊岛一日游路线图
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/route-map.webp[卡尔索伊岛一日游路线图]
+
+参考路线图, 先不考虑时刻表, 你的旅程从托尔斯港开始 (为便于速查, 以下采用法罗语地名):
+
+* Tórshavn - Klaksvík: 自驾 / 公交 400 路
+* Klaksvík- Syðradalur: 轮渡 56 路
+* Syðradalur - Trøllanes: 公交 506 路
+* Kallur Lighthouse: 徒步
+* Trøllanes - Mikladalur: 公交 506 路
+* Seal Woman: 步行
+* Mikladalur - Syðradalur: 公交 506 路
+* Syðradalur - Klaksvík: 轮渡 56 路
+* Klaksvík -  Tórshavn: 自驾 / 公交 400 路
+
+[#_offcial_schedule]
+=== 官方的建议行程
+
+法罗群岛的官方旅游推广机构显然也知道这个行程不易, 特意给出了一个建议的基于公共交通的行程时刻表. 我们将仔细了解一下这个行程. 之后, 可以直接采纳这个行程, 也可以设计适合自己的行程.
+
+.官方建议的卡尔索伊岛一日游行程 (背景是 Mikladalur 风光)
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/schedule-official.webp[官方建议的卡尔索伊岛一日游行程 (背景是 Mikladalur 风光)]
+
+首先要注意的是, 官方建议的这个行程适合夏季的每周一三五. 如果是其他时间, 时刻表需要相应调整. 这就是因为公共交通的时间表在一周的不同天里是变化的. 举例而言, 参考下面列出的部分时刻表:
+
+[%autowidth.stretch]
+.卡尔索伊岛一日游时刻表
+|===
+| 时间: 出发-到达 | 地点: 出发 - 到达 | 交通 | 每周运营日
+
+| 07:55 - 09:25 | Tórshavn - Klaksvík | 公交 400 路 | 一二三四五
+| 10:00 - 10:20 | Klaksvík- Syðradalur | 轮渡 56 路 | 一三五六日
+|===
+
+上表中可以看出, 只有在每周一三五二这才有接驳. 实际上, 如果是周二或者周四, 需要更早的从 Tórshavn 出发, 比如乘坐 06:10 的公交 400 路.
+
+[%autowidth.stretch]
+.卡尔索伊岛一日游时刻表 - 更早出发
+|===
+| 时间: 出发-到达 | 地点: 出发 - 到达 | 交通 | 每周运营日
+
+| 06:10 - 07:40 | Tórshavn - Klaksvík | 公交 400 路 | 一二三四五
+| 08:00 - 08:20 | Klaksvík- Syðradalur | 轮渡 56 路 | 一二三四五六
+|===
+
+[#our-schedule]
+=== 我们的行程
+
+在官方建议的行程中, 在 Trøllanes 有两个多小时的时间. 这个时间对于徒步去灯塔来说还是比较充裕的. 但是如果想要拍摄更多不同位置和角度的照片, 更悠闲的观赏海鹦, 就明显有些匆忙了. 所以在我们的行程中, 选择在 Trøllanes 多停留一些时间:
+
+.我们的卡尔索伊岛一日游行程 (背景是卡鲁尔灯塔附近的 Borgarin 峰)
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/schedule-ours.webp[我们的卡尔索伊岛一日游行程 (背景是卡鲁尔灯塔附近的 Borgarin 峰)]
+
+我们选择乘坐 14:35 的公交车离开 Trøllanes 去 Mikladalur. 这样我们在 Trøllanes 和卡鲁尔灯塔就有超过三小时的时间, 有充裕的时间拍照, 观赏海鹰, 甚至有时间野餐.
+
+[#torshavn-klaksvik]
+=== Tórshavn - Klaksvík: 自驾 / 公交 400 路
+
+从 Tórshavn 到 Klaksvík 可以选择自驾或者乘坐公交 400 路. 时刻表参见: https://www.ssl.fo/en/timetable/bus/400-klaksvik-torshavn[400 Klaksvík - Tórshavn]
+
+公交 400 路两端的终点站分别是在 Tórshavn 的公交总站 (Tórshavn Bus Terminal) 和 Klaksvík 的轮渡码头. 行驶时间 90 分钟左右, 早上 07:55 这班车是 09:25 到, 你还有 30 多分钟的时间等候轮渡.
+
+需要注意的是法罗群岛的公交车费很贵, 公交 400 路单程就要 95 丹麦克朗 (2025 年). 如果有人同行, 自驾可能会更经济一点.
+
+自驾最快的路线是穿过两条收费的海底隧道, 即东岛海底隧道 (Eysturoyartunnilin) 和北岛海底隧道 (Norðoyatunnilin). 算上租车公司的额外费用, 我们的总通行费超过了 500 丹麦克朗. 不过, 自驾其实可以考虑绕行斯特莱默大桥 (Streymin Bridge), 省去最贵的东岛海底隧道的通行费, 这样就比乘坐公交车还要便宜了. 北岛海底隧道是唯一通道, 通行费省不了. 有关海底隧道和海峡大桥的详细信息, 可以参考我们的攻略: link:{url-undersea-tunnels}[法罗群岛的海底隧道].
+
+[#klaksvik-sydradalur]
+=== Klaksvík- Syðradalur: 轮渡 56 路
+
+轮渡 56 路 (Sam 号) 往返 Klaksvík- Syðradalur 之间, 单程航行时间 20 分钟. 时刻表参见: https://www.ssl.fo/en/timetable/ferry/56-klaksvik-kalsoy[56 Klaksvík - Kalsoy].
+
+法罗群岛的轮渡船票可以提前在线预定. 预定船票也是在法罗群岛公共交通公司的官网: https://www.ssl.fo/en/book-ticket/booking-system[Strandfaraskip Landsins (SSL) - Booking System]. 轮渡 56 路的往返票每人 105 丹麦克朗.
+
+.轮渡 56 路的 Sam 号: Klaksvík- Syðradalur
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/ferry-56-sam.webp[轮渡 56 路的 Sam 号: Klaksvík- Syðradalur]
+
+尽管轮渡 56 路的 Sam 号是汽车轮渡, 但是鉴于 Sam 号有限的荷载以及卡尔索伊岛上脆弱的基础设施, 官方强烈建议**不要带车上岛**, 而是把车停在 Klaksvík 轮渡码头的免费停车场. 实际上, 因为卡尔索伊岛在持续改善基础设施, 我们一日游的当天, 轮渡因为运送工程机械, 没有运送其他汽车.
+
+.Klaksvík 轮渡码头的免费停车场
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/klaksvik-parking.webp[Klaksvík 轮渡码头的免费停车场]
+
+[#sydradalur-trollanes]
+=== Syðradalur - Trøllanes: 公交 506 路
+
+在 Syðradalur 的轮渡码头, 公交 506 路的车就在码头等候轮渡的乘客前往 Trøllanes 去徒步. 上车时向司机直接购买车票. 车票实际上是日票, 之后在岛上换乘, 返程都无需车票了. 每人是 50 丹麦克朗 (2025 年). 时刻表参见: https://www.ssl.fo/en/timetable/bus/506-troellanes-sydradalur[506 Trøllanes - Syðradalur]
+
+.公交 506 路: Syðradalur - Trøllanes
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/bus-506-trollanes.webp[公交 506 路: Syðradalur - Trøllanes]
+
+不用担心人多挤不上去, 不止一辆公交车接驳轮渡, 会把人都接上送到 Trøllanes 的.
+
+[#schedule-kallur-lighthouse]
+=== Kallur Lighthouse: 徒步
+
+绝大多数游客的行程都是先直接到最北端的 Trøllanes 去徒步, 然后回到 Trøllanes 等候公交车去 Mikladalur 游览. 有关徒步的详细信息, 参考后文中的: <<hiking-to-kallur-lighthouse>>.
+
+.Trøllanes
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/trollanes.webp[Trøllanes]
+
+[#trollanes-mikladalur]
+=== Trøllanes - Mikladalur: 公交 506 路
+
+徒步卡鲁尔灯塔之后, 回到 Trøllanes, 乘坐公交 506 路, 前往 Mikladalur 游览. 公交车只需要 10 分钟车程.
+
+[#schedule-seal-woman]
+=== Seal Woman: 步行
+
+下一班停靠 Mikladalur 的公交车间隔一个多小时的时间, 时间足够游览村庄, 看看海豹女雕像.
+
+[#mikladalur-sydradalur]
+=== Mikladalur - Syðradalur: 公交 506 路
+
+游览 Mikladalur 之后, 这里的马路边有一个草顶的黑色木屋是公交候车亭 (Bus Shelter), 可以休息, 等候下一班回 Syðradalur 的公交车. 公交车需要大约 25 分钟回到 Syðradalur 的轮渡码头.
+
+.Mikladalur 的 Bus Shelter
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/mikladalur-bus-shelter.webp[Mikladalur 的 Bus Shelter]
+
+[#sydradalur-klaksvik]
+=== Syðradalur - Klaksvík: 轮渡 56 路
+
+回到 Syðradalur 码头后, 换乘轮渡 56 路回到 Klaksvík 的轮渡码头.
+
+[#klaksvik-torshavn]
+=== Klaksvík -  Tórshavn: 自驾 / 公交 400 路
+
+如果是乘坐公交车, 在 Klaksvík 的轮渡码头等候下一班回 Tórshavn 的公交 400 路, 你会有一小时左右的时间, 可以逛逛 Klaksvík 城镇. 码头的停车场这里就是一个颇具规模的超市, 需要的话, 可以采购晚餐所需的食品或者食材.
+
+[#about-bus-401]
+=== 关于公交 401 路
+
+在托尔斯港和克拉克斯维克之间还有另外一路公交车:
+
+* https://www.ssl.fo/en/timetable/bus/401-klaksvik-torshavn-express-bus[401 Klaksvík - Tórshavn (Express Bus)]
+
+公交 400 路走 10 号公路, 跨越海峡大桥斯特莱默桥 (Streymin Bridge, 法罗语: Brúgvin um Streymin) 来往于主岛斯特莱默岛和东岛埃斯图罗伊岛之间. 公交 401 路是快车, 穿过东岛海底隧道 (Eysturoyartunnilin) 来往于主岛斯特莱默岛和东岛埃斯图罗伊岛之间.
+
+公交 401 只在工作日早晚有两班车, 周六日没有. 时间方面不太适合卡尔索伊岛一日游.
+
+[#sydradalur]
+== Syðradalur
+
+Syðradalur 是卡尔索伊岛最南端的村庄, 居民人数屈指可数. 对游客而言, 这个地方的全部意义在于, 它是卡尔索伊岛的轮渡码头的所在地. 轮渡 56 路 Sam 号船就在这里停靠. 岛上的 506 路公交车也在这里接驳轮渡, 把乘客送到卡尔索伊岛的北部.
+
+Syðradalur 的地名是比较典型的斯堪的纳维亚地区的地名, 足够直白. syðra- 是南部的意思, -dalur 是山谷的意思. 所以, Syðradalur 就是 "南部的山谷". 法罗语的发音大概就是 "锡德拉达吕尔".
+
+[#trollanes]
+== Trøllanes
+
+Trøllanes 是卡尔索伊岛最北部的村庄. Trøllanes 音译的话是 "特洛拉内斯". 这个名字由两个部分构成, 都是斯堪的纳维亚地区的地名极其常见的构成部分. 前半部的 trøll 或者写作 troll, 就是传说中的 "巨魔", 也有的译作 "山妖". 后半部的词缀 -anes 的意思的 "海角", 指一块深入海洋的狭长陆地. 所以 Trøllanes 就是 "巨魔角".
+
+只有两户人家, 十几个人住在巨魔角. 可就是这个偏远的小地方, 因为这里的卡鲁尔灯塔, 邦德墓碑和海鹦, 成为备受游客追捧的目的地.
+
+[#the-kiosk]
+=== 迷你咖啡馆: Kioskin á Trøllanesi
+
+Trøllanes 真的是太小了, 一目了然. 走进 Trøllanes, 在东侧的有一个售货亭叫做 Kioskin á Trøllanesi. 这里提供汽水, 糖果和一些纪念品. 夏季这里就成了一个迷你咖啡馆, 可以享用新鲜制作的华夫饼和咖啡. 这个小亭子常被形容为 "世界尽头的小亭子".
+
+.Kioskin á Trøllanesi
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/kiosk.webp[Kioskin á Trøllanesi]
+
+[#puffins-cliff-at-trollanes]
+=== 海鹦观鸟点
+
+走过小售货亭, 这里海边的悬崖曾经是热门的海鹦观鸟点. 现在出于保护海鹦和安全的考虑, 已经建起了围栏, 不再允许靠近悬崖了. 不过, 站在围栏边仍然可以远远看到很多的海鹦, 只是需要长焦镜头才能看得清楚.
+
+.海鹦观鸟点
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/puffin-cliff.webp[海鹦观鸟点]
+
+[#hiking-to-kallur-lighthouse]
+== 徒步卡鲁尔灯塔
+
+在卡尔索伊岛, 徒步到徒步卡鲁尔灯塔无疑是最大的亮点. 卡鲁尔灯塔也是法罗群岛最佳的徒步路线之一.
+
+[#kallur_lighhouse_hike_quick_facts]
+=== 基本信息
+
+* *路线类型*: 往返 (Out-and-Back / There-and-Back)
+* *距离*: 往返 3.5 公里
+* *用时*: 往返 2 小时
+* *累计爬升*: 200 米
+* *难度*: 中等 (Medium), {url-trail-difficulty}[法罗群岛步道难度]
+* *费用*: 200 丹麦克朗徒步费 (Hiking Fee)
+
+[#trailhead]
+=== 徒步起点
+
+卡鲁尔灯塔徒步路线的起点就在 Trøllanes 中. 起点周围有围栏, 入口旁有一栋红色的房子, 现在是一家泰式小餐馆, 同时也是徒步路线的售票处.
+
+.卡鲁尔灯塔徒步起点的餐馆和售票处
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/kallur-lighthouse-trailhead.webp[卡鲁尔灯塔徒步起点的餐馆和售票处]
+
+和法罗群岛其他很多徒步路线一样, 卡鲁尔灯塔徒步也需要支付徒步费 (Hiking Fee). 有关法罗群岛的徒步费, 可以参考官方旅游推广机构的网站: https://visitfaroeislands.com/en/see-do/activities/hiking/hiking-fees[Hiking Fees in the Faroe Islands].
+
+[#trail]
+=== 徒步路线
+
+卡鲁尔灯塔徒步路线不算困难, 全程基本上都是走在草坡上. 我们去的那天天气很好, 所以步道的状况也很不错. 不过, 如果是下雨天, 或者雨后, 不难想象, 步道肯定是异常泥泞湿滑的.
+
+.卡鲁尔灯塔徒步步道
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/kallur-lighthouse-trail.webp[卡鲁尔灯塔徒步步道]
+
+沿着步道可以一直走到山脊和悬崖这里. 你将看到山脊左边高耸的 Borgarin 峰, 中间有詹姆斯·邦德的墓碑, 右边就是卡鲁尔灯塔了.
+
+[#borgarin]
+=== Borgarin 峰
+
+森严的 Borgarin 峰是拍摄卡鲁尔灯塔最经典的背景之一. 其字面意思是 "堡垒" 或者 "要塞". 可惜我们去的时候, 越过灯塔后的步道因为安全问题封闭了. 所以, 无法在灯塔的另一侧拍摄 Borgarin 峰了.
+
+.Borgarin 峰
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/borgarin.webp[Borgarin 峰]
+
+[#james-bond-headstone]
+=== 詹姆斯·邦德的墓碑
+
+如果你是 007 系列电影的影迷, 那这里有卡鲁尔灯塔徒步给你的额外奖励. 在电影 “007: 无暇赴死” 中, 邦德慷慨赴死的场景就是在这里拍摄的. 当地人在这里放置了一块墓碑, 纪念邦德的落幕.
+
+.詹姆斯·邦德的墓碑
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/james-bond-headstone.webp[詹姆斯·邦德的墓碑]
+
+[#puffins-cliff-near-james-bond-headstone]
+=== 海鹦观鸟点
+
+卡鲁尔灯塔徒步是我们在法罗群岛最喜欢的徒步路线的原因之一是海鹦. 詹姆斯·邦德的墓碑这里的悬崖是海鹦的栖息地. 趴在悬崖的边上, 就可以近距离的看到很多海鹦:
+
+.卡鲁尔灯塔附近的海鹦
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/puffins.webp[卡鲁尔灯塔附近的海鹦]
+
+[#kallur-lighthouse]
+=== 卡鲁尔灯塔
+
+卡鲁尔灯塔是法罗群岛的名片之一. 无数摄影大片和明信片以这座灯塔为主题. 它完美的诠释了世界边缘的美.
+
+拍摄卡鲁尔灯塔的一个经典角度之一, 就是越过灯塔后, 沿着向下的一个山脊走到远处回头, 以 Borgarin 峰为背景拍摄. 可惜这段步道当时封闭了.
+
+拍摄卡鲁尔灯塔的另一个角度, 就是沿着灯塔侧面的另一条悬崖山脊走到尽头, 回头以远处的东岛 (Eysturoy) 为背景拍摄. 还可以清晰地看到那对著名的海蚀柱 "巨人和女巫" (法罗语: Risin og Kellingin) 耸立在悬崖边的海中. 如果灯塔身后的步道没有关闭, 同伴可以下到步道的低洼处, 人物的剪影在远处苍凉雄伟的悬崖和峡湾背景中, 是最经典的构图.
+
+.卡鲁尔灯塔 (Kallur Lighthouse)
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/kallur-lighthouse.webp[卡鲁尔灯塔 (Kallur Lighthouse)]
+
+[#mikladalur]
+== Mikladalur
+
+Mikladalur 的地名也是两部分构成, 前半部分 mikl 意思是 "巨大", 而 -adalur 是非常常见的后缀, 意思是 "山谷". 所以 Mikladalur 就是 "巨大的山谷". 法罗语的发音大概就是 "米克拉达鲁尔". Mikladalur 的名字恰如其分, 它是卡尔索伊岛上最大的村庄, 在 Trøllanes 以南十分钟车程. 这里以村中散落的童话般的草顶房子 (Turf House) 和海豹女的雕像而闻名.
+
+Mikladalur 最吸引人的风光是一幢房前还有个小草顶窝棚的草顶木屋:
+
+.Mikladalur 的草顶房子
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/mikladalur.webp[Mikladalur 的草顶房子]
+
+此外, 村庄中红色屋顶的白色教堂也十分醒目. 教堂前的小溪旁还有个水车.
+
+.Mikladalur 教堂
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/mikladalur-church.webp[Mikladalur 教堂]
+
+
+[#seal-woman-statue]
+== 海豹女雕像
+
+在 Mikladalur, 著名的海豹女 (Seal Woman, 法罗语: Kópakonan) 雕像就伫立在峡湾水边的巨石之上.
+
+.海豹女雕像
+image::assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/seal-woman-statue.webp[海豹女雕像]
+
+[#_the_legend_of_the_seal_woman]
+=== 传说
+
+传说法罗群岛周围的海豹曾经是和你我一样的人, 只是选择了以海豹的形态在海洋中生活. 每年一次, 他们能够脱下海豹皮, 化身为人形登上陆地. 一位年轻的 Mikladalur 农夫在月夜的海岸边, 目睹了一位海豹女脱下海豹皮, 化身为人形在岸边翩翩起舞. 他为海豹女的美丽所倾倒, 于是偷走了她的海豹皮. 失去了返回大海能力海豹女, 被迫留在了人间, 成为了这位渔农夫的妻子.
+
+他们在一起生活了许多年, 海豹女也成为了一位贤惠的妻子和母亲. 然而, 她始终深深地思念着海洋和原来的家, 常常独自一人惆怅地凝望着大海. 后来, 她偶然发现了被丈夫藏起来的海豹皮. 于是, 她毫不犹豫地披上外皮, 义无反顾地返回了大海, 离开了她的人类家庭.
+
+当地的村民有捕猎海豹的习俗. 海豹女托梦给农夫, 请求他不要伤害她的海豹伴侣和孩子. 然而, 悲剧还是发生了, 她的海豹伴侣和幼仔最终还是被农夫和村民杀害了.
+
+悲痛欲绝的海豹女因此化作女妖对农夫和村民发出了诅咒, 诅咒他们未来将在海上遭遇不幸, 以此作为报复. 据说, 她的诅咒至今仍在制造着海难和悬崖悲剧.
+
+海豹女和农夫的孩子最终得以长大成人, 并有了他们的后代. 时至今日, 法罗群岛的很多人天生有并趾. 脚趾之间的皮肤没有完全分离, 有点像脚蹼. 据说, 这证明法罗人仍然带有海豹女的血脉.
+
+[#reources]
+== 参考资源
+
+* 法罗群岛旅游推广机构官网 - 公共交通: https://visitfaroeislands.com/en/plan-your-stay/getting-around/public-transportation0[Public Transportation]
+* 法罗群岛旅游推广机构官网: https://visitfaroeislands.com/en[Visit Faroe Islands]
+* 法罗群岛旅游推广机构官网 - 海豹女的传说: https://visitfaroeislands.com/en/see-do/inspiration-guides/ideas-for-exploring-the-faroe-islands/myths-legends/the-seal-woman[The Seal Woman]
+* 法罗群岛公共交通公司官网: https://www.ssl.fo/en[Strandfaraskip Landsins (SSL)]
+* 法罗群岛公共交通公司官网 - 公交 400 路: https://www.ssl.fo/en/timetable/bus/400-klaksvik-torshavn[400 Klaksvík - Tórshavn]
+* 法罗群岛公共交通公司官网 - 公交 506 路: https://www.ssl.fo/en/timetable/bus/506-troellanes-sydradalur[506 Trøllanes - Syðradalur]
+* 法罗群岛公共交通公司官网 - 轮渡 56 路: https://www.ssl.fo/en/timetable/ferry/56-klaksvik-kalsoy[56 Klaksvík - Kalsoy]
