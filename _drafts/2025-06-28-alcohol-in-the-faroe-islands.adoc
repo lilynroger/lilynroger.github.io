@@ -1,0 +1,77 @@
+= 法罗群岛买酒攻略
+:page-subtitle: Alcohol in the Faroe Islands
+:page-modified_time: 2025-09-16 12:00:00 +0800
+:page-date: 2025-06-28 15:00:00 +0100
+:page-image: assets/images/2025/lofoten-faroe/alcohol-in-the-faroe-islands/bjor.fo.png
+:page-layout: post
+:page-categories: posts
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 美酒]
+:page-liquid:
+:toc:
+:sectnums:
+:url-undersea-tunnels: {% post_url 2025-07-01-undersea-tunnels-in-the-faroe-islands %}
+:url-airport-fae: {% post_url 2025-06-15-airport-fae %}
+
+
+北欧国家除了丹麦, 包括芬兰, 冰岛, 挪威, 瑞典都施行酒类国家专卖制度. 但是作为丹麦自治领地的法罗群岛也施行酒类国家专卖, 由国营的酒类专卖局负责进口和销售大部分酒类. 此外, 在法罗群岛还可以买到两家本地酿酒厂 OY brewery 和 Føroyar Bjór 的酒水. 无论是游客还是本地人, 最好的买酒的地方就是机场免税店.
+
+[#national-monopoly-on-alcohol]
+== 酒类专卖局
+
+在法罗群岛, 所有酒精含量高于 2.8% 的酒类都由国营的酒类专卖局 (Rúsdrekkasøla Landsins) 负责进口和销售. 在一般的超市和杂货店是买不到正经酒水的.
+
+酒类专卖局在法罗群岛主要的城镇设有屈指可数的几家门店. 对于游客而言, 几个可能相对方便的门店包括:
+
+* 主岛斯特莱默岛 (Streymoy) 上的首都托尔斯港 (Tórshavn)
+* 机场岛沃格岛 (Vágar) 上的 Miðvágur 村
+* 东岛埃斯图罗伊岛 (Esturoy) 上的 Norðskáli 村
+* 北方诸岛中 Borðoy 岛上的第二大城镇克拉克斯维克 (Klaksvík)
+
+其中东岛埃斯图罗伊岛 (Esturoy) 上的 Norðskáli 村门店就在法罗群岛唯一的海峡大桥斯特莱默大桥 (Streymin Bridge, 法罗语: Brúgvin um Streymin) 旁. 如果你自驾经过这座桥, 可以顺路去看看. 此外, 这里也有两家颇具规模的超市, 是岛上的 "购物中心".
+
+TIP: 有关法罗群岛海底隧道和大桥, 可以参考我们的攻略: link:{url-undersea-tunnels}[法罗群岛的海底隧道].
+
+酒类专卖局的门店不但少, 而且营业时间短, 周末营业时间更短, 甚至干脆关门, 最好提前查好, 看好时间.
+
+[#local-breweries]
+== 本地酿酒厂
+
+法罗群岛现在有两家本地的酿酒厂:
+
+* https://bjor.fo/[Føroyar Bjór]
+* https://www.oy.fo/en/oy[OY brewery]
+
+其中, 成立于 1888 年的 Føroyar Bjór 是法罗群岛的老字号. 总部位于克拉克斯维克 (Klaksvík). 它的产品是传统法罗风味的代表. 而成立于 2010 年的, 总部位于托尔斯港的 OY brewery 是一家年轻的酿酒厂. 它以生产精酿啤酒为主. 两家的产品在他们自己的门店和酒类专卖局的门店都可以买到. 当然, 还有机场的免税店.
+
+.机场免税店售卖的法罗群岛当地啤酒
+image::assets/images/2025/lofoten-faroe/alcohol-in-the-faroe-islands/faroese-beers.webp[机场免税店售卖的法罗群岛当地啤酒]
+
+法罗群岛曾经还有一家叫做 Okkara 的酿酒厂, 不过在经营了近十年之后, 已经卖给了 Føroya Bjór. footnote:[当地新闻: https://local.fo/okkara-has-been-sold-to-foroya-bjor/[Okkara has been sold to Føroya Bjór]]
+
+[#at-restaurants]
+== 餐馆
+
+持有执照的餐馆和酒吧中当然也可以买到酒水. 不过做好心理准备, 价格可能高出好几倍.
+
+.沃格岛 Gásadalur 村唯一的餐馆 https://gasadal.fo/?_l=en[Gásadalsgarður Café]
+image::assets/images/2025/lofoten-faroe/alcohol-in-the-faroe-islands/beers-at-gasadalsgardur-cafe.webp[沃格岛 Gásadalur 村唯一的餐馆 Gásadalsgarður Café]
+
+[#dutyfree-fae]
+== 机场免税店
+
+在法罗群岛, 买酒最便宜的地方就是机场免税店. 
+
+法罗群岛是自治领地, 从唯一的机场沃格机场进出的都是 "国际航线", 都可以在免税店购物. 本地人也不会错过这里买酒的机会.
+
+.法罗群岛沃格机场的免税店
+image::assets/images/2025/lofoten-faroe/alcohol-in-the-faroe-islands/fae-dutyfree.webp[法罗群岛沃格机场的免税店]
+
+TIP: 有关法罗群岛沃格机场的信息, 可以参考我们的攻略: link:{url-airport-fae}[法罗群岛沃格机场攻略].
+
+[#reources]
+== 参考资源
+
+* 法罗群岛机场免税店官网: https://en.dutyfree.fo[Duty Free FAE]
+* 国家酒类专卖局官网 (法罗语): https://rusan.fo[Rúsdrekkasøla Landsins]
+* 法罗群岛的老字号酿酒厂: https://bjor.fo/[Føroyar Bjór]
+* 法罗群岛年轻的精酿啤酒厂: https://www.oy.fo/en/oy[OY brewery]
