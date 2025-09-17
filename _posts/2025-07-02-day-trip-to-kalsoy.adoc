@@ -11,7 +11,7 @@
 :url-undersea-tunnels: {% post_url 2025-07-01-undersea-tunnels-in-the-faroe-islands %}
 :url-trail-difficulty: https://visitfaroeislands.com/en/see-do/activities/hiking/trail-difficulty
 
-卡尔索伊岛 (Kalsoy) 是法罗群岛北方诸岛之一, 是包括卡鲁尔灯塔 (Kallur Lighthouse) 和海豹女雕像 (Seal Woman) 在内的热门景点的所在地. 卡尔索伊岛也是 007 系列电影 "无暇赴死" 的外景拍摄地之一. 詹姆斯·邦德的墓碑就在卡鲁尔灯塔附近. 因此卡尔索伊岛一日游及徒步卡鲁尔灯塔已经成为法罗群岛的必游项目.
+卡尔索伊岛 (Kalsoy) 是法罗群岛北方诸岛之一. 它是卡鲁尔灯塔 (Kallur Lighthouse) 和海豹女雕像 (Seal Woman) 等热门景点的所在地, 还是电影 "007: 无暇赴死" 的外景拍摄地之一. 詹姆斯·邦德的墓碑就在卡鲁尔灯塔附近. 卡尔索伊岛一日游及徒步卡鲁尔灯塔是法罗群岛的必游项目.
 
 [#about-kalsoy]
 == 关于卡尔索伊岛
