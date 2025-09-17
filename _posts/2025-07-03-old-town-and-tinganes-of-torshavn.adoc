@@ -1,0 +1,78 @@
+= 托尔斯港的老城和廷加内斯
+:page-subtitle: Old Town and Tinganes of Tórshavn
+:page-modified_time: 2025-09-16 12:00:00 +0800
+:page-date: 2025-07-03 08:00:00 +0100
+:page-image: assets/images/2025/lofoten-faroe/old-town-and-tinganes-of-torshavn/government-buildings.webp
+:page-layout: post
+:page-categories: posts
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 城市]
+:page-liquid:
+:toc:
+:sectnums:
+
+托尔斯港 (Tórshavn) 的老城是一片风景如画的袖珍街区, 非常适合游客漫步其中. 它见证了法罗群岛的悠久历史, 是法罗群岛的心脏. 特别是其中的廷加内斯 (Tinganes), 曾经是世界上最早的议会集会地点之一, 现在是法罗群岛地方自治政府的所在地. 你漫不经心的走过的草顶红色木屋, 可能就是首相办公室, 财政部, 同时也是外交, 工业和贸易部.
+
+[#where]
+== 老城在哪
+
+托尔斯港老城位于港口的核心位置. 突出的廷加内斯半岛 (Tinganes) 将整个港口分隔成东西两个港湾 (Eystaravág 和 Vestaravág). 在托尔斯港主教座堂 (Tórshavn Cathedral) 以南, 一条名为 Bringsnagøta 的狭窄街道在两个港湾之间横跨廷加内斯半岛, 将半岛和城市的其他部分分隔开来. 这条街就是老城的边界. 在 1788 年, 托尔斯港主教座堂刚刚建成时, 人们还把教堂称为 "城北的教堂". 而这条街的南边住的就是 "城里人" 了.
+
+.托尔斯港老城地图
+image::assets/images/2025/lofoten-faroe/old-town-and-tinganes-of-torshavn/map.webp[托尔斯港老城地图]
+
+[#strolling]
+== 老城漫步
+
+托尔斯港的老城漫步可以开始于港口的西港湾, 廷加内斯半岛的西侧. 这里有几家咖啡馆和餐馆.
+
+.廷加内斯半岛的西侧
+image::assets/images/2025/lofoten-faroe/old-town-and-tinganes-of-torshavn/waterfront.webp[廷加内斯半岛的西侧]
+
+来到港湾的东北角, 就可以看到醒目的托尔斯港主教座堂了.
+
+.托尔斯港主教座堂
+image::assets/images/2025/lofoten-faroe/old-town-and-tinganes-of-torshavn/cathedral.webp[托尔斯港主教座堂]
+
+如果赶上教堂开着, 不妨进去看看. 这个主教座堂可能和你在欧洲其他城市看到的主教座堂有很大不同.
+
+.托尔斯港主教座堂的内部
+image::assets/images/2025/lofoten-faroe/old-town-and-tinganes-of-torshavn/cathedral-interior.webp[托尔斯港主教座堂的内部]
+
+经过教堂的墓地, 就来到了 Bringsnagøta 街. 沿着这条街道向上来到半岛中部的高处 (上面地图的红色标记), 就是老城的 Reyn 区的 Reyngøta 小巷的入口了.
+
+托尔斯港老城的 Reyn 区就是古时 "城里人" 的住宅区了. 在这个袖珍街区中, 杂乱无章的散落着有白色窗框和草皮屋顶的黑色柏油房屋. 值得一提的是, 这些 14 世纪的房屋至今仍有人居住和安家.
+
+.托尔斯港老城的 Reyngøta 小巷
+image::assets/images/2025/lofoten-faroe/old-town-and-tinganes-of-torshavn/reyngota.webp[托尔斯港老城的 Reyngøta 小巷]
+
+漫步在蜿蜒狭窄的迷人小巷中, 可以发现许多独特的美.
+
+.托尔斯港老城的 Reyngøta 小巷一隅
+image::assets/images/2025/lofoten-faroe/old-town-and-tinganes-of-torshavn/shack.webp[托尔斯港老城的 Reyngøta 小巷一隅]
+
+经过 Reyn 区的黑色柏油房屋, 眼前是一片红色的草顶房屋. 这里就是半岛尽头的廷加内斯 (Tinganes) 了. 
+
+.托尔斯港廷加内斯的政府建筑
+image::assets/images/2025/lofoten-faroe/old-town-and-tinganes-of-torshavn/government-buildings.webp[托尔斯港廷加内斯的政府建筑]
+
+法罗语 Tinganes 由两部分构成. 其中 ting 源自古诺尔斯语 (Old Norse), 和英语中的 thing, 以及冰岛语中的 
+þing 同源, 意思是议会 (meeting, assembly, parliament). 而 -anes 是极其常见的地名后缀, 意思是海角, 半岛. 所以 Tinganes 的字面意思就是 "议会半岛".
+
+廷加内斯据说是世界上最古老的举行议会的地点之一. 大约在公元 900 年前后开始, 维京人每年夏天在廷加内斯召开议会, 商量国家大事. 另外两个早期议会地点分别是马恩岛 (Isle of Man) 的 Tynwald Hill 和冰岛的 Þingvellir. 实际上 Tynwald 和 Þingvellir 也源自古诺尔斯语, 字面意思都是 "议会平原".
+
+廷加内斯如今是法罗群岛的地方自治政府的所在地. 这里没有警卫, 游客可以自由的漫步其中. 首相办公室, 财政部, 外交, 工业和贸易部的办公室都在靠近半岛尽头的红色木房子中. 你偶然碰上的某个人, 也许就是去吃午饭的首相或者部长.
+
+.托尔斯港廷加内斯的首相办公室
+image::assets/images/2025/lofoten-faroe/old-town-and-tinganes-of-torshavn/prime-minister-office.webp[托尔斯港廷加内斯的首相办公室]
+
+从廷加内斯的尽头可以拐去半岛东边的港湾, 值得一提的是这边醒目的白色房子是法罗群岛官方旅游推广机构 https://visitfaroeislands.com/en[Visit Faroe Islands] 的所在地. 小身材有大能量, 他们的工作做得太好, 绝对是我们所知道的做的最好的官方旅游资源之一.
+
+.法罗群岛官方旅游推广机构 (Visit Faroe Islands)
+image::assets/images/2025/lofoten-faroe/old-town-and-tinganes-of-torshavn/visit-faroe-islands.webp[法罗群岛官方旅游推广机构 (Visit Faroe Islands)]
+
+[#reources]
+== 参考资源
+
+* 托尔斯港旅游推广机构官网 - 托尔斯港老城: https://www.visittorshavn.fo/place/old-town-in-torshavn-a-reyni/[Old Town in Tórshavn]
+* 托尔斯港旅游推广机构官网 - 廷加内斯: https://www.visittorshavn.fo/place/tinganes/[Tinganes]
+* 法罗群岛政府官网 - 廷加内斯: https://www.government.fo/en/the-government/ministries/prime-ministers-office/tinganes-a-brief-historical-guide[Tinganes - a brief historical guide]
