@@ -1,0 +1,136 @@
+= 从法罗群岛飞往罗弗敦 | 小众线路航班攻略
+:page-subtitle: Fly to Lofoten from Faroe Islands
+:page-modified_time: 2025-09-18 12:00:00 +0800
+:page-date: 2025-07-04 08:00:00 +0100
+:page-image: assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/boarding-wideroe-flight.webp
+:page-layout: post
+:page-categories: posts
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 挪威, 罗弗敦群岛, 卑尔根, 交通]
+:page-liquid:
+:toc:
+:sectnums:
+
+丹麦的法罗群岛 (Faroe Islands) 和挪威的罗弗敦群岛 (Lofoten Islands) 是世界上最美的两个群岛, 是无数人梦想的旅行目的地. 在 2025 的夏天, 我们终于将两个群岛放在一起, 一次行程达成两个心愿. 这篇是有关我们如何规划从法罗群岛飞往罗弗敦的小众线路, 买到划算的当日联程机票.
+
+[#our-trip]
+== 我们的行程
+
+我们是先从丹麦的哥本哈根入境去的法罗群岛, 法罗群岛之后去的罗弗敦群岛, 最后从挪威的奥斯陆出境, 全程没有走回头路. 其中, 重点是我们从法罗群岛飞罗弗敦的飞行路径.
+
+.搭乘威德罗航空 (Widerøe) 的航班从法罗群岛 (Faroe Islands) 出发, 经由挪威的卑尔根 (Bergen) 和博德 (Bodø), 到达罗弗敦 (Lofoten) 的斯沃尔韦尔 (Svolvær)
+image::assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/flight-path.webp[从法罗群岛飞罗弗敦的飞行路径]
+
+从法罗群岛飞罗弗敦的整个行程是联程机票, 当日出发到达, 行李从法罗群岛托运到最终目的地罗弗敦的斯沃尔韦尔. 
+
+IMPORTANT: 因为法罗群岛不属于申根区, 所以从法罗群岛到卑尔根时需要 "入境" 申根区. 切记需要提取行李, 过海关, 然后投放到行李托运处. 再次托运时无需办理托运手续, 行李标签不变. 托运时有疑惑可以咨询机场工作人员确认.
+
+这是我们从法罗群岛飞罗弗敦的机票的行程信息:
+
+.中午 11:50 从法罗群岛机场出发, 经停卑尔根机场和博德机场, 夜间 20:35 到达斯沃尔韦尔机场
+image::assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/faroe-lofoten.webp[法罗群岛飞罗弗敦的联程机票的行程信息]
+
+下面的表格列出了航班的关键信息. 作为参考, 我们提前两个多月在威德罗航空官网预定的单程机票. 联程机票包含两次中转和托运行李的总价是 3060 丹麦克朗, 大约相当于人民币 2200 元左右.
+
+.从法罗群岛飞罗弗敦的航班详细信息
+|===
+| 航班 | 时间 | 航线
+
+| WF 291 | 11:50 - 14:25 | Faroe Islands (FAE) - Bergen (BGO)
+| WF 612 | 17:25 - 19:00 | Bergen (BGO) - Bodø (BOO)
+| WF 836 | 20:05 - 20:35 | Bodø (BOO) - Svolvær (SVJ)
+|===
+
+[#faroe-islands]
+== 法罗群岛
+
+法罗群岛只有一个机场就是沃格机场 (Vágar Airport, 机场代码: FAE). 作为丹麦的海外自治领地. 法罗群岛拥有自己的 "国航", 即大西洋航空 (Atlantic Airways), 沃格机场是它的基地. 在 https://www.directflights.com/[Directflights] 可以查询特定机场的直飞航班信息. 比如, 法罗群岛机场的信息: https://www.directflights.com/FAE[Directflights: FAE].
+
+毫不意外, 大西洋航空最多的航班就是每日往返丹麦哥本哈根和法罗群岛之间的航班: https://www.directflights.com/FAE-CPH[Faroe Islands (FAE) - Copenhagen (CPH)]. 瑞典, 挪威, 丹麦三国的 "国航" 斯堪的纳维亚航空 (Scandinavian Airlines) 公司也有每日往返哥本哈根和法罗群岛的航班. 我们就是乘坐大西洋航空的航班从哥本哈根出发到达法罗群岛的. 不过, 在游览了法罗群岛之后, 我们并不想走回头路, 不想返回哥本哈根去罗弗敦群岛.
+
+此外, 大西洋航空每周有两班直飞挪威的奥斯陆的航班: https://www.directflights.com/FAE-OSL[Faroe Islands (FAE) - Oslo (OSL)]. 这个航线提供了可能的飞行线路的替代方案.
+
+重点是, 挪威的威德罗航空每周有两班从法罗群岛直飞挪威的卑尔根的航班: https://www.directflights.com/FAE-BGO[Faroe Islands (FAE) - Bergen (BGO)], 分别在周一和周五. 这个飞行线路太完美了, 不用再次经过奥斯陆或者哥本哈根. 而且卑尔根是挪威比较重要的机场, 航线和航班比较多; 加之卑尔根小而美, 机场交通便利, 是非常好的中转停留地.
+
+[#bergen]
+== 卑尔根
+
+从法罗群岛去罗弗敦群岛, 卑尔根从位置上讲就是极佳的中转点. 卑尔根还是挪威最重要的旅游城市之一, 四大峡湾中的松恩峡湾和哈当厄尔峡湾都在卑尔根附近, 也是理想的停留点.
+
+卑尔根机场的航班信息参见: https://www.directflights.com/BGO[Direct flights from Bergen BGO]. 从卑尔根既可以经博德中转前往罗弗敦群岛的两座机场, 也可以直飞罗弗敦群岛的莱克内斯机场.
+
+NOTE: 秋冬季时, 卑尔根前往博德的航班数锐减, 只有周末才有, 而且直飞莱克内斯的航班停飞.
+
+IMPORTANT: 再次提醒, 如果是当日联程航班, 从法罗群岛出发到达卑尔根之后, 记得需要提取行李, 过海关, 然后再次托运行李.
+
+[#bodo]
+== 博德
+
+博德是前往罗弗敦群岛的门户. 博德机场也是整个挪威北方重要的交通枢纽机场, 航线四通八达. 博德机场的直航航班参见: https://www.directflights.com/BOO[Direct flights from Bodø BOO].
+
+除了飞机之外, 博德有汽车轮渡前往罗弗敦各处港口. 航行时间三个多小时是长了点, 好在便宜, 而且可以看风景, 也是可以考虑的慢旅行的交通选项.
+
+[#lofoten]
+== 罗弗敦群岛
+
+罗弗敦群岛有两个机场, 分别是:
+
+* 北部的斯沃尔韦尔机场: https://www.directflights.com/SVJ[Svolvær (SVJ)]
+* 中部的莱克内斯机场: https://www.directflights.com/LKN[Leknes (LKN)]
+
+因为罗弗敦群岛基本上从南到北都是要去的, 两座机场在航班, 交通和设施等方面差别都不大, 所以其实选择哪个进出都可以. 两座机场进出罗弗敦群岛的枢纽都是博德, 飞行时间只需要 30 分钟, 每天都有几班.
+
+值得一提的是罗弗敦的两座机场都有往返奥斯陆的直飞航班. 莱克内斯机场往返奥斯陆的航班每天都有, 相比斯沃尔韦尔机场要多. 此外, 莱克内斯机场还有周末往返卑尔根的直航. 缺点就是直飞奥斯陆和卑尔根的机票都要比博德中转贵得多.
+
+[#alternative-route]
+== 替代方案
+
+我们的法罗群岛和罗弗敦群岛之间的航班路径, 最重要的就是法罗群岛和卑尔根之间的这个航班, 又便宜, 又方便. 路径上的其他航班都是围绕着这个航班规划的. 不幸的是, 这个航班的时刻表一直都在变. 规划未来的行程时, 需要了解相应的时刻表. 我们用到了 https://www.flight.info/[Flight.info] 查询航班的时刻表变化.
+
+IMPORTANT: 事实上, 我们在 2025 年夏季的这个飞行路径在 2026 年会发生变化, 当日联程可能已经无法实现了.
+
+举例而言, 从法罗群岛飞往卑尔根的只有一班, 就是威德罗的航班, 航班号是 WF291. 通过 Flight.info 可以了解这个航班的时刻表等详细信息. 参见: https://www.flight.info/WF291[Widerøe WIF291 / WF291].
+
+.Widerøe WF291 的时刻表
+image::assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/wf291-schedule.webp[Widerøe WF291 的时刻表]
+
+可见 WF291 的时刻表在持续的变化中. 其中在 2026 年的夏季, WF291 仍然是每周一五各一班, 只是出发时间略微晚了一点. 
+
+下一步, 我们通过 Directflight.com 看看卑尔根到博德的航班. 作为例子, 选择 2026 年六月底的一周 (Jun 29 - Jul 05) 查看, 参见: https://www.directflights.com/BGO-BOO[Direct flights from Bergen to Bødo]:
+
+.卑尔根到博德的直航航班
+image::assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/bgo-boo.webp[卑尔根到博德的直航航班]
+
+可以看到, 我们在 2025 年搭乘的 WF612 的出发时间提早了. 而另一个航班 WF614 挪到了 17:15 出发. 这个时间本来是最适合接驳法罗群岛飞过来的 WF291 航班的. 不幸的是, 不知道因为什么原因, 周一五 17:15 乃至前后相邻的时间段都没有航班了. 这也就意味着, 法罗群岛, 经卑尔根, 飞往博德, 进而飞往罗弗敦的这条当天的联程路径没有了.
+
+作为替代方案, 隔天中转停留可以考虑的选项有:
+
+* 从法罗群岛飞回哥本哈根在去挪威, 优点是不受时间限制, 每天都有多次航班, 选择众多.
+* 从法罗群岛直飞奥斯陆, 缺点是只有特定日期有航班, 优点是有直飞罗弗敦的航班, 只要不差钱就行.
+* 从法罗群岛直飞卑尔根, 缺点是只有特定日期有航班, 优点是可以顺路游览卑尔根, 只要不差钱, 也有直飞罗弗敦的航班
+* 当然, 也可以先去罗弗敦, 然后去法罗群岛
+
+不论哪个方案, 没有了联程的方案, 都需要更多的时间, 当然还有更多的银子.
+
+[#conclusion]
+== 总结
+
+自己规划小众线路虽然有时比较烧脑, 但是也可以乐在其中. 特别是有惊喜的发现时, 不但可以省钱, 省时, 还可以成为旅行记忆中的亮点. 总结规划小众线路一下航班的要点:
+
+* 一些小众的航班路径只在航空公司官网上有, 在你的常用在线旅游平台找不到. 
+* 用 https://www.directflights.com/[Directflights] 或者其他类似在线工具了解进出某机场的直航航班, 规划理想的路线.
+* 用 https://www.flight.info/[Flightinfo] 或者其他类似在线工具了解特定航班的时刻表, 特别是时刻表可能的变化.
+* 用 https://www.flightaware.com[FlightAware] 或者其他类似在线工具了解特定航班的平均延误等信息, 制定更可靠的行程.
+
+.搭乘威德罗航空 (Widerøe) 的航班到达罗弗敦 (Lofoten) 的斯沃尔韦尔 (Svolvær)
+image::assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/wideroe-flight-at-svolvar.webp[搭乘威德罗航空 (Widerøe) 的航班到达罗弗敦 (Lofoten) 的斯沃尔韦尔 (Svolvær)]
+
+[#reources]
+== 参考资源
+
+* Directflights: https://www.directflights.com/FAE[Direct flights from Faroe Islands FAE]
+* Directflights: https://www.directflights.com/BGO[Direct flights from Bergen BGO]
+* Directflights: https://www.directflights.com/BOO[Direct flights from Bodø BOO]
+* Directflights: https://www.directflights.com/SVJ[Direct flights from Svolvaer SVJ]
+* Directflights: https://www.directflights.com/LKN[Direct flights from Leknes LKN]
+* Flight.info: https://www.flight.info/WF291[Wideroe WIF291 / WF291]
+* Flight.info: https://www.flight.info/WF612[Wideroe WIF612 / WF612]
