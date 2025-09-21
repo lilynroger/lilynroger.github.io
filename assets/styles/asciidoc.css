@@ -131,7 +131,7 @@ span.icon>.fa {
         margin-top: 0.5em;
         padding: 0 0 0 1em;
         font-style: italic;
-        border-left: 3px solid #FFCC00;
+        border-left: 3px solid #FFC107;
     }
 }
 
@@ -145,4 +145,23 @@ p.tableblock {
 
 .tableblock .paragraph:last-of-type {
     margin-bottom: 0;
+}
+
+.quoteblock {
+    border-left: solid 5px #FFC107;
+    background-color: #F5F5F5;
+    font-style: italic;
+}
+
+article {
+    a {
+        text-decoration: none;
+    }
+
+    a:hover {
+        text-decoration: underline;
+        text-decoration-color: #FFC107;
+        text-decoration-thickness: 2px;
+        text-underline-offset: 2px;
+    }
 }
