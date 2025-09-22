@@ -1,18 +1,27 @@
-= 罗弗敦群岛和法罗群岛之旅行程
-:page-subtitle: Lofoten Islands and Faroe Islands Itinerary
-:page-layout: post
-:page-categories: posts
-:page-image: assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/lofoten-hamnoy.webp
+= 罗弗敦群岛和法罗群岛之旅行程 (上) - 法罗群岛
+:page-subtitle: Lofoten Islands and Faroe Islands Itinerary Part 1 - Faroe Islands
+:page-image: assets/images/2025/lofoten-faroe/itinerary-faroe-islands/mikladalur.webp
+:page-modified_time: 2025-09-21 18:00:00 +0800
+:page-date: 2025-07-04 06:00:00 +0100
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦群岛, 丹麦, 法罗群岛, 运动, 徒步, 行程]
-:page-date: 2025-06-26 00:00:00 +0000
+:page-categories: posts
+:page-layout: post
 :page-liquid:
 :toc:
+:toclevels: 1
 :sectnums:
 :url-gasadalur-apartments: https://www.booking.com/hotel/fo/gasadalur-apartments-world-famous-waterfall.html
+:url-scandic-palace: https://www.booking.com/hotel/dk/scandic-palace.html
+:url-day-trip-to-kalsoy: {% post_url 2025-07-02-day-trip-to-kalsoy %}
+:url-one-day-island-hopping-road-trip: {% post_url 2025-07-01-one-day-island-hopping-road-trip %}
+:url-old-town-and-tinganes-of-torshavn: {% post_url 2025-07-03-old-town-and-tinganes-of-torshavn %}
+:url-fly-to-lofoten-from-faroe-islands: {% post_url 2025-07-04-fly-to-lofoten-from-faroe-islands %}
 
-挪威的罗弗敦群岛拥有山峰, 峡湾, 岛屿和沙滩, 吸引着来自世界各地的徒步, 登山, 冲浪和皮划艇爱好者来到这座户外运动的天堂. 而丹麦的法罗群岛作为北大西洋上最后的的秘境, 世界的边缘, 同样拥有峡湾, 悬崖, 海蚀柱, 童话般的草顶村落, 此外还有蠢萌的海鹦. 我们的罗弗敦群岛和法罗群岛之旅在 18 天的行程中一次探访两个群岛.
+挪威的罗弗敦群岛拥有山峰, 峡湾, 岛屿和沙滩, 吸引着来自世界各地的徒步, 登山, 冲浪和皮划艇爱好者来到这座户外运动的天堂. 而丹麦的法罗群岛作为北大西洋上最后的的秘境, 世界的边缘, 同样拥有峡湾, 悬崖, 海蚀柱, 童话般的草顶村落, 此外还有蠢萌的海鹦. 我们在这个十八天的旅行中, 一次完成两个人生目标.
 
-[#_stays]
+这一篇游记是上篇, 包含了整个行程的住宿, 航班和租车的汇总信息, 以及在丹麦的哥本哈根和法罗群岛的 D1 - D8 的每日行程. 在挪威的罗弗敦群岛和奥斯陆的的行程记录在游记的下篇: 罗弗敦群岛和法罗群岛之旅行程 (下) - 罗弗敦群岛.
+
+[#stays]
 == 住宿
 
 罗弗敦群岛是我们此行的主要目的地, 然后是法罗群岛. 我们分别在罗弗敦群岛和法罗群岛住了 9 晚和 6 晚. 此外, 乘机到达和离开北欧时分别在哥本哈根和奥斯陆停留了 1 晚和 2 晚. 下面是此行的住宿一览表:
@@ -51,7 +60,7 @@
 | 2 晚
 |===
 
-[#_flights]
+[#flights]
 == 航班
 
 往返北欧的航班我们选择了阿联酋航空. 在哥本哈根, 法罗群岛, 罗弗敦群岛和奥斯陆之间也选择搭乘飞机. 下面是此行的航班一览表:
@@ -76,7 +85,7 @@
 | 阿联酋航空 (Emirates)
 |===
 
-[#_cars]
+[#cars]
 == 租车
 
 罗弗敦群岛和法罗群岛的公共交通都相当有限. 初次探访两地, 租车是最佳选择. 下面是此行租车的一览表:
@@ -93,7 +102,7 @@
 | Hertz
 |===
 
-[#_day1]
+[#day1]
 == D1: 抵达丹麦哥本哈根
 
 我们搭乘阿联酋航空的航班, 凌晨从北京出发, 在迪拜中转, 当日中午就可以到达丹麦首都哥本哈根. 我们选择在哥本哈根停留一晚, 第二天下午搭乘飞机前往法罗群岛. 这样行程会稍微轻松一些, 也稳妥一点.
@@ -114,15 +123,15 @@
 说到晚饭, 推荐位于哥本哈根北门车站 (Nørreport) 附近的 Torvehallerne 食品市场, 不管是本地人还是游客都非常喜爱.
 
 .罗森堡宫 (Rosenborg Castle)
-image::assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/rosenborg-castle.webp[罗森堡宫 (Rosenborg Castle)]
+image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/rosenborg-castle.webp[罗森堡宫 (Rosenborg Castle)]
 
-[#_where_we_stayed_in_cph]
+[#where_we_stayed_in_cph]
 === 我们在哥本哈根的住处
 
-Scandic Palace Hotel 是哥本哈根最大的广场市政厅广场 (City Hall Square, 丹麦语: Rådhuspladsen) 上的标志性建筑. 酒店历史悠久, 但又不是很贵. 地铁 Rådhuspladsen 站就在广场上. 蒂沃利花园近在咫尺, 哥本哈根中央火车站 (Copenhagen Central Station, 丹麦语: København H) 也步行可达.
+{url-scandic-palace}[Scandic Palace Hotel] 是哥本哈根最大的广场市政厅广场 (City Hall Square, 丹麦语: Rådhuspladsen) 上的标志性建筑. 酒店历史悠久, 但又不是很贵. 地铁 Rådhuspladsen 站就在广场上. 蒂沃利花园近在咫尺, 哥本哈根中央火车站 (Copenhagen Central Station, 丹麦语: København H) 也步行可达.
 
-[#_day2]
-== D2: 抵达法罗群岛的沃格岛
+[#day2]
+== D2: 抵达法罗群岛的沃格岛 (Vágar)
 
 这一天我们从哥本哈根出发飞往法罗群岛. 大西洋航空公司 (Atlantic Airways) 和北欧航空 (Scandinavian Airlines) 在夏季每天都有往返于link:https://www.flightsfrom.com/FAE-CPH[哥本哈根和法罗群岛之间的航班]. 我们选择中午的航班. 上午可以借着晨跑的机会再次领略城市风光. 而下午到达法罗群岛以后可以直接入住.
 
@@ -134,7 +143,7 @@ Scandic Palace Hotel 是哥本哈根最大的广场市政厅广场 (City Hall Sq
 
 法罗群岛的各大诸岛虽然有四通八达的海底隧道连接在一起, 但是收费不菲. 行程安排上最好避免经常往返这些海底隧道. 沃格岛是法罗群岛的 "西岛". 这里有机场, 瀑布, 悬湖和海蚀柱. 前往米基内斯岛观海鹦的轮渡也在这里. 所以, 我们在法罗群岛前半段旅程就以沃格岛为落脚点探访群岛的西部.
 
-[#_where_we_stayed_on_vagar]
+[#where_we_stayed_on_vagar]
 === 我们在沃格岛的住处
 
 沃格岛最西端的山谷中隐藏着加萨达鲁尔村 (Gásadalur). 直到 2004 年随着穿山隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最著名的穆拉瀑布 (Múlafossur) 的所在地. 我们选择住在这里最最代表性的一家民宿: {url-gasadalur-apartments}[Gásadalur Apartments].
@@ -142,9 +151,9 @@ Scandic Palace Hotel 是哥本哈根最大的广场市政厅广场 (City Hall Sq
 下面这张照片中的瀑布就是穆拉瀑布. 瀑布背景中的小村子就是 Gásadalur 村, 而村子前排右边连着的三间公寓就是 Gásadalur Apartments 了. 住在这个世界边缘的尽头, 绝对是终身难忘的体验.
 
 .穆拉瀑布 (Múlafossur) 和加萨达鲁尔村 (Gásadalur)
-image::assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/mulafossur.webp[穆拉瀑布 (Múlafossur) 和加萨达鲁尔村 (Gásadalur)]
+image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/mulafossur.webp[穆拉瀑布 (Múlafossur) 和加萨达鲁尔村 (Gásadalur)]
 
-[#_day3]
+[#day3]
 == D3: 沃格岛自驾游
 
 今天是轻松的沃格岛一日自驾游. 从沃格岛西侧我们住的 Gásadalur 出发, 一直到沃格岛东侧的 Sandavágur, 然后原路返回. 自西向东依次是下面这几个村庄:
@@ -185,10 +194,10 @@ TIP: 法罗语中的地名有很多常见的构成部分, 比如 -dalur 的意�
 沃格岛不是很大, 自驾一日游并不需要很多时间, 时间规划相对轻松. 什么时间出发主要考虑的因素还是当天的天气变化情况. 详细的信息可以参考我们的游记: link:{% post_url 2025-06-29-one-day-road-trip-on-vagar-island %}[法罗群岛沃格岛自驾一日游]. 当天的亮点是徒步女巫手指, 可以参考我们的攻略: link:{% post_url 2025-06-29-hiking-trollkonufingur %}[徒步法罗群岛的女巫手指].
 
 .女巫手指 (Trøllkonufingur)
-image::assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/trollkonufingur.webp[女巫手指 (Trøllkonufingur)]
+image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/trollkonufingur.webp[女巫手指 (Trøllkonufingur)]
 
-[#_day4]
-== D4: 米基内斯岛看海鹦
+[#day4]
+== D4: 米基内斯岛 (Mykines) 看海鹦
 
 大西洋海雀 (Puffin), 俗称海鹦鹉或者海鹦 (Sea Parrot). 因为它蠢萌的长相, 有时也被戏称 "小丑海鸟" (Clowns of the Sea).
 
@@ -196,16 +205,16 @@ image::assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/trollkonufingur.
 
 法罗群岛最西边的米基内斯岛 (Mykines) 就是最佳的观赏海鹦的地点之一, 也是法罗群岛最热门的目的地之一.
 
-IMPORTANT: 前往米基内斯岛的轮渡极易受到天气因素影响, 被取消是家常便饭, 可能的话, 尽量灵活规划行程. 好在所有的预定在被取消时都可以获得全额的退款. 
+IMPORTANT: 前往米基内斯岛的轮渡极易受到天气因素影响, 被取消是家常便饭, 可能的话, 尽量灵活规划行程. 好在所有的预定在被取消时都可以获得全额的退款.
 
 此外, 米基内斯岛也不是法罗群岛唯一能够观赏海鹦的地方, 我们在卡尔索伊岛 (Kalsoy) 徒步卡卢林灯塔 (Kallurin) 时, 在邦德的墓碑所在的悬崖那里, 近距离看到了很多的海鹦. 值得一提的是, 不论在哪里看海鹦, 都需要长焦相机才能拍出完美的照片, 手机差强人意. 下面这张照片是手机拉近拍的.
 
 .邦德的墓碑附近的海鹦
-image::assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/puffins-kalsoy.webp[邦德的墓碑附近的海鹦]
+image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/puffins-kalsoy.webp[邦德的墓碑附近的海鹦]
 
 天公不作美, 我们预定的这一天前往海鹦岛的轮渡因天气原因取消了. 不过, 这里有一些有用的信息, 希望你有好运气.
 
-[#_getting_to_mykines]
+[#getting_to_mykines]
 === 如何前往米基内斯岛
 
 在沃格岛上的 Sørvágur 村, 也就是紧邻机场西侧的村子, 有一个港口, 前往米基内斯岛的 36 号线轮渡就在这里停靠. 在夏季, 每天有早中晚三班轮渡往返于 Sørvágur 到米基内斯岛. 在负责运营法罗群岛公共交通的机构 https://www.ssl.fo/en[Strandfaraskip Landsins] 的官网上, 有这条轮渡的详细信息: https://www.ssl.fo/en/timetable/ferry/36-soervagur-mykines/[36 Sørvágur - Mykines].
@@ -218,7 +227,7 @@ NOTE: 米基内斯岛的轮渡码头在岛的西侧, 非常狭小和简陋. 糟�
 
 需要注意的本地人乘坐直升机的价格非常便宜, 比如沃格岛飞海鹦岛只要 145 丹麦克朗. 而直升机班次很少, 一周四班, 座位也很有限. 所以一定要提前预定直升机. 此外, 直升机不可以预定当天的往返票, 同一天的行程只能是单程. 这就意味着当天往返的行程需要提前预定好直升机加轮渡.
 
-[#_day5]
+[#day5]
 == D5: 三大岛跳岛自驾游 + 抵达托尔斯港
 
 我们在法罗群岛的行程分为两段, 前半段住在沃格岛的戈萨达鲁尔, 后半段住在主岛斯特莱默岛上的首都托尔斯港. 在退房离开戈萨达鲁尔前往托尔斯港的当天, 云淡风轻. 与其早早的去托尔斯港等待入住, 我们决定不如趁着稍纵即逝的好天气, 来个三大岛跳岛自驾一日游.
@@ -238,172 +247,50 @@ NOTE: 米基内斯岛的轮渡码头在岛的西侧, 非常狭小和简陋. 糟�
 | Tórshavn, Streymoy | 托尔斯港, 斯特莱默 (主岛)
 |===
 
-这一天的详细信息可以参考我们的游记: link:{% post_url 2025-07-01-one-day-island-hopping-road-trip %}[法罗群岛三大岛跳岛自驾一日游].
+这一天的详细信息可以参考我们的游记: link:{url-one-day-island-hopping-road-trip}[法罗群岛三大岛跳岛自驾一日游].
 
-.法罗群岛三大岛跳岛自驾一日游路线图
-image::assets/images/2025/lofoten-faroe/itinerary-lofoten-faroe/island-hopping-route-map.webp[.法罗群岛三大岛跳岛自驾一日游路线图]
+.巨人和女巫海蚀柱 (The Giant and The Witch, 法罗语: Risin og Kellingin)
+image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/risin-kellingin.webp[巨人和女巫海蚀柱 (The Giant and The Witch, 法罗语: Risin og Kellingin)]
 
-== D6: 徒步卡尔索伊岛 (Kalsoy) 的卡卢林灯塔 (Kallurin)
+[#day6]
+== D6: 卡尔索伊岛 (Kalsoy) 一日游 + 徒步卡鲁尔灯塔 (Kallur Lighthouse)
 
-TBD
+卡尔索伊岛 (Kalsoy) 是法罗群岛北方诸岛之一. 它是卡鲁尔灯塔 (Kallur Lighthouse) 和海豹女雕像 (Seal Woman) 等热门景点的所在地, 还是电影 "007: 无暇赴死" 的外景拍摄地之一. 詹姆斯·邦德的墓碑就在卡鲁尔灯塔附近. 卡尔索伊岛一日游及徒步卡鲁尔灯塔是法罗群岛的必游项目.
 
-== Svolvær
+我们的卡尔索伊岛一日游始于托尔斯港, 自驾经过东岛海底隧道 (Eysturoyartunnilin) 和北岛海底隧道 (Norðoyatunnilin) 来到克拉克斯维克 Klaksvík. 换乘轮渡登上卡尔索伊岛后, 坐公交车前往北部的Trøllanes 徒步卡鲁尔灯塔, 观海鹦, "瞻仰" 007 邦德的墓碑. 徒步后游览 Mikladalur, 观赏海豹女雕像 (Seal Woman). 最后原路坐公交车, 乘轮渡, 然后自驾回到托尔斯港.
 
-Svolvær 是罗弗敦群岛北部的一个小镇. 作为沃甘市 (Vågan Municipality) 的行政中心, 和罗弗敦群岛最大的镇, 可以说是罗弗敦群岛的 "首府" 了.
+这一天的详细信息可以参考我们的游记: link:{url-day-trip-to-kalsoy}[卡尔索伊岛一日游及徒步卡鲁尔灯塔].
 
-Svolvær 除了拥有 Svolvær 机场 (SVJ) 外, 还有一座前往大陆的轮渡码头. 虽然这里距离罗弗敦群岛南部最美的 Reine 小镇相当远. 但坐拥机场和码头, 大批酒店和餐馆以及附近的热门徒步路线. 所以, 这里同样是无数游客的聚集地.
+.Mikladalur 的草顶房子
+image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/mikladalur.webp[Mikladalur 的草顶房子]
 
-=== Svolvær 自驾距离
+[#day7]
+== D7: 托尔斯港老城
 
-* Svolvaer 向南到 Leknes: 70 公里, 75 分钟
-* Svolvaer 向南到 Reine: 120 公里, 120 分钟
+在法罗群岛旅行, 天气是大敌, 阴雨几乎是常态. 即使晴天, 也总是转瞬即逝. 这一天一早就开始阴云密布. 我们决定不去其他的岛, 而是待在托尔斯港. 午后, 天空中开始时不时露出一抹蓝天, 事不宜迟, 立刻出发去逛逛老城.
 
-=== Svolvær 活动
+托尔斯港的老城是一片风景如画的袖珍街区, 非常适合游客漫步其中. 它见证了法罗群岛的悠久历史, 是法罗群岛的心脏. 特别是其中的廷加内斯 (Tinganes), 曾经是世界上最早的议会集会地点之一, 现在是法罗群岛地方自治政府的所在地. 你漫不经心地走过的草顶红色木屋, 可能就是首相办公室, 财政部, 同时也是外交, 工业和贸易部.
 
-Svolvaer 附近热门的徒步路线包括:
+这一天的详细信息可以参考我们的游记: link:{url-old-town-and-tinganes-of-torshavn}[托尔斯港的老城和廷加内斯].
 
-* Fløya and Djevelporten - Devil's Staircase, Devil's Gate 魔鬼之门
+.托尔斯港廷加内斯的政府建筑
+image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/government-buildings.webp[托尔斯港廷加内斯的政府建筑]
 
-此外, 罗弗敦最有名的登山点也在 Svolvaer
+[#day8]
+== D8: 从法罗群岛飞往罗弗敦 + 抵达斯沃尔韦尔 (Svolvær)
 
-* https://visitlofoten.com/en/activity/klatring/svolvaergeita-the-goat/[Svolværgeita -- The Goat]
+这一天, 我们离开法罗群岛前往我们的下一个心愿单上的旅行目的地罗弗敦群岛. 
 
-=== Svolvær 住宿
+因为不想走回头路, 我们并没有返回丹麦的哥本哈根, 而是选择一周仅有两班的威德罗航空 (Widerøe) 的联程航班, 从法罗群岛出发, 经由挪威的卑尔根 (Bergen) 和博德 (Bodø), 到达罗弗敦的斯沃尔韦尔 (Svolvær). 虽然是两次中转, 但三个航班飞行时间都不长, 衔接的也很好. 中午从法罗群岛出发, 晚上就到了罗弗敦群岛. 而且整个行程的联程机票相当划算, 还节省了中转停留的时间.
 
-这里口碑比较好的住宿选项包括:
+从从法罗群岛飞往罗弗敦的这条路线是非常小众的路线, 规划不易, 具体的信息可以参考我们的攻略: link:{url-fly-to-lofoten-from-faroe-islands}[从法罗群岛飞往罗弗敦 | 小众线路航班攻略].
 
-* https://www.svinoya.no[Svinøya Rorbuer]
-* https://www.thonhotels.no/hoteller/norge/lofoten/thon-hotel-svolvar/[Thon Hotel Svolvær]
-* https://anker-brygge.no/[Anker Brygge]
+.搭乘威德罗航空的航班从法罗群岛飞往罗弗敦
+image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/boarding-wideroe-flight.webp[搭乘威德罗航空的航班从法罗群岛飞往罗弗敦]
 
-== Henningsvær
-
-Henningsvær 是罗弗敦群岛乃至挪威最著名的渔村之一。它位于罗弗敦群岛的主要岛屿之一奥斯特沃格亚 (Austvågøya) 南岸的几个小岛上。就在 Svolvær 西南约 20 公里处.
-
-在这里, 一方面传统渔村的原始风貌得到了保留。另一方面, Henningsvær 地方虽小，但却不乏迷人的商店, 画廊和不错的餐馆。
-
-=== Henningsvær 活动
-
-Henningsvær 附近热门的徒步路线包括:
-
-* Festvågtind - Presten (Torsketunga, 鳕鱼之舌)
-
-=== Henningsvær 住宿
-
-Henningsvær 有好几个相当不错的住宿选项, 包括:
-
-* Henningsvær Rorbuer AS
-* Henningsvær Bryggehotell - by Classic Norway Hotels
-
-== Leknes
-
-Leknes 是一个镇, 作为 Vestvågøy 市的行政中心, 大小仅次于 Svolvaer 镇. 地处罗弗敦群岛的中心位置.
-
-=== Leknes 自驾距离
-
-* 向北自驾到 Svolvaer: 70 公里. 大约需要 75 分钟.
-* 向南自驾到 Reine: 56 公里. 大约需要 60 分钟.
-
-=== Leknes 活动
-
-Leknes 附近热门的徒步路线包括:
-
-* Ryten/Kvalvika Beach Trail
-* Offersøykammen
-
-=== Leknes 住宿
-
-由于地处罗弗敦的中央, 如果行程的时间只有 3 晚或更短, 住在 Leknes 比较好. 可省去不少每日穿行罗弗敦群岛南北各地之苦. 同时这里还紧靠机场. 这里评价相对较高的住宿选项有:
-
-* https://lofoten-basecamp.no/[Lofoten Basecamp]
-
-== Moskenes
-
-Moskenes 是一个市. 由罗弗敦的 Moskenesøya 大岛南部的几个村子组成. 包括其北部的 Hamnøya 一直到南部的 Å. 而罗弗敦名气最大的渔村 Reine 是 Moskenes 的行政中心.
-
-Moskenes 的轮渡码头 (Ferryport) 连接着西峡湾 (Vestfjorden) 对面的交通枢纽城市 Bodø. 可以在这个码头乘坐轮渡往返 Bodø. 轮渡只对车辆收费. 步行的乘客是免费的.
-
-== Reine/Hamnøy
-
-Reine 和 Hamnøy 两个小渔村相互毗邻, 处在罗弗敦群岛的南部的大岛 Moskenesøya 上. 其中 Reine 是这座岛上的 Moskenes 市的行政中心. 这两个小渔村是罗弗敦群岛最热门, 也是最出片的地方了.
-
-=== Reine/Hamnøy 自驾距离
-
-* Hamnøy/Reine 向北到 Leknes: 52 公里, 1 小时
-* Hamnøy/Reine 向北到 Svolvaer: 116 公里, 2 小时
-
-=== Reine/Hamnøy 活动
-
-Reine/Hamnøy 拥有最热门的徒步之一 Reinebringen 徒步; 同时 Kvalvika Beach 徒步也可以将这里作为基地:
-
-* Reinebringen
-* Ryten/Kvalvika Beach Trail
-
-=== Reine/Hamnøy 住宿
-
-作为罗弗敦的最热门的渔村. 附近当然少不了不错的传统渔屋:
-
-* Reinefjorden Sjøhus
-* Eliassen Rorbuer
-* Reine Rorbuer - by Classic Norway Hotels
-
-还有两处口碑极好的家庭旅馆:
-
-* https://www.catogarden.no/catogarden-rooms/[Catogården]
-* https://www.mays.no/en[May's Apartments & Maybua]
-
-____
-[!TIP]
-如果你住在 Reine 的西南端, 去 Reinebringen 徒步的话就可以步行出发了. 夏季 Reinebringen 附近不容易找到停车点.
-____
-
-== Å i Lofoten
-
-这个小村子是罗弗敦群岛主岛的最南端了. 挪威语的 Å 发音接近 "欧". 也有人称为 "奥". 可能是因为名字实在太短了, 所以也叫 Å i Lofoten. 直译就是 "罗弗敦的欧村".
-
-村子里有两座小型的博物馆: 鳕鱼干博物馆和挪威渔村博物馆.
-
-=== Å 活动
-
-Å 附近热门的徒步路线包括:
-
-* Tindstinden
-
-=== Å 住宿
-
-Å 有几家评分不错的住宿选项:
-
-* http://www.lofotencabins.com/[Lofoten Sjøhusutleie AS - Tind]
-* https://www.lofotenplanet.com[Lofoten Planet - Boutique Hotel]
-* https://arorbuer.no[Å Rorbuer - by Classic Norway Hotels]
-
-== Værøy
-
-Værøy 罗弗敦南部的一个市. 得名于其所在的大岛 Værøya. Værøy 市的行政中心是 Sørland, 一个度假渔村.
-
-Værøy 的轮渡码头连接着罗弗敦的 Moskenes 市和大陆的 Bodø 市.
-
-=== Værøy 活动
-
-Værøy 这里有罗弗敦最热门的徒步之一:
-
-* Håen
-
-== Bodø
-
-Bodø 是一个镇. 与罗弗敦隔海相望. Bodø 镇同时也是 Bodø 市的行政中心. 同时也是 Bodø 市所属的 Nordland 郡的首府. 属于罗弗敦群岛范围内的几个市也都属于 Nordland 郡.
-
-Bodø 同时也是 Nordland 郡的交通枢纽. 这里的 Bodø 机场 (BOO) 每天有数班飞往罗弗敦两个机场的航班. 飞行时间只有 20 分钟. 通过 Bodø 机场中转可以飞往挪威的几乎全部主要城市. 此外还有几条国际航线:
-
-* 赫尔辛基
-* 斯德哥尔摩
-* 慕尼黑
-* 哥本哈根
-
-Bodø 的轮渡连接着罗弗敦的 Moskenes 码头. 自驾或者步行也可以经此前往罗弗敦.
-
+[#resources]
 == 参考资源
 
-* 法罗群岛旅游局官网: https://visitfaroeislands.com/en[Visit Faroe Islands]
-* 法罗群岛机场官网: https://www.fae.fo/en[Vágar Airport]
-* 法罗群岛的国家工程管理局官网之旅游观光公路: https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Sóljuleiðir]
+* 法罗群岛官方旅游推广机构: https://visitfaroeislands.com/en[Visit Faroe Islands]
+* 法罗群岛机场: https://www.fae.fo/en[Vágar Airport]
+* 法罗群岛的国家工程管理局官 - 旅游观光公路: https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Sóljuleiðir]
