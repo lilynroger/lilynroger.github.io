@@ -1,0 +1,116 @@
+= 法罗群岛海鹦观鸟攻略
+:page-subtitle: Where to Spot Puffins in the Faroe Islands
+:page-modified_time: 2025-09-20 12:00:00 +0800
+:page-date: 2025-07-04 05:00:00 +0100
+:page-image: assets/images/2025/lofoten-faroe/where-to-spot-puffins-in-the-faroe-islands/faroe-islands-puffin-magnet.webp
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 动物, 观鸟]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:sectnums:
+:url-day-trip-to-kalsoy: {% post_url 2025-07-02-day-trip-to-kalsoy %}
+:url-one-day-island-hopping-road-trip: {% post_url 2025-07-01-one-day-island-hopping-road-trip %}
+
+观赏大西洋海鹦是我们此次法罗群岛之旅最重要的目标之一, 毕竟, 有谁不爱这些蠢萌的家伙呢? 这篇攻略是在我们为法罗群岛之旅所做的笔记的基础上, 稍加整理而成的. 攻略包含了法罗群岛海鹦的一些有趣信息, 和法罗群岛几个可以看到海鹦的地点. 尽管我们的法罗群岛之行没有得到太多海鹦的青睐, 希望这篇攻略有助于让你的探索之旅充满惊喜.
+
+[#the-puffin]
+== 关于海鹦
+
+海鹦 (Puffin) 也被称为海鹦鹉 (Sea Parrot), 在分类中属于海雀科, 海鹦属. 因为它蠢萌的长相, 有时也被戏称 "小丑海鸟" (Clowns of the Sea). 不同种类的海鹦分别分布在北太平洋和北大西洋. 北大西洋地区的海鹦种类被称为大西洋海鹦 (Atlantic Puffin). 法罗群岛的海鹦就是大西洋海鹦.
+
+海鹦的拉丁语属名是 _Fratercula_, 字面意思是 "小修士". 源于海鹦前白后黑的羽毛有点像中世纪修士的长袍 footnote:[海鹦拉丁语属名来源: https://en.wikipedia.org/wiki/Atlantic_puffin[Taxonomy and etymology - Atlantic puffin - Wikipedia]].
+
+海鹦平均可以活到 20 岁左右. 主要栖息在远洋海域, 只在繁殖季节才回到岸边. 它们在长满草的悬崖上挖洞筑巢, 繁殖和养育小海鹦. 雌海鹦每年只下一颗蛋, 需要大约六个星期左右孵出小海鹦. 就是这时海鹦父母开始叼着小鱼回来喂食了. 再过六个多星期, 小海鹦就准备好离巢了. 它们会在某个深夜, 第一次走出自己的洞穴. 因为此时小海鹦还不能很好地飞翔, 从平地或者水面起飞也很困难. 所以, 它们需要助跑, 从悬崖上跳下去, 飞到水面之上. 然后划向远洋海域开始自己的生活. 两三年之内都不会回到陆地了.
+
+TIP: 冰岛人有个传统, 救助迷路的小海鹦后, 将它们重新带到悬崖之上扔下去, 让它们能够开始自己的首次迁徙 footnote:[冰岛正值 "把小海鹦扔下悬崖" 的季节: https://www.nationalgeographic.com/animals/article/baby-puffin-throwing-wildlife-rehabilitation[It's 'throw a baby puffin off a cliff' season in Iceland]].
+
+海鹦终身一夫一妻, 而且总是会回到自己原有的洞穴. 法罗群岛大约有 500,000 对海鹦, 是世界上最佳的观赏海鹦的地方之一 footnote:[法罗群岛官网 - 海鹦: https://www.faroeislands.fo/nature-environment/the-puffin/[The Puffin]]. 
+
+[#best-season]
+== 什么时间看海鹦
+
+大西洋不同地区, 海鹦繁殖季节会有所不同, 南边早一点, 北边则晚一点. 每年的四月底到八月初, 大批的海鹦会来到法罗群岛的悬崖之上养育小海鹦. 法罗群岛最佳观鸟时间是五月中旬到六月下旬, 这是海鹦喂食小海鹦的时间. 过了八月份, 海鹦基本上就都离巢飞走了.
+
+[#best-places]
+== 哪里看海鹦
+
+为了更好的观赏海鹦, 你需要具有不错变焦能力的相机. 这样, 才可能在一定距离之外观赏和拍摄海鹦. 一方可以减少对海鹦的打扰, 同时能够拍摄到更好的照片和视频. 亲测手机拉进拍摄的效果差强人意.
+
+[#mykines]
+=== Mykines
+
+法罗群岛最西边的米基内斯岛 (Mykines) 称为 "海鹦之都", 无疑是在法罗群岛观赏海鹦的最佳地点, 也是法罗群岛最热门的目的地之一.
+
+沃格岛上的 Sørvágur 村, 也就是紧邻机场西侧的村子, 有一个港口, 前往米基内斯岛的 36 号线轮渡就在这里停靠. 在夏季, 每天有早中晚三班轮渡往返于 Sørvágur 到米基内斯岛. 在负责运营法罗群岛公共交通的机构 https://www.ssl.fo/en[Strandfaraskip Landsins] 的官网上, 有这条轮渡的详细信息: https://www.ssl.fo/en/timetable/ferry/36-soervagur-mykines/[36 Sørvágur - Mykines].
+
+NOTE: 米基内斯岛的轮渡码头在岛的西侧, 非常狭小和简陋. 糟糕的海况, 特别是强风从西边吹过来的时候, 轮渡停靠会有一定危险性. 所以即使是天气晴朗, 前往米基内斯岛的轮渡也可能被取消.
+
+有意思的是, 在法罗群岛, 直升机也是一个定期的交通工具. 没能订到轮渡也可以考虑直升机作为替代方案. 法罗群岛的直升机也是由 https://www.ssl.fo/en/timetable/helicopter[Strandfaraskip Landsins] 负责管理的. 运营则是由法罗群岛的 "国航", 大西洋航空 (https://www.atlanticairways.com/en/helicopter/[Atlantic Airways]) 负责运营. 法罗群岛的直升机的价格不算离谱, 比如沃格岛飞米基内斯岛的直升机的价格是 435 丹麦克朗. 作为对比, 轮渡的预定价格是 123 丹麦克朗 (2025 年).
+
+需要注意的本地人乘坐直升机的价格非常便宜, 比如沃格岛飞海鹦岛只要 145 丹麦克朗. 而直升机班次很少, 一周四班, 座位也很有限. 所以一定要提前预定直升机. 此外, 直升机不可以预定当天的往返票, 同一天的行程只能是单程. 这就意味着当天往返的行程需要提前预定好直升机加轮渡.
+
+米基内斯岛看海鹦的缺点是花费高. 一日游的必须费用包括 (2025 年):
+
+* (如果不在沃格岛住) 海底隧道通行费: 100+ 丹麦克朗
+* 往返轮渡: 246 丹麦克朗
+* 岛上必须支付的徒步费: 400 丹麦克朗
+
+米基内斯岛看海鹦的另一缺点是轮渡被取消是家常便饭, 连续几天取消也很常见. 所以, 一定要规划灵活的行程安排, 最好有备用方案.
+
+[#skuvoy]
+=== Skúvoy
+
+Skúvoy 岛在法罗群岛的南部. 岛上只有一个也叫做 Skúvoy 的小村子, 座落在小岛的东部, 连接 Sandoy 岛的轮渡码头就在村子里. Skúvoy 岛是鸟类的天堂. 事实上, 这座岛的名字 Skúvoy 直译的就是 "贼鸥岛". 一种说法是贼鸥的英文名 Skua 就来源于法罗群岛的 Skúvoy 岛的名字. 有估计 40,000 对海鹦将 Skúvoy 作为它们的栖息地 footnote:[Skúvoy 岛海鹦数据来源: https://datazone.birdlife.org/site/factsheet/skúvoy[BirdLife site  factsheet - Skúvoy]].
+
+前往 Skúvoy 岛需要从托尔斯港出发, 向南经过沙岛海底隧道 (Sandoyartunnilin) 到达沙岛 (Sandoy). 在沙岛的 Sandur 村轮渡码头乘坐 66 路轮渡前往 Skúvoy 岛. 轮渡需要提前预定.
+
+在 Skúvoy 岛上, 最佳的观鸟地点是岛的西北端的 Høvdin 半岛. 从 Skúvoy 村徒步可以前往, 单程大约 6 公里. 徒步路线是比较轻松的.
+
+Skúvoy 岛因为其厚重的维京历史背景, 本身就是法罗群岛重要的旅行目的地之一. 可以作为 Mykines 岛看海鹦的备份方案.
+
+[#nolsoy]
+=== Nólsoy
+
+Nólsoy 是最靠近法罗群岛首府托尔斯港 (Torshavn) 的岛. 去这里观鸟的优势是方便而且相比 Mykines 岛人要少得多. 前往 Nólsoy 岛只需要在托尔斯港乘坐 90 路轮渡, 半小时即可到达. 而且每天有好几班的轮渡.
+
+Nólsoy 岛北端的 Stongin 是最佳的观鸟地点. 这里是私人的土地, 徒步去那里前先在村里找人问问谁是那里的业主, 征得业主的同意之后才能前往.
+
+在 Nólsoy 岛上, 徒步到南端的 Borðan 灯塔是法罗群岛著名的徒步路线之一. 在沿途的峡谷山崖上, 也能看到海鹦.
+
+[#kalsoy]
+=== Kalsoy
+
+卡尔索伊岛 (Kalsoy) 是法罗群岛北方诸岛之一. 它是卡鲁尔灯塔 (Kallur Lighthouse) 和海豹女雕像 (Seal Woman) 等热门景点的所在地, 还是电影 "007: 无暇赴死" 的外景拍摄地之一. 詹姆斯·邦德的墓碑就在卡鲁尔灯塔附近. 卡尔索伊岛一日游及徒步卡鲁尔灯塔是法罗群岛的必游项目之一. 顺路还能看海鹦.
+
+卡尔索伊岛看海鹦有两个点. 
+
+第一个点在最北部的 Trøllanes 村里靠海边的悬崖. 这里曾经是非常热门的海鹦观鸟点. 现在出于保护海鹦和安全的考虑, 已经建起了围栏, 不再允许靠近悬崖了. 不过, 站在围栏边仍然可以远远看到很多的海鹦, 只是需要长焦镜头才能看得清楚.
+
+第二个点在詹姆斯·邦德的墓碑旁的悬崖. 这里有几个距离很近的海鹦的洞, 可以近距离的观赏海鹦.
+
+卡尔索伊岛一日游的行程比较麻烦. 具体信息可以参考我们的游记: link:{url-day-trip-to-kalsoy}[卡尔索伊岛一日游及徒步卡鲁尔灯塔].
+
+[#gjogv]
+=== Gjógv
+
+Gjógv 是东岛埃斯图罗伊岛 (Eysturoy) 北部的一个小村子. 法罗语 Gjógv 的意思就是 "峡谷" (Gorge), 这个村子直译就叫 "峡谷村". Gjógv 的海蚀峡谷也是法罗群岛旅游胜地之一.
+
+峡谷的北岸有一条沿着悬崖而上的步道, 通往在半山腰的一条徒步路线的起点. 如果你运气好, 有机会在这边的悬崖上见到海鹦.
+
+Gjógv 常常被作为一日游的目的地之一. 详细信息可以参考我们的游记: link:{url-one-day-island-hopping-road-trip}[法罗群岛三大岛跳岛自驾一日游].
+
+[#gasadalur]
+=== Gásadalur
+
+沃格岛最西端的山谷中隐藏着戈萨达鲁尔村 (Gásadalur). 直到 2004 年随着穿山隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最著名的穆拉瀑布 (Múlafossur) 的所在地.
+
+从 Múlafossur 的步道开始, 沿海边的悬崖有一条步道, 绕着村子的边缘最后回到村子里. 这条步道在海边悬崖那里同样有机会看到海鹦.
+
+[#resource]
+== 参考资料
+
+* 法罗群岛官方旅游推广机构 - 观鸟: https://visitfaroeislands.com/en/see-do/activities/hiking/birdwatching[Visit Faroe Islands - Birdwatching In The Faroe Islands]
+* 法罗群岛官方旅游推广机构 - 访问沃格 - 海鹦和观鸟: https://visitvagar.fo/en/visit-mykines/see-do8/puffins-and-birdwatching[Visit Vágar - Puffins and Birdwatching]
+* 法罗群岛官方旅游推广机构 - 访问沙岛 - Skúvoy: https://visitsandoy.fo/en/visit-skuvoy[Visit Sandoy - Welcome to Skúvoy]
+* 法罗群岛官方旅游推广机构 - 访问托尔斯港 - Nólsoy: https://www.visittorshavn.fo/experience-nolsoy/[Visit Tórshavn - Experience Nólsoy]
