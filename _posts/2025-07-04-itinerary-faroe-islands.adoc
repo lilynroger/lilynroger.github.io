@@ -146,7 +146,7 @@ image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/rosenborg-castle
 [#where_we_stayed_on_vagar]
 === 我们在沃格岛的住处
 
-沃格岛最西端的山谷中隐藏着加萨达鲁尔村 (Gásadalur). 直到 2004 年随着穿山隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最著名的穆拉瀑布 (Múlafossur) 的所在地. 我们选择住在这里最最代表性的一家民宿: {url-gasadalur-apartments}[Gásadalur Apartments].
+沃格岛最西端的山谷中隐藏着加萨达鲁尔村 (Gásadalur). 直到 2004 年随着穿山隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最著名的穆拉瀑布 (Múlafossur) 的所在地. 我们选择住在这里最具代表性的一家民宿: {url-gasadalur-apartments}[Gásadalur Apartments].
 
 下面这张照片中的瀑布就是穆拉瀑布. 瀑布背景中的小村子就是 Gásadalur 村, 而村子前排右边连着的三间公寓就是 Gásadalur Apartments 了. 住在这个世界边缘的尽头, 绝对是终身难忘的体验.
 
@@ -191,7 +191,7 @@ image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/mulafossur.webp[
 
 TIP: 法罗语中的地名有很多常见的构成部分, 比如 -dalur 的意思是 "山谷", 而 -vágur 的意思是 "海湾". 其他的部分也通常比较形象和直白, 如果 gás- 是 "鹅". 了解最基本的一点北欧语言的词汇, 对地名记忆很有帮助. 你可能猜到了, 沃格岛的名字 Vágar 也是 "海湾" 的意思, 沃格岛也就是 "海湾之岛".
 
-沃格岛不是很大, 自驾一日游并不需要很多时间, 时间规划相对轻松. 什么时间出发主要考虑的因素还是当天的天气变化情况. 详细的信息可以参考我们的游记: link:{% post_url 2025-06-29-one-day-road-trip-on-vagar-island %}[法罗群岛沃格岛自驾一日游]. 当天的亮点是徒步女巫手指, 可以参考我们的攻略: link:{% post_url 2025-06-29-hiking-trollkonufingur %}[徒步法罗群岛的女巫手指].
+沃格岛不是很大, 自驾一日游并不需要很多时间, 时间规划相对轻松. 什么时间出发主要还是看当天的天气变化情况. 详细的信息可以参考我们的游记: link:{% post_url 2025-06-29-one-day-road-trip-on-vagar-island %}[法罗群岛沃格岛自驾一日游]. 当天的亮点是徒步女巫手指, 可以参考我们的攻略: link:{% post_url 2025-06-29-hiking-trollkonufingur %}[徒步法罗群岛的女巫手指].
 
 .女巫手指 (Trøllkonufingur)
 image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/trollkonufingur.webp[女巫手指 (Trøllkonufingur)]
@@ -199,7 +199,7 @@ image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/trollkonufingur.
 [#day4]
 == D4: 米基内斯岛 (Mykines) 看海鹦
 
-大西洋海雀 (Puffin), 俗称海鹦鹉或者海鹦 (Sea Parrot). 因为它蠢萌的长相, 有时也被戏称 "小丑海鸟" (Clowns of the Sea).
+海鹦 (Puffin), 也称海鹦鹉 (Sea Parrot). 因为它蠢萌的长相, 有时也被戏称 "小丑海鸟" (Clowns of the Sea).
 
 法罗群岛是世界上最佳的观赏海鹦的地方之一. 每年的四月底到八月初, 大批的海鹦会来到法罗群岛的悬崖之上养育雏鸟. 最佳观鸟时间是五月中旬到六月下旬, 这是海鹦喂食雏鸟的时间. 过了八月份, 海鹦基本上就都离巢飞走了.
 
@@ -225,7 +225,7 @@ NOTE: 米基内斯岛的轮渡码头在岛的西侧, 非常狭小和简陋. 糟�
 
 法罗群岛的直升机的价格不算离谱, 比如沃格岛飞米基内斯岛的直升机的价格是 435 丹麦克朗. 作为对比, 轮渡的预定价格是 123 丹麦克朗 (2025 年的价格).
 
-需要注意的本地人乘坐直升机的价格非常便宜, 比如沃格岛飞海鹦岛只要 145 丹麦克朗. 而直升机班次很少, 一周四班, 座位也很有限. 所以一定要提前预定直升机. 此外, 直升机不可以预定当天的往返票, 同一天的行程只能是单程. 这就意味着当天往返的行程需要提前预定好直升机加轮渡.
+需要注意的是本地人乘坐直升机的价格非常便宜, 比如沃格岛飞海鹦岛只要 145 丹麦克朗. 而直升机班次很少, 一周四班, 座位也很有限. 所以一定要提前预定直升机. 此外, 直升机不可以预定当天的往返票, 同一天的行程只能是单程. 这就意味着当天往返的行程需要提前预定好直升机加轮渡.
 
 [#day5]
 == D5: 三大岛跳岛自驾游 + 抵达托尔斯港
@@ -283,7 +283,7 @@ image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/government-build
 
 因为不想走回头路, 我们并没有返回丹麦的哥本哈根, 而是选择一周仅有两班的威德罗航空 (Widerøe) 的联程航班, 从法罗群岛出发, 经由挪威的卑尔根 (Bergen) 和博德 (Bodø), 到达罗弗敦的斯沃尔韦尔 (Svolvær). 虽然是两次中转, 但三个航班飞行时间都不长, 衔接的也很好. 中午从法罗群岛出发, 晚上就到了罗弗敦群岛. 而且整个行程的联程机票相当划算, 还节省了中转停留的时间.
 
-从从法罗群岛飞往罗弗敦的这条路线是非常小众的路线, 规划不易, 具体的信息可以参考我们的攻略: link:{url-fly-to-lofoten-from-faroe-islands}[从法罗群岛飞往罗弗敦 | 小众线路航班攻略].
+从法罗群岛飞往罗弗敦的这条路线是非常小众的路线, 规划不易, 具体的信息可以参考我们的攻略: link:{url-fly-to-lofoten-from-faroe-islands}[从法罗群岛飞往罗弗敦 | 小众线路航班攻略].
 
 .搭乘威德罗航空的航班从法罗群岛飞往罗弗敦
 image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/boarding-wideroe-flight.webp[搭乘威德罗航空的航班从法罗群岛飞往罗弗敦]
