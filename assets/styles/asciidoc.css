@@ -45,7 +45,8 @@
     }
 }
 
-.paragraph, .ulist {
+.paragraph,
+.ulist {
     margin-bottom: 1em;
 
     p {
@@ -163,5 +164,11 @@ article {
         text-decoration-color: #FFC107;
         text-decoration-thickness: 2px;
         text-underline-offset: 2px;
+    }
+}
+
+.post {
+    .halign-right {
+        text-align: right;
     }
 }
