@@ -9,5 +9,3 @@ permalink: /about
 {%- if site.email -%}
 <p>联系我们: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></p>
 {%- endif -%}
-
-<p>Hello Awin</p>
