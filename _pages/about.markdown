@@ -10,4 +10,4 @@ permalink: /about
 <p>联系我们: <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></p>
 {%- endif -%}
 
-<p>Hello Cwin</p>
+<p>Hello Awin</p>
