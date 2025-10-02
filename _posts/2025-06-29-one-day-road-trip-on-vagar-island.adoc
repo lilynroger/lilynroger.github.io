@@ -110,7 +110,7 @@ image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/ferry-
 
 从 Vatnsoyrar 沿着湖边公路向东南方向下一个村子就是 https://visitvagar.fo/en/about5/about-vagar-and-mykines/the-villages/midvagur[Miðvágur] 了. 如果有时间, 这个村子有几处值得稍加停留去探访的地方.
 
-多数游客来到 Miðvágur 是因为 Trælanípa/Bøsdalafossur 徒步路线的起点就在这个村子的教堂边. 徒步的终点就是奴隶悬崖  (https://visitvagar.fo/en/whatson/places/place/tralanipan0?region=7[Trælanípa]) 和 Bøsdalafossur 瀑布.
+多数游客来到 Miðvágur 是因为 Trælanípa/Bøsdalafossur 徒步路线的起点就在这个村子的教堂边. 徒步的终点就是奴隶悬崖  (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/tralanipa[Trælanípa]) 和 Bøsdalafossur 瀑布.
 
 需要注意的是走 Trælanípa/Bøsdalafossur 这条徒步路线需要在土地拥有者设立在起点的接待处签到, 并支付不菲的徒步费 (2025 年时每成人 200 克朗). 详细信息参考 https://www.tralanipan.fo[Trælanípa 土地拥有者的网站].
 
@@ -124,12 +124,12 @@ image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/ferry-
 .Sandavágur
 image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/sandavagur.webp[Sandavágur]
 
-当然, 在 Sandavágur 最吸引人的, 莫过于从村子出发徒步去看当地人称为 https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1[Trøllkonufingur] 的奇石了. 它的名字字面的意思就是 Troll Woman's Finger 或者 The Witch's Finger, 也就是 "女巨魔的手指" 或者 "女巫的手指". 看看下面的照片, 有那么一点像.
+当然, 在 Sandavágur 最吸引人的, 莫过于从村子出发徒步去看当地人称为 https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1[Trøllkonufingur] 的奇石了. 它的名字的字面意思就是 Troll Woman's Finger 或者 The Witch's Finger, 也就是 "女巨魔的手指" 或者 "女巫的手指". 看看下面的照片, 有那么一点像.
 
 .女巫手指 (Trøllkonufingur)
 image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/trollkonufingur.webp[女巫手指 (Trøllkonufingur)]
 
-女巫手指徒步路线是法罗群岛热门徒步路线中少有的几个免费的之一. 详细信息, 可以参考我们的攻略: link:{% post_url 2025-06-29-hiking-trollkonufingur %}[徒步法罗群岛女巫手指].
+女巫手指徒步路线是法罗群岛热门徒步路线中少有的几个免费的之一. 详细信息可以参考我们的攻略: link:{% post_url 2025-06-29-hiking-trollkonufingur %}[徒步法罗群岛女巫手指].
 
 徒步回来后, 推荐在 Sandavágur 东南端的海鲜餐馆 https://visitvagar.fo/en/whatson/places/place/fiskastykkid0?region=7[Fiskastykkið] 犒赏一下自己. 餐馆主打均衡营养的海鲜菜式, 内部装潢很有当地特色, 尤其是其中的的鱼皮吊灯.
 
