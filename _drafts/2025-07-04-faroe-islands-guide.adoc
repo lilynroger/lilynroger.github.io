@@ -1,5 +1,5 @@
 = 法罗群岛初访者完全攻略
-:page-subtitle: Unspoiled, Unexplored, Unbelievable - The Faroe Islands
+:page-subtitle: The Faroe Islands - Complete Guide for First-Time Visitors
 :page-image: assets/images/2025/lofoten-faroe/faroe-islands-guide/mulafossur.webp
 :page-modified_time: 2025-09-20 12:00:00 +0800
 :page-date: 2025-07-04 13:00:00 +0100
@@ -10,19 +10,30 @@
 :toc:
 :sectnums:
 :url-airport-fae: {% post_url 2025-06-15-airport-fae %}
+:url-undersea-tunnels: {% post_url 2025-07-01-undersea-tunnels-in-the-faroe-islands %}
+:url-one-day-road-trip-on-vagar-island: {% post_url 2025-06-29-one-day-road-trip-on-vagar-island %}
+:url-day-trip-to-kalsoy: {% post_url 2025-07-02-day-trip-to-kalsoy %}
+:url-one-day-island-hopping-road-trip: {% post_url 2025-07-01-one-day-island-hopping-road-trip %}
+:url-old-town-and-tinganes-of-torshavn: {% post_url 2025-07-03-old-town-and-tinganes-of-torshavn %}
+:url-where-to-spot-puffins: {% post_url 2025-07-04-where-to-spot-puffins-in-the-faroe-islands %}
 
-被人们称为 "世界的边缘" 的法罗群岛, 拥有苍凉而壮丽的峡湾, 悬崖和海蚀柱, 童话般的草顶村落, 还有呆萌的海鹦. 作为世界最佳的群岛之一, 法罗群岛是无数人梦想的旅行目的地. 这一篇攻略包含法罗群岛的基本信息, 什么时候去, 去多久, 住哪里, 看什么和玩什么.
+被人们称为 "世界的边缘" 的法罗群岛, 拥有苍凉而壮丽的峡湾, 悬崖和海蚀柱, 童话般的草顶村落, 还有呆萌的海鹦. 作为世界最佳的群岛之一, 法罗群岛是无数人梦想的旅行目的地. 这篇攻略将介绍法罗群岛的实用信息, 什么时候去, 去多久, 如何前往, 如何出行, 必去景点, 住哪里等等.
 
-正如法罗群岛官方的宣传语所说: _Unspoiled, Unexplored, Unbelievable - The Faroe Islands_.
+正如法罗群岛官方的宣传语所说: 
+
+[.lead]
+____
+Unspoiled, Unexplored, Unbelievable - The Faroe Islands
+____
 
 [#quick-facts]
 == 法罗群岛速览
 
-法罗群岛是丹麦的海外高度自治领地. 地处北大西洋, 大致位于苏格兰和冰岛之间. 以下是有关法罗群岛的实用信息的速览 footnote:[法罗群岛旅游局 - 速览: https://visitfaroeislands.com/en/about-vfi/history-governance-and-economy/quick-facts[Visit Faroe Islands - Quick Facts]].
+法罗群岛是丹麦的海外高度自治领地. 地处北大西洋, 大致位于苏格兰和冰岛之间. 以下是有关法罗群岛的实用信息的速览 <<vfiqf>>.
 
 *名称:* The Faroe Islands / Faroes, 法罗语: Føroyar, 意思是 "绵羊之岛". 据说法罗群岛最早的定居者来到这里时, 发现这里有野生的绵羊, 因此得名.
 
-*岛屿:* 18 座火山岛, 由海峡和峡湾分隔, 除了 1 座岛屿外, 都有人居住.
+*首都:* 托尔斯港, 法罗语: Tórshavn. 字面上由 tórs + havn 组成, 分别是 "雷神" 和 "港口" 的意思. 托尔斯港字面意思就是 "雷神之港", 所以它的城市符号中总有雷神之锤.
 
 *高度:* 平均海拔 300 米, 最高峰是 880 米海拔的 Slættaratindur 峰, 大意就是 "平顶山". 夏至之夜登上平顶山看日落日出是法罗人的一个传统活动.
 
@@ -34,9 +45,9 @@
 
 *国鸟:* 蛎鹬 [lì yù] (Oystercatcher). 虽然呆萌的海鹦 (Puffin) 更有名气, 但并不是国鸟.
 
-*国花:* 毛茛 [mao gèn]. 一种黄色的英文俗名是 Buttercup, 直译就是 "黄油杯". 法罗群岛的旅游观光公路 (Buttercup Routes, 法罗语: Sóljuleiðir) 就是以它命名的.
+*国花:* 毛茛 [mao gèn]. 一种黄色的杯子形状的小花, 遍布法罗群岛的草丛中. 英文俗名是 Buttercup, 直译就是 "黄油杯". 法罗群岛的旅游观光公路 (Buttercup Routes, 法罗语: Sóljuleiðir) 就是以它命名的.
 
-*货币:* 丹麦克朗, 法罗克朗. 货币代码都是 DKK. 其中丹麦克朗与欧元实行固定汇率, 1 欧元 = 7.5 丹麦克朗, 实际汇率总是 7.5 不到一点. 法罗克朗和丹麦克朗完全等价. 需要注意的是, 当地使用丹麦现金找零时, 很有可能是法罗现金, 最好在当地用完. 国内少数银行可以兑换丹麦克朗, 但是未必能收法罗克朗. 此外, 法罗群岛哪怕是最小的消费也可以用信用卡, 而且**没有小费文化**, 正常情况下完全无需现金. 需要注意的是大部分地方**不接受**美国运通卡 footnote:[法罗群岛旅游局 - 钱: https://visitfaroeislands.com/en/plan-your-stay/before-you-arrive-in-the-faroe-islands/money[Visit Faroe Islands - Money]].
+*货币:* 丹麦克朗, 法罗克朗. 货币代码都是 DKK. 其中丹麦克朗与欧元实行固定汇率, 1 欧元 = 7.5 丹麦克朗, 实际汇率总是 7.5 不到一点. 法罗克朗和丹麦克朗完全等价. 需要注意的是, 当地使用丹麦现金找零时, 很有可能是法罗现金, 最好在当地用完. 国内少数银行可以兑换丹麦克朗, 但是未必能收法罗克朗. 此外, 法罗群岛哪怕是最小的消费也可以用信用卡, 而且**没有小费文化**, 正常情况下完全无需现金. 需要注意的是大部分地方**不接受**美国运通卡 <<vfim>>.
 
 .法罗群岛的 100 克朗纸币的背面
 image::assets/images/2025/lofoten-faroe/faroe-islands-guide/faroese-krone.webp[法罗群岛的 100 克朗纸币]
@@ -44,19 +55,19 @@ image::assets/images/2025/lofoten-faroe/faroe-islands-guide/faroese-krone.webp[�
 *签证:* 法罗群岛是丹麦王国的海外自治领地, 既不属于欧盟, 也没有加入申根区, 因此需要向丹麦大使馆申请特别的签证. 如果此前没有有效的申根签证, 则申请到的将是申根签证 (VALID FOR: SCHENGEN STATES), 并在签证右下特别签注适用于法罗群岛 (Valid for Faroe Islands). 如果已经有有效的申根签证, 则申请到的将是单独的法罗群岛签证 (VALID FOR: THE FAROE ISLANDS).
 
 .丹麦的法罗群岛签证
-image::assets/images/2025/lofoten-faroe/lofoten-faroe-summer-packing-list/visa.webp[丹麦的法罗群岛签证]
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/visa.webp[丹麦的法罗群岛签证]
 
 [#weather]
 == 法罗群岛的天气
 
-作为旅行规划的重要参考, 这里是法罗群岛全年的平均天气情况 footnote:[法罗群岛全年的气候和平均天气: https://weatherspark.com/y/150227/Average-Weather-in-Faroe-Islands-Year-Round[Climate and Average Weather Year Round in Faroe Islands]].
+作为旅行规划的重要参考, 这里是法罗群岛全年的平均天气情况 <<ws>>.
 
 [#temperature]
 === 气温
 
 气温方面, 最温暖的季节从六月底持续到九月初. 平均日最高气温有 11°C. 最热的月份是八月. 最冷的季节则是从十一月底到四月初. 平均日最高气温有低于 6°C. 最冷的月份是二月. 
 
-TIP: 这些数值可以理解为 "典型气温", 是在历史数据中, 去除最高, 最低值之后, 计算平均而得. 实际上, 在 2025 年夏季, 甚至还录得了 22°C 的 "极端" 气温.
+TIP: 这些数值可以理解为 "典型气温", 是在历史数据中, 去除最高, 最低值之后, 计算平均而得. 实际上, 在 2025 年夏季, 甚至还录得了 22°C 的 "极端高温".
 
 [cols="4*>"]
 .法罗群岛的每日平均最高温度和最低温度, 以及相应的平均体感温度
@@ -128,12 +139,24 @@ TIP: 这些数值可以理解为 "典型气温", 是在历史数据中, 去除�
 
 |===
 
+[#weather-utilities]
+=== 天气实用工具
+
+在法罗群岛旅行, 推荐下面两个非常实用的跟踪天气变化的工具:
+
+* 挪威的天气预报软件: https://www.yr.no/en[Yr]
+* 法罗群岛村庄和城镇的实时网络摄像头: https://www.faroeislandslive.com[Faroe Islands Live]
+
+Yr 是挪威的天气预报网站, 也有手机应用提供. 提供了覆盖斯堪的纳维亚地区的相对更可靠的天气预报.
+
+Faroe Islands Live 提供了法罗群岛村庄和城镇的实时网络摄像头. 这一工具尤为重要, 因为法罗群岛的天气变化莫测, 不同地点的天气在同一时间也可能迥异. 如果你所在的地方阴云密布, 不要灰心, 不排除其他地方风轻云淡. 我们亲身的体会是法罗群岛边缘地带比中心地带天气好的概率要大. 中心地带被云层覆盖, 而边缘地带云量较少的情况很多. 比如西北端的几个小村庄和托尔斯港港口附近, 天气就时常出人意料的好.
+
 [#best-time-to-visit]
 == 法罗群岛旅行什么时候最好
 
 人们常说, 每个季节都有其魅力所在. 但是大部分人在五月到九月间访问法罗群岛, 其中六月, 七月和八月是最热门的时间. 其他可能影响的因素包括:
 
-* *海鹦季:* 法罗群岛是世界上最佳的观赏海鹦的地方之一. 每年的四月底到九月初是在法罗群岛可以看到海鹦的时间. 但是一般来说法罗群岛的海鹦繁殖季是五月到八月. "海鹦天堂" 米基内斯岛 (Mykines) 正是在这段时间向游客开放. 其中七月是小海鹦出生的时间 footnote:[法罗群岛官方旅游局 - 访问沃格 - 海鹦和观鸟: https://visitvagar.fo/en/visit-mykines/see-do8/puffins-and-birdwatching[Visit Vágar - Puffins and Birdwatching]]. 此时米基内斯岛的海鹦数量达到高峰 footnote:[Guide to Faroe Islands: https://guidetofaroeislands.fo/nature-in-faroe-islands/mykines/[Mykines | The Complete Guide]]. 过了八月份, 海鹦基本上就都离巢飞走了.
+* *海鹦季:* 法罗群岛是世界上最佳的观赏海鹦的地方之一. 每年的四月底到九月初是在法罗群岛可以看到海鹦的时间. 但是一般来说法罗群岛的海鹦繁殖季是五月到八月. "海鹦天堂" 米基内斯岛 (Mykines) 正是在这段时间向游客开放. 其中七月是小海鹦出生的时间 <<vvpb>>. 此时米基内斯岛的海鹦数量达到高峰 <<gfim>>. 过了八月份, 海鹦基本上就都离巢飞走了.
 
 * *托尔斯港马拉松:* 托尔斯港马拉松 (https://torshavnmarathon.com/[Tórshavn Marathon]) 通常在六月初举办.
 
@@ -150,20 +173,20 @@ TIP: 这些数值可以理解为 "典型气温", 是在历史数据中, 去除�
 [#how-many-days-to-visit]
 == 法罗群岛旅行需要多少天
 
-搜索引擎和 AI 给出的答案, 可能说最少 5 天, 4 天甚至 3 天. 实际上, 如果从国内出发, 加上必须的特殊签证的成本, 多阴雨的天气等因素, 我们的回答是: 游览法罗群岛最少需要 7 天.
+游览法罗群岛最少需要 7 天. 搜索引擎和 AI 给出的答案, 可能说最少 5 天, 4 天甚至 3 天. 实际上, 如果从国内出发, 考虑到机票费用, 必须的特殊签证的费用, 多阴雨的天气等因素, 我们认为 7 天是合理的最短行程时间.
 
-* 法罗群岛有 18 座岛屿. 很多热门的景点和徒步路线都是一日游. 加上恶劣天气对旅行计划, 特别是轮渡预定的影响, 最少 7 天的行程, 加上一点运气, 就可以包含最经典的必看和必玩项目.
+* 法罗群岛有 18 座岛屿. 很多热门的景点和徒步路线都是一日游. 加上恶劣天气对旅行计划, 特别是轮渡预定的影响, 最少 7 天的行程, 还要加上一点运气, 就可以体验最经典的必去景点了.
 
-* 法罗群岛机场所在的沃格岛 (Vágar) 可以说是整个法罗群岛的缩影, 拥有典型的法罗群岛风光, 几条最著名的徒步路线, 还是海鹦岛的门户所在. 如果运气爆棚, 天公作美, 3 天的行程也可以权当是法罗群岛初体验了.
+* 法罗群岛机场所在的沃格岛 (Vágar) 可以说是整个法罗群岛的缩影, 拥有典型的法罗群岛风光和几条最著名的徒步路线, 还是海鹦岛的门户所在. 如果运气爆棚, 天公作美, 只包含沃格岛和海鹦岛的 3 天行程也可以权当是法罗群岛初体验了.
 
 * 对于资深的徒步爱好者, 观鸟爱好者, 以及摄影爱好者, 特别是航拍爱好者, 不能错过的项目就更多了. 所以 2 周的时间是比较理想的深度游的时间.
 
 * 如果是首次访问丹麦, 可以加上 3 天的哥本哈根, 或者 5 天的哥本哈根 + 欧登塞 (Odense) 的体验之旅.
 
-[#getting-there]
+[#getting-to]
 == 如何前往法罗群岛
 
-前往法罗群岛最简单的方式就是从哥本哈根出发乘飞机直飞抵达. 此外, 如果不能或者不想坐飞机, 也可以乘船. 一艘往返于丹麦和冰岛之间, 途经法罗群岛的轮渡, 甚至可以带上你的车.
+前往法罗群岛最简单的方式就是从哥本哈根出发乘飞机直飞抵达. 此外, 如果不能或者不想坐飞机, 也可以乘船. 在丹麦, 冰岛和法罗群岛之间, 有一艘轮渡. 你甚至可以带上你的爱车从丹麦去法罗群岛, 甚至冰岛.
 
 [#by-air]
 === 乘飞机
@@ -179,146 +202,505 @@ TIP: 这些数值可以理解为 "典型气温", 是在历史数据中, 去除�
 
 往返法罗群岛最频繁的航线当然是哥本哈根和法罗群岛之间的航线. 大西洋航空和斯堪的纳维亚航空 (SAS, Scandinavian Airlines) 都有每日往返哥本哈根和法罗群岛的航班, 平均每天有 3-4 班航班. 其次是往返冰岛的雷克雅未克的航线, 大西洋航空和冰岛航空 (https://www.icelandair.com[Icelandair]) 都有定期的航班. 大西洋航空也有直飞欧洲一些枢纽城市的航班, 比如, 巴黎, 伦敦, 巴塞罗那, 奥斯陆等等. 
 
-特别值得一提的是可以从法罗群岛直飞挪威最著名的旅游目的地之一卑尔根 (Bergen). 挪威的维德罗航空 (https://www.wideroe.no/en[Widerøe]) 每周有两班往返于两地之间的航班. 
+特别值得一提的是, 可以从法罗群岛直飞挪威最著名的旅游目的地之一卑尔根 (Bergen). 挪威的维德罗航空 (https://www.wideroe.no/en[Widerøe]) 每周有两班往返于两地之间的航班. 
 
-有关沃格机场的更多信息, 可以参考我们的攻略: {url-airport-fae}[法罗群岛的沃格机场攻略].
+有关沃格机场的更多信息, 可以参考我们的攻略: link:{url-airport-fae}[法罗群岛的沃格机场攻略].
 
 [#by-sea]
 === 乘船
 
-https://www.smyrilline.com[Smyril Line] 是一家法罗群岛的船运公司. 目前运营着法罗群岛的托尔斯港, 丹麦的希茨海尔斯 (Hirtshals) 之间的 Norröna 号轮渡. 在六月和八月间, Norröna 号改在丹麦的希茨海尔斯和冰岛的塞济斯菲厄泽 (Seyðisfjörður) 之间航行, 中途停靠法罗群岛的托尔斯港.
+https://www.smyrilline.com[Smyril Line] 是一家法罗群岛的船运公司. 目前运营着法罗群岛的托尔斯港, 丹麦的希茨海尔斯 (Hirtshals), 和冰岛的塞济斯菲厄泽 (Seyðisfjörður) 之间的 Norröna 号轮渡. 从三月中旬到十一月下旬, 丹麦, 法罗群岛和冰岛之间每周都有航班. 全年每周都可以体验丹麦至法罗群岛的航线, 夏季每周两班.
 
-乘船虽然慢了点, 但是 Norröna 号也是一艘十分舒适的游轮, 各种度假设施一应俱全. 会让人感受到假期从登船那一刻就开始了.  Norröna 号还是一艘汽车轮渡, 你甚至可以带上你自己的露营车去法罗群岛甚至冰岛.
+乘船虽然慢了点, 但是 Norröna 号是一艘十分舒适的游轮, 各种度假设施一应俱全. 会让人感受到假期从登船那一刻就开始了. 而而且 Norröna 号还是一艘汽车轮渡, 你可以带上自己的摩托车甚至房车去法罗群岛和冰岛. 
+
+.法罗群岛船运公司 Smyril Line 的 Norröna 号轮渡. 来源: Smyril Line
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/smyril-line-norrona.webp[法罗群岛船运公司 Smyril Line 的 Norröna 号轮渡]
 
 [#getting-around]
-== 法罗群岛的交通
+== 法罗群岛出行指南
 
-唯一机场沃格机场 (Vágar Airport) 进出.
+法罗群岛的路桥隧等交通基础设施相当好, 出行比想象中要方便得多. 作为游客探索法罗群岛的原始壮美, 自驾无疑是最佳出行方式. 在前往某些目的地时, 公共交通也不可或缺. 有意思的是, 直升机在法罗群岛也是公共交通工具, 价格非常亲民, 有机会的话也可以体验.
 
-首都托尔斯港 (Tórshavn) 可以乘坐机场大巴到达.
+[#rental-cars]
+=== 租车
 
-从 Tórshavn 经隧道系统可以在一小时内到达群岛有公路连接的任意角落.
+法罗群岛沃格机场大厅出门左转就是租车中心. 国内驾照加上国际翻译件就可以租车了. 取车和还车都很方便. 除了四条海底隧道收取通行费以外, 没有其他的收费路段.
 
-所有的轮渡和公交车都支持信用卡.
+从首都托尔斯港 (Tórshavn) 经隧道系统可以在一小时内到达群岛有公路连接的任意角落. 在法罗群岛的 18 座岛屿中, 海底隧道连通了 5 座主要岛屿, 跨海峡的堤道连通 2 座岛屿, 汽车轮渡连通了 3 座, 这样理论上可以自驾抵达的岛有 10 个.
 
-四条收费https://www.tunnil.fo/english/[海底隧道]将几个主要的大岛连接在一起.
+[#buses]
+=== 公交车
 
-== 法罗群岛住在哪
+法罗群岛负责运营和管理公交车和轮渡等公共交通的机构叫做 https://www.ssl.fo/en[Strandfaraskip Landsins]. 对于我们而言, 在法罗群岛, 公交车并不是理想的出行选项. 不仅仅因为法罗群岛很多景点比较偏远, 公共车非常不便, 甚至根本没有. 还因为法罗群岛的公交车真的很贵 <<sslpb>>.
 
-首都托尔斯港拥有最多的住宿选项. 很多旅行团也是从这里出发. 海底隧道系统四通八达. 所以, 托尔斯港是最佳的基地选项. 机场所在的沃格岛也可以作为游览沃格岛和前往米基内斯观鸟的基地. 而北方的克拉克斯维克镇则是探索北方诸岛的最佳基地.
+尽管公交车不是最理想的选项, 但有些行程却需要乘坐公交车. 比如前往卡尔索伊岛 (Kalsoy) 时, 尽管有汽车轮渡, 但是主要服务于本地人, 官方强烈建议游客不要在岛上自驾. 这时推荐乘轮渡过海, 然后换乘完全接驳轮渡的公交车, 前往岛上的热门景点. 此外, 首都托尔斯港城区内的公交车是免费的 <<vfiqf>>.
 
-== 法罗群岛区域指南
+[#ferries]
+=== 轮渡
 
-下面是法罗群岛的各个区域的重要信息:
+法罗群岛的轮渡也是 https://www.ssl.fo/en[Strandfaraskip Landsins] 负责运营的. 其中有三条轮渡线路是汽车轮渡:
 
-沃格 (Vágar):: 西岛, 机场, 瀑布, 悬湖, 前往米基内斯岛观海鹦的轮渡
+* 7 Suðuroy - Tórshavn: 轮渡 7 号线
+* 56 Klaksvík - Kalsoy: 轮渡 56 号线
+* 90 Tórshavn - Nólsoy: 轮渡 90 号线
 
-米基内斯 (Mykines):: 西部, 轮渡, 海鹦, 大小海蚀柱
+以下几座岛屿只能乘坐轮渡抵达, 且只有客轮, 没有汽车轮渡:
 
-斯特莱默 (Streymoy):: 中部, 洋流之岛, 首都托尔斯港, 萨克松和特约尔努维克村落
+* Mykines
+* Skúvoy
+* Fugloy
+* Svínoy
+* Hestur
 
-伊斯特罗伊 (Eysturoy):: 东岛, 巨人和女巫海蚀柱, 海蚀峡谷, 海岸足球场
+其中 Mykines 岛就是著名的 "海鹦岛", 非常热门, 需要尽量提前预定. 其他的还好.
 
-北方诸岛 (Norðoyar, Northern Islands):: 六个北部小岛, 卡卢林灯塔, 邦德墓碑, 海豹女雕像, 克拉克斯维克镇
+[#helicopter]
+=== 直升机
 
-桑多伊岛 (Sandoy Island):: 沙岛, 南部, 海底隧道, 利拉伯格悬崖, 前往斯库沃伊岛观鸟的码头
+有意思的是, 在法罗群岛直升机也属于 "公共交通", 也有固定的航线和时间表, 而且价格非常亲民. 如果没能订到轮渡需要替代方案, 或者只是想体验一下, 也可以考虑直升机.
 
-苏杜罗伊岛 (Suðuroy Island):: 南岛, 轮渡
+需要注意的是直升机主要服务于本地人, 游客的价格已经很公道了, 但却是本地人的三倍左右. 此外, 为了防止游客过度地占直升机的便宜, 直升机不可以预定当天的往返票, 同一天的行程只能是单程. 这就意味着当天往返的行程需要提前预定好直升机加轮渡.
 
-== 沃格岛
+法罗群岛的直升机也是由 https://www.ssl.fo/en/timetable/helicopter[Strandfaraskip Landsins] 负责管理的. 运营则是由大西洋航空 (https://www.atlanticairways.com/en/helicopter/[Atlantic Airways]) 负责运营.
 
-沃格岛在法罗群岛的西部, 是法罗群岛的第三大岛. 沃格岛是法罗群岛唯一机场的所在地, 通过海底隧道可以前往位于斯特莱默岛的首都托尔斯港, 乘轮渡可以前往米基内斯岛去观鸟.
+值得一提的是, 只有一户居民世世代代生活在 Stóra Dímun 岛上. 这个岛只能乘坐直升机抵达. 
 
-沃格岛从机场出发自东向西沿着海岸线有三个村子:
+.法罗群岛的直升机. 来源: Atlantic Airways / Eyðbjørn Jacobsen
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/helicopter.webp[法罗群岛的直升机]
 
-* 瑟沃格 (Sørvágur)
-* 布尔 (Bøur)
-* 加萨达鲁尔 (Gásadalur)
+[#undersea-tunnels]
+=== 海底隧道
 
-瑟沃格村子东边就是机场, 西边就是前往米基内斯岛的轮渡码头. 从瑟沃格村沿着海岸往西就是布尔村. 这里有错落的草皮屋顶的老房子, 以远处的廷霍尔穆尔岛 (Tindhólmur) 和米基内斯岛做背景. 继续向西前行 5 公里, 在巍峨的群山之下的小村子就是加萨达鲁尔村 (Gásadalur). 那里有穆拉瀑布 (Múlafossur).
+法罗群岛一共有 4 条海底隧道, 连接着主要的 5 个岛屿. 所有的海底隧道都是收费的, 而且不便宜. 租车自驾游法罗群岛时, 通行费是由租车公司代收的. 租车的账单中通常很大一块是海底隧道通行费. 所以, 有必要了解海底隧道, 并相应的规划行程, 减少海底隧道通行费.
 
-在沃格岛的东端有著名的瑟沃格湖 (Sørvágsvatn), 也被称为 "悬湖" (Leitisvatn). 瑟沃格湖是法罗群岛最大的湖泊. 徒步 (需付费) 可以到达湖南端的观景点, 从这个视角看过去, 湖仿佛漂浮在海面之上. 更多的信息可以参考:
+有关海底隧道的更多信息, 可以参考我们的攻略: link:{url-undersea-tunnels}[法罗群岛的海底隧道].
 
-* https://visitfaroeislands.com/fo/whatson/places/place/lake-sorvagsvatn-leitisvatn[Lake Sørvágsvatn/Leitisvatn]
+[#regions-and-islands]
+== 法罗群岛区域和岛屿指南
 
-特罗尔科努芬古尔 (Trøllkonufingur) 的意思是 "女巨魔的手指", 是沃格岛海岸上的一座高耸的奇石. 如何徒步前往这块奇石的观景点, 可以参考:
+传统上, 法罗群岛的 18 座岛屿被划分为 6 个区域 <<vfirg>>:
 
-* https://guidetofaroeislands.fo/travel-faroe-islands/drive/troellkonufingur/[Trøllkonufingur Rock Pillar Travel Guide]
+* *北方诸岛区 (https://visitnorth.fo/[Northern Islands]):* 包含北方的 6 个岛屿
+* *东岛区 (https://visitrunavik.fo/en/home-2/[Eysturoy]):* 包含东岛 (音译埃斯特洛伊岛)
+* *斯特莱默区 (https://www.visittorshavn.fo/[Streymoy]):* 包含斯特莱默岛, 及其周边的 3 个小岛
+* *沙岛区 (https://visitsandoy.fo/en[Sandoy]):* 包含沙岛 (音译桑岛), 及其周边的 2 个小岛
+* *南岛区 (https://visitsuduroy.fo/en[Suðuroy]):* 包含南岛 (音译苏杜罗伊岛), 及其周边的 1 个无人小岛
+* *沃格区 (https://visitvagar.fo/en[Vágar]):* 包含沃格岛, 及米基内斯岛 (Mykines)
 
-== 米基内斯岛
+以下是区域和岛屿的速览:
 
-米基内斯岛法罗群岛最西端的岛. 岛上唯一的村子也叫米基内斯. 在夏季, 可以从沃格岛的瑟沃格村搭乘轮渡米基内斯岛. 这里是最热门的观赏海鹦的地方.
+.法罗群岛区域和岛屿速览
+|===
+| 区域 | 岛屿 | 音译 | 字面意思 
 
-米基内斯岛上观鸟必须跟随官方的导游团队, 并支付所谓的徒步费 (Hiking Fee). 每天两个团, 上午和下午各一个团, 时间是配合公共交通的轮渡时间的. 可以在 https://hiking.fo/lysing/redirect/31[hiking.fo] 在线预定并缴费, 也可以在岛上直接缴费. 提前至少一天预定每名成人需要 400 丹麦克朗徒步费 + 少许杂费. 在岛上现场缴费更贵, 是 500 丹麦克朗.
+.6+| 北方诸岛区 
+| Viðoy
+| 维多伊
+| 木岛
 
-https://guidetofaroeislands.fo/book-holiday-trips/mykines-ferry/
+| Borðoy
+| 博多伊
+| 岬角岛 <<wikbd>>
 
-== 斯特莱默岛
+| Kunoy
+| 库诺伊
+| 女人岛
 
-斯特莱默岛 (Streymoy) 意为 "洋流之岛", 因环绕该岛的强大潮汐洋流而得名. 它是法罗群岛中最大, 人口最多的岛屿. 该岛名源于法罗语中的 "streymur" (意为 "洋流") 和 "oy" (意为 "岛屿"). 首府托尔斯港就在这座岛上. 整个岛从上到下绵延约 50 公里.
+| Kalsoy
+| 卡尔索伊
+| 男人岛
 
-在斯特莱默岛的最北端, 是两个最偏僻同时也是最美的小村子:
+| Svínoy
+| 斯维诺伊
+| 猪岛
+
+| Fugloy
+| 富格洛伊
+| 鸟岛
+
+| 东岛区
+| Eysturoy
+| 埃斯特洛伊
+| 东岛
+
+.4+| 斯特莱默区 
+| Streymoy
+| 斯特莱默
+| 洋流岛
+
+| Hestur
+| 海斯特
+| 马岛
+
+| Koltur
+| 柯尔特
+| 马驹岛
+
+| Nólsoy
+| 诺尔索伊
+| -
+
+.3+| 沙岛区
+| Sandoy
+| 桑岛
+| 沙岛
+
+| Skúvoy
+| 斯库沃伊
+| 贼鸥岛
+
+| Stóra Dímun
+| 斯特拉迪门
+| 大迪门岛
+
+.2+| 南岛区
+| Suðuroy
+| 苏杜罗伊
+| 南岛
+
+| Litla Dímun
+| 利特拉迪门
+| 小迪门岛
+
+.2+| 沃格区 
+| Vágar
+| 沃格
+| -
+
+| Mykines
+| 米基内斯
+| -
+
+|===
+
+.法罗群岛的区域和岛屿
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/faroe-islands-regions.webp[法罗群岛的区域和岛屿]
+
+[#northern-islands]
+=== 北方诸岛区 (Northern Islands)
+
+在北方诸岛上, 最值得一去的地方包括:
+
+* Klaksvík: 克拉克斯维克镇, 博多伊岛 (Borðoy) 
+* Trøllanes: 特罗拉内斯村, 卡尔索伊岛 (Kalsoy)
+* Mikladalur: 米克拉达鲁尔村, 卡尔索伊岛 (Kalsoy)
+
+Klaksvík 是法罗群岛第二大城镇, 坐落在陡峭的群山之间, 是一个迷人的渔业中心. 事实上, 如果你有足够的时间在法罗群岛呆在一段时间, Klaksvík 是探索北方诸岛的理想基地, 拥有便利的住宿, 餐厅, 购物选择. Klaksvík 也是北方诸岛所有交通的枢纽. 公路, 公交车, 以及北部两条轮渡路线之一都从这里辐射出去. 北方诸岛海底隧道 (Norðoyatunnilin) 将 Klaksvík 连接到东岛 (Eysturoy) 的莱尔维克 (Leirvík).
+
+Trøllanes 是卡尔索伊岛 (Kalsoy) 最北端的村子. 这里的卡鲁尔灯塔 (Kallur Lighhouse) 已经成为游客最喜爱的景点之一. 从 Trøllanes 到卡鲁尔灯塔的徒步路线是法罗群岛最热门徒步路线. 有趣的是, 在徒步路线的尽头, 詹姆斯·邦德的墓碑竖立在山崖边, 纪念在 "007: 无暇赴死" 中死在这个山谷里的邦德.
+
+Mikladalur 是卡尔索伊岛 (Kalsoy) 上的四个村子中最大的一个. 除了标志性的草顶木屋之外, 传说中的海豹女 (The Seal Woman, 法罗语: Kópakonan) 的雕像就树立在海边.
+
+前往卡尔索伊岛徒步卡鲁尔灯塔, 游览 Mikladalur 村, 欣赏海豹女雕像是法罗群岛最热门的一日游行程之一. 详细信息可以参考我们的游记: link:{url-day-trip-to-kalsoy}[卡尔索伊岛一日游及徒步卡鲁尔灯塔].
+
+北方诸岛中另外四座岛相对小众一些. 如果有时间在北方诸岛住下几天, 也可以都体验一下:
+
+*Fugloy:* 字面上是 _fugl_ + _oy_, 意思就是 "鸟岛". 正如这个名字一样, 这个岛是鸟类的天堂, 也是观鸟者的天堂. 在 Viðoy 岛上的 Hvannasund 村, 乘坐 58 路轮渡可以前往 Fugloy 岛 <<ssl>>. 此外也可以乘坐直升机到达 <<aaht>>.
+
+*Viðoy:* 是法罗群岛最北部的岛, 字面意思是 "木岛". 不过不要被这个名字骗了, 这座岛以陡峭的悬崖和起伏的地貌闻名, 根本没有树. 据说这个名字源自从海上漂流到岛上的浮木, 所以, Viðoy 其实是 "浮木之岛". 在这座岛上, 法罗群岛的最北端是高达 754 米, 欧洲最高的海崖之一 https://visitfaroeislands.com/en/whatson/places/place/cape-enniberg0[Cape Enniberg]. 从 Borðoy 岛可以经过风景如画的跨海峡堤道自驾前往 Viðoy 岛.
+
+*Kunoy:* 字面意思是 "女人岛". 小岛的西侧有一个和岛同名的 Kunoy 村. 夏夜, 在 Kunoy 村, 以对面的 "男人岛" Kalsoy 为背景, 欣赏日落是一项热门的体验. 从 Borðoy 岛可以经过海峡堤道自驾前往 Kunoy 岛.
+
+*Svínoy:* 字面意思是 "猪岛". 实际上, 岛上最多的动物还是绵羊. 很少有游客来这个偏远的小岛. 在 Viðoy 岛上的 Hvannasund 村, 乘坐 58 路轮渡可以前往 Svínoy 岛 <<ssl>>. 此外也可以乘坐直升机到达 <<aaht>>.
+
+[#eysturoy]
+=== 东岛区 (Eysturoy)
+
+东岛是法罗群岛的第二大岛, 因为大体上位于第一大岛斯特莱默岛 (Streymoy) 岛东北方向, 最早来到这个岛上定居的维京人将其命名为埃斯特洛伊岛 (Eysturoy), 字面意思就是 "东岛". 东岛是一个独立的岛, 但现在一条海底隧道将其与邻近的斯特莱默岛连接起来, 前往首都托尔斯港的车程只需 20 分钟. 此外, 还有一座跨海峡的大桥连接着东岛和斯特莱默岛, 虽然不如海底隧道便捷, 但可以省去海底隧道的通行费.
+
+东岛的几个最热门的去处都在西北端, 这里有三条公路是法罗群岛的旅游观光公路:
+
+* 艾迪 (Eiði) 的海岸足球场
+* 巨人和女巫 (Risin & Kellingin) 海蚀柱
+* 格约格夫 (Gjógv) 的海蚀峡谷
+
+详细的信息可以参考我们的游记: link:{url-one-day-island-hopping-road-trip}[法罗群岛三大岛跳岛自驾一日游].
+
+[#streymoy]
+=== 斯特莱默区 (Streymoy)
+
+斯特莱默岛 (Streymoy), 字面意思是 "洋流之岛", 因环绕该岛的强大潮汐洋流而得名. 它是法罗群岛中最大, 人口最多的岛屿. 首府托尔斯港就在这座岛上. 整个岛从上到下绵延约 50 公里.
+
+在斯特莱默岛的西北部, 有两个最偏僻同时也是最美的小村子:
 
 * 特约尔努维克 (Tjørnuvík)
 * 萨克松 (Saksun)
 
-特约尔努维克村在道路的尽头, 座落在冰河时代形成的完美圆形冰川谷中, 三面环山, 一面是沙滩. 前往特约尔努维克村的路上会经过法罗群岛最高的瀑布:
+Tjørnuvík 在道路的尽头, 座落在冰河时代形成的完美圆形冰川谷中, 三面环山, 一面是沙滩. 附近的 Saksun 是法罗群岛另一个最美村庄之一. 这里, 一排排草皮屋顶的房屋, 沿着达拉河 (Dalá) 绵延而立, 俯瞰着一座白色的石砌教堂和一个泻湖. 前往 Tjørnuvík 和 Saksun 的两段路都是法罗群岛的旅游观光公路.
 
-* 福萨瀑布 (Fossá)
+有关 Tjørnuvík 和 Saksun 详细的信息可以参考我们的游记: link:{url-one-day-island-hopping-road-trip}[法罗群岛三大岛跳岛自驾一日游].
 
-附近的萨克松村是法罗群岛另一个最美村庄之一. 这里, 一排排草皮屋顶的房屋, 沿着达拉河（Dalá）绵延而立, 俯瞰着一座白色的石砌教堂和一个泻湖.
+首府托尔斯港就在斯特莱默岛的东南端. 托尔斯港是探索法罗群岛的理想基地, 其中的老城也是亮点. 详细的信息可以参考我们的游记: link:{url-old-town-and-tinganes-of-torshavn}[托尔斯港的老城和廷加内斯].
 
-前往特约尔努维克和萨克松村的两段路都是法罗群岛的旅游公路路线的一部分. 这些旅游公路路线以法罗群岛的国花金凤花 (学名毛茛) 命名, 称为 https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Sóljuleiðir (Buttercup Routes)].
+斯特莱默区还包括斯特莱默岛附近的三座小岛, 其中的 Nólsoy 因为徒步和海鹦成为法罗群岛的热门目的地之一. 其他两座小岛则相对比较小众.
 
-== 伊斯特罗伊
+*Hestur:* 海斯特岛的名字 Hestur 在法罗语中就是 "马" 的意思. 据说是因为小岛狭长的形状有点像马. 来这个岛的游客多数是乘坐充气艇去看号称世界最大的 https://www.visittorshavn.fo/place/klaemintsgjogv/[Klæmintsgjógv] 海蚀洞.
 
-伊斯特罗伊岛是法罗群岛的第二大岛, 因为大体上位于斯特莱默岛东北方向, 最早来到这个岛上定居的维京人将其命名为伊斯特罗伊 (Eysturoy), 直译就是 "东岛" 的意思. 东岛是一个独立的岛, 但现在一条新的海底隧道将其与邻近的斯特莱默岛连接起来, 前往托尔斯港的车程现在只需 20 分钟. 此外, 还有一座桥连接着东岛和斯特莱默岛, 虽然不如海底隧道便捷, 但可以省去海底隧道费用.
+*Koltur:* 和旁边的马岛呼应, 柯尔特岛的名字 Koltur 就是法罗语中的 "马驹". 马驹岛是法罗群岛第二小的岛. 一直到上个世纪末, 马驹岛都有农户定居, 但是现今已经变成无人岛, 并正在逐步转变为一个国家公园岛和自然保护区. 没有轮渡或者直升机前往马驹岛, 所以这个岛极少有游客到来. 只有个别旅游公司提供乘坐充气艇去马驹岛的游览项目 <<vtk>>.
 
-在伊斯特罗伊岛的北端有几个热门的去处:
+*Nólsoy:* Nólsoy 岛是观鸟者的天堂, 也拥有法罗群岛最著名的灯塔徒步路线之一 https://visitfaroeislands.com/en/whatson/places/place/bordan0[Borðan] 徒步路线. 从托尔斯港乘坐 90 路轮渡不到半小时就可以到达 Nólsoy 岛. 如果没能去成海鹦天堂 Mykines 岛, Nólsoy 岛常常是退而求其次的首选.
 
-* 巨人和女巫 (Risin & Kellingin) 海蚀柱
-* 格约格夫 (Gjógv) 海蚀峡谷
-* 艾迪 (Eiði) 的海岸足球场 (现在用作露营车营地)
+[#sandoy]
+=== 沙岛区 (Sandoy)
 
-== 北方诸岛
+沙岛区包括沙岛 (Sandoy) 和沙岛南边的两座小岛 Skúvoy 岛和 Stóra Dímun 岛.
 
-北方诸岛包括在法罗群岛北部的六个小岛:
+*Sandoy:* 字面意思就是 "沙岛". 这沙岛位于斯特莱默岛的南边, 通过沙岛海底隧道 (Sandoyartunnilin) 与之相连. 从沙岛的斯科蓬村 (Skopun) 可以徒步到利拉伯格悬崖 (https://visitsuduroy.fo/en/whatson/places/place/liraberg?region=5[Líraberg Cliff]) 欣赏日落. 沙岛还是前往著名的斯库沃伊岛 (Skúvoy) 的门户.
 
-* 富格洛伊岛 (Fugloy)
-* 斯维诺伊岛 (Svínoy)
-* 维多伊岛 (Viðoy)
-* 博多伊岛 (Borðoy)
-* 库诺伊岛 (Kunoy)
-* 卡尔索伊岛 (Kalsoy)
+*Skúvoy:* 鸟类的天堂. 事实上, Skúvoy 直译的就是 "贼鸥岛". 有一种说法是贼鸥的英文名 Skua 就来源于 Skúvoy 岛的名字 (而不是相反). 前往 Skúvoy 岛需要从托尔斯港出发, 向南经过沙岛海底隧道 (Sandoyartunnilin) 到沙岛 (Sandoy), 然后在沙岛的 Sandur 村轮渡码头乘坐 66 路轮渡前往 Skúvoy 岛.
 
-在北方诸岛上, 最值得一去的地方包括:
+*Stóra Dímun:* 大迪门岛, 与它南边的小迪门岛是姐妹岛, 只是后者属于南岛区. 大迪门岛名字中的 Stóra 的意思是 "大", 小迪门岛名字中的 Litla 意思就是 "小". 而 Dímun 源自古诺尔斯语, 表示 "两个相似的东西". 大迪门岛是法罗群岛最小的有人居住的岛. 岛上只住着一家人, 女主人姓 "úr Dímun", 意思就是 "来自迪门". 她的家族已经连续八代生活在大迪门岛上了. 迪门家除了养羊种地之外, 还经营一家小型的民宿. 不过, 想去体验的人要注意, 每周两班的直升机是前往大迪门岛的唯一方式.
 
-* 克拉克斯维克镇 (Klaksvík)
-* 米克拉达鲁尔村 (Mikladalur)
-* 特罗拉内斯村 (Trøllanes)
+[#suduroy]
+=== 南岛区 (Suðuroy)
 
-克拉克斯维克镇是法罗群岛第二大城镇, 坐落在陡峭的群山之间, 是一个迷人的渔业中心. 这里北方诸岛的门户. 事实上, 如果你有足够的时间在法罗群岛呆在一段时间, 克拉克斯维克是探索北方诸岛的理想基地, 拥有便利的住宿, 咖啡馆和餐厅选择. 克拉克斯维克也是这片岛屿所有交通的枢纽, 公交车, 公路以及北部两条渡轮路线之一都从这里辐射出去.
+南岛区包括南岛 (Suðuroy) 和旁边的 Litla Dímun 岛.
 
-米克拉达鲁尔村是卡尔索伊岛岛四个村子中最大的一个. 除了漂亮的草皮房顶的房子之外, 传说中的海豹女 (The Seal Woman, Kópakonan) 的雕像就树立在海边.
+*Suðuroy:* 字面意思就是 "南岛". 南岛是法罗群岛游客最少的岛之一, 这是因为南岛位于法罗群岛最南端, 确实远了点. 从托尔斯港乘坐 7 路轮渡往返需要五个小时, 所以南岛并不适合一日游. 除非你有足够的时间, 才能欣赏常常被形容为法罗群岛的瑰宝的南岛. 南岛是徒步者的天堂. 此外, 法罗群岛的旅游观光公路有两条在南岛. 
 
-特罗拉内斯村是卡尔索伊岛岛最北端的村子. 这里的卡卢林灯塔 (Kallurin) 已经成为游客最喜爱的景点之一. 从特罗拉内斯村到卡卢林灯塔的徒步路线 (需要徒步费) 是法罗群岛最热门徒步路线. 有趣的是, 在徒步的尽头附近, 詹姆斯·邦德的墓碑竖立在山崖边, 纪念在 "无暇赴死" 中死在这个山谷里的邦德. 完成卡卢林灯塔徒步可不太容易, 具体的信息可以参考:
+*Litla Dímun:* 利特拉迪门岛, 即小迪门岛, 与大迪门岛是姐妹岛. 小迪门岛是一座无人岛, 也是法罗群岛中最小的一座岛. 这座小岛四周几乎都是峭壁, 没有轮渡或者直升机路线能够到达, 只能从远处眺望. 有意思的是, 由于独特的气象原因, 即使是晴空万里, 小迪门岛的上边也几乎总是笼罩着一片云, 像是一顶白帽子.
 
-* 卡卢林一日游 (周一, 三, 五): https://vfibackend.com/uploads/55388-vfi-rutukort-a4-kallurin.pdf[Day trip to Kallurin]
+[#vagar]
+=== 沃格区 (Vágar)
 
-== 沙岛
+沃格区包含沃格岛 (Vágar) 和米基内斯岛 (Mykines).
 
-沙岛在斯特莱默岛的南边, 有海底隧道连接着两个岛.
+*Vágar:* 沃格岛的名字一般认为与 "海湾" 相关. 这座岛在法罗群岛的西部, 是法罗群岛的第三大岛, 拥有连绵的海岸线和众多的小海湾. 沃格岛号称法罗群岛的缩影. 标志性的穆拉瀑布 (Múlafossur), 悬湖 (Leitisvatn), 和拱门海蚀柱 (Drangarnir) 等等都在这里. 法罗群岛唯一机场也在沃格岛, 是大部分游客在法罗群岛的第一站. 通过海底隧道可以前往位于斯特莱默岛的首都托尔斯港, 乘轮渡可以前往米基内斯岛去看海鹦.
 
-从沙岛的斯科蓬村 (Skopun) 可以徒步到利拉伯格悬崖 (Líraberg Cliff), 沿途欣赏到雄伟的山崖, 丰富的鸟类, 和海蚀柱.
+*Mykines:* 米基内斯岛是法罗群岛最西端的岛. 在夏季, 可以从沃格岛乘轮渡前往米基内斯岛. 这里是法罗群岛观赏海鹦的最佳场所.
 
-沙岛还是前往著名的斯库沃伊岛 (Skúvoy) 的门户. 在沙岛南岸的桑杜尔村 (Sandur) 的码头, 每天有几班轮渡往返于沙岛和斯库沃伊岛之间. 斯库沃伊岛有鸟类自然保护区. 如果没能在米基内斯岛看到海鹦, 可以在这里看看. 维京酋长西格蒙杜尔·布雷斯蒂松 (Sigmundur Brestisson) 就埋葬于此.
+[#top-attractions]
+== 法罗群岛必去景点
 
-== 苏杜罗伊岛
+游览法罗群岛很大程度上取决于天气, 时间, 和预算.
 
-苏杜罗伊岛名字的意思是 "南岛". 从托尔斯港乘坐轮渡两个小时左右可以到达. 因为这次法罗群岛的行程时间有限, 而南岛太远, 所以, 我们放弃南岛.
+* 除非运气爆棚, 否则大部分时间可能在等天气变好.
+* 除非有超过一周甚至两周的时间, 有些偏远的岛屿和景点尽管很好, 但是能去游客并不多.
+* 除非不差钱, 有些景点和徒步路线尽管属于必游项目, 但是需要跟团或者徒步费 <<vfihf>>, 也只能有所取舍.
 
+这里我们挑选了一些法罗群岛必看必玩的项目, 适合在一周的行程中, 分几次以一日游的形式体验. 详细的信息可以参考我们的游记:
+
+* link:{url-one-day-road-trip-on-vagar-island}[法罗群岛沃格岛自驾一日游]
+* link:{url-one-day-island-hopping-road-trip}[法罗群岛三大岛跳岛自驾一日游]
+* link:{url-day-trip-to-kalsoy}[卡尔索伊岛一日游及徒步卡鲁尔灯塔]
+* link:{url-old-town-and-tinganes-of-torshavn}[托尔斯港的老城和廷加内斯]
+
+[#mykines]
+=== 米基内斯岛 (Mykines)
+
+法罗群岛在夏季大约有 500,000 对海鹦栖息, 是世界上最佳的观赏海鹦的地方之一. 而米基内斯岛是法罗群岛观赏海鹦的最佳场所. 这里不但有最大的海鹦栖息地, 而且可以近距离的观察海鹦. 尽管前往米基内斯岛看海鹦需要轮渡费和岛上的徒步费, 花费不菲, 但是谁不喜欢呆萌的海鹦呢?
+
+沃格岛上的 Sørvágur 村, 也就是紧邻机场西侧的村子, 有一个港口, 前往米基内斯岛的 36 号线轮渡就在这里停靠. 在夏季, 每天有早中晚三班轮渡往返于 Sørvágur 到米基内斯岛.
+
+需要注意的是, 前往米基内斯岛的轮渡极易因为天气和海况原因被取消. 如果运气不在你这边, 就需要备份方案. 关于在法罗群岛看海鹦的更多信息, 可以参考我们的攻略: link:{url-where-to-spot-puffins}[法罗群岛海鹦观鸟攻略].
+
+.米基内斯岛 (Mykines) 的海鹦. Photo: Jessica Pamp on Unsplash
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/mykines-puffin-jessica-pamp-unsplash.webp[米基内斯岛 (Mykines) 的海鹦]
+
+[#mulafossur-gasadalur]
+=== 穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)
+
+沃格岛最西端的山谷中隐藏着戈萨达鲁尔村 (Gásadalur). 直到 2004 年随着穿山隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最具标志性的穆拉瀑布 (Múlafossur) 的所在地. 位于世界边缘尽头的 Gásadalur 毫无疑问是法罗群岛最漂亮的村庄.
+
+.穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)
+image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/mulafossur.webp[穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)]
+
+[#drangarnir-sea-arch]
+=== 海蚀柱拱门 (Drangarnir Sea Arch)
+
+Drangarnir 是在沃格岛和廷霍尔穆尔小岛 (Tindhólmur) 之间的两个海蚀柱. 分别被称为大海蚀柱 (Stóri Drangur) 和小海蚀柱 (Lítli Drangur). 其中大的海蚀柱形成了著名的天然海拱门, 是法罗群岛最多入镜的标志性景观之一.
+
+沃格岛的 Bøur 村的 https://www.theview.fo/[The View Cottage] 民宿附近, 法罗群岛的旅游观光公路 "鹅谷之路" 旁, 也就是 45 号公路旁, 有最佳的远眺海蚀柱拱门的观景点.
+
+欣赏海蚀柱拱门的最佳方式需要徒步前往. 不过徒步路线需要穿越私人土地. 目前必须由当地向导带领, 而且价格不菲. 参考: https://hiking.fo/products/254/drangarnir-sea-stacks-official-hiking-tour-with-locals[Drangarnir Sea Stacks - Official Hiking Tour with Locals]
+
+.从鹅谷之路上眺望海蚀柱拱门 (Drangarnir)
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/drangarnir.webp[从鹅谷之路上眺望海蚀柱拱门 (Drangarnir)]
+
+[#leitisvatn-tralanipa]
+=== 悬湖 (Leitisvatn) 和奴隶悬崖 (Trælanípa) 徒步
+
+沃格岛上有法罗群岛最大的湖, 名字叫 https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/the-lakes/lake-leitisvatn-sorvagsvatn[Sørvágsvatn], 和机场旁的村子 Sørvágur 名字同源, 字面意思分别是 "南湾湖" 和 "南湾村". 它有另一个名字更为人所熟知的名字 - 悬湖 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/the-lakes/lake-leitisvatn-sorvagsvatn[Leitisvatn]). 从特定的角度看过去, 特别是从无人机视角看上去, 湖水仿佛漂浮在海面之上. 
+
+悬湖的观景点在著名的奴隶悬崖 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/tralanipa[Trælanípa]) 附近, 需要徒步穿越私人土地前往, 所以目前也需要徒步费, 价格同样不菲.
+
+[#trollkonufingur]
+=== 女巫手指 (Trøllkonufingur)
+
+沃格岛西部的最后一个村子是 Sandavágur 村. 这个村庄是沃格岛上我们最喜欢的村庄之一, 风景如画, 特别是村庄教堂极具特色的红色屋顶使其成为法罗群岛最漂亮的教堂之一. 当然, 在 Sandavágur 最吸引人的, 莫过于从村子出发徒步去看当地人称为 https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1[Trøllkonufingur] 的奇石景观了. 它的名字的字面意思就是 Troll Woman's Finger 或者 The Witch's Finger, 也就是 "女巨魔的手指" 或者 "女巫的手指". 看看下面的照片, 有那么一点像.
+
+.女巫手指 (Trøllkonufingur)
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/trollkonufingur.webp[女巫手指 (Trøllkonufingur)]
+
+女巫手指徒步路线是法罗群岛热门徒步路线中少有的几个免费的之一. 详细信息可以参考我们的攻略: link:{% post_url 2025-06-29-hiking-trollkonufingur %}[徒步法罗群岛女巫手指].
+
+[#saksun]
+=== 萨克松 (Saksun)
+
+在斯特莱默岛 (Streymoy) 西北部, 在法罗群岛旅游观光公路之一 "萨克松之路", 即 53 号公路的尽头, 是偏远的山村萨克松 (Saksun).
+
+萨克松是法罗群岛最上镜的村庄之一. 这里有高山, 瀑布, 小溪, 泻湖, 沙滩, 大西洋, 构成一套完美的自然环境. 村庄中心的草顶小教堂 (Saksun Church) 是最经典的法罗群岛地标之一. 宁静超脱的氛围和原始的山村风貌, 完美的诠释了法罗群岛的独特之美.
+
+.萨克松 (Saksun)
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/saksun.webp[萨克松 (Saksun)]
+
+村子里几栋散落的草顶小屋现在是 Dúvugarðar 露天博物馆的一部分. 博物馆只在夏季向游客开放. 门票不便宜, 每人 150 丹麦克朗 (2025 年).
+
+萨克松 (Saksun) 是多条徒步路线的起点, 其中最热门的是萨克松 - 特约尔努维克 (Saksun - Tjørnuvík) 的徒步路线.
+
+[#tjornuvik]
+=== 特约尔努维克 (Tjørnuvík)
+
+在斯特莱默岛 (Streymoy) 的西北部, 法罗群岛的旅游观光公路 "特约尔努维克之路", 即 594 号公路的尽头, 是特约尔努维克 (Tjørnuvík). 
+
+特约尔努维克拥有独特的黑沙滩和强劲的海浪, 使得这里成为冲浪者的天堂. 这里热门的徒步路线也吸引着无数徒步爱好者. 但是这里最知名的景观还是远处一对高耸的被称为 "巨人和女巫" (The Giant and The Witch, 法罗语: Risin og Kellingin) 的海蚀柱. 因其苍凉和壮美, 成为法罗群岛的名片之一.
+
+.特约尔努维克 (Tjørnuvík)
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/tjornuvik.webp[特约尔努维克 (Tjørnuvík)]
+
+[#eidi]
+=== 艾迪 (Eiði)
+
+艾迪 (Eiði) 是东岛 (Eysturoy) 西北部的一个宁静而美丽的村庄. 
+
+号称 "世界上最美的足球场" 就在艾迪. 事实上, 这里有两片足球场. 毗邻村庄教堂的是一片新的足球场. 另一片旧的足球场就座落在北大西洋岸边. 这片足球场是法罗群岛的另一个地标, 是无数风光大片和明信片的主题. 如今, 这片足球场被用作露营车营地.
+
+.艾迪的露营地 (Eiði Camping)
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/eidi-camping.webp[艾迪的露营地 (Eiði Camping)]
+
+从艾迪向东翻越法罗群岛的最高峰 Slættaratindur 南坡的垭口可以通往另外两个村庄. 垭口这里的这三条公路都是旅游观光公路:
+
+* 通往西边的艾迪 (Eiði): 艾迪垭口之路 (Um Eiðisskarð)
+* 通往北边的格约格夫 (Gjógv): 峡谷之路 (Gjáarleið)
+* 通往东边的富宁厄 (Funningur): 富宁厄之路 (Funningsleið)
+
+其中艾迪垭口之路是我们在法罗群岛最喜欢的一段路. 途中在高山台地上有一个小停车场, 这里是巨人和女巫海蚀柱的另一个观景点 (Risin og Kellingin viewpoint).
+
+.巨人和女巫海蚀柱 (The Giant and The Witch, 法罗语: Risin og Kellingin)
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/eidi-risin-kellingin.webp[巨人和女巫海蚀柱 (The Giant and The Witch, 法罗语: Risin og Kellingin)]
+
+[#gjogv]
+=== 格约格夫 (Gjógv)
+
+东岛 (Eysturoy) 西北部, 法罗群岛旅游观光公路 "峡谷之路" (Gjáarleið) 的尽头是格约格夫 (Gjógv). 法罗语 Gjógv 的意思就是 "峡谷" (Gorge), 因村子里的著名的海蚀峡谷景观而得名.
+
+.格约格夫 (Gjógv) 的海蚀峡谷
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/gjogv-gorge.webp[约格夫 (Gjógv) 的海蚀峡谷]
+
+峡谷的北岸有一条沿着悬崖而上的步道, 通往在半山腰的一条徒步路线的起点. 如果你运气好, 在夏季有机会在这边的悬崖上见到海鹦 (Puffins).
+
+[#hiking-kallur-lighthouse]
+=== 徒步卡鲁尔灯塔 (Kallur Lighthouse)
+
+卡鲁尔灯塔 (Kallur Lighthouse) 在法罗群岛北方诸岛之一, 卡尔索伊岛 (Kalsoy) 的最北端. 纪念在电影 "007: 无暇赴死" 中死去的詹姆斯·邦德的墓碑也在卡鲁尔灯塔附近. 这里的悬崖还是海鹦的栖息地. 
+
+卡鲁尔灯塔需要需要乘坐轮渡和公交车到 Trøllanes 村. 从村子里开始徒步前往, 还要支付不菲的徒步费. 即便这样, 徒步卡鲁尔灯塔仍然成为法罗群岛的必游项目之一.
+
+.卡鲁尔灯塔 (Kallur Lighthouse)
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/kallur-lighthouse.webp[卡鲁尔灯塔 (Kallur Lighthouse)]
+
+[#mikladalur]
+=== 米克拉达鲁尔 (Mikladalur)
+
+米克拉达鲁尔 (Mikladalur) 是卡尔索伊岛 (Kalsoy) 上最大的村庄, 在最北端的 Trøllanes 以南十分钟车程. 这里以村中散落的童话般的草顶房子 (Turf House) 和海豹女 (Seal Woman, 法罗语: Kópakonan) 的雕像而闻名.
+
+Mikladalur 最经典的风光是其中的一幢草顶木屋, 房前还有个小草顶窝棚:
+
+.Mikladalur 的草顶房子
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/mikladalur.webp[Mikladalur 的草顶房子]
+
+而著名的海豹女 (Seal Woman, 法罗语: Kópakonan) 雕像就伫立在峡湾水边的巨石之上:
+
+.海豹女雕像
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/seal-woman-statue.webp[海豹女雕像]
+
+[#torshavn]
+=== 托尔斯港的老城和廷加内斯 (Tinganes)
+
+来法罗群岛, 当然无法错过首都托尔斯港 (Tórshavn). 而托尔斯港的亮点是老城和廷加内斯 (Tinganes).
+
+托尔斯港 (Tórshavn) 的老城是一片风景如画的袖珍街区, 非常适合游客漫步其中. 它见证了法罗群岛的悠久历史, 是法罗群岛的心脏. 特别是其中的廷加内斯 (Tinganes), 曾经是世界上最早的议会集会地点之一, 现在是法罗群岛地方自治政府的所在地. 你漫不经心地走过的草顶红色木屋, 可能就是首相办公室, 财政部, 同时也是外交, 工业和贸易部.
+
+.托尔斯港廷加内斯的政府建筑
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/government-buildings.webp[托尔斯港廷加内斯的政府建筑]
+
+[#tourist-routes]
+== 法罗群岛旅游观光公路
+
+自驾无疑是游览法罗群岛的最佳方式. 更加便捷, 有人同行时相比公共交通甚至更加划算. 更重要的是法罗群岛有很多条旅游观光公路 (Tourist Routes) <<tr>>. 这些公路沿途的风景各具特色, 但是都美不胜收. 同时, 这些旅游观光公路也吸引着无数骑行爱好者前往.
+
+法罗群岛的旅游观光公路在法罗语中被称为 Sóljuleiðir <<tr>>, 译成英语是 Buttercup Routes. Buttercup 是以法罗群岛的 "国花", 直译是 "黄油杯", 中文学名毛茛 (gèn), 是一种黄色杯形的小花. 这种花遍布法罗群岛的草丛中.
+
+作为参考, 以下是法罗群岛旅游观光公路的基本信息:
+
+. *Gásadalsleið:* 鹅谷之路, 即 45 号公路, 通往戈萨达鲁尔村 (Gásadalur), 即 "鹅谷".
+. *Saksunarleið:* 萨克松之路, 即 53 公路, 通往萨克松 (Saksun).
+. *Tjørnuvíkleið:* 特约尔努维克之路, 即 594 号公路, 通往特约尔努维克 (Tjørnuvík).
+. *Um Eiðisskarð*: 艾迪垭口之路, 通往艾迪 (Eiði).
+. *Gjáarleið:* 峡谷之路, 通往格约格夫 (Gjógv).
+. *Funningsleið:* 富宁厄之路, 通往富宁厄 (Funningur).
+. *Oyggjarvegurin:* 诸岛之路, 即 50 号公路, 通往托尔斯港.
+. *Elduvíkarleið:* 埃尔德维克之路, 通往东岛 (Eysturoy) 上的埃尔德维克村 (Elduvík).
+. *Oyndarfjarðaleið:* 欧伊恩达尔峡湾之路, 即 643 号公路, 通往东岛 (Eysturoy) 上的欧伊恩达尔峡湾村 (Oyndarfjørður).
+. *Múlaleið:* 穆拉之路, 通往 Borðoy 岛上的 "鬼城" 穆拉 (Múli).
+. *Runt Agnið:* 阿格尼徳之路, 东岛 (Eysturoy) 东南部的阿格尼徳路 (Agnið) 以及由此通往鲁纳维克 (Runavik) 的公路.
+. *Um Hovsegg:* 霍夫之路, 连接南岛 (Suðuroy) 的霍夫村 (Hov) 和厄拉维克村 (Øravík) 一段旧山路.
+. *Um Hestin:* 赫斯廷之路, 连接南岛 (Suðuroy) 的松巴村 (Sumba) 和洛普拉村 (Lopra) 的一段旧山路.
+
+需要注意的是, 所有法罗群岛旅游观光公路的信息都很有限, 没有可以参考的中文信息. 这里的中文译名仅供参考, 目的在于方便交流. 毕竟法罗语, 甚至古诺尔斯语对我们来说交流起来实在太不方便了.
+
+.法罗群岛的旅游观光公路 - 诸岛之路 (Oyggjarvegurin)
+image::assets/images/2025/lofoten-faroe/faroe-islands-guide/oyggjarvegurin.webp[法罗群岛的旅游观光公路 - 诸岛之路 (Oyggjarvegurin)]
+
+[#where-to-stay]
+== 法罗群岛住在哪
+
+适合作为探索法罗群岛的基地的地方有三个:
+
+* 沃格岛 (Vágar)
+* 托尔斯港 (Tórshavn)
+* 克拉克斯维克 (Klaksvík)
+
+对于 7 天左右的行程, 推荐分成两段, 分别住在沃格岛和托尔斯港. 沃格岛通常需要至少 3 晚, 余下的时间住在托尔斯港, 如果行程超过 10 天, 可以考虑在克拉克斯维克住几晚.
+
+[#stays-on-vagar]
+=== 住在沃格岛
+
+绝大多数游客都是乘飞机来到法罗群岛, 在法罗群岛的第一站就是沃格岛 (Vágar). 沃格岛号称法罗群岛的缩影不是没有道理的. 这里云集了众多的法罗群岛必去景点, 还是前往米基内斯岛看海鹦的门户. 考虑到通往法罗群岛其他岛屿的沃格海底隧道通行费不菲, 就近住在沃格岛, 将这里作为探索沃格岛和米基内斯岛的基地是非常理想的选择.
+
+沃格岛西侧最偏远的村子就是著名的戈萨达鲁尔村 (Gásadalur). 住在这个世界边缘的尽头绝对是一种极致的体验. 我们推荐法罗群岛的第一个落脚点选在戈萨达鲁尔村 (Gásadalur). 这里有个相当不错的民宿选择:
+
+* https://expedia.com/affiliates/gasadalur-hotels-gasadalur.RNeN8ex[Múlafossur Cottages near Waterfall]
+
+[#stays-in-torshavn]
+=== 住在托尔斯港
+
+首都托尔斯港拥有最多的住宿选项. 很多旅行团也是从这里出发. 海底隧道系统四通八达. 所以, 托尔斯港是最佳的基地选项. 在众多的住宿选项中, 特别值得一提的是下面这个极具法罗群岛特色酒店:
+
+* https://expedia.com/affiliates/torshavn-hotels-hotel-froyar.EFfpNZd[Hotel Føroyar]
+
+[#stays-in-klaksvik]
+=== 住在克拉克斯维克
+
+如果有足够的时间游览北方诸岛各处, 那么北方的克拉克斯维克镇则是探索北方诸岛的最佳基地.
+
+[bibliography]
+[#resources]
 == 参考资料
 
-* 法罗群岛官方旅游推广机构: https://visitfaroeislands.com/en[Visit Faroe Islands]
-* 法罗群岛官方旅游推广机构 - 区域信息中心: https://visitfaroeislands.com/en/plan-your-stay/need-a-little-help/regional-information-centres[Visit Faroe Islands - Regional Information Centres]
-* 法罗群岛村庄和城镇的实时网络摄像头: https://www.faroeislandslive.com[Faroe Islands Live]
+* [[[vfi]]] 法罗群岛旅游局: https://visitfaroeislands.com/en[Visit Faroe Islands]
+* [[[vfiqf]]] 法罗群岛旅游局 - 速览: https://visitfaroeislands.com/en/about-vfi/history-governance-and-economy/quick-facts[Quick Facts], Visit Faroe Islands
+* [[[vfirg]]] 法罗群岛旅游局 - 区域指南: https://visitfaroeislands.com/en/see-do/inspiration-guides/popular-guides/regional-guides[Regional Guides], Visit Faroe Islands
+* [[[vfim]]] 法罗群岛旅游局 - 钱: https://visitfaroeislands.com/en/plan-your-stay/before-you-arrive-in-the-faroe-islands/money[Money], Visit Faroe Islands
+* [[[vvpb]]] 法罗群岛旅游局 - 访问沃格 - 海鹦和观鸟: https://visitvagar.fo/en/visit-mykines/see-do8/puffins-and-birdwatching[Puffins and Birdwatching], Visit Vágar
+* [[[vfihf]]] 法罗群岛旅游局 - 徒步费: https://visitfaroeislands.com/en/see-do/activities/hiking/hiking-fees[Hiking Fees In The Faroe Islands], Visit Faroe Islands
+* [[[vtk]]] 法罗群岛旅游局 - 访问托尔斯港 - 马驹岛: https://www.visittorshavn.fo/koltur/[Koltur: Nature Reserve and Research Station], Visit Tórshavn
+* [[[ssl]]] 法罗群岛公共交通管理机构: https://www.ssl.fo/en[Strandfaraskip Landsins]
+* [[[sslpb]]] 法罗群岛公共交通管理机构 - 公交车价格表: https://www.ssl.fo/en/prices/prices/buses[Prices of Buses], Strandfaraskip Landsins
+* [[[aaht]]] 大西洋航空 - 直升机 - 时刻表: https://www.atlanticairways.com/en/helicopter/timetable/[Timetable], Helicopter, Atlantic Airways
+* [[[tr]]] 法罗群岛国家工程管理局 - 旅游观光公路: https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Tourist Routes In The Faroe Islands (Sóljuleiðir)], Landsverk
+* [[[gfim]]] 法罗群岛指南 - 米基内斯完全指南: https://guidetofaroeislands.fo/nature-in-faroe-islands/mykines/[Mykines | The Complete Guide], Guide to Faroe Islands
+* [[[wikbd]]] Borðoy 的字面含义: https://en.wiktionary.org/wiki/Borðoy#Faroese[Borðoy], Wiktionary
+* [[[fit]]] 法罗语翻译: https://www.faroeislandstranslate.com/#!/[Faroe Islands Translate]
+* [[[fil]]] 法罗群岛村庄和城镇的实时网络摄像头: https://www.faroeislandslive.com[Faroe Islands Live]
+* [[[ws]]] 法罗群岛全年的气候和平均天气: https://weatherspark.com/y/150227/Average-Weather-in-Faroe-Islands-Year-Round[Climate and Average Weather Year Round in Faroe Islands], Weather Spark
