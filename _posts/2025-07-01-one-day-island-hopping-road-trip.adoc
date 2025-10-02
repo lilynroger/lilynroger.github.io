@@ -45,7 +45,7 @@ image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/route-m
 * **F:** 富宁厄, 埃斯图罗伊 (东岛)
 * **G:** 托尔斯港, 斯特莱默 (主岛)
 
-这条线路串联起了法罗群岛最大的 3 个岛上的主要旅游亮点村镇, 途经法罗群岛 11 条旅游观光公路中的 7 条. 全程大部分时间都是行驶在旅游观光公路上.
+这条线路串联起了法罗群岛最大的 3 个岛上的主要旅游亮点村镇, 途经法罗群岛旅游观光公路中的 7 条. 全程大部分时间都是行驶在旅游观光公路上.
 
 我们从沃格岛西端的 A. 戈萨达鲁尔村出发, 首先沿着 45 号公路, 然后是 11 号公路一直到沃格岛东端的桑达沃格 (Sandavágur), 然后继续沿着 11 号公路穿过**收费**海底隧道来到主岛斯特莱默岛.
 
@@ -92,7 +92,7 @@ image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/route-m
 . 艾迪垭口之路 (法罗语: Um Eiðisskarð)
 . 峡谷之路 (法罗语: Gjáarleið)
 . 富宁厄之路 (法罗语: Funningsleið)
-. 岛屿之路 (法罗语: Oyggjarvegurin): 50 号公路
+. 诸岛之路 (法罗语: Oyggjarvegurin): 50 号公路
 
 [#_gasadalur]
 == 戈萨达鲁尔 (Gásadalur)
@@ -131,7 +131,7 @@ image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/trollko
 [#_saksun]
 == 萨克松 (Saksun)
 
-穿过沃格海底隧道就来到了法罗群岛的主岛斯特莱默岛 (Streymoy), 首都托尔斯港的所在地. 在这个岛上, 我们将首先前往西北部的偏远山村萨克松(Saksun).
+穿过沃格海底隧道就来到了法罗群岛的主岛斯特莱默岛 (Streymoy), 首都托尔斯港的所在地. 在这个岛上, 我们将首先前往西北部的偏远山村萨克松 (Saksun).
 
 TIP: 斯特莱默岛 (Streymoy) 的名字来自法罗语的 _streym + oy_. 第一部分的意思就是 _stream_, 第二部分是 _island_, 一般认为名字的意思是 _island of streams_ 或者 _island of currents_.
 
@@ -256,15 +256,15 @@ image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/funning
 [#_torshavn]
 == 托尔斯港 (Tórshavn)
 
-从富宁厄前往托尔斯港, 导航软件会推荐经东岛埃斯图罗伊岛的 Strendur, 穿过东岛海底隧道 (Eysturoyartunnilin) 到主岛斯特莱默岛. 我们则选择还是跨越斯特莱默大桥, 然后经 10 号公路, 转到 50 号公路去托尔斯港. 虽然这样会多花 20 分钟左右的时间, 但是一方面可以省去海底隧道的通行费, 另一方面是因为 50 号公路是这次自驾游的第 7 条旅游观光公路, 被称为 "岛屿之路" (https://visitfaroeislands.com/en/whatson/places/place/oyggjarvegurin0[Oyggjarvegurin]).
+从富宁厄前往托尔斯港, 导航软件会推荐经东岛埃斯图罗伊岛的 Strendur, 穿过东岛海底隧道 (Eysturoyartunnilin) 到主岛斯特莱默岛. 我们则选择还是跨越斯特莱默大桥, 然后经 10 号公路, 转到 50 号公路去托尔斯港. 虽然这样会多花 20 分钟左右的时间, 但是一方面可以省去海底隧道的通行费, 另一方面是因为 50 号公路是这次自驾游的第 7 条旅游观光公路, 被称为 "诸岛之路" (https://visitfaroeislands.com/en/whatson/places/place/oyggjarvegurin0[Oyggjarvegurin]).
 
-.法罗群岛的旅游观光公路 - 岛屿之路 (Oyggjarvegurin)
-image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/oyggjarvegurin.webp[法罗群岛的旅游观光公路 - 岛屿之路 (Oyggjarvegurin)]
+.法罗群岛的旅游观光公路 - 诸岛之路 (Oyggjarvegurin)
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/oyggjarvegurin.webp[法罗群岛的旅游观光公路 - 诸岛之路 (Oyggjarvegurin)]
 
 在晚上 8 点前, 我们就顺利到达了托尔斯港并入住了我们的民宿. 就在托尔斯港的地标之一, 西教堂 (https://www.visittorshavn.fo/place/vesturkirkjan-church-of-western-torshavn0/[Vesturkirkjan]) 旁边:
 
 .托尔斯港的西教堂 (Vesturkirkjan)
-image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/vesturkirkjan.webp[法罗群岛的旅游观光公路 - 岛屿之路 (Oyggjarvegurin)]
+image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/vesturkirkjan.webp[托尔斯港的西教堂 (Vesturkirkjan)]
 
 七月初完全不用担心天色, 法罗群岛这时基本上没有真正意义上的黑夜. 而且我们在海峡大桥那里也采购好了食品, 不必到托尔斯港的第一天就开车在城里采购了.
 
