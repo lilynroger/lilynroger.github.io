@@ -48,10 +48,6 @@
 .paragraph,
 .ulist {
     margin-bottom: 1em;
-
-    p {
-        margin: 0;
-    }
 }
 
 span.icon>.fa {
