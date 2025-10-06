@@ -1,0 +1,169 @@
+= 游客的挪威地理 - 行政区划和地理区划
+:page-subtitle: Geography of Norway for Visitors
+:page-image: assets/images/2025/lofoten-faroe/geography-of-norway/geography-of-norway.webp
+:page-modified_time: 2025-10-04 08:00:00 +0800
+:page-date: 2025-07-15 22:00:00 +0200
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威]
+:page-layout: post
+:page-categories: posts
+:page-liquid:
+:toc:
+:sectnums:
+
+挪威是我们最喜欢的旅行目的地国家之一, 可是这个国家的行政区划方式与我们国家截然不同. 每次做攻略和写游记的时候, 如何用中文尽可能准确地表达那些挪威的行政区划和地理区划, 一直困扰着我们. 这是我们的笔记, 整理了挪威的行政区划, 常见的地理区划和传统区划, 以及有关如何表达城镇和村庄等等的基本信息.
+
+[#administrative-divisions-of-norway]
+== 挪威的行政区划
+
+挪威官方正式的行政区划分为两级:
+
+郡:: 英语: county, 挪威语: fylke
+市镇:: 英语: municipality, 挪威语: kommune
+
+对于挪威的行政区划, "郡" 和 "市镇" 是普遍接受和使用的中文术语. 其中郡由市镇组成. 
+
+挪威的行政区划改革一直在持续进行中. 在 2024 年, 挪威一共有 15 个郡 <<snlf>>. 除了奥斯陆自己既是一个郡又是一个市镇之外, 其他的郡由多个市镇组成. 在 2024 年, 挪威有 357 个市镇 <<snlc>>.
+
+* 面积最小的市镇 Kvitsøy 只有 6 平方公里, 而最大的 Kautokeino 有 9,704 平方公里
+
+* 人口最少的市镇 Utsira 只有 200 多人口, 而人口最多的市镇奥斯陆在 2025 年的人口有 724,290 人 <<snlo>>.
+
+* 位于北极地区的斯瓦尔巴群岛 (Svalbard) 独立于挪威大陆上的郡和市镇的行政区划系统之外, 本身不是郡, 而是直接由挪威司法部管理.
+
+.奥勒松 (Ålesund) 是西挪威的一个市镇
+image::assets/images/2025/lofoten-faroe/geography-of-norway/alesund.webp[奥勒松 (Ålesund) 是西挪威的一个市镇]
+
+[#geographical-regions-of-norway]
+== 挪威的地理区划
+
+挪威的大陆被划分为五大地理区划. 这些地理区划在英文中称为 Major Geographical Regions of Norway 或者 Regions of Norway, 在挪威语中称为 landsdel, 或者复数形式 landsdeler. 五大地理区划存粹是基于地理, 文化和语言进行的划分, 并没有法律和行政意义.
+
+北挪威:: 挪威语: Nord-Norge, 英语: Northern Norway
+特伦德拉格 / 中挪威:: 挪威语: Trøndelag / Midt-Norge, 英语: Trøndelag / Central Norway
+西挪威:: 挪威语: Vestlandet, 英语: Western Norway
+南挪威:: 挪威语: Sørlandet, 英语: Southern Norway
+东挪威:: 挪威语: Østlandet, 英语: Eastern Norway
+
+其中, 挪威语的 _norge_ 就是挪威. 而 _nord_, _vest_, _sør_, _øst_, _midt_ 分别对应 "东", "西", "南", "北", "中". 从词源上来讲, 挪威语的 landsdel 源自 _land_ + _s_ + _del_, 字面意思就是 "国家的一部分" <<wtld>>.
+
+在北挪威以南的其余四大地理区划有时又统称为南挪威. 但是这个广义的南挪威在挪威语中是用 Sør-Norge 一词表达, 与北挪威的 Nord-Norge 对应. 遗憾的是, 中文和英文都翻译成了南挪威和 Southern Norway, 也就都无法准确区分狭义的 Sørlandet 和 广义的 Sør-Norge 了.
+
+挪威行政区划的中的各个郡大体上对应于各自所处的地理区划中. 作为参考:
+
+* 北挪威
+** 特罗姆斯郡 (Troms)
+** 芬马克郡 (Finnmark)
+** 诺尔兰郡 (Nordland)
+
+* 特伦德拉格 / 中挪威
+** 特伦德拉格郡 (Trøndelag)
+
+* 西挪威
+** 默勒-鲁姆斯达尔郡 (Møre og Romsdal)
+** 韦斯特兰郡 (Vestland)
+** 罗加兰郡 (Rogaland)
+
+* 南挪威
+** 阿格德尔郡 (Agder)
+
+* 东挪威
+** 西福尔郡 (Vestfold)
+** 泰勒马克郡 (Telemark)
+** 布斯克吕郡 (Buskerud)
+** 阿克什胡斯郡 (Akershus)
+** 东福尔郡 (Østfold)
+** 内陆郡 (Innlandet)
+** 奥斯陆郡 (Oslo)
+
+.挪威的地理区划
+image::assets/images/2025/lofoten-faroe/geography-of-norway/divisions-of-norway.webp[挪威的地理区划]
+
+这里是一些挪威地理区划对于游客而言比较实用的的信息:
+
+* 热门的旅游目的地特罗姆瑟 (Tromsø), 位于北挪威的特罗姆斯 (Troms) 郡. 特罗姆瑟既是一个市镇的名字, 同时也是该市镇的行政中心的城市名字. 北挪威著名的徒步胜地塞尼亚岛 (Senja) 也在特罗姆斯郡.
+
+* 热门的旅游目的地罗弗敦群岛 (Lofoten), 位于北挪威的诺尔兰郡 (Nordland). 西奥伦群岛 (Vesterålen) 也在诺尔兰郡. 两个群岛也合称罗弗敦-西奥伦群岛 (Lofoten-Vesterålen).
+
+* 维京人旧都, 圣奥拉夫朝圣之路的终点, 号称北欧美食天堂的特隆赫姆 (Trondheim), 位于中挪威.
+
+* "四大峡湾" 吕瑟峡湾 (Lysefjorden), 哈当厄尔峡湾 (Hardangerfjorden), 松恩峡湾 (Sognefjorden), 盖朗厄尔峡湾 (Geirangerfjorden) 都在西挪威. 西挪威因此也被称为峡湾挪威 (Fjord Norway) <<vnfn>>. 三大旅游胜地斯塔万格 (Stavanger), 卑尔根 (Bergen), 奥勒松 (Ålesund) 以及 "三大奇石" 布道石 (Preikestolen), 奇迹石 (Kjeragbolten), 巨魔之舌 (Trolltunga) 也在西挪威. 当然还有大西洋路 (The Atlantic Road).
+
+* 奥斯陆在东挪威.
+
+* 位于北极地区的斯瓦尔巴群岛 (Svalbard) 独立于五大地理区划之外, 不属于任何其中之一.
+
+.哈姆诺亚 (Hamnøya) 是罗弗敦的一个岛. 这里的红色传统鱼屋是罗弗敦的地标之一
+image::assets/images/2025/lofoten-faroe/geography-of-norway/hamnoya.webp[哈姆诺亚 (Hamnøya) 是罗弗敦的一个岛. 这里的红色传统鱼屋是罗弗敦的地标之一]
+
+[#traditional-districts-in-norway]
+== 挪威的传统区划
+
+挪威还存在一些传统区划. 这些传统区划在挪威语中称为 distrikt 或者 landskap, 通常都有着深厚的历史渊源. 这些传统区划目前缺乏官方的或者普遍接受的完整信息. 我们非正式地称之为 "地区".
+
+* 对于游客而言, 最著名的地区可能就是罗弗敦了. 罗弗敦既是群岛的名字, 也是对应的地区的名字. 所以称呼 "罗弗敦", "罗弗敦地区" 和 "罗弗敦群岛" 都是对的. 罗弗敦地区涵盖了群岛上的六个市镇 (Vågan, Vestvågøy, Flakstad, Moskenes, Værøy, Røst).
+
+* 同样的, 罗弗敦以北, 同属北挪威的诺尔兰郡的西奥伦 (Vesterålen) 也是一个地区, 同时也是群岛.
+
+* 另一个游客经常接触到的地区名称是哈当厄尔地区 (Hardanger), 指的是位于西挪威的韦斯特兰 (Vestland) 郡的哈当厄尔峡湾及其周边地区.
+
+.乌伦斯旺 (Ullensvang) 是西挪威的一个市镇, 这里可以欣赏最美的哈当厄尔峡湾 (Hardangerfjorden) 景色
+image::assets/images/2025/lofoten-faroe/geography-of-norway/ullensvang.webp[乌伦斯旺 (Ullensvang)是西挪威的一个市镇, 这里可以欣赏最美的哈当厄尔峡湾 (Hardangerfjorden) 景色]
+
+[#cities-and-towns-of-norway]
+== 挪威的城市和城镇
+
+在挪威语中描述城镇和城市的词汇分别是:
+
+城镇:: 挪威语: tettsted, 英语: town / urban area
+城市:: 挪威语: by, 英语: city
+
+其中, 挪威语的 tettsted 字面意思就是 "聚居地" <<wtts>>. 最能清楚表达它的含义的描述是挪威关于 tettsted 的定义:
+
+* 人口数达到 200 或以上
+* 住房间距一般不超过 50 米
+* 非农业人口占比不低于全国平均的非农业人口占比
+
+而挪威语中 by 一词, 也就是城市, 本质上是在正式行政区划的市镇中, 具有一定规模的城镇. 如今在挪威是由市镇地方政府决定哪个城镇可以称作城市的, 这个政策催生了一批新的城市. 城市的概念在挪威已经非常模糊了, 没有多少法律和行政意义, 更多的是经贸和旅游等方面的宣传意义 <<snlb>>.
+
+总结一下:
+
+* 城镇 (tettsted) 可以泛指城镇和城市.
+* 城市 (by) 通常具有一定地位, 相对较大.
+
+[#villages-of-norway]
+== 挪威的村
+
+在挪威语中描述村庄的词汇主要有两个:
+
+村庄:: 挪威语: bygd, 英语: village / rural area
+小村庄:: 挪威语: grend, 英语: hamlet
+
+此外, 挪威沿海有很多的渔村, 挪威语称为 fiskevær. 这个词源自 _fiske_ + _vær_. 前者 fiske 表示打鱼. 后者 vær 是西挪威和北挪威的词汇, 在这里表示停靠渔船的港口 <<snlv>>. 
+
+这里是一些有关村庄的例子:
+
+* 盖朗厄尔 (Geiranger) 是西挪威斯特兰达 (Stranda) 市镇的一个村庄. 座落在盖朗厄尔峡湾的尽头. 是著名的旅游胜地.
+
+* 吕瑟博滕 (Lysebotn) 是西挪威桑内斯 (Sandnes) 市镇的一个小村庄. 这里是吕瑟峡湾的尽头, 奇迹石就在附近.
+
+* 亨宁斯韦尔 (Henningsvær) 是北挪威罗弗敦的一个渔村, 这里有非常热门的 Festvågtind 徒步路线.
+
+NOTE: 在挪威语字典里还会碰到一个词汇 landsby 也译作村庄 (village). 不过这个词在挪威语里通常用来描述其他国家的村庄, 并不适用于挪威的村庄.
+
+.亨宁斯韦尔 (Henningsvær) 是罗弗敦的一个渔村. 徒步到 Festvågtind 可以俯瞰整个渔村
+image::assets/images/2025/lofoten-faroe/geography-of-norway/henningsvar.webp[亨宁斯韦尔 (Henningsvær) 是罗弗敦的一个渔村. 徒步到 Festvågtind 可以俯瞰整个渔村]
+
+[bibliography]
+[#resources]
+== 参考资料
+
+* [[[snlf]]] 挪威大百科全书 - 郡: https://snl.no/fylke[fylke], Store norske leksikon
+* [[[snlc]]] 挪威大百科全书 - 市镇: https://snl.no/kommune[kommune], Store norske leksikon
+* [[[snlb]]] 挪威大百科全书 - 城市: https://snl.no/by[by], Store norske leksikon
+* [[[snlt]]] 挪威大百科全书 - 城镇: https://snl.no/tettsted[tettsted], Store norske leksikon
+* [[[snll]]] 挪威大百科全书 - 村庄: https://snl.no/landsby[landsby], Store norske leksikon
+* [[[snlv]]] 挪威大百科全书 - 渔村: https://snl.no/v%C3%A6r_-_fiskev%C3%A6r[vær (fiskevær)], Store norske leksikon
+* [[[snlo]]] 挪威大百科全书 - 奥斯陆: https://snl.no/Oslo[Oslo], Store norske leksikon
+* [[[wtld]]] 维基词典 - landsdel: https://en.wiktionary.org/wiki/landsdel[landsdel], Wiktionary
+* [[[wtts]]] 维基词典 - tettsted: https://en.wiktionary.org/wiki/tettsted[tettsted], Wiktionary
+* [[[vnfn]]] 挪威官方旅游指南 - 峡湾挪威: https://www.visitnorway.com/places-to-go/fjord-norway/[Fjord Norway], Visit Norway
