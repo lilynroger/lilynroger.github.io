@@ -1,0 +1,108 @@
+= Svolvær Airport (SVJ) - 罗弗敦的斯沃尔韦尔机场
+:page-subtitle: Guide to Svolvær Airport (SVJ) in Lofoten
+:page-image: assets/images/2025/lofoten-faroe/airport-svj/aircraft.webp
+:page-date: 2025-07-04 20:30:00 +0200
+:page-modified_time: 2025-10-07 22:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 旅行, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦, 斯沃尔韦尔, 机场]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:sectnums:
+
+斯沃尔韦尔机场 (Svolvær Airport) 在罗弗敦群岛北部, 是一个区域性小型机场. 这座机场的优势在于临近罗弗敦群岛最大的城市斯沃尔韦尔. 如果喜欢更城市化的落脚点, 更多的酒店, 餐厅, 酒吧等等, 斯沃尔韦尔是罗弗敦地区最好的选择. 这篇攻略将帮助你了解斯沃尔韦尔机场机场的实用信息.
+
+[#quick-facts]
+== 基本信息
+
+* *机场代码:* SVJ
+* *机场正式名称:* 斯沃尔韦尔机场
+* *机场正式名称 (英语):* Svolvær Airport, Helle
+* *机场正式名称 (挪威语):* Svolvær lufthavn, Helle
+* *位置:* 位于斯沃尔韦尔以东 6 公里的海勒 (Helle)
+* *航站楼:* 一座航站楼
+* *公共交通:* 无
+* *机场运营:* https://www.avinor.no/en/[Avinor]
+* *官方网站:* https://www.avinor.no/en/airport/svolvar/[Svolvær Airport, Avinor]
+
+[#terminal]
+== 航站楼
+
+斯沃尔韦尔机场很小, 有一座袖珍 "航站楼". 到达区和出发区都集中在一栋单层建筑. 我们从下飞机到提取行李, 走出大门, 总共也就五分钟.
+
+.斯沃尔韦尔机场
+image::assets/images/2025/lofoten-faroe/airport-svj/terminal.webp[斯沃尔韦尔机场]
+
+[#arrivals]
+=== 到达区
+
+斯沃尔韦尔机场 "到达大厅" 一目了然. 到达大厅的一侧就是行李提取区. 这个行李提取区恐怕是我们见过最 "精致" 的. 一张巨幅的斯沃尔韦尔机场的鸟瞰海报非常吸睛.
+
+.斯沃尔韦尔机场的行李提取区
+image::assets/images/2025/lofoten-faroe/airport-svj/baggage-claim.webp[斯沃尔韦尔机场的行李提取区]
+
+[#departure]
+=== 到达区
+
+在斯沃尔韦尔机场的出发区, 可以看到机场提示应至少 30 分钟到达机场. 实际上, 在我们出发时, 几名机场工作人员确实直到我们的航班起飞时间前 30 分钟才出现, 开始安检.
+
+.斯沃尔韦尔机场提示提前至少 30 分钟到达机场
+image::assets/images/2025/lofoten-faroe/airport-svj/self-service.webp[斯沃尔韦尔机场提示提前至少 30 分钟到达机场]
+
+进入斯沃尔韦尔机场的出发区, 迎面就是服务中心. 如果你不确定自己的手提行李和和个人随身物品是否可以带入机舱, 这里可以找到维德罗航空 (Widerøe) 有关行李尺寸的提示.
+
+.斯沃尔韦尔机场出发区的服务中心
+image::assets/images/2025/lofoten-faroe/airport-svj/service-center.webp[斯沃尔韦尔机场出发区的服务中心]
+
+出发区进门右手边就是整个安检区了:
+
+.斯沃尔韦尔机场出发区的安检区
+image::assets/images/2025/lofoten-faroe/airport-svj/security-check.webp[斯沃尔韦尔机场出发区的安检区]
+
+[#airlines]
+== 航线和航空公司
+
+和绝大多数挪威的民用机场一样, 斯沃尔韦尔机场也是有国有公司 Avinor 统一运营. 这座机场航线很少, 全部航线都由维德罗航空 (Widerøe) 运营. 最多的航班是接驳临近的的交通枢纽重镇博德 (Bodø) 的.
+
+下面是夏季从斯沃尔韦尔机场可以直飞的目的地机场的信息 <<df>>:
+
+.斯沃尔韦尔机场的直飞航班 (夏季)
+|===
+| 目的机场 | 目的城市 | 备注
+
+| BOO | 博德 (Bodø) |
+| TOS | 特罗姆瑟 (Tromsø) | 季节性
+| OSL | 奥斯陆 (Oslo) | 季节性
+|===
+
+其他时间, 斯沃尔韦尔机场只有直飞博德和特罗姆瑟的航班, 而且到特罗姆瑟的航班也只有周六才有.
+
+IMPORTANT: 以上信息仅供参考. 航班计划每年都会持续变化, 请根据最新的信息制定您的旅行计划.
+
+目前斯沃尔韦尔机场所有的航班都是小型的螺旋桨飞机.
+
+.威德罗航空 (Widerøe) 的螺旋桨飞机
+image::assets/images/2025/lofoten-faroe/airport-svj/aircraft.webp[威德罗航空 (Widerøe) 的螺旋桨飞机]
+
+[#public-transport]
+== 公共交通
+
+斯沃尔韦尔机场**没有**公共交通, 如果不租车, 只能打电话叫出租车. 好在机场距离斯沃尔韦尔的市中心只有 6 公里.
+
+[#car-rental]
+== 租车
+
+在夏季, 由于位置偏远, 运营成本高昂, 加之租车公司数量和车队规模有限, 供不应求, 罗弗敦群岛绝对处于全球租车价格的最高梯队. 这笔开销是探索这座大自然的天堂所必须付出的代价之一.
+
+不提价格, 斯沃尔韦尔机场机场租车还是比较方便的. 出了机场到达区大门, 就是停车场. 停车场的一角就是租车中心的小房子了. 
+
+.斯沃尔韦尔机场的租车中心
+image::assets/images/2025/lofoten-faroe/airport-svj/car-rental.webp[斯沃尔韦尔机场的租车中心]
+
+租车公司基本上都营业到很晚, 不用担心晚班飞机取车的问题. 只需要国内驾照原件和驾照的国际翻译件即可租车了. 还车时找不到工作人员也不用担心, 很正常. 全自助还车只要把钥匙丢进门外墙上的钥匙投放桶 (Key Drop) 即可.
+
+[bibliography]
+[#resources]
+== 参考资料
+
+* [[[df]]] 斯沃尔韦尔机场的直飞航班: https://www.directflights.com/SVJ[Direct flights from Svolvaer SVJ], directflights.com
