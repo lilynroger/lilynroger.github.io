@@ -36,7 +36,7 @@ image::assets/images/2025/lofoten-faroe/geography-of-norway/alesund.webp[奥勒�
 [#geographical-regions-of-norway]
 == 挪威的地理区划
 
-挪威的大陆被划分为五大地理区划. 这些地理区划在英文中称为 Major Geographical Regions of Norway 或者 Regions of Norway, 在挪威语中称为 landsdel, 或者复数形式 landsdeler. 五大地理区划存粹是基于地理, 文化和语言进行的划分, 并没有法律和行政意义.
+挪威的大陆被划分为五大地理区划. 这些地理区划在英文中称为 Major Geographical Regions of Norway 或者 Regions of Norway, 在挪威语中称为 landsdel, 或者复数形式 landsdeler. 五大地理区划纯粹是基于地理, 文化和语言进行的划分, 并没有法律和行政意义.
 
 北挪威:: 挪威语: Nord-Norge, 英语: Northern Norway
 特伦德拉格 / 中挪威:: 挪威语: Trøndelag / Midt-Norge, 英语: Trøndelag / Central Norway
@@ -48,7 +48,7 @@ image::assets/images/2025/lofoten-faroe/geography-of-norway/alesund.webp[奥勒�
 
 在北挪威以南的其余四大地理区划有时又统称为南挪威. 但是这个广义的南挪威在挪威语中是用 Sør-Norge 一词表达, 与北挪威的 Nord-Norge 对应. 遗憾的是, 中文和英文都翻译成了南挪威和 Southern Norway, 也就都无法准确区分狭义的 Sørlandet 和 广义的 Sør-Norge 了.
 
-挪威行政区划的中的各个郡大体上对应于各自所处的地理区划中. 作为参考:
+挪威行政区划中的各个郡与地理区划的对应关系如下:
 
 * 北挪威
 ** 特罗姆斯郡 (Troms)
@@ -78,7 +78,7 @@ image::assets/images/2025/lofoten-faroe/geography-of-norway/alesund.webp[奥勒�
 .挪威的地理区划
 image::assets/images/2025/lofoten-faroe/geography-of-norway/divisions-of-norway.webp[挪威的地理区划]
 
-这里是一些挪威地理区划对于游客而言比较实用的的信息:
+这里是一些挪威地理区划对于游客而言比较实用的信息:
 
 * 热门的旅游目的地特罗姆瑟 (Tromsø), 位于北挪威的特罗姆斯 (Troms) 郡. 特罗姆瑟既是一个市镇的名字, 同时也是该市镇的行政中心的城市名字. 北挪威著名的徒步胜地塞尼亚岛 (Senja) 也在特罗姆斯郡.
 
