@@ -1,0 +1,266 @@
+= 如何前往罗弗敦群岛完全攻略 
+:page-subtitle: Getting to Lofoten Islands
+:page-image: assets/images/2025/lofoten-faroe/getting-to-lofoten/getting-to-lofoten-by-car.webp
+:page-date: 2025-07-04 20:00:00 +0200
+:page-modified_time: 2025-10-14 08:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 旅行, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦, 交通]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:sectnums:
+:url-airport-svj: {% post_url 2025-07-04-airport-svj %}
+
+罗弗敦群岛位于北挪威的诺尔兰郡, 是挪威最热门的旅行目的地之一. 这篇攻略收罗了前往罗弗敦群岛的多种途径. 首先是空中, 如何飞往罗弗敦及其周边的机场. 然后是海路, 如何乘坐汽车轮渡, 高速客船, 海达路德游轮前往. 最后是陆路, 有关火车的信息, 重点是如何自驾前往, 特别是如何从特罗姆瑟, 经塞尼亚岛和西奥伦群岛前往的详细信息.
+
+[#by-air]
+== 乘飞机
+
+乘飞机无疑是前往罗弗敦群岛最快捷, 最简单的方式. 罗弗敦群岛上两个最大的市镇都有自己的小型区域性机场:
+
+* 斯沃尔韦尔机场 (Svolvær Airport)
+* 莱克内斯机场 (Leknes Airport)
+
+此外罗弗敦群岛附近还有另外两座机场:
+
+* 博德机场 (Bodø Airport)
+* 埃沃内斯的哈尔斯塔/纳尔维克机场 (Harstad/Narvik Aiport, Evenes)
+
+这两座机场都地处北挪威地区的交通枢纽城镇, 是通往罗弗敦群岛的门户.
+
+.罗弗敦群岛及其附近的机场
+image::assets/images/2025/lofoten-faroe/getting-to-lofoten/airports-in-and-near-lofoten.webp[罗弗敦群岛及其附近的机场]
+
+[#svolvar-airport]
+=== 斯沃尔韦尔机场 (Svolvær Airport, SVJ)
+
+斯沃尔韦尔机场在罗弗敦群岛东北部, 是一个区域性小型机场. 斯沃尔韦尔机场的优势在于斯沃尔韦尔 (https://visitlofoten.com/en/destination/svolvaer/[Svolvær]) 是罗弗敦群岛的最大城市和行政中心, 是从东北部进入罗弗敦地区的门户. 如果喜欢更城市化的落脚点, 更多的酒店, 餐厅, 酒吧, 购物场所等等, 斯沃尔韦尔是罗弗敦地区最好的选择.
+
+斯沃尔韦尔机场主要接驳博德机场, 每天有几班往返博德的航班. 夏季还有直飞奥斯陆 (Oslo) 和特罗姆瑟 (Tromsø) 的季节性航班, 不过其他时间除了飞博德, 就仅在周六有一班往返特罗姆瑟了. 
+
+有关斯沃尔韦尔机场的详细信息, 可以参考我们的攻略: link:{url-airport-svj}[Svolvær Airport (SVJ) - 罗弗敦的斯沃尔韦尔机场]
+
+.斯沃尔韦尔机场
+image::assets/images/2025/lofoten-faroe/getting-to-lofoten/airport-svj.webp[斯沃尔韦尔机场]
+
+[#leknes-airport]
+=== 莱克内斯机场 (Leknes Airport, LKN)
+
+莱克内斯机场在罗弗敦群岛中部, 也是一个区域性小型机场. 莱克内斯机场位置十分优越, 距离罗弗敦群岛最具标志性的村庄雷讷 (https://visitlofoten.com/en/destination/reine/[Reine]) 和哈姆内伊 (https://visitlofoten.com/en/destination/hamnoy/[Hamnøy]) 仅有 50 公里. 如果时间非常有限, 只能游览罗弗敦最经典的部分, 莱克内斯机场是最好的选择.
+
+.在 Reinebringen 上俯瞰 Reine 全景
+image::assets/images/2025/lofoten-faroe/getting-to-lofoten/reine.webp[在 Reinebringen 上俯瞰 Reine 全景]
+
+莱克内斯机场的航线比斯沃尔韦尔机场略微多一点. 这里不但有往返博德和特罗姆瑟的航班, 还有往返勒斯特机场 (Røst Airport, RET) 的航班. 季节性航班方面, 夏季除了可以直飞奥斯陆以外, 还可以直飞卑尔根.
+
+=== 博德机场 (Bodø Airport, BOO)
+
+博德机场坐落在罗弗敦群岛以东, 诺尔兰郡的首府博德, 与罗弗敦群岛隔海相望. 博德机场是中型的国际机场. 作为诺尔兰郡的主要机场, 博德机场与周边的机场之间都有航班, 可以直飞奥斯陆, 特隆赫姆和卑尔根. 此外与其他北欧国家乃至德国之间也有航班. 
+
+执飞博德机场与罗弗敦的莱克内斯和斯沃尔韦尔机场的航班都是小型的螺旋桨飞机, 而且都是自由入座的, 登机后随便坐.
+
+.在博德机场登上威德罗航空 (Widerøe) 的螺旋桨飞机
+image::assets/images/2025/lofoten-faroe/getting-to-lofoten/airport-boo.webp[在博德机场登上威德罗航空 (Widerøe) 的螺旋桨飞机]
+
+尽管在夏季, 奥斯陆和卑尔根两座城市与罗弗敦群岛之间也有航班, 但是机票价格昂贵. 从博德机场中转, 机票要便宜得多, 而且中转也比较便捷. 此外, 前往这里还有罗弗敦群岛的客轮和汽车轮渡. 众多便利的交通选项使得博德机场成为游客前往罗弗敦群岛的首选中转地.
+
+[#harstad-narvik-aiport]
+=== 埃沃内斯的哈尔斯塔/纳尔维克机场 (Harstad/Narvik Aiport, Evenes, EVE)
+
+纳尔维克机场的正式名称是哈尔斯塔/纳尔维克 (Harstad/Narvik) 机场, 但一般被称为埃沃内斯 (Evenes) 机场. 该机场是一个小到中型的国际机场, 位于北挪威诺尔兰郡的埃沃内斯 (Evenes) 市镇. 
+
+埃沃内斯机场不在罗弗敦地区之内, 而是基本上处于哈尔斯塔和纳尔维克以及罗弗敦中间. 哈尔斯塔和纳尔维克两地共享该机场, 从机场前往两地都还算方便. 从机场到罗弗敦群岛的东北部门户斯沃尔韦尔则有 165 公里. 自驾需要 2.5 小时.
+
+埃沃内斯机场相比博德机场的国内航班要少一些, 不如博德机场方便. 不过埃沃内斯机场多了一些往返欧洲其他枢纽城市的国际航班, 是前往北挪威地区的门户之一.
+
+埃沃内斯机场的优势在于, 这里的租车价格要远低于罗弗敦群岛的两座机场. 如果罗弗敦群岛行程时间比较长, 比如超过一星期, 从埃沃内斯机场租车前往罗弗敦群岛, 虽然往返多了几个小时的驾车时间, 但是可能可以节省数千元. 此外埃沃内斯机场的租车公司也比罗弗敦群岛的多, Alamo 和 Enterprise 等等都有.
+
+[#by-sea]
+== 乘船
+
+乘船前往罗弗敦群岛也是一个不错的选项. 尤其在夏天, 博德和罗弗敦群岛之间的轮渡是非常热门的.
+
+[#ferries]
+=== 汽车轮渡
+
+博德到罗弗敦群岛的汽车轮渡由历史悠久的海上公共交通运营商 https://torghatten.no/en[Torghatten] 运营. 其中博德和罗弗敦群岛的 https://visitlofoten.com/en/destination/moskenes/[Moskenes], https://visitlofoten.com/en/destination/vaeroy/[Værøy], https://visitlofoten.com/en/destination/rost/[Røst] 之间的航线是:
+
+* 轮渡航线 18-782: https://torghatten.no/en/our-routes/18-782[Bodø - Værøy - Røst - Moskenes]
+
+这条航线可以细分为三条:
+
+* 直达往返航线: Bodø - Moskenes
+* 经 Værøy 往返航线: Bodø - Værøy - Moskenes
+* 经 Røst 和 Værøy 往返航线: Bodø - Røst - Værøy - Moskenes
+
+NOTE: 在旺季, 前往 Værøy 和 Røst 的乘客有优先权, 所以建议只是往返 Moskenes 和 Bodø 之间的乘客尽量乘坐直达航线.
+
+.博德到罗弗敦群岛的汽车轮渡线路图
+image::assets/images/2025/lofoten-faroe/getting-to-lofoten/ferries.webp[博德到罗弗敦群岛的汽车轮渡线路图]
+
+汽车轮渡的时间表比较复杂, 夏季和其他时间的时刻表每年轮换, 而且一周里的不同日子也不同. 制定旅行计划时一定要仔细核对时间表. 如果对时间表有疑问, 推荐在挪威的官方旅行规划平台 https://entur.no/[Entur] 上查询两地间轮渡的具体信息, 以便确认行程.
+
+.在 Entur 平台上的查询结果显示从 Bodø 出发, 经 Røst 前往 Værøy 的行程信息
+image::assets/images/2025/lofoten-faroe/getting-to-lofoten/entur-itinerary-ferry.webp[在 Entur 平台上的查询结果显示从 Bodø 出发, 经 Røst 前往 Værøy 的行程信息]
+
+博德和罗弗敦群岛之间的汽车轮渡在旺季非常热门. 一定比例的船票允许在线预订. 如果买到了预定船票, 官方要求至少提前 45 分钟到达码头. 如果预售船票售罄, 那就只能提前到码头排队看运气. 汽车轮渡对步行和骑自行车的乘客是免费的. 来往 Værøy 和 Røst 的汽车也是免费的. 只有往返 Moskenes 和 Bodø 之间的汽车需要收费 <<tp>>.
+
+汽车轮渡的缺点就是慢. 但是在博德租车的价格远低于在罗弗敦群岛租车. 汽车轮渡的船票价格也通常低于机票价格. 此外, Værøy 风景秀丽, 拥有热门的 https://visitlofoten.com/en/activity/hiking/hike-to-haheia-at-vaeroy-438-m/[Håen/Håheia] 徒步路线, 通常是罗弗敦群岛行程的一部分. 取道 Værøy 去罗弗敦群岛甚至可以完全免费. 如果追求性价比而且行程比较灵活, 在博德租车, 乘坐汽车轮渡前往罗弗敦群岛是最佳选项.
+
+[#express-passenger-boats]
+=== 高速客船
+
+如果不开车, 从博德乘船前往罗弗敦群岛的另一个选项是乘坐博德到斯沃尔韦尔高速客船 (Express Boat, 挪威语: Hurtigbåt).
+
+诺尔兰郡的绝大多数的公共交通由 https://www.reisnordland.no[Reis Nordland] 负责管理. 其中博德和斯沃尔韦尔之间的高速客船线路是 https://www.reisnordland.no/rutetabeller-hurtigbt[NEX 2 - Route 23-755].
+
+.博德到斯沃尔韦尔的高速客船线路图
+image::assets/images/2025/lofoten-faroe/getting-to-lofoten/express-boats.webp[博德到斯沃尔韦尔的高速客船线路图]
+
+这条高速客船航线每日一班, 在博德和斯沃尔韦尔之间往返. 早上从斯沃尔韦尔出发, 傍晚则从博德出发. 全程需要 3 小时 25 分钟. 推荐提前在 Reis Nordland 平台上在线预定船票. 参考: https://www.reisnordland.no/bestill-hurtigbat[Book a express boat]. 
+
+* Svolvær - Bodø: 星期一二三四五 06:00, 星期六 07:55, 星期日 12:45 <<rn>>
+* Bodø - Svolvær: 星期一二三四五六 18:00, 星期日 19:00
+
+需要注意的是, 博德和斯沃尔韦尔之间的 NEX 2 高速客船航线过去是全年通航的, 在 2025 年变成了季节性的. 制定旅行计划时, 务必查询最新的时刻表. 推荐总是使用挪威的官方旅行规划平台 https://entur.no/[Entur] 上查询行程信息. 
+
+.在 Entur 平台上的查询结果显示从 Bodø 出发前往 Svolvær 的高速客船的行程信息
+image::assets/images/2025/lofoten-faroe/getting-to-lofoten/entur-itinerary-express-boat.webp[在 Entur 平台上的查询结果显示从 Bodø 出发前往 Svolvær 的高速客船的行程信息]
+
+博德和斯沃尔韦尔之间的高速客船不是汽车轮渡, 乘客不能开车, 但是可以带自行车和皮划艇. 虽然名为 "高速", 实际上抵达罗弗敦群岛并不会比汽车轮渡更快. 船票价格不便宜, 仅比机票价格低一点. 不过, 这个航线的高速客船始终沿着海岸线航行, 沿途的海岸风光秀丽. 所以, 天气好的时候, 也是一个不错的选项.
+
+[#hurtigruten]
+=== 海达路德游轮
+
+在 1893 年, 当海达路德 (https://www.hurtigruten.com/en-us[Hurtigruten]) 的第一艘船首航时, 是南北挪威之间最快捷的路线, 因而命名为 Hurtigruten, 挪威语的字面意思就是 Express Route, 即 "快线". 如今, 海达路德游轮的挪威西海岸经典航线 (https://www.hurtigruten.com/en-us/about-us/voyages/coastal-express[The Coastal Express]) 连接着从南到北的 34 座港口, 成为体验挪威壮丽海岸线, 峡湾和极地风光的经典方式. 虽然海达路德游轮不再是沿海旅行的快捷方式了, 但却是无数旅行者心目中的梦想旅程.
+
+.海达路德 (Hurtigruten) 的挪威西海岸经典航线 (The Coastal Express). 图片: hurtigruten.com
+image::assets/images/2025/lofoten-faroe/getting-to-lofoten/hurtigruten-route.webp[海达路德 (Hurtigruten) 的挪威西海岸经典航线 (The Coastal Express)]
+
+海达路德游轮在南方从卑尔根出发, 途径奥勒松, 特隆赫姆等主要城市, 然后经博德穿越峡湾先后停靠罗弗敦群岛的斯塔姆松 (Stamsund) 和斯沃尔韦尔. 在北方, 游轮从北极的希尔克内斯 (Kirkenes) 出发, 途径特罗姆瑟等港口, 穿越著名的巨魔峡湾 (Trollfjord) 来到罗弗敦群岛的斯沃尔韦尔和斯塔姆松, 然后经博德原路返回卑尔根.
+
+海达路德的海岸经典航线提供了多种选项, 可全线, 可短途, 甚至可以自由选择港到港 (https://www.hurtigruten.com/en-us/port-to-port[Port to Port]). 而且海达路德除了极个别的游轮之外, 都是汽车轮渡. 比如前往罗弗敦群岛, 可以选择卑尔根到斯沃尔韦尔的短途航程 (https://www.hurtigruten.com/en-us/voyages/bergen-svolvar[West Fjords to Lofoten]), 有食宿, 是经典的游轮体验. 也可以选择从博德到斯沃尔韦尔的港到港航程, 把游轮当轮渡用, 还能享用游轮的设施.
+
+NOTE: 海达路德游轮不是专门的汽车轮渡, 汽车承载量很有限, 需要提前预定车位. 而目前英文版本页面无法预定车位, 但是挪威语版本的页面中可以预定车位.
+
+如果偏爱舒适的旅程, 或者想体验经典的挪威海岸游轮, 海达路德游轮为前往罗弗敦群岛提供了一种相当独特的选项. 特别是当游轮从哈尔斯塔 (Harstad) 由北向南到斯沃尔韦尔的时候, 如果天气允许, 船长将带你穿越巨魔峡湾. 那里自驾是去不了的. 自驾游不想开车走回头路还车, 又不想支付高昂的异地还车费, 可以考虑乘坐海达路德游轮去还车.
+
+TIP: 如今, 海达路德有了一个新兴的竞争者, 哈维拉游轮 (https://www.havilavoyages.com[Havila Voyages]). 而且哈维拉游轮的时刻表有意和海达路德的时刻表错开了. 没有订到海达路德, 或者海达路德的时刻表和行程不匹配, 可以看看哈维拉.
+
+[#by-train]
+== 乘火车
+
+罗弗敦群岛没有通火车. 距离最近的两个火车站包括:
+
+* 博德 (Bodø)
+* 纳尔维克 (Narvik)
+
+其中博德与特隆赫姆之间有直达的火车, 全程需要 10 小时 34 分钟. 而纳尔维克的火车连接着瑞典北方的基律纳 (Kiruna), 全程需要 3 小时.
+
+乘火车前往罗弗敦群岛附近需要更长的时间, 而且也不够经济, 火车票往往比机票价格还高. 除非有特殊原因, 不推荐乘火车前往罗弗敦群岛.
+
+[#by-car]
+== 自驾
+
+自驾前往罗弗敦群岛, 可以从北边, 东边和南边出发. 其中从北边的特罗姆瑟自驾前往罗弗敦群岛是最热门的选项. 这里也将重点介绍北方线路.
+
+.自驾前往罗弗敦群岛的线路图
+image::assets/images/2025/lofoten-faroe/getting-to-lofoten/getting-to-lofoten-by-car.webp[自驾前往罗弗敦群岛的线路图]
+
+这里是关于挪威的公路编码的小贴士, 有助于了解我们将介绍的自驾路线:
+
+* 字母 E 代表欧洲国际路网 (European International E-road Network) 中的 A 级公路, 比如 E10 公路, 就是欧洲 10 号公路
+* 缩写 Rv. 代表国道 (英语: National Road, 挪威语: Riksvei), 比如 Rv. 80 就是 80 号国道.
+* 缩写 Fv. 代表郡道 (英语: County Road, 挪威语: Fylkesvei), 比如 Fv. 862 就是特罗姆斯郡 (Troms) 的 862 号郡道.
+
+此外, 挪威公路管理局 (挪威语: Statens vegvesen) 的官方网站提供丰富的路况信息, 可以方便地了解特定区域或者道路养护或者关闭的信息, 查看网络摄像头了解天气, 了解挪威旅游公路信息等等. 参考: https://www.vegvesen.no/trafikk[Road and traffic information].
+
+[#getting-to-lofoten-by-car-from-tromso]
+=== 从特罗姆瑟自驾前往罗弗敦
+
+从北边出发, 通常是在特罗姆瑟租车, 然后向南前往罗弗敦群岛. 这里介绍两条线路:
+
+* 经典自驾游路线: 特罗姆瑟 (https://nordnorge.com/en/destinasjon/tromso/[Tromsø]) - 塞尼亚 (https://nordnorge.com/en/destinasjon/senja/[Senja]) - 西奥伦 (https://nordnorge.com/en/destinasjon/vesteralen/[Vesterålen]) - 罗弗敦 (https://nordnorge.com/en/destinasjon/lofoten/[Lofoten])
+* 最快自驾路线: 特罗姆瑟 - 极地公园 (https://www.visitnarvik.com/polar-park[Polar Park]) - 罗弗敦
+
+[#scenic-route-from-tromso-to-lofoten]
+==== 经典自驾游路线
+
+从特罗姆瑟租车出发, 经塞尼亚岛和西奥伦群岛, 前往罗弗敦是夏季热门的经典自驾游路线. 这条路线途经挪威的三条国家旅游公路:
+
+* https://www.nasjonaleturistveger.no/en/routes/senja[Senja]
+* https://www.nasjonaleturistveger.no/en/routes/andoya/[Andøya]
+* https://www.nasjonaleturistveger.no/en/routes/lofoten/[Lofoten]
+
+途中需要乘坐两次汽车轮渡:
+
+* https://svipper.no/menu/travel/timetables-and-maps/ferry-routes/[Brensholmen - Botnhamn], 全年, 181 线
+* https://svipper.no/menu/travel/timetables-and-maps/ferry-routes/[Gryllefjord - Andenes], 夏季, 180 线
+
+比较遗憾的是, 塞尼亚岛和西奥伦群岛的安岛之间的轮渡, 也就是 Gryllefjord - Andenes 之间的 180 线轮渡, 仅在夏季的五月中旬和九月间运营. 也就是说, 在一年的其他时间如果想从塞尼亚到安岛, 就需要绕行大约 450 公里. 多半就想跳过安岛直接去罗弗敦了.
+
+IMPORTANT: 据说如今在旺季时 Gryllefjord - Andenes 之间的轮渡极其热门. 队伍可能排的很长, 去晚了有可能上不了轮渡. 建议在乘坐轮渡的前一天夜里就把车停在轮渡码头的队列中, 第二天乘坐第一班轮渡.
+
+作为速查参考, 具体的路线如下:
+
+. Tromsø - [Fv.862] - Brensholmen, 55 公里
+. Brensholmen - [181] - Botnhamn, 轮渡: 45 分钟
+. Botnhamn - [Fv.862][Fv.86] - Gryllefjord, 80 公里
+. Gryllefjord - [180] -  Andenes, 轮渡: 1 小时 40 分钟
+. Andenes - [Fv.86][Fv.7702][7698] - Bjørnskinn, 50 公里
+. Bjørnskinn - [Fv.82][Rv.85][E10] - Svolvær, 165 公里
+
+除了挪威国家旅游公路之外, 塞尼亚岛的最大亮点是 Segla 和 Hesten 徒步. 其中 Segla 峰标志性的照片通常是徒步登上附近的 Hesten 峰拍摄的. 这条 Hesten 徒步是挪威最热门的徒步之一. 西奥伦群岛的最大亮点则是 https://visitvesteralen.com/en/hikers-paradise/matind[Måtind] 峰徒步和观鲸.
+
+.从 Hesten 峰欣赏 Segla 峰的视角. 图片: Simo Räsänen / Wikimedia Commons
+image::assets/images/2025/lofoten-faroe/getting-to-lofoten/segla.webp[从 Hesten 峰欣赏 Segla 峰的视角]
+
+如果取道塞尼亚岛和安岛前往罗弗敦, 建议在塞尼亚岛和安岛分别停留至少一天, 可以徒步. 时间多点的话, 还可以参加观鲸之旅.
+
+[#fastest-route]
+==== 最快路线
+
+从特罗姆瑟到罗弗敦群岛的最快自驾路线是沿着欧洲国际路网中的 [E8][E6][E10] 公路, 途径 Nordskjosbotn, Bjerkvik 两个欧洲公路交会点. 该路线的大体情况如下:
+
+* 距离: 435 公里
+* 用时: 6.5 小时
+* 无需轮渡
+* 全年通行
+
+具体的路线是:
+
+. Tromsø - [E8] - Nordskjosbotn
+. Nordskjosbotn - [E6] - Bjerkvik
+. Bjerkvik - [E10] - Svolvær
+
+这个路线风景当然相比塞尼亚-西奥伦路线差的太多. 不过这条路线的优势就在于全年通行, 无需轮渡, 路况较好, 用时最短. 如果选择自驾返回特罗姆瑟还车, 这条路线也许可以考虑. 值得一提的是, 极地公园 (https://www.visitnorway.com/listings/polar-park/238920/[Polar Park]) 就在 [E6] 欧洲公路近 Bjerkvik 一端的附近. 如果想在途中休息一下, 甚至逗留一晚, 推荐去极地公园玩玩.
+
+[#by-car-from-south]
+=== 从南边自驾前往
+
+如果是从罗弗敦以南自驾前往罗弗敦, 那么自驾的目的地就是博德. 从特隆赫姆方向沿着 [E6] 欧洲公路向北一直到 Fauske, 然后转到 [Rv.80] 国道直到博德. 从博德可以乘坐汽车轮渡前往罗弗敦.
+
+[#by-car-from-east]
+=== 从东边自驾前往
+
+从东边的瑞典沿着 [E10] 欧洲公路也可以自驾前往罗弗敦. 这种基本上是长途自驾游了, 比如来自西欧的房车. 不过, 从瑞典向北的沿途风景远不及沿着挪威的西海岸向北.
+
+[#final-thoughts]
+== 总结和建议
+
+没有前往罗弗敦最好的方式, 只有最恰当的方式. 这里是我们以行程时间为主要考量的一些想法和建议.
+
+* *三天:* 乘飞机经博德直接前往莱克内斯, 在此租车. 游览包括 Reine 和 Hamnøy 在内的罗弗敦的精华. 天公作美的话也许可以搞定 Reinebringen
+和 Ryten 两个徒步. 不差钱的话, 可以从奥斯陆或者卑尔根直飞莱克内斯.
+
+* *至少七天:* 乘飞机到博德, 在博德租车, 乘坐轮渡前往 Værøy 岛, 搞定 Håen 徒步. 然后乘轮渡前往 Moskenes. 游览 Reine, Hamnøy Henningsvær, Svolvær. 搞定 Reinebringen, Ryten, 和 Festvågtind 三个徒步. 乘轮渡回博德. 这个行程有点过于紧凑, 除非每天都是晴天, 精力足够旺盛, 否则可能需要有所取舍.
+
+* *两周甚至更多:* 乘飞机到特罗姆瑟, 租车, 走经塞尼亚岛和西奥伦群岛前往罗弗敦的经典旅游公路路线. 途中搞定 Segla/Hesten 徒步和 Måtind 徒步, 有时间还可以观鲸. 游览罗弗敦群岛, 包括 Værøy 岛. 回程的时候沿欧洲公路走最快路线, 途中参观极地公园. 值得一提的是, 我们不建议异地还车, 太贵了. 如果不愿意自驾回程, 且时间充裕, 可以考虑从罗弗敦乘坐海达路德游轮回特罗姆瑟. 异地还车的费用基本上够两个人的一个舱室加一辆车的游轮费用了.
+
+[bibliography]
+[#_resources]
+== 参考资源
+
+* [[[en]]] 挪威国家旅行规划平台: https://entur.no/?lang=eng[Entur]
+* [[[tp]]] https://torghatten.no/en/our-routes/18-782?tab=price[Price, Bodø - Værøy - Røst - Moskenes], torghatten.no
+* [[[rn]]] https://www.reisnordland.no/rutetabeller-hurtigbt[Timetables for express boats in Nordland], reisnordland.no
