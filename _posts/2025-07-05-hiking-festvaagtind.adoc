@@ -1,0 +1,169 @@
+= 徒步罗弗敦的 Festvågtind
+:page-subtitle: Hiking Festvågtind in Lofoten, Norway
+:page-image: assets/images/2025/lofoten-faroe/hiking-festvaagtind/festvaagtind.webp
+:page-date: 2025-07-05 12:00:00 +0200
+:page-modified_time: 2025-10-16 08:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦, 徒步, 精选]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:sectnums:
+:url-one-day-island-hopping-road-trip: {% post_url 2025-07-01-one-day-island-hopping-road-trip %}
+
+Festvågtind 徒步是罗弗敦群岛最热门的徒步之一. 登顶 Festvågtind 山峰后, 可以俯瞰亨宁斯维尔 (Henningsvær) 和西峡湾 (Vestfjord) 的壮丽全景. 也许还可以顺路绕一下去挑战著名的 Presten (挪威语: 牧师岩) 悬崖之上的巨石 Torsketunga (挪威语: 鳕鱼舌).
+
+[#hiking-facts]
+== 基本信息
+
+Festvågtind 徒步的基本信息如下.
+
+* *徒步类型:* 往返 (Out-and-Back / There-and-Back) <<ht>>
+* *徒步难度:* 红色 | 高难度 (Red | Demanding) <<tg>>
+* *海拔高度:* 541 米
+* *累计爬升:* 541 米
+* *平均坡度:* 42% (23°)
+* *徒步距离:* 往返 2.6 公里
+* *徒步用时:* 往返 2-4 小时
+
+NOTE: 基本信息中不包含鳕鱼舌徒步. 参考后文中的说明.
+
+[#about-name]
+== 关于名字
+
+Festvågtind 的名字由两部分组成: _Festvåg_ + _tind_. 其中后者 _tind_ 就是挪威语 "山峰" 的意思. 前者 _Festvåg_ 是山脚下的一个小海湾的名字. 而这个海湾名字本身也是有两个部分组成: _Fest_ +  _våg_. 其中后者 _våg_ 就是 "小海湾" 的意思. 前者 _Fest_ 没有确切可考的来源.
+
+为了方便交流, Festvågtind 建议音译为 "菲斯特沃格峰" 或者从菲斯特湾 (Festvåg) 的名字, 译作 "菲斯特湾峰".
+
+Festvågtind 有时也称为 Festvågtinden, 其中的 _en_ 后缀是挪威语的定冠词后缀, 起特指的作用, 和英语中名词前面使用定冠词 _the_ 类似. 此外, 元音 _å_ 在英语中不存在, 官方的标准英语替代写法是 _aa_. 所以, 写作 Festvågtind, Festvågtinden, Festvaagtind 都可以.
+
+以下, 我们统一写作 Festvågtind. 口语交流则 "菲斯特湾峰" 会更容易.
+
+[#getting-to-the-trailhead]
+== 如何前往
+
+Festvågtind 位于北挪威的诺尔兰郡 (Nordland), 罗弗敦地区东北部的沃甘市镇 (Vågan). 距离沃甘的最大城市斯沃尔维尔 (Svolvær) 只有 25 公里. 在 Festvågtind 以南 2 公里, 就是罗弗敦热门旅游城镇之一, 亨宁斯维尔 (Henningsvær).
+
+自驾前往 Festvågtind 可以沿着 [E10] 欧洲公路, 然后转向 [816] 郡道驶往亨宁斯维尔. 在驶上连接各个小岛的第一座海峡大桥之前, 会经过一个名字就叫 Festvåg 的小型度假酒店. 这里有一个距离步道起点最近, 同时也是附近最大的停车场. 在 Google Maps 可以导航到 "Festvågtind Car Park". 不过, 这个停车场是收费的.
+
+在 [816] 郡道沿途还有另外几处小点的停车场. 我们是停在了往亨宁斯维尔方向, 经过第一座海峡大桥后的小岛 Engøya 上的路侧停车场. 这里距离徒步起点有近 1 公里, 好处是免费的.
+
+.位于罗弗敦地区东北部的 Vågan 市镇, 靠近亨宁斯维尔 (Henningsvær) 的 Festvågtind 徒步
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/getting-to-trailhead.webp[Festvågtind 徒步的位置地图]
+
+值得一提的是, 在 Festvågtind 附近的停车位在夏季时非常紧张. 这里不仅仅有 Festvågtind 徒步, 同时也是世界闻名的登山和攀岩胜地之一. 牧师岩 (Presten) 和甘道夫岩壁 (Gandalfveggen) 都在这里.
+
+此外, 如果选择非常有限的公共交通, 743 路公交车在 Festvåg 有一站.
+
+[#trailhead]
+== 徒步起点
+
+Festvågtind 的徒步起点, 在 Festvåg 的停车场向前 200 米, 路侧的一片低矮的树丛中.
+
+.位于 [816] 号公路, 也就是亨宁斯维尔路 (Henningsværveien) 旁的 Festvågtind 步道起点
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/trailhead.webp[Festvågtind 步道起点]
+
+起点处竖立有一个关于 Festvågtind 徒步的导览, 有不少有用的信息:
+
+.位于步道起点的 Festvågtind 徒步导览
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/guide-map.webp[位于步道起点的 Festvågtind 徒步导览]
+
+[#trail-description]
+== 徒步路线
+
+Festvågtind 徒步路线, 从起点到顶峰都是比较清晰的, 一般不会迷路.
+
+.Festvågtind 徒步路线图. 蓝色圆点标记出的是观景点
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/trail-route.webp[Festvågtind 徒步路线图]
+
+从 Festvågtind 徒步的起点出发, 最初的一小段全都是巨石堆. 需要手脚并用攀爬过去. 这一段没有特别明确的路线.
+
+.Festvågtind 徒步起始阶段的巨石
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/first-segment.webp[Festvågtind 徒步起始阶段的巨石]
+
+过了巨石堆, 徒步的步道就清晰可见了. 沿着步道一直爬到山脊上的一片开阔的高山草甸. 右手边就是 Heiavannet 湖 (海拔 189 米). 夏季时常有徒步游客在这里游泳打卡.
+
+TIP: 实际上, 这个湖的名字 Heiavannet 是由 _heia_ + _vannet_ 两部分组成的. 前者的意思就是 "高山草甸", 而后者就是 "湖" 的意思.
+
+.Festvågtind 山脊上的 Heiavannet 湖
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/heiavannet.webp[Festvågtind 山脊上的 Heiavannet 湖]
+
+走过 Heiavannet 湖之后, 沿着湖左边的山脊步道向上就可以去往 Festvågtind 顶峰. 从这里向上不远, 会路过一片巨石堆, 这里已经可以看到亨宁斯维尔的全景了. 我们在这里还发现了一块突出的巨石, 是个相当不错的拍照点. 大体位置就在路线图中用蓝色标记出来的第 1 个观景点.
+
+.Festvågtind 徒步步道边我们戏称为 "小鳕鱼舌" 的一块突出的巨石
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/little-torsketunga.webp[Festvågtind 徒步步道边我们戏称为 "小鳕鱼舌" 的一块突出的巨石]
+
+此后的步道基本上就是几段陡峭的碎石堆和松散的土路. 在来到顶峰之前的最后一段山脊时, 有一个岔路. 这里向左通往 Festvågtind 顶峰最高点的观景平台, 向右则是通往鳕鱼舌徒步的步道.
+
+沿着左手边的步道, 经过最后的攀爬, 就是顶峰之上的巨石堆成的一块平台. 峡湾中的几座稍大的岛由海峡大桥和堤道连接起来, 在这里尽收眼底. Festvågtind 顶峰的位置是路线图中标记出来的第 2 个观景点.
+
+.Festvågtind 顶峰上的亨宁斯维尔 (Henningsvær) 的全景
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/festvaagtind-panorama.webp[Festvågtind 顶峰上的亨宁斯维尔 (Henningsvær) 的全景]
+
+[#torsketunga]
+== 徒步鳕鱼舌
+
+如果你有足够的经验和胆量, 完全不恐高, 天气和路况也非常好, 也许你会想挑战一下令人心惊肉跳的鳕鱼舌徒步 (挪威语: Torsketunga).
+
+从 Festvågtind 顶峰的观景点下来, 在下山的岔路那里保持直行, 就是去往鳕鱼舌的路了. 从这里顺路徒步去鳕鱼舌往返距离有 1 公里, 需要 1 小时左右.
+
+沿着步道前行会来到一个山脊上的转弯处, 就是线路图上标记的第 3 个观景点. 这里可以俯瞰蜿蜒的 [816] 号公路, 通过堤道横跨 Djupfjorden 峡湾.
+
+.在 Festvågtind 峰的山脊上前往牧师岩 (Presten) 的途中俯瞰峡湾和 [816] 号公路
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/presten.webp[在 Festvågtind 峰的山脊上前往牧师岩 (Presten) 的途中俯瞰峡湾和 [816] 号公路]
+
+从这里继续向前的山脊, 就是通往著名的攀岩胜地牧师岩 (Presten) 顶端的步道了. 而被称为鳕鱼舌的那块突出的巨石就在途中.
+
+我们在这里看到了上下两条步道, 都非常狭窄疏松, 而且是在异常陡峭近乎是悬崖的山壁上. 两条步道我们都做了几次尝试, 但是觉得都太危险了, 最终决定放弃了. 位置大概就在路线图上 4 号标记点.
+
+实际上, 逼得我们放弃的那段步道距离鳕鱼舌已经很近了. 这一段路并不长, 越过这段之后直到鳕鱼舌都是比较常规的山脊步道. 如果你有兴趣, 鳕鱼舌就是下面这张照片中左侧的突出巨石. 站在上面拍张照片肯定可以炫耀一阵子了.
+
+.在牧师岩 (Presten) 之上的巨石鳕鱼舌 (Torsketunga). 图片: alltrails.com
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/torsketunga.webp[在牧师岩 (Presten) 之上的巨石鳕鱼舌 (Torsketunga)]
+
+虽然有点遗憾, 但是最后的那段步道的确超出了我们的能力. 实在不值得为一张照片冒生命危险.
+
+[#return-hike]
+== 徒步回程
+
+因为几乎整个徒步路线的坡度都很大, 而且以松动的土石路为主. 徒步下山的难度丝毫不亚于上山. 好在一路几乎都有峡湾全景可以欣赏.
+
+[#henningsvaer]
+== 亨宁斯维尔
+
+亨宁斯维尔是罗弗敦群岛上最美的渔村之一. 距离罗弗敦最大的城市斯沃尔维尔大约 26 公里. 距离斯沃尔维尔机场 (Svolvær Airport, Helle) 也只有 31 公里.
+
+.亨宁斯维尔
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/henningsvaer.webp[亨宁斯维尔]
+
+亨宁斯维尔除了 Festvågtind 徒步之外, 还有被称为 "世界尽头最美足球场" 的亨宁斯维尔足球场. 此外, 通往亨宁斯维尔的 [816] 号公路也是挪威的国家旅游公路之一.
+
+TIP: 法罗群岛的艾迪 (Eiði) 也有一片足球场, 同样座落在北大西洋岸边, 被称为 "世界边缘最美足球场". 参考我们的游记: link:{url-one-day-island-hopping-road-trip}[法罗群岛三大岛跳岛自驾一日游]
+
+在我们的罗弗敦之行中, 考虑到离开罗弗敦之前要回到斯沃尔维尔住, 以便尽可能离机场近一点. 所以, 抵达罗弗敦的斯沃尔维尔机场后, 我们选择自驾经过斯沃尔维尔, 直接住到亨宁斯维尔, 把这里作为探索罗弗敦群岛的第一站.
+
+这里有不少相当不错的住宿选项. 比如 2024 年才开业的 https://expedia.com/affiliates/vagan-hotels-henningsvr-bryggehotell-by-classic-norway-hotels.ykSA4Bp[Henningsvær Bryggehotell - by Classic Norway Hotels] 就是最好的选项之一. 
+
+.Henningsvær Bryggehotell - by Classic Norway Hotels
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/cnh-henningsvaer.webp[Henningsvær Bryggehotell - by Classic Norway Hotels]
+
+我们住过 Classic Norway Hotels 旗下的多家酒店和传统渔屋. 可惜亨宁斯维尔的这家在我们的罗弗敦之行时有点太贵了. 所以, 我们选择了 https://expedia.com/affiliates/vagan-hotels-henningsvr-rorbuer.TMxY0N3[Henningsvær Rorbuer].
+
+.Henningsvær Rorbuer
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/henningsvaer-rorbuer.webp[Henningsvær Rorbuer]
+
+[#final-thoughts]
+== 总结和建议
+
+Festvågtind 徒步的步道条件与挪威包括三大奇石徒步在内的其它一些著名徒步步道相比要差很多. 我们的运气很好, 碰上绝佳的天气. 可以想象, 天气不佳的时候, 步道会充满危险. 况且在阴雨天, 也根本无法欣赏峡湾和渔村的全景. 所以, 我们强烈建议不要在天气不佳的时候冒险尝试 Festvågtind 徒步.
+
+此外, 罗弗敦另外两个最热门的徒步, 位于雷讷 (Reine) 的 Reinebringen 徒步和位于斯沃尔维尔 (Svolvær) 的 Fløya 徒步, 与 Festvågtind 徒步类似, 核心都是登顶之后, 俯瞰峡湾和渔村的全景. 我们觉得第一次看到其中的任何一个都是极为震撼的, 但是最后一个多少有些审美疲劳. 所以, 天公作美, 不应该错过任何一个. 可是如果天气不佳, 错过其中一个, 也不必过分纠结.
+
+[bibliography]
+[#resources]
+== 参考资源
+
+* [[[ht]]] link:{% post_url 2025-08-28-types-of-hiking-by-trail-format %}[徒步类型], lilyroger.com
+* [[[tg]]] 挪威徒步旅行协会 - 步道分级系统: https://www.dnt.no/om-dnt/english/need-to-know-about-norwegian-outdoor-life/grading-of-trails/[Grading of trails], The Norwegian Trekking Association, DNT, dnt.no
+* [[[vlf]]] 罗弗敦官方旅游指南: https://visitlofoten.com/en/guide/festvagtinden-541-m/[Festvågtinden], visitlofoten.com
+* [[[at]]] https://www.alltrails.com/trail/norway/nordland/festvagtinden-og-presten-torsketunga[Festvågtinden and Presten (Torsketunga)], alltrails.com
