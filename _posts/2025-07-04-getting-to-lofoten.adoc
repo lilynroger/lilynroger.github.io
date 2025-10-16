@@ -173,7 +173,9 @@ image::assets/images/2025/lofoten-faroe/getting-to-lofoten/getting-to-lofoten-by
 * 缩写 Rv. 代表国道 (英语: National Road, 挪威语: Riksvei), 比如 Rv. 80 就是 80 号国道.
 * 缩写 Fv. 代表郡道 (英语: County Road, 挪威语: Fylkesvei), 比如 Fv. 862 就是特罗姆斯郡 (Troms) 的 862 号郡道.
 
-此外, 挪威公路管理局 (挪威语: Statens vegvesen) 的官方网站提供丰富的路况信息, 可以方便地了解特定区域或者道路养护或者关闭的信息, 查看网络摄像头了解天气, 了解挪威旅游公路信息等等. 参考: https://www.vegvesen.no/trafikk[Road and traffic information].
+此外, 挪威公共道路管理局 (挪威语: Statens vegvesen <<sv>>) 的官方网站提供丰富的道路和交通信息, 可以方便地了解特定区域或者道路养护或者关闭的信息, 查看网络摄像头了解天气, 了解挪威旅游公路信息等等 <<svt>>.
+
+TIP: 挪威公共道路管理局交通控制中心的应急电话是 175.道路和交通信息网站还有另一个非常好记的网址: https://175.no[175.no]
 
 [#getting-to-lofoten-by-car-from-tromso]
 === 从特罗姆瑟自驾前往罗弗敦
@@ -262,5 +264,7 @@ image::assets/images/2025/lofoten-faroe/getting-to-lofoten/segla.webp[从 Hesten
 == 参考资源
 
 * [[[en]]] 挪威国家旅行规划平台: https://entur.no/?lang=eng[Entur]
+* [[[sv]]] 挪威公共道路管理局: https://www.vegvesen.no/en/[Norwegian Public Roads Administration], Statens vegvesen, vegvesen.no
+* [[[svt]]] 挪威公共道路管理局 - 道路和交通信息: https://www.vegvesen.no/trafikk[Road and traffic information], vegvesen.no, 175.no
 * [[[tp]]] https://torghatten.no/en/our-routes/18-782?tab=price[Price, Bodø - Værøy - Røst - Moskenes], torghatten.no
 * [[[rn]]] https://www.reisnordland.no/rutetabeller-hurtigbt[Timetables for express boats in Nordland], reisnordland.no
