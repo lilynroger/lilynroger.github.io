@@ -1,0 +1,205 @@
+= 徒步罗弗敦的 Reinebringen
+:page-subtitle: Hiking Reinebringen in Lofoten, Norway
+:page-image: assets/images/2025/lofoten-faroe/hiking-reinebringen/panorama-from-reinebringen.webp
+:page-date: 2025-07-07 22:00:00 +0200
+:page-modified_time: 2025-10-22 14:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦, 徒步]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:sectnums:
+
+Reinebringen 是一座山, 位于罗弗敦最美渔村之一, 雷讷 (Reine). 徒步登上 Reinebringen 的山峰, 可以俯瞰在群山簇拥之下的渔村 Reine, Sakrisøy, 和 Hamnøy, 错落有致地点缀在峡湾之间. 这个壮丽全景是罗弗敦明信片中的标志性景色, 使得 Reinebringen 徒步成为罗弗敦最热门的徒步, 没有之一.
+
+[#hiking-facts]
+== 基本信息
+
+Reinebringen 徒步的基本信息如下.
+
+* *徒步类型:* 往返 (Out-and-Back) <<trt>>
+* *徒步难度:* 蓝色 | 中级 (Blue | Moderate) <<ntg>>
+* *海拔高度:* 484 米
+* *累计爬升:* 448 米
+* *台阶:* 1978 级 (2024 年)
+* *徒步距离:* 往返 2.2 公里
+* *徒步用时:* 往返 2-4 小时
+* *徒步季:* 五月 - 九月
+
+需要注意的是, 由于步道起点处没有停车场, 因此需要走到步道起点处. 总的徒步往返距离应该超过 5 公里.
+
+[#about-name]
+== 关于名字
+
+Reinebringen 的名字由两部分组成: _Reine_ + _bringen_:
+
+* 前者 _Reine_ 当然就是山脚下的渔村的名字. 中文中通常译作 "雷讷".
+* 后者 _bringen_ 名字据说源自古诺尔斯语, 意思 "胸", 形容山在峡湾中隆起的造型 <<rba>>.
+
+Reinebringen 整体在中文中常译作 "雷讷布林根". 以下, 我们统一写作 Reinebringen. 口语交流则 "雷讷布林根山" 会更容易.
+
+[#getting-to-the-trailhead]
+== 如何前往
+
+Reinebringen 山在北挪威诺尔兰郡 (Nordland) 的罗弗敦地区. 具体位于莫斯克内斯 (Moskenes) 市镇的市政中心, 罗弗敦最美的渔村之一, 雷讷 (Reine).
+
+.位于罗弗敦渔村 Reine 的 Reinebringen 徒步
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/getting-to-reinebringen.webp[位于罗弗敦渔村 Reine 的 Reinebringen 徒步]
+
+[#by-foot]
+=== 步行
+
+雷讷本身就是探索罗弗敦南部的理想落脚点. 住在这里当然是徒步 Reinebringen 的最佳选择. 从雷讷中心到 Reinebringen 步道起点有 1.5 公里.
+
+实际上, 因为 Reinebringen 步道起点那里没有车站, 停车场, 或者卫生间等设施. 无论如何也都是要步行前往起点的.
+
+[#by-bus]
+=== 公交车
+
+如果是坐公交车, 距离步道起点最近的站名叫 Reinebringen, 就在刚刚进入雷纳的不远处 (地图中的 4 号标记). 也可以多坐一站到 Reine 站, 直接到雷纳的中心 (地图中的 5 号标记). 这里各类设施应有尽有, 比如超市, 餐馆, 卫生间等等.
+
+需要注意的是罗弗敦的公交车运行间隔比较长, 而且一点也不便宜. 以从附近的 Moskenes 轮渡码头出发前往雷讷为例, 下图是在挪威的官方旅行规划平台 https://entur.no/[Entur] 上查询到的公交车行程细节:
+
+.前往 Reinebringen 和 Reine 的公交车行程
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/entur-bus-itinerary-to-reine.webp[前往 Reinebringen 和 Reine 的公交车行程]
+
+可以看到, 从雷讷以南仅有几公里的 Moskenes 轮渡码头乘坐公交车前往雷讷, 13 分钟的车程就要 41 挪威克朗. 途经 Moskenes, Reinebringen, 和 Reine 三站.
+
+尽管公交车不是理想的交通选项, 不过我们发现旺季还是有很多人在公交车站等车的. 多半是因为罗弗敦旺季时绝对是世界上租车最贵的地方之一. 尽可能最大化的利用公交车, 而只在必要时租车应该可以省很多钱.
+
+[#by-car-and-parking]
+=== 自驾
+
+沿着 [E10] 欧洲公路自驾去徒步 Reinebringen 也可以, 不过停车比较麻烦. 步道起点那里没有停车场, 而且雷讷和周边区域对乱停车打击力度很大. 除了指定停车区域, 其他地方一律禁止停车. 乱停车很可能会收到大额罚单 (据说是 900 挪威克朗).
+
+特别注意的是在地图中的 3 号地点, 也就是驶离 [E10] 公路进入雷讷的地方, 是著名的观景点, 名字叫 Reinehalsen (后缀 halsen 是挪威语 "脖子" 的意思, 从地图上可以看出为什叫这个名字). 这里有极佳的拍摄视角, 游客经常临时停车拍照. 尽管看起来像一个停车场, 但是现在禁止长时间停车. 我们是接近午夜的时候出发的, 下面就是在 Reinehalsen 这里欣赏到的午夜的阳光洒在雷讷之上的风光.
+
+.在 Reinehalsen 欣赏在午夜的阳光照耀下的雷讷
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/reinehalsen.webp[在 Reinehalsen 欣赏在午夜的阳光照耀下的雷讷]
+
+这里我们列出四处可以停车的地方. 需要注意的是, 随着游客越来越多, 雷讷也一直在持续改善停车状况. 这篇攻略包含的信息无法及时更新. 停车时, 务必留意停车点的最新信息, 比如是否限制时间, 如何收费等等.
+
+Steffenakken (推荐)::
+地图中的 1 号地点, Steffenakken 是 [E10] 公路旁的一个观景点, 也是一个小型的停车场. 距离 Reinebringen 步道起点 1.3 公里, 步行需要 17 分钟. 这里没有什么设施, 比如卫生间, 但是优势是免费. 所以, 旺季时经常很难找到车位. 此外, 从 2025 年开始, 地方管理部门开始着手限制免费停车的时间, 有可能是 4 小时免费 <<gtl>>. 停车时请注意留意停车场是否有相应的提示.
+
+Circle K Reine::
+地图中的 5 号地点, Circle K Reine 是一个位于雷讷中心的连锁加油站, 这里有一个相当大的停车场 <<rbp>>. 加油站的消费者可以免费停车 30 分钟. 这里也有公交车站, 卫生间, 小超市, 餐馆等等.
+
+Tourist Information::
+地图中的字母 i 标记的地点, 是罗弗敦国家公园的游客中心 (Visitor Center Lofoten National Park) 和雷讷的文化中心 (Reine Kultursenter), 这里有一个付费停车场.
+
+Reine Harbor::
+地图中的 6 号地点是雷讷外港 (Reine ytre havn), 有雷讷最大的停车场. 但是这里停车要非常小心. 雷讷港的停车场实际上分属两家拥有, 支付停车费的方式不同. 近处的是雷讷市政的, 如果是租的车, 则停车自动拍照, 停车费会包含在租车行账单里. 而如果继续向前开, 深处的停车场可以用现金, 信用卡等等, 支付给那一片停车场的业主. 估计这就是 Google Maps 上各种乱收费等问题导致这里停车的评价极低的原因.
+
+[#trailhead]
+== 步道起点
+
+沿着 [E10] 公路旁边的小路, 可以走到 Reinebringen 的步道起点处. 实际上, 步道起点就在名字叫 Ramsviktunnelen 的公路隧道在 Moskenes 方向的出口上方. 所以, 如果从雷讷开车驶往 Moskenes 是看不到步道起点的. 如果从 Steffenakken 停车场步行过来, 也就是 Moskenes 方向过来, 就是这里:
+
+.位于 [E10] 号公路 Ramsviktunnelen 隧道出口之上的步道起点
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/ramsviktunnelen-exit.webp[Reinebringen 步道起点]
+
+附上步道起点处的 Reinebringen 徒步导览, 有不少有用的信息.
+
+.位于步道起点的 Reinebringen 徒步导览
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/guide-map.webp[位于步道起点的 Reinebringen 徒步导览]
+
+[#trail-description]
+== 徒步路线
+
+下图是 Reinebringen 徒步的具体路线, 局部放大的是山顶的鞍部, 山脊, 陡崖和顶峰的细节:
+
+.罗弗敦的 Reinebringen 徒步路线图
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/trail-route.webp[罗弗敦的 Reinebringen 徒步路线图]
+
+Reinebringen 徒步路线基本上就是沿着近两千级的石阶一直到山顶的山脊上. 事实上, Reinebringen 曾一直是罗弗敦最危险的徒步之一. 直到 2021 年, 来自尼泊尔的夏尔巴人完成了步道石阶的铺设, Reinebringen 步道才终于变得不再那么危险. 但是, 不要低估 Reinebringen 的难度. 1 公里的距离, 爬升 450 米, 可以知道这条步道有多么陡峭.
+
+TIP: 一家名叫 Stibyggjaren 的公司雇佣来自尼泊尔的夏尔巴人, 帮助建造高山石阶. 近年来, 共有超过 300 多个类似项目遍布挪威各地 <<vns>>.
+
+.Reinebringen 步道起点的石阶
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/trailhead.webp[Reinebringen 步道起点的石阶]
+
+我们是在午夜前后去徒步 Reinebringen 的. 即便这么晚, 沿途视线中几乎也一直可以看到其他人, 可见这个徒步有多么热门. 步道沿途有几处石凳可以为其他徒步者让路并稍作休息.
+
+Reinebringen 徒步的精华都在终点, 沿途没有多少值得一提的风景. 步道从起点一直到最后的山脊并没有特别暴露, 特别危险的路段. 天气好的时候, 整体感觉还是比较踏实的.
+
+夏尔巴人的石阶一直通到山顶上的山脊的鞍部, 这里就是观景点了. 也可以继续徒步鞍部左右两边的山脊. 右手边的山脊非常狭窄, 陡峭, 需要攀爬, 大约 200 米以外的尽头是一个海拔稍微低一点的顶峰 (海拔 449 米). 左手边的山脊相对宽阔一点, 比较好走. 大部分人选择去左手边的山脊高处. 实际上, 山脊上无论哪一边看到的风景都差不多.
+
+.Reinebringen 顶峰的山脊
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/ridge.webp[Reinebringen 顶峰的山脊]
+
+值得一提的是左手边的山脊高处有一小段陡崖下降到另一段山脊. 那里有清晰可见的步道, 通往大约 200 米外, 真正的 Reinebringen 顶峰 (海拔 484 米). 但是那一小段陡崖太危险了, 远处的山脊看起来也很危险. 我们在那里的时候, 只有一个人下去了, 独自在那里放无人机.
+
+.真正的 Reinebringen 顶峰
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/summit.webp[真正的 Reinebringen 顶峰]
+
+最后, 附上 Reinebringen 的经典全景: 在午夜的阳光里, 在 Reinebringen 山峰上, 俯瞰由桥梁和蜿蜒的公路连接起来的小岛和渔村, 散落在峡湾中. 右边是与挪威大陆相隔的西峡湾 (Vestfjorden); 左边则是雷讷峡湾 (Reinefjord) 中巍峨的高山.
+
+.Reinebringen 山顶上的全景
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/panorama-from-reinebringen.webp[Reinebringen 山顶上的全景]
+
+[#return-hike]
+== 徒步回程
+
+因为整个徒步路线的坡度都很大, 而且大部分石阶相对一些其他步道的石阶要高一些, 徒步下山的难度丝毫不亚于上山, 而且更加危险.
+
+[#reine]
+== 雷讷
+
+雷讷是罗弗敦最美的渔村之一, 也是罗弗敦最具标志性的地方之一. 著名的拥有黄色传统渔屋的 Sakrisøy 也是雷讷的一部分. 而最具标志性的红色传统渔屋所在的 Hamnøy 则紧邻雷讷.
+
+雷讷距离最近的机场 Leknes 机场 (LKN) 大约 58 公里; 而 Moskenes 的轮渡码头更是只有 5 公里. 便利的交通, 丰富的住宿选项, 便捷的购物, 所有这些, 使得雷讷成为最理想的探索罗弗敦群岛的基地之一.
+
+在我们的罗弗敦之行中, 选择了雷讷作为我们探索罗弗敦南部的基地. 这里有不少相当不错的住宿选项. 比如 https://expedia.com/affiliates/moskenes-hotels-reine-rorbuer-by-classic-norway-hotels.zqUWeFt[Reine Rorbuer - by Classic Norway Hotels] 就是最好的选项之一.
+
+.Reine Rorbuer - by Classic Norway Hotels
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/reine-rorbuer.webp[Reine Rorbuer - by Classic Norway Hotels]
+
+我们住过 Classic Norway Hotels 旗下的多家酒店和传统渔屋. 不过, 在罗弗敦之行中, 我们在 Henningsvær 和 Svolvær 都是住的渔屋. 所以, 在雷讷我们选择体验一下评价极高的公寓: https://www.mays.no[May's Apartments by May's].
+
+.May's Apartments by May's
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/mays-apartment.webp[May's Apartments by May's]
+
+[#faq]
+== 常见问题
+
+[qanda]
+Reinebringen 山上可以使用无人机吗?::
+*可以*. 关于无人机的信息并不统一. 所有的挪威国家公园都禁止无人机, 包括罗弗敦国家公园. 但是 Reinebringen 不在罗弗敦国家公园范围之内, 也不在机场的 5 公里范围之内, 所以无人机并没有被禁止. 这一点在雷讷的官方网站上有明确说明 <<rbs>>. 但是需要注意的是, 在罗弗敦的官方旅游指南网站上, 有关 Reinebringen 冬季徒步的警告信息中确实画了一个禁止无人机的小图标 <<vlr>>. 而 Reinebringen 步道起点的导览图上却没有这一图标. 综合这些信息, 特别是雷讷官网的明确文字说明, 我们认为在 Reinebringen 无人机是没有被禁止的.
+
+Reinebringen 徒步路线上有卫生间吗?::
+*没有*. 而且由于步道陡峭, 狭窄, 几乎全部是石阶, 人多的时候没有合适的地方方便. 所以一定要在出发前解决.
+
+Reinebringen 山上可以露营吗?::
+*不可以*. 为了保护自然环境免遭破坏, 在 Reinebringen 山上禁止露营. 这一点在步道起点处的导览信息牌中有明确的说明.
+
+Reinebringen 冬季可以徒步吗?::
+*不建议*. Reinebringen 不是冬季徒步线路. 冬季的步道有雪崩的可能. 步道的石阶甚至从秋季开始就有冰可以形成, 徒步将变得异常危险.
+
+[#final-thoughts]
+== 总结和建议
+
+虽然 Reinebringen 徒步的距离只有 1 公里, 但是不要低估了它的难度. 陡峭的爬升, 比一般台阶高出不少的夏尔巴石阶, 使得徒步实际上非常艰辛. 特别是下台阶时, 体力不足会导致危险性大增.
+
+此外, 罗弗敦的三个热门的徒步:
+
+* 亨宁斯维尔 (Henningsvær) 的 Festvågtind 徒步
+* 雷讷 (Reine) 的 Reinebringen 徒步
+* 斯沃尔维尔 (Svolvær) 的 Fløya 徒步
+
+都很类似, 都是登顶之后俯瞰渔村和峡湾的大全景. 我们觉得第一次看到其中的任何一个都是极为震撼的, 但是最后一个多少有些审美疲劳. 所以如果天公作美, 时间灵活, 任何一个都不应该错过. 可是如果运气不佳, 错过其中一个, 也不必过分纠结. 而这三个徒步中, 我们最喜欢的是亨宁斯维尔 (Henningsvær) 的 Festvågtind 徒步.
+
+[bibliography]
+[#resources]
+== 参考资源
+
+* [[[ori, 1]]] 本文: link:{% post_url 2025-07-07-hiking-reinebringen %}["徒步罗弗敦的 Reinebringen"], _lilyroger.com_
+* [[[trt, 2]]] link:{% post_url 2025-08-28-types-of-hiking-by-trail-format %}["徒步类型"], _lilyroger.com_
+* [[[ntg, 3]]] link:{% post_url 2025-10-18-grading-of-trails-in-norway %}["挪威的徒步步道分级"], _lilyroger.com_
+* [[[rbp, 4]]] Reinebringen 官网 - 停车: - https://reinebringen.no/parking/["Parking"], _reinebringen.no_
+* [[[rba, 5]]] Reinebringen 官网 - 关于这座山: - https://reinebringen.no/about-the-mountain/["About the mountain"], _reinebringen.no_
+* [[[rbs, 6]]] Reinebringen 官网 - 徒步: - https://reinebringen.no/safety/["Plan your hike"], _reinebringen.no_
+* [[[atr, 7]]] https://www.alltrails.com/trail/norway/nordland/reinebringen["Reinebringen"], _alltrails.com_
+* [[[gtl, 8]]] https://guidetolofoten.com/reinebringen-hike/["Reinebringen Hike"], _guidetolofoten.com_
+* [[[vns, 9]]] 挪威官方旅游指南 - 通往天堂的阶梯: https://www.visitnorway.com/things-to-do/outdoor-activities/hiking/stairways-to-heaven/["Stairways to heaven"], _www.visitnorway.com_
+* [[[vlr, 10]]] 罗弗敦旅游官网 - Reinebringen: https://visitlofoten.com/en/guide/reinebringen-hike/["Reinebringen (484 m.o.s.)"], _visitlofoten.com_
