@@ -1,0 +1,209 @@
+= 挪威的徒步步道分级
+:page-subtitle: Grading of Trails in Norway
+:page-image: assets/images/2025/lofoten-faroe/grading-of-trails-in-norway/kjerag.webp
+:page-date: 2025-10-18 08:00:00 +0800
+:page-modified_time: 2025-10-18 08:00:00 +0800
+:page-categories: posts
+:page-layout: post
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 运动, 徒步]
+:toc:
+:sectnums:
+
+在挪威, 徒步步道使用统一的步道分级系统 (Grading of Trails), 以便帮助徒步旅行者们了解步道和路线的难度, 并更好的计划徒步旅行. 这套系统基于国际上普遍采用的 4 级难度等级, 分别用绿色, 蓝色, 红色和黑色标识, 对应于初级 (Easy), 中级 (Moderate), 高级 (Demanding) 和专业 (Expert).
+
+本文主要译自挪威徒步旅行协会有关步道分级的定义 (挪威语) <<got>><<gote>>.
+
+NOTE: 以下的累计爬升和距离是指上升/下降和距离. 上升是指整个路线 (单程) 的总上升 (以米为单位). 在非常陡峭的地形中, 陡峭的下降也包括在分级中. 下降的权重是上升的 50%. 距离描述的是一条路线上两点间的总距离, 即单程而不是往返, 以公里为单位. 环形路线会使用特定符号加以标识, 此时，距离描述整个环形路线的长度，以公里为单位.
+
+.挪威三大奇石之一的奇迹石 (Kjeragbolten) 徒步的起点
+image::assets/images/2025/lofoten-faroe/grading-of-trails-in-norway/kjeragbolten.webp[挪威三大奇石之一的奇迹石 (Kjeragbolten) 徒步的起点]
+
+[#green]
+== 绿色
+
+绿色代表轻松的徒步路线, 通常路况不错, 距离较短而且坡度小, 非常适合入门者和家庭.
+
+技能要求::
+
+* 适合入门者
+* 无需特殊能力
+* 适合轮椅和婴儿车的路线标有特殊符号
+
+累计爬升和距离::
+
+* < 300 米
+* < 5 公里
+
+爬升/暴露程度::
+
+* 适度的攀登, 但没有陡峭或困难的路段
+
+路径类型::
+
+* 柏油路, 砾石路, 林间小径, 以及其他路况不错的小路
+* 步道通常经过施工和维护, 以便徒步者轻松和安全地通行
+* 路面坚实, 平整, 没有障碍物
+* 无需涉水
+
+.哈当厄尔峡湾的水果之路 (Hardanger Fruit Trail) 是一条在 Lofthus 和 Ullensvang 的果园间穿行的初级徒步路线.
+image::assets/images/2025/lofoten-faroe/grading-of-trails-in-norway/lofthus.webp[哈当厄尔峡湾的水果之路 (Hardanger Fruit Trail)]
+
+[#blue]
+== 蓝色
+
+蓝色表示中等难度的徒步路线, 你可能会遇到更陡的路段和更复杂的地形.
+
+技能要求::
+
+* 有一定在不同地形之上的徒步经验
+* 体能一般的徒步者
+* 基本的户外技能
+
+累计爬升和距离::
+
+* < 600 米
+* < 10 公里
+
+爬升/暴露程度::
+
+* 适度的爬升, 可能有一些较陡峭的路段
+* 部分路段可能对于恐高的人来说有挑战性
+
+路径类型::
+
+* 类似于绿色, 但可能有一些更具挑战性的路段
+* 可能有石头, 但没有乱石堆或者碎石坡
+* 可能有简单的涉水
+
+.站在罗弗敦的 Ryten 山顶俯瞰下面 Kvalvika 海滩. 
+image::assets/images/2025/lofoten-faroe/grading-of-trails-in-norway/ryten.webp[站在罗弗敦的 Ryten 山顶俯瞰下面 Kvalvika 海滩. ]
+
+[#red]
+== 红色
+
+红色适合有经验的人, 距离更长, 高差更大, 地形更具挑战性.
+
+技能要求::
+
+* 有经验的徒步者
+* 拥有相当耐力的人
+* 需要良好的装备和适当的鞋
+* 熟悉导航知识
+
+累计爬升和距离::
+
+* < 1000 米
+* < 20 公里
+
+爬升/暴露程度::
+
+* 不同程度的上升
+* 存在一些高耸的和暴露感强的路段
+* 可能存在需要一些技巧的挑战, 需要手脚并用的攀爬
+
+路径类型::
+
+* 狭窄的小路, 开阔的山地, 乱石, 碎石坡, 以及裸露的岩层
+* 可能存在陡坡以及较长的乱石和沼泽地段
+* 可能需要涉水
+
+.位于罗弗敦亨宁斯维尔 (Henningsvær) 的 Festvågtind 徒步是一条红色的路线
+image::assets/images/2025/lofoten-faroe/grading-of-trails-in-norway/festvaagtind.webp[位于罗弗敦亨宁斯维尔 (Henningsvær) 的 Festvågtind 徒步是一条红色的路线]
+
+[#black]
+== 黑色
+
+黑色代表需要非常好的耐力和技巧.
+
+技能要求::
+
+* 有经验的登山者
+* 需要良好的耐力
+* 需要良好的徒步装备和登山鞋
+* 熟悉导航知识
+
+累计爬升和距离::
+
+* 没有累计爬升和距离上限
+
+爬升/暴露程度::
+
+* 存在不平坦且陡峭和困难路段的登顶徒步
+* 存在高耸的路段和暴露感强需要攀爬的路段
+* 狭窄的山脊, 突出的石头, 碎石坡等
+
+路径类型::
+
+* 比红色路线更长, 更技术性的地形
+* 可能存在有一定难度的涉水
+
+.挪威三大奇石之一的巨魔之舌 (Trolltunga) 徒步是一条黑色的路线
+image::assets/images/2025/lofoten-faroe/grading-of-trails-in-norway/trolltunga.webp[挪威三大奇石之一的巨魔之舌 (Trolltunga) 徒步是一条黑色的路线]
+
+[#exposure]
+== 关于暴露
+
+暴露感 (Exposure) 是攀岩和徒步的术语. 如果徒步步道或攀岩路线的某些部分因为地形陡峭而在摔倒时有很高的受伤风险, 则这些部分被称为暴露的 (Exposed). 如果在没有任何保护措施的情况下通过这些路线, 一步踏错可能会导致严重的坠落. 行经这些路线可能会因为潜在的危险而引起对跌落的恐惧 <<we>>.
+
+.挪威三大奇石之一的奇迹石 (Kjeragbolten)
+image::assets/images/2025/lofoten-faroe/grading-of-trails-in-norway/kjeragbolten-exposed.webp[挪威三大奇石之一的奇迹石 (Kjeragbolten)]
+
+[#scrambling]
+== 关于攀爬
+
+挪威语中的 _Klyving_, 在英语中称为 _Scrambling_, 是介于徒步 (Hiking) 和攀岩 (Climbing) 之间的一种户外运动. 它指的是在徒步过程中, 当仅靠双脚已经不够时, 你需要手脚并用来应对复杂的技术性地形. 虽然不需要绳索, 安全带或专业的攀岩技能, 但确实需要勇气, 自信和平衡感 <<sk>>.
+
+中文里似乎还没有被普遍接受的名称. "攀爬" 一词用的比较多, 也有仿效 "攀岩" 称之为 "爬岩" 的. 不过尽管它介于徒步和攀岩之间, 但是很少被单独视作一种运动形式, 而是经常在高难度的徒步线路中, 用来指代需要手脚并用攀爬的路段. 所以, 我们这里暂时统一使用 "攀爬" 一词.
+
+攀爬通常意味着离开踩出来的步道. 这对路线选择和方向感提出了更高要求. 使用地形图, GPS 或徒步应用程序来保持正确的方向. 花时间观察周围的地形, 识别明显的地标, 并始终准备在必要时掉头回去.
+
+虽然攀爬通常不需要攀岩所需的技术装备, 但是这也意味攀爬没有来自技术装备的保护. 一旦失足, 攀爬会比攀岩更危险. 安全的攀爬要做到:
+
+* 保持专注, 稳步前进.
+* 始终与地面保持三个接触点, 要么是两只脚和一只手, 要么是两只手和一只脚.
+* 在将全部体重放在支撑点之前先测试它.
+* 避免拉扯植物或灌木, 因为它们通常很脆弱或固定不牢.
+* 在团队中保持距离, 以减少落石风险.
+* 如果你松动了一块石头, 要清晰响亮地喊: "石头!".
+
+[#tranlations]
+== 多语言对照
+
+作为参考, 这里是挪威徒步步道分级的多语言对照:
+
+.挪威徒步步道分级颜色的多语言对照
+|===
+|   | 挪威语 | 英语
+
+| 绿色 | Grønn | English
+| 蓝色 | Blå | Blue
+| 红色 | Rød | Red
+| 黑色 | Svart | Black
+
+|===
+
+.挪威徒步步道分级级别的多语言对照
+|===
+|   | 挪威语 | 英语
+
+| 初级 | Enkel | Simple / Easy
+| 中级 | Middels | Moderate
+| 高级 | Utfordrende | Demanding
+| 专业 | Ekspert | Expert
+
+|===
+
+[#reference-card]
+== 速查卡
+
+.挪威徒步步道分级系统 (Grading of Trails) 速查卡
+image::assets/images/2025/lofoten-faroe/grading-of-trails-in-norway/reference-card.webp[挪威徒步步道分级系统 (Grading of Trails) 速查卡]
+
+[bibliography]
+[#resources]
+== 参考资源
+
+* [[[got, 1]]] 挪威徒步旅行协会 - 步道分级 (挪威语): https://www.dnt.no/turtips/turvett/artikler/gradering-av-stier/[Gradering av turer og stier], 2025-05-04, dnt.no
+* [[[gote, 2]]] 挪威徒步旅行协会 - 步道分级 (英语): https://www.dnt.no/om-dnt/english/need-to-know-about-norwegian-outdoor-life/grading-of-trails/[Grading of trails], dnt.no
+* [[[we, 3]]] 维基百科 - 暴露感 (高度): https://en.wikipedia.org/wiki/Exposure_(heights)[Exposure (heights)], Wikipedia
+* [[[sk, 4]]] 攀爬 - 在徒步和攀岩之间:  https://www.salomon.com/en-no/sg/a/scrambling-somewhere-between-hiking-and-climbing[Klyving: Et sted mellom fottur og klatring], Salomon, salomon.com
