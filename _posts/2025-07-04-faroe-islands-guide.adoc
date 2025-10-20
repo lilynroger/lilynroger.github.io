@@ -1,7 +1,7 @@
-= 法罗群岛初访者完全攻略
+= 法罗群岛 - 初访者完全攻略
 :page-subtitle: The Faroe Islands - Complete Guide for First-Time Visitors
 :page-image: assets/images/2025/lofoten-faroe/faroe-islands-guide/mulafossur.webp
-:page-modified_time: 2025-09-20 12:00:00 +0800
+:page-modified_time: 2025-10-20 08:00:00 +0800
 :page-date: 2025-07-04 13:00:00 +0100
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛]
 :page-layout: post
