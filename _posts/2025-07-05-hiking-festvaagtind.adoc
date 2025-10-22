@@ -1,4 +1,4 @@
-= 徒步罗弗敦的 Festvågtind
+= 徒步罗弗敦 (Lofoten) 的 Festvågtind
 :page-subtitle: Hiking Festvågtind in Lofoten, Norway
 :page-image: assets/images/2025/lofoten-faroe/hiking-festvaagtind/festvaagtind.webp
 :page-date: 2025-07-05 12:00:00 +0200
