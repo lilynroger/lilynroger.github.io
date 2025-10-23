@@ -194,7 +194,7 @@ Reinebringen 冬季可以徒步吗?::
 == 参考资源
 
 * [[[ori, 1]]] 本文: link:{% post_url 2025-07-07-hiking-reinebringen %}["徒步罗弗敦的 Reinebringen"], _lilyroger.com_
-* [[[trt, 2]]] link:{% post_url 2025-08-28-types-of-hiking-by-trail-format %}["徒步类型"], _lilyroger.com_
+* [[[trt, 2]]] link:{% post_url 2025-08-28-hiking-trail-route-types %}["徒步类型"], _lilyroger.com_
 * [[[ntg, 3]]] link:{% post_url 2025-10-18-grading-of-trails-in-norway %}["挪威的徒步步道分级"], _lilyroger.com_
 * [[[rbp, 4]]] Reinebringen 官网 - 停车: - https://reinebringen.no/parking/["Parking"], _reinebringen.no_
 * [[[rba, 5]]] Reinebringen 官网 - 关于这座山: - https://reinebringen.no/about-the-mountain/["About the mountain"], _reinebringen.no_

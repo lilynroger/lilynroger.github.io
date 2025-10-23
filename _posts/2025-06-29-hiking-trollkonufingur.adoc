@@ -17,7 +17,7 @@ image::assets/images/2025/lofoten-faroe/hiking-trollkonufingur/trollkonufingur.w
 
 == 徒步路线基本信息
 
-* *路线类型*: 往返 (Out-and-Back / There-and-Back)
+* *路线类型*: 往返 (Out-and-Back)
 * *距离*: 3 公里 (往返)
 * *累计爬升*: 100 米
 * *用时*: 1 小时

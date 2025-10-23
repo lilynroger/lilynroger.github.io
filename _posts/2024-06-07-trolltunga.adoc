@@ -12,7 +12,7 @@
 :url-kjeragbolten: {% post_url 2024-06-03-kjeragbolten %}
 :url-preikestolen: {% post_url 2024-06-02-preikestolen %}
 :url-scandinavia: {% post_url 2024-05-27-scandinavia %}
-:url-hike-types: {% post_url 2025-08-28-types-of-hiking-by-trail-format %}
+:url-hike-types: {% post_url 2025-08-28-hiking-trail-route-types %}
 :url-grading-of-trails: https://www.dnt.no/om-dnt/english/need-to-know-about-norwegian-outdoor-life/grading-of-trails/
 
 巨魔之舌 / 山妖之舌 (Trolltunga) 是挪威最令人叹为观止的奇石景观, 与奇迹石 (link:{url-kjeragbolten}[Kjeragbolten]) 和布道石 / 布道台 (link:{url-preikestolen}[Preikestolen / The Pulpit Rock]) 并称挪威三大奇石. 巨魔之舌是全球徒步和摄影爱好者向往的目的地, 也是我们的最爱. 徒步去巨魔之舌是我们此次 link:{url-scandinavia}[2024 斯堪的纳维亚之旅]最重要的目标.
@@ -24,7 +24,7 @@ TIP: 挪威语 Trolltunga 的中文译法有很多, 常见的包括 "山妖之�
 
 穿越高山地形的巨魔之舌徒步遥远而漫长, 是三大奇石徒步中距离最远的一个, 是非常挑战体力的. 徒步的基本信息如下:
 
-* **类型: ** 往返 (Out-and-Back / There-and-Back), link:{url-hike-types}[徒步类型]
+* **类型: ** 往返 (Out-and-Back), link:{url-hike-types}[徒步类型]
 * **难度: ** 专业 (Black | Expert), {url-grading-of-trails}[挪威步道分级]
 * **海拔高度:** 1180 米
 * **徒步季:** 六月 - 九月, 其他季节需要向导带领

@@ -13,7 +13,7 @@
 :url-kjeragbolten: {% post_url 2024-06-03-kjeragbolten %}
 :url-preikestolen: {% post_url 2024-06-02-preikestolen %}
 :url-trolltunga: {% post_url 2024-06-07-trolltunga %}
-:url-hike-types: {% post_url 2025-08-28-types-of-hiking-by-trail-format %}
+:url-hike-types: {% post_url 2025-08-28-hiking-trail-route-types %}
 :url-grading-of-trails: https://www.dnt.no/om-dnt/english/need-to-know-about-norwegian-outdoor-life/grading-of-trails/
 
 奇迹石 (Kjeragbolten) 在挪威吕瑟峡湾 (link:{url-lysefjord}[Lysefjord]) 中的最高峰谢拉格山 (Kjerag) 之上. 这块五立方米左右大小的巨石卡在两座悬崖绝壁之间, 悬在吕瑟峡湾之上近千米的高空中. 无数徒步爱好者和喜欢冒险的人把踏上毫无保护的奇迹石当作终极体验和人生目标之一. 
@@ -27,7 +27,7 @@
 
 奇迹石徒步的重要信息如下:
 
-* *类型:* 往返 (Out-and-Back / There-and-Back), link:{url-hike-types}[徒步类型]
+* *类型:* 往返 (Out-and-Back), link:{url-hike-types}[徒步类型]
 * *难度:* 专业 (Black | Expert), {url-grading-of-trails}[挪威步道分级]
 * *海拔高度:* 1020 米
 * *累计爬升:* 750 米

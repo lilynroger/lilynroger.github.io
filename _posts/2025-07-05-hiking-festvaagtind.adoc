@@ -18,7 +18,7 @@ Festvågtind 徒步是罗弗敦群岛最热门的徒步之一. 登顶 Festvågti
 
 Festvågtind 徒步的基本信息如下.
 
-* *徒步类型:* 往返 (Out-and-Back / There-and-Back) <<ht>>
+* *徒步类型:* 往返 (Out-and-Back) <<ht>>
 * *徒步难度:* 红色 | 高难度 (Red | Demanding) <<tg>>
 * *海拔高度:* 541 米
 * *累计爬升:* 541 米
@@ -163,7 +163,7 @@ Festvågtind 徒步的步道条件与挪威包括三大奇石徒步在内的其�
 [#resources]
 == 参考资源
 
-* [[[ht]]] link:{% post_url 2025-08-28-types-of-hiking-by-trail-format %}[徒步类型], lilyroger.com
+* [[[ht]]] link:{% post_url 2025-08-28-hiking-trail-route-types %}[徒步类型], lilyroger.com
 * [[[tg]]] 挪威徒步旅行协会 - 步道分级系统: https://www.dnt.no/om-dnt/english/need-to-know-about-norwegian-outdoor-life/grading-of-trails/[Grading of trails], The Norwegian Trekking Association, DNT, dnt.no
 * [[[vlf]]] 罗弗敦官方旅游指南: https://visitlofoten.com/en/guide/festvagtinden-541-m/[Festvågtinden], visitlofoten.com
 * [[[at]]] https://www.alltrails.com/trail/norway/nordland/festvagtinden-og-presten-torsketunga[Festvågtinden and Presten (Torsketunga)], alltrails.com

@@ -1,0 +1,80 @@
+= 徒步路线的类型 - 环形 (Loop), 往返 (Out-and-Back), 点对点 (Point-to-Point)
+:page-date: 2025-08-28 08:00:00 +0800
+:page-modified_time: 2025-10-23 08:00:00 +0800
+:page-subtitle: Hiking Trail Route Types
+:page-image: assets/images/2025/lofoten-faroe/hiking-trail-route-types/hiking-trail-route-types.webp
+:page-categories: posts
+:page-layout: post
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 运动, 徒步]
+:toc:
+:sectnums:
+
+徒步有很多种分类方法, 这里介绍的是根据徒步路线的形态所做的分类, 也就是根据徒步路线的起点和终点的关系以及路线的形状来划分. 包括环形 (Loop), 往返 (Out-and-Back), 点对点 (Point-to-Point) 三种基本徒步路线类型, 和其它几种常见的衍生徒步路线类型.
+
+[#basic-route-types]
+== 基本徒步路线类型
+
+基本徒步路线类型包括:
+
+* 环形 (Loop)
+* 往返 (Out-and-Back / There-and-Back)
+* 点对点 (Point-to-Point)
+
+在我们的博客文章中, 只用以上三种基本徒步路线类型分类我们介绍的徒步路线.
+
+[#loop]
+=== 环形 (Loop)
+
+环形徒步路线的起点和终点在同一步道起点 (Trailhead), 沿着一条或者多条步道徒步, 整体路线呈封闭的环形.
+
+环勃朗峰徒步穿越路线 (Tour du Mont Blanc), 简称 TMB, 应该是最著名的环形徒步路线了. 经典路线的起点和终点在法国的霞慕尼 (Chamonix) 山谷中的  Les Houches.
+
+.环勃朗峰 (Tour du Mont Blanc / TMB) 最著名的环形穿越徒步路线
+image::assets/images/2025/lofoten-faroe/hiking-trail-route-types/loop.webp[环勃朗峰 (Tour du Mont Blanc / TMB) 最著名的环形穿越徒步路线]
+
+[#out-and-back]
+=== 往返 (Out-and-Back)
+
+往返路线连接步道起点 (Trailhead) 和目的地 (Destination), 从步道起点出发, 徒步到达目的地, 然后回头沿原路返回到步道起点. 往返路线有时也被称为 There-and-Back 或者 Round-Trip 徒步路线. 在我们的文章中统一称为: 往返 (Out-and-Back).
+
+著名的往返徒步路线有很多. 比如挪威的三大奇石徒步, 布道石 (Preikestolen), 巨魔之舌 (Trolltunga) 和奇迹石 (Kjeragbolten) 都是往返类型的徒步路线. 以布道石徒步为例, 起点在 Preikestolen BaseCamp 的停车场, 目的地就是吕瑟峡湾 (Lysefjorden) 之上的布道石, 然后原路返回.
+
+.挪威三大奇石之一的布道石徒步是往返类型的徒步路线
+image::assets/images/2025/lofoten-faroe/hiking-trail-route-types/out-and-back.webp[挪威三大奇石之一的布道石徒步是往返类型的徒步路线]
+
+[#point-to-point]
+=== 点对点 (Point-to-Point)
+
+点对点路线连接两个点. 从一个起点出发，最终到达一个远离起点的终点. 点对点路线有两个独立的步道起点, 通常可以选择徒步的方向, 即选择从两个步道起点之一出发, 到达另一个.
+
+著名的点对点类型的徒步路线比如意大利南部阿马尔菲海岸的众神之路 (意大利语: Sentiero degli Dei, 英语: Path of the Gods). 众神之路有两个步道起点, 分别在 Nocelle 和 Bomerano, 都在半山腰. 可以根据个人偏好选择徒步的方向. 从两个徒步起点的任何一个出发徒步到另一个都可以. 比如如果不喜欢下台阶, 可以选择从波西塔诺 (Positano) 出发, 经过 1700 多级台阶到 Nocelle 的步道起点, 然后沿着众神之路一直走到 Bomerano.
+
+.意大利南部阿马尔菲海岸的众神之路 (Sentiero degli Dei / Path of the Gods) 是点对点类型的徒步路线
+image::assets/images/2025/lofoten-faroe/hiking-trail-route-types/point-to-point.webp[意大利南部阿马尔菲海岸的众神之路 (Sentiero degli Dei / Path of the Gods) 是点对点类型的徒步路线]
+
+[#other-types]
+== 其他类型
+
+还有一些其他常见的徒步路线类型. 
+
+[#lollipop]
+=== 棒棒糖 (Lollipop)
+
+棒棒糖路线是往返路线加环形路线的组合衍生. 先从步道起点徒步到环形路线的接口 (这是 "棒棒" 的部分), 然后徒步一个环 (这是 "糖" 的部分), 最后再原路返回到步道起点.
+
+[#horseshoe]
+=== 马蹄铁 (Horseshoe)
+
+马蹄形路线也有两个独立的步道起点, 但通常相距不远, 路线像一个 "U" 形或 "C" 形, 所以称为马蹄铁 (Horseshoe).
+
+[#thru-hike]
+=== 穿越性长距徒步 (Thru-Hike)
+
+穿越性长距徒步是一次性, 不间断走完一条著名的长距离徒步的全程.
+
+这个类型的徒步很多都是大名鼎鼎的路线, 比如:
+
+* 圣地亚哥朝圣之路 (https://www.pilgrim.es/en[Camino de Santiago])
+* 圣奥拉夫之路 (https://www.pilegrimsleden.no/en[St. Olav Ways])
+* 环勃朗峰 (https://www.autourdumontblanc.com/en/[Tour de Mont Blanc])
+* 熊野古道 (https://www.tb-kumano.jp/en/kumano-kodo/[Kumano Kodo])

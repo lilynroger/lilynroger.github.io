@@ -152,7 +152,7 @@ image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/saksun.
 
 在萨克松, 可以停留 90 分钟左右. 参观一下博物馆, 或是探访一下泻湖的沙滩, 又或是爬上半山腰, 俯瞰萨克松全貌.
 
-萨克松 (Saksun) 是多条徒步路线的起点, 其中最热门的是萨克松 - 特约尔努维克 (Saksun - Tjørnuvík) 的徒步路线. 虽然这条路线本身难度不大, 但是却是点对点 (link:{% post_url 2025-08-28-types-of-hiking-by-trail-format %}[Point-to-Point]) 类型的. 从交通的角度讲并不容易. 特别是萨克松这里完全没有公共交通, 而路线的另一端特约尔努维克那里的公共交通也非常有限.
+萨克松 (Saksun) 是多条徒步路线的起点, 其中最热门的是萨克松 - 特约尔努维克 (Saksun - Tjørnuvík) 的徒步路线. 虽然这条路线本身难度不大, 但是却是点对点 (link:{% post_url 2025-08-28-hiking-trail-route-types %}[Point-to-Point]) 类型的. 从交通的角度讲并不容易. 特别是萨克松这里完全没有公共交通, 而路线的另一端特约尔努维克那里的公共交通也非常有限.
 
 .萨克松 - 特约尔努维克 (Saksun - Tjørnuvík) 的徒步路线
 image::assets/images/2025/lofoten-faroe/one-day-island-hopping-road-trip/hiking-route-saksun-tjornuvik.webp[萨克松 - 特约尔努维克 (Saksun - Tjørnuvík)]
