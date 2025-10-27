@@ -1,0 +1,262 @@
+= 徒步罗弗敦 (Lofoten) 的 Ryten 山和 Kvalvika 海滩
+:page-subtitle: Hiking Ryten and Kvalvika in Lofoten, Norway
+:page-image: assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/ryten-over-kvalvika-beach.webp
+:page-date: 2025-07-08 16:00:00 +0200
+:page-modified_time: 2025-10-27 08:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦, 徒步, 海滩]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:sectnums:
+
+位于 Lofotodden 国家公园内的 Ryten 山和 Kvalvika 海滩, 是罗弗敦 (Lofoten) 最热门的徒步胜地之一, 也是少有的全年都可以去的徒步目的地. 在靠近 Ryten 山顶的悬崖上, 有一块巨石, 像迷你版的巨魔之舌 (Trolltunga). 站在巨石上, 俯瞰着山峦环抱下的洁白沙滩和碧绿海水, 是经典的罗弗敦明信片画面.
+
+徒步 Ryten 山和 Kvalvika 海滩有两条基本路线:
+
+* Innersand - Ryten: 从 Innersand 停车场出发, 直接登上 Ryten 山, 俯瞰 Kvalvika 海滩. 
+* Torsfjord - Kvalvika: 从 Torsfjord 停车场出发, 直接前往 Kvalvika 海滩.
+
+这两条路线之间有一条支线将两者连接在一起. 所以, 徒步 Ryten 山和 Kvalvika 海滩是可以有多种不同的具体走法的. 我们重点介绍的是 Innersand - Ryten 这条路线.
+
+[#ryten-and-kvalvika-hiking-facts]
+== Ryten 和 Kvalvika 徒步的基本信息
+
+从 Innersand 停车场到 Ryten 山的徒步路线 (Innersand - Ryten) 的基本信息如下 <<utr>>:
+
+* *徒步类型:* 往返 (Out-and-Back) <<trt>>
+* *徒步难度:* 蓝色 | 中级 (Blue | Moderate) <<ntg>>
+* *海拔高度:* 543 米
+* *累计爬升:* 540 米
+* *徒步距离:* 往返 7.2 公里
+* *徒步用时:* 往返 3 - 5 小时
+* *徒步季:* 全年
+
+从 Torsfjord 停车场到 Kvalvika 海滩的徒步路线 (Torsfjord - Kvalvika) 的基本信息如下 <<utt>>:
+
+* *徒步类型:* 往返 (Out-and-Back) <<trt>>
+* *徒步难度:* 蓝色 | 中级 (Blue | Moderate) <<ntg>>
+* *累计爬升:* 333 米
+* *徒步距离:* 往返 3.8 公里
+* *徒步用时:* 往返 2 小时
+* *徒步季:* 四月 - 九月
+
+而连接两条基本路线的支线的单程距离是 1 公里, 爬升在 240 米左右.
+
+[#about-names]
+== 关于名字
+
+Ryten 山的名字没有明确的来源, 不过其词根 _ryt_ 有 "咆哮", "低吼" 的含义, 而且发音有点接近中文的 "雷腾", 我们喜欢直接称之为 "雷腾山".
+
+Kvalvika 的名字由两部分组成: _Kval_ + _vika_:
+
+* 前者 _Kval_ 是新挪威语 (Nynorsk), 等同于书面挪威语 (Bokmål) 中 _Hval_, 意思是 "鲸" (Whale).
+* 后者 _vika_ 是常见的后缀, 其中 _vik_ 的意思是 "小水湾", 在这里, 也就是 "小海湾". 而最后的 _a_ 后缀是挪威语的定冠词后缀, 起到特指的作用.
+
+Kvalvika 整体的意思也就是 "鲸湾". 这个地名是在挪威乃至整个北欧地区非常常见的地名. 通常源于当地能看到鲸, 或者有鲸搁浅过, 或者形状看起来像鲸. 在中文中, Kvalvika 可以音译为 "科瓦尔维卡". 口语交流则 "鲸湾" 会更容易. 我们将这里的海滩称为 "鲸湾海滩".
+
+[#getting-to-ryten-and-kvalvika-trailhead]
+== 前往 Ryten 和 Kvalvika 的徒步起点
+
+Ryten 山和 Kvalvika 海滩位于罗弗敦群岛中 Moskenesøya 岛的北部. 行政区划上属于北挪威诺尔兰郡 (Nordland) 的 Flakstad 市镇 <<gon>>. 附近最大的村庄是 Fredvang 村.
+
+.位于 Lofotodden 国家公园内的 Ryten 山和 Kvalvika 海滩的地图
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/getting-to-trailhead.webp[位于 Lofotodden 国家公园内的 Ryten 山和 Kvalvika 海滩的地图]
+
+乘坐公交车或者自驾都可以去 Ryten 山和 Kvalvika 海滩徒步, 不过自驾无疑是最便捷的方式.
+
+[#getting-to-ryten-and-kvalvika-trailhead-by-bus]
+=== 如何乘坐公交车前往 Ryten 和 Kvalvika 的徒步起点
+
+如果是坐公交车, 距离步道起点最近的站名叫 "Fredvang kryss". 实际上, 挪威语. kryss 相当于英语的 cross, 意思就是交叉路口. 这个公交车站就在 E10 欧洲公路和前往 Fredvang 的 7708 号公路的交叉路口上 (地图中的 5 号地点). 
+
+作为例子, 下图是在挪威的官方旅行规划平台 https://entur.no/[Entur] 上查询到的一个公交车行程:
+
+.前往 Ryten 山和 Kvalvika 海滩的公交车行程
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/entur-itinerary-to-ryten-and-kvalvik.webp[前往 Ryten 山和 Kvalvika 海滩的公交车行程]
+
+可以看到, 如果从最近的有机场的城镇 Leknes 出发, 乘坐公交车到 Fredvang kryss 需要 40 分钟, 车票价格是 60 挪威克朗 (2025). 之后步行 3 公里可以到 Fredvang 村.
+
+乘坐公交车的缺点就是, 公交车的班次不多, 而且公交车站距离徒步的起点有点远. 从公交车站到 Fredvang 村有 3 公里. 还有另外 1 公里才能到  Innersand 的步道起点. 当然, 好处是省了租车的钱和停车费. 步行的 4 公里实际上问题也不大. 沿途风光秀丽, 特别是那两座横跨峡湾的著名的 Fredvang 大桥 (地图中的 4 号地点).
+
+.Windows Spotlight 中 Fredvang 大桥的壁纸图片
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/fredvang-bridges.webp[Windows Spotlight 中 Fredvang 大桥的壁纸图片]
+
+上面图片中的桥就是其中的一座 Fredvang 大桥, 靠近 E10 欧洲公路. 而那座醒目的山峰也是著名的徒步目的地, 人称 "鲨鱼鳍" 的 Volandstinden 峰 (不要被它的外表唬住了, 鲨鱼鳍徒步其实是罗弗敦最轻松的徒步之一).
+
+[#getting-to-ryten-and-kvalvika-trailhead-by-car-and-parking]
+=== 如何自驾前往 Ryten 和 Kvalvika 的徒步起点和停车场
+
+自驾前往 Ryten 和 Kvalvika 去徒步是最便捷的方式.
+
+从 E10 欧洲公路驶出, 经过 Fredvang 大桥, 就到了 Fredvang 村. 这里的停车选项还是比较多的. 
+
+这里我们列出四处可以停车的地方. 需要注意的是, 随着游客越来越多, 雷讷也一直在持续改善停车状况. 这篇攻略包含的信息无法及时更新. 停车时, 务必留意停车点的最新信息, 比如是否限制时间, 如何收费等等.
+
+Fredvang Parking::
+地图中的 3 号地点. 经过 Fredvang 的两座大桥后, 第一个路口右转就是 Fredvang 的老学校. Fredvang 村的官方主停车场在这里, 也是附近最大的停车场, 不过这里并没有什么设施. 这个停车场停车前要先缴费, 而且价格似乎每年都在涨. 请注意留意最新的停车和缴费信息. Fredvang 老学校停车场距离徒步的起点还有一点距离.
+
+Innersand Parking (推荐)::
+地图中的 1 号地点. 我们推荐在 Innersand 的停车场和徒步起点. 这里的停车场距离 Ryten 山最近, 同时也是附近设施最全的停车场. 停车费是 100 挪威克朗 (2025).
+
+Torsfjord::
+地图中的 2 号地点. 这里是距离 Kvalvika 海滩最近的停车场, 而且是免费的. 这个停车场的问题是太小了, 在夏季很难找到车位. 而且从 2023 年开始, 当地人雇了一个停车管理员, 在马路边上停车会收到 900 挪威克朗的罚单.
+
+[#from-innersand-to-ryten-trailhead]
+== Innersand - Ryten 的徒步起点
+
+Innersand - Ryten 这条路线是最热门的 Ryten 和 Kvalvika 徒步路线, 起点就在 Innersand 的停车场里. 这个停车场是本地人 Leif 在自己的土地上辟出来改造成的. 经过持续的维护升级, 已经成为 Ryten 和 Kvalvika 的最佳停车场和起点.
+
+TIP: Innersand 在有些资料里也写作 Indresand, 对应于公路尽头毗邻的 Yttersand.  _indre-_ 和 ytter- 前缀在挪威语中分别是 "内" 和 "外" 的意思. 
+
+.Innersand 停车场的入口
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/innersand-reception.webp[Innersand 停车场的入口]
+
+Innersand 停车场需要付费停车. 小车白天 100 挪威克朗, 房车则是 150 挪威克朗. 支持现金, 信用卡, 以及挪威的 https://vipps.no[Vipps] 应用程序.
+
+.Innersand 停车场的自助缴费机
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/innersand-parking-payment.webp[Innersand 停车场的自助缴费机]
+
+Innersand 停车场里还有一个比萨店.
+
+.Ryten & Kvalvika Trail Farm 比萨店
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/ryten-and-kvalvika-pizza.webp[Ryten & Kvalvika Trail Farm 比萨店]
+
+[#from-innersand-to-ryten-trail-route]
+== Innersand - Ryten 的徒步路线
+
+下图是 Ryten 山和 Kvalvika 海滩徒步的路线图. 这里主要介绍的是图中从 Innersand 出发, 登上 Ryten 山俯瞰 Kvalvika 海滩的徒步路线:
+
+.Ryten 山和 Kvalvika 海滩徒步的路线图
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/ryten-kvalvika-hiking-trail-route.webp[Ryten 山和 Kvalvika 海滩徒步的路线图]
+
+从 Innersand 停车场出发, 首先要穿过田野间铺设的一段木栈道. 沿途设有字母 M 标识的避让区域. 
+
+.从 Innersand 到 Ryten 的第一段步道穿过田野
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/trail-first-part.webp[从 Innersand 到 Ryten 的第一段步道穿过田野]
+
+这一段非常轻松, 田园风光更是美不胜收.
+
+.Innersand 的田园风光
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/innersand-scenery.webp[Innersand 的田园风光]
+
+穿过田野来到山坡上后, Innersand 步道与另一条步道汇合成一条通往 Ryten 山顶的步道. 那条步道就是从 Fredvang 停车场出发, 经过一段公路后, 沿山脚下过来的. 从这里开始的一段步道有一定坡度, 一直向上到大概海拔 100 米的高度. 在这一段步道上, 回头就可以看到左边毗邻的 Innersand 和 Yttersand, 以及远处的 Sandbotnen 海湾的壮丽全景.
+
+.Innersand 和 Yttersand 以及远处的 Sandbotnen 海湾的全景
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/sandbotnen-panorama.webp[Innersand 和 Yttersand 以及远处的 Sandbotnen 海湾的全景]
+
+从大概 100 米海拔高处开始, 步道转向西, 是一段相对平坦的步道. 经过两片很小的高山湖泊, 然后是一段不太难的攀爬, 就会来到一片开阔地. 这里是一个观景点, 从这里可以眺望远处的峡湾和群山.
+
+.在 Ryten 步道途中的观景点远眺峡湾和群山
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/viewpoint-on-the-way-to-ryten.webp[在 Ryten 步道途中的观景点远眺峡湾和群山]
+
+TIP: 如果你感兴趣, 上面图片中左侧最近的水体是经过的其中一片高山湖泊. 远处被一座小山丘和一片陆地 (Krystad) 隔开的是两个小峡湾. 近一点的是托尔峡湾 (Torsfjorden), 或者叫雷神峡湾; 远一点的是海豹峡湾 (Selfjorden). 更远处还可以看见横跨海峡, 连接 Flakstadøya 和 Moskenesøya 两座大岛的 Kåkern 悬臂公路桥.
+
+接下来的一段步道, 会经过更多的木栈道. 然后会来到一个分叉点:
+
+.Ryten 步道上分别通往 Ryten 和 Hytta 的分叉点
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/ryten-trail-split.webp[Ryten 步道上分别通往 Ryten 和 Hytta 的分叉点]
+
+挪威语 Hytta 的意思是 "小屋". 这里指向的是一处山中小屋, 叫 https://www.fredvanghytta.no/English/[Fredvanghytta]. 有兴趣体验的话, 可以从 AirBnB 上租到. 绕道去小屋没多大必要, 建议跳过继续前往 Ryten 山顶.
+
+经过 Hytta 的分叉点后, 将经过一片稍大点的, 名字叫 Forsvatnet 的湖泊. 这里是上山去往 Ryten 山顶和下山去往 Kvalvika 海滩的步道分叉点. 
+
+从这里向上已经可以隐约看到一直延伸到山顶的步道. 不过, 从这里开始徒步变得稍微有点坑. 因为太多人喜欢探索周围的路线和潜在的打卡点, 所以, 踩出了很多条小路. 我们根本分不清楚哪里是常规的路线. 当然, 也不必担心迷路, 一边是悬崖, 山顶也在视线范围内, 不太会迷路.
+
+经过 Forsvatnet 湖不远, 就进入了 Lofotodden 国家公园 (挪威语: Lofotodden nasjonalpark) 的范围内:
+
+.进入国家公园范围后禁止放飞无人机
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/no-drones.webp[进入国家公园范围后禁止放飞无人机]
+
+挪威所有的国家公园区域内, 未经批准都不允许放飞无人机. 而 Ryten 山和 Kvalvika 都在 Lofotodden 国家公园范围内. 所以, 不用想无人机视角的山峰和海滩了.
+
+继续向上, 在接近山顶的时候, 已经可以俯瞰 Kvalvika 海滩了. 悬崖附近有几处不错的观景点. 比如这一处:
+
+.接近 Ryten 山顶的一处观景点
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/viewpoint-lower.webp[接近 Ryten 山顶的一处观景点]
+
+终极大奖当然就是山顶的迷你版的 "link:{% post_url 2024-06-07-trolltunga %}[巨魔之舌]":
+
+.站在 Ryten 山顶的 "迷你巨魔之舌" 之上俯瞰 Kvalvika 海滩
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/ryten-over-kvalvika-beach.webp[站在 Ryten 山顶的 "迷你巨魔之舌" 之上俯瞰 Kvalvika 海滩]
+
+严格来说, "迷你巨魔之舌" 这里并不是 Ryten 的顶峰. 真正的 Ryten 顶峰还需要向上走大概 5 分钟. 不过上面的确没有多少令人兴奋的东西. 多数人到了这块巨石这里, 拍照打卡, 欣赏海滩之后就返回了.
+
+[#return-hike]
+== 徒步回程
+
+在徒步返回 Innersand 的途中, 可以绕道下山徒步到 Kvalvika 海滩之上. 就是在之前提到 Forsvatnet 湖 (海拔 243 米) 那里, 岔道右转. 经过一段木栈道, 然后是陡峭的土石步道, 下到海滩. 在 2025 年夏季, 国家公园开始维护升级 Forsvatnet 湖到 Kvalvika 海滩的步道. 可以期待, 不久这里将有夏尔巴人的步道了.
+
+返回到 Innersand 停车场的路程丝毫也不枯燥. 眼前一直是壮阔的全景风光. 肯定又会发现不少新的拍照取景点.
+
+.在 Ryten 步道途中的另一个观景点
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/viewpoint-to-sandbotnen-bay.webp[在 Ryten 步道途中的另一个观景点]
+
+[#lofotodden-national-park]
+== Lofotodden 国家公园
+
+Lofotodden 国家公园 (挪威语: Lofotodden nasjonalpark, 英语: Lofotodden National Park) 整个位于罗弗敦莫斯克内斯岛 (Moskenesøya) 上. 范围涵盖了莫斯克内斯岛的西海岸, 和奥镇 (Å) 以南的大部地区. 是目前挪威最年轻的国家公园, 于 2018 年划定. Ryten 山和 Kvalvika 海滩地处 Lofotodden 国家公园范围之内. 
+
+注意, 这里不叫 Lofoten 国家公园, 而是 Lofotodden 国家公园. Lofotodden 是 _Lofot_ + _odden_ 的组合, 意思是 "罗弗敦海岬" 或 "罗弗敦角". 莫斯克内斯岛最南端的那一片山区, 就是罗弗敦海岬. 国家公园的名称就源自罗弗敦海岬 <<lnp>>.
+
+Lofotodden 国家公园的访客中心坐落在著名的最美渔村之一雷讷 (Reine).
+
+.在雷讷 (Reine) 的 Lofotodden 国家公园访客中心
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/lofotodden-national-park-visitor-center.webp[在雷讷 (Reine) 的 Lofotodden 国家公园访客中心]
+
+[#where-we-stayed]
+== 我们住在哪
+
+在我们的首次罗弗敦之行中, 选择了雷讷 (Reine) 作为我们探索罗弗敦南部的基地. 从雷讷到 Ryten 和 Kvalvika 大约有 26 公里, 自驾需要 35 分钟.
+
+雷讷有不少相当不错的住宿选项. 比如 https://expedia.com/affiliates/moskenes-hotels-reine-rorbuer-by-classic-norway-hotels.zqUWeFt[Reine Rorbuer - by Classic Norway Hotels] 就是最好的选项之一.
+
+.Reine Rorbuer - by Classic Norway Hotels
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/reine-rorbuer.webp[Reine Rorbuer - by Classic Norway Hotels]
+
+[#faq]
+== 常见问题
+
+[qanda]
+Ryten 山和 Kvalvika 海滩可以使用无人机吗?::
+*不能*. 所有的挪威国家公园都禁止无人机. 虽然 Ryten 和 Kvalvika 徒步的起点不在国家公园范围内, 但是 Ryten 山和 Kvalvika 海滩都在 Lofotodden 国家公园范围内. 因此, 无人机是被明确禁止的.
+
+Ryten 和 Kvalvika 徒步路线上有卫生间吗?::
+*没有*. 推荐在 Innersand 停车场解决.
+
+Ryten 和 Kvalvika 徒步路线上可以露营吗?::
+*可以*. 在 Lofotodden 国家公园内允许露营, 但请践行无痕原则. 此外, 保持与公园内的小屋 150 米以上的距离 <<lna>>. 实际上, Ryten 和 Kvalvika 已经成为热门的露营地点. 最佳的露营地点在靠近 Kvalvika 沙滩的草地那里. 注意, 这里没有卫生间, 也没有饮用水.
+
+Ryten 和 Kvalvika 冬季可以徒步吗?::
+*可以*. Ryten 和 Kvalvika 徒步是罗弗敦少数冬季也可以去的徒步之一. Ryten 山是当地人冬季滑雪的热门. 在徒步的部分路段, 雪鞋 (Snowshoes)和冰爪 (Microspikes) 会很有帮助.
+
+[#final-thoughts]
+== 总结和建议
+
+Innersand 停车场是最佳的停车场和徒步起点. 
+
+除了从 Innersand 停车场出发的路线之外, 在 Torsfjord 那里的公路一侧也有个很小的停车场 (Torsfjord parking), 而且是免费的. 以此作为起点, Torsfjord - Kvalvika 步道徒步直通海滩. 之后从海滩也可以徒步登上 Ryten 山. 不过, Torsfjord 的停车场在夏季很难找到车位, 而且从 Torsfjord 到 Kvalvika 的这一段徒步也没有什么可圈可点的风景.
+
+另一方面, 如果有时间, 而且不喜欢走太多回头路, 有了这条 Torsfjord - Kvalvika 的步道,  Ryten 和 Kvalvika 环线就成了一个不错的想法. 从 Torsfjord 停车场, 沿着雷神托尔峡湾 (Torsfjorden) 旁的公路 (Fv. 7708 郡道) 可以步行走到 Fredvang 村, 然后在路口向西, 沿着公路 (Fv. 7702 郡道) 走到 Innersand 停车场. 这样, 就有了一个 Ryten 和 Kvalvika 的环线路线. 
+
+从 Torsfjord 到 Innersand 的这段公路有 5 公里, 步行需要 1 小时. 虽然是沿着公路步行, 但是不用担心, 沿途, 特别是 Torsfjord 附近的的峡湾和田园风光是值得的. 
+
+.雷神托尔峡湾 (Torsfjorden)
+image::assets/images/2025/lofoten-faroe/hiking-ryten-and-kvalvika/torsfjord.webp[雷神托尔峡湾 (Torsfjorden)]
+
+最后, 如果 Innersand 和 Torsfjord 的停车场都停满了, 可以考虑在 Fredvang 老学校的停车场 (Fredvang parking). 从这里出发, 走 Innersand - Ryten 线甚至是环线都可以.
+
+[bibliography]
+[#resources]
+== 参考资源
+
+* [[[ori, 1]]] 本文: link:{% post_url 2025-07-08-hiking-ryten-and-kvalvika-in-lofoten-norway %}["徒步罗弗敦 (Lofoten) 的 Ryten 山和 Kvalvika 海滩"], _lilyroger.com_
+* [[[trt, 2]]] link:{% post_url 2025-08-28-hiking-trail-route-types %}["徒步路线的类型"], _lilyroger.com_
+* [[[ntg, 3]]] link:{% post_url 2025-10-18-grading-of-trails-in-norway %}["挪威的徒步步道分级"], _lilyroger.com_
+* [[[gon, 4]]] link:{% post_url 2025-07-15-geography-of-norway %}["游客的挪威地理 - 行政区划和地理区划"], _lilyroger.com_
+* [[[lnp, 5]]] Lofotodden 国家公园 - 欢迎: - https://www.lofotoddennp.com/en/welcome-to-lofotodden-national-park/["Welcome to Lofotodden National Park"], _lofotoddennp.com_
+* [[[lna, 6]]] Lofotodden 国家公园 - 建议: - https://www.lofotoddennp.com/en/advice-when-visiting/["Advice when visiting"], _lofotoddennp.com_
+* [[[vlr, 7]]] 罗弗敦官方旅游指南 - Kvalvika 和 Ryten: https://visitlofoten.com/en/guide/reinebringen-hike/["Kvalvika and Ryten (543 mos)"], _visitlofoten.com_
+* [[[atr, 8]]] AllTrails: https://www.alltrails.com/trail/norway/nordland/innersand-ryten["Innersand - Ryten"], _alltrails.com_
+* [[[utr, 9]]] UT.no (挪威语): https://ut.no/turforslag/112252722/fottur-til-ryten-over-kvalvika-i-lofoten["Fottur til Ryten over Kvalvika i Lofoten"], _ut.no_
+* [[[utt, 10]]] UT.no (挪威语): https://ut.no/turforslag/1112155861/fottur-fra-torsfjord-til-kvalvika["Fottur fra Torsfjord til Kvalvika"], _ut.no_
