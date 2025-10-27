@@ -86,7 +86,7 @@ Circle K Reine::
 地图中的 5 号地点, Circle K Reine 是一个位于雷讷中心的连锁加油站, 这里有一个相当大的停车场 <<rbp>>. 加油站的消费者可以免费停车 30 分钟. 这里也有公交车站, 卫生间, 小超市, 餐馆等等.
 
 Tourist Information::
-地图中的字母 i 标记的地点, 是罗弗敦国家公园的游客中心 (Visitor Center Lofoten National Park) 和雷讷的文化中心 (Reine Kultursenter), 这里有一个付费停车场.
+地图中的字母 i 标记的地点, 是 Lofotodden 国家公园的游客中心 (Visitor Center Lofotodden National Park) 和雷讷的文化中心 (Reine Kultursenter), 这里有一个付费停车场.
 
 Reine Harbor::
 地图中的 6 号地点是雷讷外港 (Reine ytre havn), 有雷讷最大的停车场. 但是这里停车要非常小心. 雷讷港的停车场实际上分属两家拥有, 支付停车费的方式不同. 近处的是雷讷市政的, 如果是租的车, 则停车自动拍照, 停车费会包含在租车行账单里. 而如果继续向前开, 深处的停车场可以用现金, 信用卡等等, 支付给那一片停车场的业主. 估计这就是 Google Maps 上各种乱收费等问题导致这里停车的评价极低的原因.
@@ -165,7 +165,7 @@ image::assets/images/2025/lofoten-faroe/hiking-reinebringen/mays-apartment.webp[
 
 [qanda]
 Reinebringen 山上可以使用无人机吗?::
-*可以*. 关于无人机的信息并不统一. 所有的挪威国家公园都禁止无人机, 包括罗弗敦国家公园. 但是 Reinebringen 不在罗弗敦国家公园范围之内, 也不在机场的 5 公里范围之内, 所以无人机并没有被禁止. 这一点在雷讷的官方网站上有明确说明 <<rbs>>. 但是需要注意的是, 在罗弗敦的官方旅游指南网站上, 有关 Reinebringen 冬季徒步的警告信息中确实画了一个禁止无人机的小图标 <<vlr>>. 而 Reinebringen 步道起点的导览图上却没有这一图标. 综合这些信息, 特别是雷讷官网的明确文字说明, 我们认为在 Reinebringen 无人机是没有被禁止的.
+*可以*. 关于无人机的信息并不统一. 所有的挪威国家公园都禁止无人机, 包括 Reinebringen 附近的 Lofotodden 国家公园. 但是 Reinebringen 不在 Lofotodden 国家公园范围之内, 也不在机场的 5 公里范围之内, 所以无人机并没有被禁止. 这一点在雷讷的官方网站上有明确说明 <<rbs>>. 但是需要注意的是, 在罗弗敦的官方旅游指南网站上, 有关 Reinebringen 冬季徒步的警告信息中确实画了一个禁止无人机的小图标 <<vlr>>. 而 Reinebringen 步道起点的导览图上却没有这一图标. 综合这些信息, 特别是雷讷官网的明确文字说明, 我们认为在 Reinebringen 无人机是没有被禁止的.
 
 Reinebringen 徒步路线上有卫生间吗?::
 *没有*. 而且由于步道陡峭, 狭窄, 几乎全部是石阶, 人多的时候没有合适的地方方便. 所以一定要在出发前解决.
