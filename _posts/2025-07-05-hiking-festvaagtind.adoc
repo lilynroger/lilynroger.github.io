@@ -157,7 +157,15 @@ image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/henningsvaer-rorbuer
 
 Festvågtind 徒步的步道条件与挪威包括三大奇石徒步在内的其它一些著名徒步步道相比要差很多. 我们的运气很好, 碰上绝佳的天气. 可以想象, 天气不佳的时候, 步道会充满危险. 况且在阴雨天, 也根本无法欣赏峡湾和渔村的全景. 所以, 我们强烈建议不要在天气不佳的时候冒险尝试 Festvågtind 徒步.
 
-此外, 罗弗敦另外两个最热门的徒步, 位于雷讷 (Reine) 的 Reinebringen 徒步和位于斯沃尔维尔 (Svolvær) 的 Fløya 徒步, 与 Festvågtind 徒步类似, 核心都是登顶之后, 俯瞰峡湾和渔村的全景. 我们觉得第一次看到其中的任何一个都是极为震撼的, 但是最后一个多少有些审美疲劳. 所以, 天公作美, 不应该错过任何一个. 可是如果天气不佳, 错过其中一个, 也不必过分纠结.
+罗弗敦的三个热门的徒步:
+
+* 亨宁斯维尔 (Henningsvær) 的 link:{% post_url 2025-07-05-hiking-festvaagtind %}[Festvågtind 徒步]
+* 雷讷 (Reine) 的 link:{% post_url 2025-07-07-hiking-reinebringen %}[Reinebringen 徒步]
+* 斯沃尔维尔 (Svolvær) 的 link:{% post_url 2025-07-12-hiking-floya-and-djevelporten %}[Fløya 和 Djevelporten 徒步]
+
+都很类似, 都是登顶之后俯瞰渔村和峡湾的大全景. 我们觉得第一次看到其中的任何一个都是极为震撼的, 但是最后一个多少有些审美疲劳. 所以如果天公作美, 时间灵活, 任何一个都不应该错过. 可是如果运气不佳, 错过其中一个, 也不必过分纠结. 
+
+这三个徒步中, 我们最喜欢的是亨宁斯维尔 (Henningsvær) 的 Festvågtind 徒步. 因为亨宁斯维尔的小岛, 道路和桥梁的画面最为完美. 不过, 如果你喜欢类似 "奇迹石" 那样的冒险, 你也会喜欢斯沃尔维尔的 "魔鬼之门".
 
 [bibliography]
 [#resources]

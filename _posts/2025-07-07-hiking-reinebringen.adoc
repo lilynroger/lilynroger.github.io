@@ -181,13 +181,16 @@ Reinebringen 冬季可以徒步吗?::
 
 虽然 Reinebringen 徒步的距离只有 1 公里, 但是不要低估了它的难度. 陡峭的爬升, 比一般台阶高出不少的夏尔巴石阶, 使得徒步实际上非常艰辛. 特别是下台阶时, 体力不足会导致危险性大增.
 
-此外, 罗弗敦的三个热门的徒步:
+罗弗敦的三个热门的徒步:
 
-* 亨宁斯维尔 (Henningsvær) 的 Festvågtind 徒步
-* 雷讷 (Reine) 的 Reinebringen 徒步
-* 斯沃尔维尔 (Svolvær) 的 Fløya 徒步
+* 亨宁斯维尔 (Henningsvær) 的 link:{% post_url 2025-07-05-hiking-festvaagtind %}[Festvågtind 徒步]
+* 雷讷 (Reine) 的 link:{% post_url 2025-07-07-hiking-reinebringen %}[Reinebringen 徒步]
+* 斯沃尔维尔 (Svolvær) 的 link:{% post_url 2025-07-12-hiking-floya-and-djevelporten %}[Fløya 和 Djevelporten 徒步]
 
-都很类似, 都是登顶之后俯瞰渔村和峡湾的大全景. 我们觉得第一次看到其中的任何一个都是极为震撼的, 但是最后一个多少有些审美疲劳. 所以如果天公作美, 时间灵活, 任何一个都不应该错过. 可是如果运气不佳, 错过其中一个, 也不必过分纠结. 而这三个徒步中, 我们最喜欢的是亨宁斯维尔 (Henningsvær) 的 Festvågtind 徒步.
+都很类似, 都是登顶之后俯瞰渔村和峡湾的大全景. 我们觉得第一次看到其中的任何一个都是极为震撼的, 但是最后一个多少有些审美疲劳. 所以如果天公作美, 时间灵活, 任何一个都不应该错过. 可是如果运气不佳, 错过其中一个, 也不必过分纠结. 
+
+这三个徒步中, 我们最喜欢的是亨宁斯维尔 (Henningsvær) 的 Festvågtind 徒步. 因为亨宁斯维尔的小岛, 道路和桥梁的画面最为完美. 不过, 如果你喜欢类似 "奇迹石" 那样的冒险, 你也会喜欢斯沃尔维尔的 "魔鬼之门".
+
 
 [bibliography]
 [#resources]

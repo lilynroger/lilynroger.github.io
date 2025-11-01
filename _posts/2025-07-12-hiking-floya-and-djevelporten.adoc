@@ -1,0 +1,241 @@
+= 徒步罗弗敦 (Lofoten) 的弗洛亚和魔鬼之门 (Fløya and Djevelporten)
+:page-subtitle: Hiking Fløya and Djevelporten in Lofoten, Norway
+:page-image: assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/svolvaer-over-floya.webp
+:page-date: 2025-07-12 22:00:00 +0200
+:page-modified_time: 2025-10-31 08:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦, 徒步]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:includedir: 
+:toc:
+:sectnums:
+:aff-link-anker-brygge: https://expedia.com/affiliates/svolvaer-hotels-anker-brygge.i2yFnCB
+:aff-link-thon-hotel-lofoten: https://expedia.com/affiliates/svolvaer-hotels-thon-hotel-lofoten.LnZGG7E
+
+在挪威罗弗敦群岛 (Lofoten) 的斯沃尔韦尔 (Svolvær), 耸立的着弗洛亚峰 (Fløya). 沿着夏尔巴石阶 - 魔鬼之梯 (Djeveltrappa) 拾级而上, 可以去挑战卡在悬崖之间的奇石 - 魔鬼之门 (Djevelporten), 或者登上弗洛亚峰, 俯瞰斯沃尔韦尔全景. 还可以前往斯沃尔韦尔山羊峰 (Svolværgeita) 攀岩.
+
+.在斯沃尔韦尔 (Svolvær) 城内眺望弗洛亚峰 (Fløya) 和斯沃尔韦尔山羊峰 (Svolværgeita)
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/floya-from-svolvaer.webp[在斯沃尔韦尔 (Svolvær) 城内眺望弗洛亚峰 (Fløya) 和斯沃尔韦尔山羊峰 (Svolværgeita)]
+
+在上面的照片中, 近处是斯沃尔韦尔城内, 我们所住的传统渔屋 link:{aff-link-anker-brygge}[Anker Brygge]. 远处画面中央的山峰就是弗洛亚峰. 在它的半山腰突出耸立着形状像两只角的斯沃尔韦尔山羊峰. 画面左侧的山峰是斯沃尔韦尔周围的最高峰 - 布洛廷恩峰 (Blåtinden).
+
+我们到达斯沃尔韦尔时, 连续两日阴雨连绵. 在我们住在斯沃尔韦尔的最后一晚, 以为没有机会去体验弗洛亚和魔鬼之门徒步的时候, 夜里十点氤氲开始慢慢散去. 我们决定立刻动身前去徒步. 所以, 并非刻意在午夜的阳光下去徒步的, 完全是迫不得已.
+
+[#hiking-facts]
+== 基本信息
+
+弗洛亚和魔鬼之门 (Fløya and Djevelporten) 徒步的基本信息如下 <<vlf>>:
+
+* *徒步类型:* 往返 (Out-and-Back) <<trt>>
+* *徒步难度:* 黑色 | 专业 (Black | Expert) <<ntg>>
+* *海拔高度:* 590 米
+* *累计爬升:* 590 米
+* *徒步距离:* 往返 4 公里
+* *徒步用时:* 往返 4 小时
+* *徒步季:* 3 - 11 月, 春夏秋
+
+以上数据为徒步起点经魔鬼之梯, 魔鬼之门, 到弗洛亚峰的数据, 不包含途中绕道去斯沃尔韦尔山羊峰的路线部分.
+
+[#about-names]
+== 关于名字
+
+为了便于记忆和交流, 以下是有关地名的一些小贴士:
+
+* _Svolvær_ 的名字的来源于古诺尔斯语的 _svalr_ (寒冷) + _vær_ (渔村). 所以, 字面意思就是 "寒冷的渔村". 常见的译名是 "斯沃尔韦尔".
+* _Fløya_ 作为山峰的名字没有确切的来源. _Fløy_ 在挪威语中的含义是 "翼", 比如大型建筑的 "东翼", 或者政党中的 "左翼". 这里我们主要使用本来的挪威语名字 Fløya 或者音译 "弗洛亚".
+* _Djeveltrappa_ 是挪威语, _Djevel_ + _trappa_. 译成英语就是 _Devil's Staircase_, 我们称之为 "魔鬼之梯".
+* _Djevelporten_ 也是挪威语, _Djevel_ + _porten_. 译成英语就是  _Devil's Gate_, 我们称之为 "魔鬼之门".
+* _Svolværgeita_ 是 _Svolvær_ + _geita_ (山羊), 因其形状酷似一只长着两只角的山羊而得名. 我们称之为 "斯沃尔韦尔山羊峰". 
+
+[#getting-to-trailhead]
+== 如何前往徒步起点
+
+弗洛亚和魔鬼之门位于罗弗敦群岛北部的斯沃尔韦尔 (Svolvær). 
+
+.位于斯沃尔韦尔 (Svolvær) 的弗洛亚和魔鬼之门 (Fløya and Djevelporten) 的地图
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/getting-to-trailhead.webp[位于斯沃尔韦尔 (Svolvær) 的弗洛亚和魔鬼之门 (Fløya and Djevelporten) 的地图]
+
+弗洛亚和魔鬼之门徒步的起点在地图上的 1 号点. 距离斯沃尔韦尔中心只有 1.5 公里. 虽然起点这里有一个停车场, 不过这个停车场是收费停车场, 停车费不菲, 而且在夏季很容易停满. 所以, 建议把车停在斯沃尔韦尔城里, 步行去徒步.
+
+前往徒步起点, 可以导航到停车场. 在 Google Maps 中就是下面这个名字有点长的地址 (挪威语):
+
+* Parkering for Sherpasti, Djevelporten, Svolværgeita og Fløya
+
+也可以导航到斯沃尔韦尔幼儿园 (英语: Svolvaer kindergarten, 挪威语: Svolvær barnehage). 走过幼儿园的小球场就能看见停车场了.
+
+[#trailhead]
+== 徒步起点
+
+弗洛亚和魔鬼之门的徒步起点处的停车场很大. 有自助缴费机, 也可以通过 EasyPark 应用缴费. 除了有两间收费的卫生间之外, 没有其他的设施了.
+
+.魔鬼之梯/魔鬼之门/斯沃尔韦尔山羊峰/弗洛亚的停车场 (Parking for Djeveltrappa/Djevelporten/Svolværgeita/Fløya)
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/parking.webp[魔鬼之梯/魔鬼之门/斯沃尔韦尔山羊峰/弗洛亚的停车场 (Parking for Djeveltrappa/Djevelporten/Svolværgeita/Fløya)]
+
+在弗洛亚和魔鬼之门的徒步起点, 放置了一块魔鬼之梯 (Djeveltrappa) 的徒步导览图:
+
+.魔鬼之梯 (Djeveltrappa) 的徒步导览图
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/djeveltrappa-guide-map.webp[魔鬼之梯 (Djeveltrappa) 的徒步导览图]
+
+其中关于徒步路线第一段, 也就是魔鬼之梯的信息如下:
+
+* 505 级石阶, 一直到山腰上的荒原 (挪威语: Heia, 英语: Heath)
+* 非常陡峭, 最大坡度达 50°
+* 石阶总长大约 500 米
+
+此外, 徒步的起点有一组路标:
+
+.魔鬼之梯/魔鬼之门/斯沃尔韦尔山羊峰/弗洛亚的徒步路标 (Djeveltrappa/Djevelporten/Svolværgeita/Fløya trail markers)
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/trail-maker.webp[魔鬼之梯/魔鬼之门/斯沃尔韦尔山羊峰/弗洛亚的徒步路标 (Djeveltrappa/Djevelporten/Svolværgeita/Fløya trail markers)]
+
+值得一提的是, 这些路标表明, 斯沃尔维尔山羊峰, 魔鬼之门, 和弗洛亚徒步的难度等级都是最高级的黑色, 甚至连魔鬼之梯这一段夏尔巴石阶都被标记为红色. 显然从累计爬升和距离来看, 这几个都没有多高或者多长. 当地应该是考虑到徒步路线的部分路段比较陡峭, 再加上还有不少险峻的暴露部分.
+
+[#trail-route]
+== 徒步路线
+
+弗洛亚和魔鬼之门的徒步路线的细节可以参考下面的地图:
+
+.弗洛亚和魔鬼之门 (Fløya and Djevelporten) 的徒步路线图
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/trail-route.webp[弗洛亚和魔鬼之门 (Fløya and Djevelporten) 的徒步路线图]
+
+[#djeveltrappa]
+=== 魔鬼之梯 (Djeveltrappa)
+
+从起点出发不远处就是魔鬼之梯了. 这一段因为坡度很大, 所以是整个徒步路线中最费力的一段. 来自尼泊尔的夏尔巴人从 2019 年开始修建魔鬼之梯的石阶. 在魔鬼之梯的第一级石阶上, 刻有 "SHERPA 2019" 的字样.
+
+include::{includedir}/stibyggjaren.adoc[]
+
+.魔鬼之梯 (Djeveltrappa) 的第一级夏尔巴石阶
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/sherpa-step.webp[魔鬼之梯 (Djeveltrappa) 的第一级夏尔巴石阶]
+
+我们来这里徒步的时候 (2025 年夏季), 魔鬼之梯从起点一直延伸到魔鬼之门和斯沃尔维尔山羊峰的三岔路口. 之后断断续续, 夏尔巴石阶延伸到在山隘处的魔鬼之门.
+
+步道的第一段的顶端, 是魔鬼之门和斯沃尔维尔山羊峰步道的交汇点, 在大约海拔 200 米左右. 这里有一组路标:
+
+.魔鬼之门 (Djevelporten) 和斯沃尔维尔山羊峰 (Svolværgeita) 步道的三岔路口
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/trail-fork.webp[魔鬼之门 (Djevelporten) 和斯沃尔维尔山羊峰 (Svolværgeita) 步道的三岔路口]
+
+在这个三岔路口继续向前是去往魔鬼之门和弗洛亚, 向右转则是前往斯沃尔维尔山羊峰.
+
+[#svolværgeita]
+=== 斯沃尔维尔山羊峰 (Svolværgeita)
+
+可惜, 我们没有任何攀岩经验, 也不想花一大笔钱让向导带我们上去, 所以我们没有去山羊峰攀岩. 不过, 斯沃尔维尔山羊峰攀崖确实很吸引人. 
+
+.斯沃尔维尔山羊峰 (Svolværgeita) 攀岩. 图片: Ismaele Tortella - Visit Norway
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/svolvaergeita-ismaele-tortella-visit-norway.webp[斯沃尔维尔山羊峰 (Svolværgeita) 攀岩]
+
+据说斯沃尔维尔山羊峰攀岩属于简单的. 有一定徒步经验的人, 都可以在向导的帮助下完成. 如果你想体验山羊峰攀岩, 当地有几家旅行社提供专业的服务. 价格都差不多, 每人 2500 人民币左右或更高, 人多有的会打折. 参考: https://gyg.me/ZOiipIOe[GetYourGuide].
+
+[#djevelporten]
+=== 魔鬼之门 
+
+在魔鬼之门和斯沃尔维尔山羊峰的岔路口继续直行, 就是前往魔鬼之门和弗洛亚峰的方向了. 这一段坡度小了很多, 线路以土石步道为主, 断断续续也有一些夏尔巴石阶, 在沼泽地段还铺设有木栈道. 这一段的大部分是比较轻松的.
+
+在海拔高度大约 330 - 350 米之间, 有一片比较开阔的荒原, 是不错的观景点. 斯沃尔维尔就在脚下, 远处是罗弗敦的群山和西峡湾 (Vestfjorden). 海岸边那条蜿蜒的公路就是欧洲的 E10 公路, 同时也是挪威国家旅游公路之一.
+
+.在弗洛亚峰 (Fløya) 上俯瞰斯沃尔维尔 (Svolvær). 
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/svolvaer-over-floya.webp[在弗洛亚峰 (Fløya) 上俯瞰斯沃尔维尔 (Svolvær)]
+
+穿过这片开阔地, 就会看到通往魔鬼之门的最后一段夏尔巴石阶. 这里也有一组路标.
+
+.弗洛亚峰 (Fløya) 和魔鬼之门 (Djevelporten) 的三岔路口
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/djevelporten-floya-split.webp[弗洛亚峰 (Fløya) 和魔鬼之门 (Djevelporten) 的三岔路口]
+
+这个步道分岔点其实是一个小环线的连接点, 可以选择两个方向中的任意一个前进:
+
+* 向右 (Fløya - Djevelporten) 的步道, 与面前的山脊, 也就是弗洛亚峰北侧的山脊基本平行, 但是海拔低一点, 通往弗洛亚峰西南侧的山脊. 沿着西南侧山脊登上弗洛亚的山顶后, 可以沿着北侧的山脊下到魔鬼之门, 之后沿着夏尔巴石阶可以回到这个环线连接点.
+
+* 向左 (Djevelporten-Fløya) 则是直接通往魔鬼之门的夏尔巴石阶. 之后可以去往弗洛亚峰和西南侧的山脊. 然后从沿低一点的步道返回到这个环线连接点.
+
+人们通常选择先去魔鬼之门, 也就是走左边的夏尔巴石阶. 从这边的石阶向上几米的距离, 就是又一个三岔路口, 有另一组路标:
+
+* 向前是弗洛亚 1 公里 (Fløya 1,0 km), 魔鬼之门 0.2 公里 (Djevelporten 0,2 km).
+* 向左是布洛廷恩峰 (Blåtind 1,5 km), 也就是前往附近的最高峰布洛廷恩峰的步道.
+
+.通往魔鬼之门 (Djevelporten) 的最后一段夏尔巴石阶
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/final-steps-to-djevelporten.webp[通往魔鬼之门 (Djevelporten) 的最后一段夏尔巴石阶]
+
+爬上通往魔鬼之门的最后一段石阶后, 就是两座山峰之间的山隘了. 左边是青蛙峰 (Frosken), 右边就是弗洛亚峰 (Fløya), 而魔鬼之门就在面前. 一块巨石像横梁一样夹在两侧山壁之间, 下方就是陡峭的山崖, 看起来就像一道门. 从右侧的山壁上可以攀爬到巨石上, 站在魔鬼之门上拍摄的照片是对冒险家的终极奖励.
+
+.魔鬼之门 (Djevelporten)
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/djevelporten.webp[魔鬼之门 (Djevelporten)]
+
+不用说, 爬上魔鬼之门是极其危险的, 冒险之前一定要三思. 我们在魔鬼之门的时候, 由于连日的降雨, 地面和山壁非常湿滑, 还布满了苔藓. 我们在仔细观察了之后, 认为发生意外的风险过大, 决定不冒险上去拍照了.
+
+从魔鬼之门, 你可以原路返回. 也可以继续前往弗洛亚峰. 我们在这里时, 时间已经接近午夜, 所以决定打道回府. 有关从魔鬼之门到弗洛亚峰的信息可以参考下文中的简介.
+
+[#fløya]
+=== 弗洛亚峰
+
+面向魔鬼之门, 右手边是两三米高的一块嶙峋的山壁. 手脚并用攀爬上去之后, 就是去往弗洛亚峰的长 300 米左右的山脊步道. 爬上弗洛亚峰最高点的最后几米有相当的难度, 需要攀爬和简单的攀岩. 不过, 如果有困难也可以绕过最高点, 沿着弗洛亚峰最高点西南侧的山脊, 前往山脊尽头的悬崖. 那里是俯瞰斯沃尔维尔全景的观景点.
+
+.弗洛亚峰最高点西南侧的山脊通往俯瞰斯沃尔维尔全景的观景点
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/floya-ridge.webp[弗洛亚峰最高点西南侧的山脊通往俯瞰斯沃尔维尔全景的观景点]
+
+[#return-hike]
+=== 回程
+
+从洛亚峰最高点西南侧山脊尽头的观景点, 原路返回弗洛亚峰最高点的途中, 在岔路口左转就可以回到前面提到的魔鬼之门和弗洛亚山脊小环线的连接点. 然后从那里原路下山.
+
+需要注意的是, 因为魔鬼之梯坡度很大, 下山并不会比上山轻松, 甚至更危险, 尤其是当台阶湿滑时.
+
+当我们回到我们的住处, 位于斯沃尔维尔中心的小岛, 拉姆霍尔门 (Lamholmen) 时, 已经是第二天的凌晨一点钟. 酒吧的年轻人刚刚散去, 而小岛上的餐馆还坐着很多的游客.
+
+.七月中旬凌晨一点时斯沃尔维尔 (Svolvær) 中心的小岛的拉姆霍尔门 (Lamholmen) 
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/lamholmen.webp[七月中旬凌晨一点时斯沃尔维尔 (Svolvær) 中心的小岛的拉姆霍尔门 (Lamholmen) ]
+
+[#svolvaer]
+== 斯沃尔维尔 (Svolvær)
+
+斯沃尔韦尔 (Svolvær) 在罗弗敦群岛的北部. 行政区划上属于北挪威诺尔兰郡 (Nordland) 的沃甘 (Vågan) 市镇. 斯沃尔韦尔是沃甘市镇的 "首府", 既是行政中心也是商业中心, 同时也是罗弗敦地区最大的城市.
+
+_Svolvær_ 的名字的来源于古诺尔斯语的 _svalr_ (寒冷) + _vær_ (渔村). 所以, 字面意思就是 "寒冷的渔村". 但是, 斯沃尔韦尔不同于罗弗敦群岛其他的偏远渔村. 它充满活力, 拥有不少的餐馆, 酒店和商店. 罗弗敦地区公路可达的两座机场之一, 斯沃尔韦尔机场 (Svolvær Airport, SVE) 就在城外 6 公里. 城内有港口连接周边各地的其他港口, 海达路德游轮也会停靠这里. 欧洲 E10 公路蜿蜒穿过斯沃尔韦尔市中心. 交通可谓十分便利.
+
+斯沃尔韦尔是探索罗弗敦群岛, 特别是罗弗敦群岛北部的理想大本营.
+
+.斯沃尔维尔 (Svolvær)
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/svolvaer.webp[斯沃尔维尔 (Svolvær)]
+
+[#where-we-stayed]
+== 我们住在哪
+
+在斯沃尔维尔时, 我们选择了住在小城中心的小岛, 拉姆霍尔门 (Lamholmen) 上的传统渔屋, 名字叫 link:{aff-link-anker-brygge}[Anker Brygge]. 如果你偏爱现代化的连锁酒店, 可以考虑 link:{aff-link-thon-hotel-lofoten}[Thon Hotel Lofoten].
+
+.Thon Hotel Lofoten
+image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/thon-hotel-lofoten.webp[Thon Hotel Lofoten]
+
+[#faq]
+== 常见问题
+
+[qanda]
+Fløya 和 Djevelporten 可以使用无人机吗?::
+*不能*. 弗洛亚和魔鬼之门都在附近的斯沃尔韦尔机场 5 公里范围内. 禁止无人机. 
+
+Fløya 和 Djevelporten 徒步路线上有卫生间吗?::
+*没有*. 推荐在斯沃尔韦尔城里或者徒步步道起点的停车场 (收费) 解决.
+
+Fløya 和 Djevelporten 冬季可以徒步吗?::
+*不建议*. 虽然没有明令禁止, 但是 Fløya 和 Djevelporten 不是冬季徒步线路. 在冬季整条步道都会被冰雪覆盖, 难以辨别方向或者判断悬崖边缘. 魔鬼之梯和魔鬼之门甚至会变成冰坡而变得极其危险.
+
+[#final-thoughts]
+== 总结和建议
+
+罗弗敦的三个热门的徒步:
+
+* 亨宁斯维尔 (Henningsvær) 的 link:{% post_url 2025-07-05-hiking-festvaagtind %}[Festvågtind 徒步]
+* 雷讷 (Reine) 的 link:{% post_url 2025-07-07-hiking-reinebringen %}[Reinebringen 徒步]
+* 斯沃尔维尔 (Svolvær) 的 link:{% post_url 2025-07-12-hiking-floya-and-djevelporten %}[Fløya 和 Djevelporten 徒步]
+
+都很类似, 都是登顶之后俯瞰渔村和峡湾的大全景. 我们觉得第一次看到其中的任何一个都是极为震撼的, 但是最后一个多少有些审美疲劳. 所以如果天公作美, 时间灵活, 任何一个都不应该错过. 可是如果运气不佳, 错过其中一个, 也不必过分纠结. 
+
+这三个徒步中, 我们最喜欢的是亨宁斯维尔 (Henningsvær) 的 Festvågtind 徒步. 因为亨宁斯维尔的小岛, 道路和桥梁的画面最为完美. 不过, 如果你喜欢类似 "奇迹石" 那样的冒险, 你也会喜欢斯沃尔维尔的 "魔鬼之门".
+
+[bibliography]
+[#resources]
+== 参考资源
+
+* [[[ori, 1]]] 本文: link:{% post_url 2025-07-08-hiking-ryten-and-kvalvika-in-lofoten-norway %}["徒步罗弗敦 (Lofoten) 的 Ryten 山和 Kvalvika 海滩"], _lilyroger.com_
+* [[[trt, 2]]] link:{% post_url 2025-08-28-hiking-trail-route-types %}["徒步路线的类型"], _lilyroger.com_
+* [[[ntg, 3]]] link:{% post_url 2025-10-18-grading-of-trails-in-norway %}["挪威的徒步步道分级"], _lilyroger.com_
+* [[[vlf, 4]]] 罗弗敦官方旅游指南 - 弗洛亚和魔鬼之门: https://visitlofoten.com/en/guide/floya-and-djevelporten-590-m/["Fløya and Djevelporten (590 mos.)"], _visitlofoten.com_
