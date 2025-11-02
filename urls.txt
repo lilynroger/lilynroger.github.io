@@ -1,0 +1,20 @@
+---
+layout: null
+---
+{%- 
+    assign latest_modified_date = site.posts
+    | where_exp: "post", "post.modified_time"
+    | map: "modified_time"
+    | sort
+    | last 
+-%}
+https://lilyroger.com/
+https://lilyroger.com/trips/
+{%- assign items = site.trips | reverse -%}
+{%- for item in items %}
+https://lilyroger.com{{ item.url }}
+{%- endfor %}
+https://lilyroger.com/posts/
+{%- for post in site.posts %}
+https://lilyroger.com{{ post.url }}
+{%- endfor %}
