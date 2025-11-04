@@ -9,7 +9,7 @@
 :toc:
 :sectnums:
 
-在挪威, 徒步步道使用统一的步道分级系统 (Grading of Trails), 以便帮助徒步旅行者们了解步道和路线的难度, 并更好的计划徒步旅行. 这套系统基于国际上普遍采用的 4 级难度等级, 分别用绿色, 蓝色, 红色和黑色标识, 对应于初级 (Easy), 中级 (Moderate), 高级 (Demanding) 和专业 (Expert).
+在挪威, 徒步步道使用统一的步道分级系统 (Grading of Trails), 以便帮助徒步旅行者们了解步道和路线的难度, 并更好的计划徒步旅行. 这套系统基于国际上普遍采用的 4 级难度等级, 分别用绿色, 蓝色, 红色和黑色标识, 对应于简单 (Easy), 中等 (Moderate), 困难 (Demanding) 和专业 (Expert).
 
 NOTE: 黑色等级曾经也称为 Extra Demanding (挪威语: Ekstra Krevende).
 
@@ -188,9 +188,9 @@ image::assets/images/2025/lofoten-faroe/grading-of-trails-in-norway/kjeragbolten
 |===
 |   | 挪威语 | 英语
 
-| 初级 | Enkel | Simple / Easy
-| 中级 | Middels | Moderate
-| 高级 | Utfordrende | Demanding
+| 简单 | Enkel | Easy
+| 中等 | Middels | Moderate
+| 困难 | Utfordrende | Demanding
 | 专业 | Ekspert | Expert
 
 |===
