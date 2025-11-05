@@ -7,33 +7,26 @@
 :page-categories: posts
 :page-layout: post
 :page-liquid:
-:includedir: 
 :toc:
 :sectnums:
 :aff-link-anker-brygge: https://expedia.com/affiliates/svolvaer-hotels-anker-brygge.i2yFnCB
 :aff-link-thon-hotel-lofoten: https://expedia.com/affiliates/svolvaer-hotels-thon-hotel-lofoten.LnZGG7E
 
-在挪威罗弗敦群岛 (Lofoten) 的斯沃尔韦尔 (Svolvær), 耸立的着弗洛亚峰 (Fløya). 沿着夏尔巴石阶 - 魔鬼之梯 (Djeveltrappa) 拾级而上, 可以去挑战卡在悬崖之间的奇石 - 魔鬼之门 (Djevelporten), 或者登上弗洛亚峰, 俯瞰斯沃尔韦尔全景. 还可以前往斯沃尔韦尔山羊峰 (Svolværgeita) 攀岩.
+在挪威罗弗敦群岛 (Lofoten) 的斯沃尔韦尔 (Svolvær), 耸立着弗洛亚峰 (Fløya). 沿着夏尔巴人修建的石阶, 魔鬼之梯 (Djeveltrappa) 拾级而上, 可以去挑战卡在悬崖之间的奇石 - 魔鬼之门 (Djevelporten), 或者登上弗洛亚峰, 俯瞰斯沃尔韦尔全景. 还可以前往斯沃尔韦尔山羊峰 (Svolværgeita) 攀岩.
 
 .在斯沃尔韦尔 (Svolvær) 城内眺望弗洛亚峰 (Fløya) 和斯沃尔韦尔山羊峰 (Svolværgeita)
 image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/floya-from-svolvaer.webp[在斯沃尔韦尔 (Svolvær) 城内眺望弗洛亚峰 (Fløya) 和斯沃尔韦尔山羊峰 (Svolværgeita)]
 
 在上面的照片中, 近处是斯沃尔韦尔城内, 我们所住的传统渔屋 link:{aff-link-anker-brygge}[Anker Brygge]. 远处画面中央的山峰就是弗洛亚峰. 在它的半山腰突出耸立着形状像两只角的斯沃尔韦尔山羊峰. 画面左侧的山峰是斯沃尔韦尔周围的最高峰 - 布洛廷恩峰 (Blåtinden).
 
-我们到达斯沃尔韦尔时, 连续两日阴雨连绵. 在我们住在斯沃尔韦尔的最后一晚, 以为没有机会去体验弗洛亚和魔鬼之门徒步的时候, 夜里十点氤氲开始慢慢散去. 我们决定立刻动身前去徒步. 所以, 并非刻意在午夜的阳光下去徒步的, 完全是迫不得已.
+我们到达斯沃尔韦尔时, 连续两日阴雨连绵. 在我们住在斯沃尔韦尔的最后一晚, 以为没有机会去体验弗洛亚和魔鬼之门徒步的时候, 夜里十点阴云开始慢慢散去. 我们决定立刻动身前去徒步. 所以, 并非刻意在午夜的阳光下去徒步的, 完全是迫不得已.
 
 [#hiking-facts]
 == 基本信息
 
-弗洛亚和魔鬼之门 (Fløya and Djevelporten) 徒步的基本信息如下 <<vlf>>:
+弗洛亚和魔鬼之门徒步的基本信息如下:
 
-* *徒步类型:* 往返 (Out-and-Back) <<trt>>
-* *徒步难度:* 黑色 | 专业 (Black | Expert) <<ntg>>
-* *海拔高度:* 590 米
-* *累计爬升:* 590 米
-* *徒步距离:* 往返 4 公里
-* *徒步用时:* 往返 4 小时
-* *徒步季:* 3 - 11 月, 春夏秋
+{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.floyaAndDjevelporten %}
 
 以上数据为徒步起点经魔鬼之梯, 魔鬼之门, 到弗洛亚峰的数据, 不包含途中绕道去斯沃尔韦尔山羊峰的路线部分.
 
@@ -103,7 +96,7 @@ image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/trail-rout
 
 从起点出发不远处就是魔鬼之梯了. 这一段因为坡度很大, 所以是整个徒步路线中最费力的一段. 来自尼泊尔的夏尔巴人从 2019 年开始修建魔鬼之梯的石阶. 在魔鬼之梯的第一级石阶上, 刻有 "SHERPA 2019" 的字样.
 
-include::{includedir}/stibyggjaren.adoc[]
+include::{includedir}/adoc/block-stibyggjaren.adoc[]
 
 .魔鬼之梯 (Djeveltrappa) 的第一级夏尔巴石阶
 image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/sherpa-step.webp[魔鬼之梯 (Djeveltrappa) 的第一级夏尔巴石阶]
@@ -120,7 +113,7 @@ image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/trail-fork
 [#svolværgeita]
 === 斯沃尔维尔山羊峰 (Svolværgeita)
 
-可惜, 我们没有任何攀岩经验, 也不想花一大笔钱让向导带我们上去, 所以我们没有去山羊峰攀岩. 不过, 斯沃尔维尔山羊峰攀崖确实很吸引人. 
+可惜, 我们没有任何攀岩经验, 也不想花一大笔钱让向导带我们上去, 所以我们没有去山羊峰攀岩. 不过, 斯沃尔维尔山羊峰攀岩确实很吸引人. 
 
 .斯沃尔维尔山羊峰 (Svolværgeita) 攀岩. 图片: Ismaele Tortella - Visit Norway
 image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/svolvaergeita-ismaele-tortella-visit-norway.webp[斯沃尔维尔山羊峰 (Svolværgeita) 攀岩]
@@ -146,7 +139,7 @@ image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/djevelport
 
 * 向右 (Fløya - Djevelporten) 的步道, 与面前的山脊, 也就是弗洛亚峰北侧的山脊基本平行, 但是海拔低一点, 通往弗洛亚峰西南侧的山脊. 沿着西南侧山脊登上弗洛亚的山顶后, 可以沿着北侧的山脊下到魔鬼之门, 之后沿着夏尔巴石阶可以回到这个环线连接点.
 
-* 向左 (Djevelporten-Fløya) 则是直接通往魔鬼之门的夏尔巴石阶. 之后可以去往弗洛亚峰和西南侧的山脊. 然后从沿低一点的步道返回到这个环线连接点.
+* 向左 (Djevelporten-Fløya) 则是直接通往魔鬼之门的夏尔巴石阶. 之后可以去往弗洛亚峰和西南侧的山脊. 然后沿低一点的步道返回到这个环线连接点.
 
 人们通常选择先去魔鬼之门, 也就是走左边的夏尔巴石阶. 从这边的石阶向上几米的距离, 就是又一个三岔路口, 有另一组路标:
 
@@ -174,7 +167,7 @@ image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/djevelport
 image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/floya-ridge.webp[弗洛亚峰最高点西南侧的山脊通往俯瞰斯沃尔维尔全景的观景点]
 
 [#return-hike]
-=== 回程
+== 回程
 
 从洛亚峰最高点西南侧山脊尽头的观景点, 原路返回弗洛亚峰最高点的途中, 在岔路口左转就可以回到前面提到的魔鬼之门和弗洛亚山脊小环线的连接点. 然后从那里原路下山.
 

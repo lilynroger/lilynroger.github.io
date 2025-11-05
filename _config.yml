@@ -62,7 +62,7 @@ asciidoc:
 asciidoctor:
   attributes:
     imagesdir: "/"
-    includedir: "_includes/asciidoc"
+    includedir: "_includes"
     icons: font
     toc: auto
     toc-title: 目录
