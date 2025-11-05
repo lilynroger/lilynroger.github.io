@@ -1,0 +1,210 @@
+types:
+  loop:
+    label: 环形 (Loop)
+  outAndBack:
+    label: 往返 (Out-and-Back)
+  pointToPoint:
+    label: 点对点 (Point-to-Point)
+difficulties:
+  norway:
+    name: 步道分级系统 - 挪威徒步旅行协会 (The Norwegian Trekking Association, DNT)
+    levels:
+      green:
+        label: 绿色 | 简单 (Green | Easy)
+      blue:
+        label: 蓝色 | 中等 (Blue | Moderate)
+      red:
+        label: 红色 | 困难 (Red | Demanding)
+      black:
+        label: 黑色 | 专业 (Black | Expert)
+    links:
+      - url: https://www.dnt.no/om-dnt/english/need-to-know-about-norwegian-outdoor-life/grading-of-trails/
+        title: Grading of trails
+        publisher: The Norwegian Trekking Association, DNT, dnt.no
+        year: 2024
+
+routes:
+  norway:
+    nordland:
+      floyaAndDjevelporten:
+        name: 弗洛亚和魔鬼之门 (Fløya and Djevelporten)
+        names:
+          - value: Fløya and Djevelporten
+            language: English
+            languageTag: en
+        type:
+          value: outAndBack
+        difficulty:
+          value: black
+          system: norway
+        altitude:
+          value: 590
+          unit: m
+        elevationGain:
+          value: 590
+          unit: m
+        distance:
+          value: 4
+          unit: km
+          roundTrip: true
+        estimatedTime:
+          value: 4
+          unit: h
+          roundTrip: true
+        season:
+          min: 3
+          max: 11
+        links:
+          vlfd:
+            url: https://visitlofoten.com/en/guide/floya-and-djevelporten-590-m/
+            title: Fløya and Djevelporten (590 mos.)
+            publisher: visitlofoten.com
+            year: 2025
+
+      festvaagtind:
+        name: 菲斯特沃格峰 (Festvågtinden)
+        names:
+          - value: Festvågtinden
+            language: Norwegian
+            languageTag: no
+        type:
+          value: outAndBack
+        difficulty:
+          value: red
+          system: norway
+        altitude:
+          value: 541
+          unit: m
+        elevationGain:
+          value: 541
+          unit: m
+        distance:
+          value: 2.6
+          unit: km
+          roundTrip: true
+        slope:
+          grade:
+            value: 42
+            unit: '%'
+          angle:
+            value: 23
+            unit: °
+        estimatedTime:
+          min: 2
+          max: 4
+          unit: h
+          roundTrip: true
+        season:
+          min: 5
+          max: 10
+        notes: 包括坡度在内的部分信息来自步道起点的徒步导览图.
+        links:
+          vlft:
+            url: https://visitlofoten.com/en/guide/festvagtinden-541-m/
+            title: Festvågtinden (541 mos.)
+            publisher: visitlofoten.com
+            year: 2025
+
+      innersandToRyten:
+        name: 雷腾山和鲸湾海滩 (Ryten and Kvalvika)
+        type:
+          value: outAndBack
+        difficulty:
+          value: blue
+          system: norway
+        altitude:
+          value: 543
+          unit: m
+        elevationGain:
+          value: 540
+          unit: m
+        distance:
+          value: 7.2
+          unit: km
+          roundTrip: true
+        estimatedTime:
+          min: 3
+          max: 5
+          unit: h
+          roundTrip: true
+        season:
+          yearRound: true
+        links:
+          vlkr:
+            url: https://visitlofoten.com/en/guide/kvalvika-and-ryten-543-m/
+            title: Kvalvika and Ryten (543 mos)
+            publisher: visitlofoten.com
+            year: 2025
+
+      reinebringen:
+        name: 雷讷布林根 (Reinebringen)
+        type:
+          value: outAndBack
+        difficulty:
+          value: blue
+          system: norway
+        altitude:
+          value: 484
+          unit: m
+        elevationGain:
+          value: 448
+          unit: m
+        distance:
+          value: 2.2
+          unit: km
+          roundTrip: true
+        estimatedTime:
+          min: 2
+          max: 4
+          unit: h
+          roundTrip: true
+        steps:
+          value: 1978
+          notes: 数据来自步道起点的徒步导览图.
+        season:
+          min: 5
+          max: 10
+        links:
+          vlrb:
+            url: https://visitlofoten.com/en/guide/reinebringen-hike/
+            title: Reinebringen (484 m.o.s.)
+            publisher: visitlofoten.com
+            year: 2025
+
+      haaheiaAndHaaen:
+        name: 鲨鱼高地和鲨鱼峰 (Håheia and Håen)
+        type:
+          value: outAndBack
+        difficulty:
+          value: green
+          system: norway
+          notes: 根据徒步起点的导览图
+        altitude:
+          value: 438
+          unit: m
+        elevationGain:
+          value: 415
+          unit: m
+        distance:
+          value: 6.2
+          unit: km
+          roundTrip: true
+        estimatedTime:
+          min: 2
+          max: 3
+          unit: h
+          roundTrip: true
+        season:
+          yearRound: true
+        links:
+          vlhv:
+            url: https://visitlofoten.com/en/activity/hiking/hike-to-haheia-at-vaeroy-438-m/
+            title: Hike to Håheia at Værøy (438 m)
+            publisher: visitlofoten.com
+            year: 2025
+          uthh:
+            url: https://ut.no/turforslag/1112156933/haheia-og-haen-438-moh
+            title: Håheia og Håen (438 moh) på Værøy
+            publisher: ut.no
+            language: no
+            year: 2025
