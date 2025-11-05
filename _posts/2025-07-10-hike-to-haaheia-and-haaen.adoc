@@ -1,0 +1,145 @@
+= 徒步罗弗敦 (Lofoten) 的鲨鱼高地和鲨鱼峰 (Håheia and Håen)
+:page-subtitle: Hiking to Håheia and Håen at Værøy in Lofoten, Norway
+:page-image: assets/images/2025/lofoten-faroe/hike-to-haaheia-and-haaen/haaheia-and-haaen.webp
+:page-date: 2025-07-10 08:00:00 +0200
+:page-modified_time: 2025-11-05 08:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦, 徒步]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:sectnums:
+
+如果你一路旅行到了罗弗敦 (Lofoten) 南端的的小岛瓦罗伊 (Værøy), 那你很可能是为了打卡小众的宝藏徒步 - 鲨鱼高地和鲨鱼峰 (Håheia and Håen). 月牙形的半岛上, 陡峭的山峰环抱着碧绿的海水, 金色的沙滩, 古老的村落, 是瓦罗伊最具标志性的风景. 这里还是海鹦的栖息地和挪威海鹦猎犬的起源地.
+
+[sidebar]
+很可惜, 在我们的首次罗弗敦群岛之行中, 由于天气原因, 没能登上瓦罗伊岛. 这篇攻略是基于我们旅行前所做的功课笔记整理而成. 不过, 因为鲨鱼高地和鲨鱼峰是罗弗敦少数可以在冬季去的徒步, 我们计划冬季去打卡.
+
+[#hiking-facts]
+== 基本信息
+
+鲨鱼高地和鲨鱼峰 (Håheia and Håen) 徒步的基本信息如下:
+
+{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.haaheiaAndHaaen %}
+
+[#about-names]
+== 关于名字
+
+为了便于记忆和交流, 以下是有关地名的一些小贴士:
+
+* Værøy 的名字的来源于古诺尔斯语的 Vedr + øyjar. 其中前者是 "天气" 和 "风"; 后者就是 "岛". 这里我们使用常见音译 "瓦罗伊岛".
+
+* Håheia 的名字由两部分组成, Hå + heia. 其中 Hå 没有确切的来源, 但是在新挪威语 (Nynorsk) 中的含义是 "鲨鱼", 尤其特指小型的白斑角鲨. 后者 heia 源自古诺尔斯语, 其中 hei 指 "高地"; a 则是挪威语阴性单数定冠词后缀, 指代特定的名词. heia 在挪威的地名中非常常见, 指的是高山上地势平坦海拔差异小的土地. 虽然 Håheia 大体上可以译为 "侯海崖", 但是这个名字过于生僻了. 我们这里将 Håheia 称为 "鲨鱼高地". 但是要注意, 这个名字缺乏确定的来源依据, 存粹为了方便口语交流.
+
+* Håen 是 Håheia 高地上的最高点的名字. 其中 Hå 参考关于 Håheia 的说明. 后缀 _en_ 是挪威语阳性单数定冠词后缀, 指代特定的名词. 如果音译, Håen 可以译为 "侯恩". 我们这里将 Håen 称为 "鲨鱼峰". 同样因为缺乏确定的来源依据, 这个名字也是存粹为了便于口语交流.
+
+[#getting-to-vaeroy]
+== 如何前往瓦罗伊
+
+鲨鱼高地和鲨鱼峰位于罗弗敦群岛南部的瓦罗伊 (Værøy) 岛上. 挪威大陆上的博德 (Bodø), 罗弗敦大陆上的莫斯克内斯 (Moskenes) 和瓦罗伊岛三地之间有来往的汽车轮渡. 此外, 每天都有直升机从博德机场飞往瓦罗伊机场. 博德是北挪威地区的交通枢纽和前往罗弗敦地区的门户, 而莫斯克内斯的轮渡码头距离罗弗敦的最美渔村雷讷 (Reine) 只有 5 公里.
+
+.瓦罗伊岛 (Værøy) 的鲨鱼高地和鲨鱼峰 (Håheia and Håen) 徒步地图
+image::assets/images/2025/lofoten-faroe/hike-to-haaheia-and-haaen/getting-to-vaeroy.webp[瓦罗伊岛 (Værøy) 的鲨鱼高地和鲨鱼峰 (Håheia and Håen) 徒步地图]
+
+[#by-ferry]
+=== 轮渡
+
+博德, 瓦罗伊和莫斯克内斯之间的汽车轮渡是 https://www.torghatten.no/en/our-routes/18-782[18-782] 路. 乘坐汽车轮渡前往瓦罗伊, 受轮渡时刻表限制, 主要有三种行程:
+
+* 从博德前往瓦罗伊, 在瓦罗伊停留 2 晚, 从瓦罗伊前往莫斯克内斯游玩罗弗敦其他地方
+* 从莫斯克内斯出发前往瓦罗伊一日游, 然后返回莫斯克内斯 (仅夏季)
+* 从莫斯克内斯出发前往瓦罗伊, 在瓦罗伊停留 2 晚, 从瓦罗伊返回博德
+
+冬季前往瓦罗伊由于日照时间短, 轮渡班次少, 行程规划极为不易. 举例而言, 2025 - 2026 年冬季从瓦罗伊到莫斯克内斯汽车轮渡, 时间比较合适, 不太早也不太晚的只有星期日和星期二:
+
+* 星期日: (A 线) 13:30 Værøy ferjekai - 14:45 Moskenes ferjekai
+* 星期二: (A 线) 10:45 Værøy ferjekai - 12:00 Moskenes ferjekai
+
+这就意味着, 只有周五和周日从博德出发前往瓦罗伊, 在瓦罗伊住两晚的行程最理想. 这个时间博德到瓦罗伊的轮渡时间表如下:
+
+* 星期五: (B 线) 16:00 Bodø ferjekai - 21:15 Værøy ferjekai
+* 星期日: (B 线) 13:00 Bodø ferjekai - 18:00 Værøy ferjekai
+
+有关轮渡的详细信息, 也可以参考我们的攻略: link:{% post_url 2025-07-04-getting-to-lofoten%}[如何前往罗弗敦群岛 (Lofoten) - 完全交通攻略].
+
+[#by-helicopter]
+=== 直升机
+
+一个比较冷门的前往瓦罗伊的方式是直升机.
+
+在博德机场 (BOO), 可以搭乘 https://www.lufttransport.no/[Lufttransport] 的直升机前往瓦罗伊直升机机场 (VRY). 直升机平日早晚各一班, 周末只有早或者晚一班. 机票价格是每人 653 挪威克朗 (2025). 飞行时间是 20 分钟.
+
+瓦罗伊是徒步者的天堂, 也是观鸟者的乐园, 很多人把瓦罗伊作为罗弗敦之行的首站或者末站. 直升机提供了一种交通选择, 尤其是在轮渡因故取消时.
+
+[#trailhead]
+== 徒步起点
+
+在瓦罗伊, 从瓦罗伊轮渡码头 (挪威语: Værøy ferjekai) 出发, 可步行或驾车经过岛上的主要村庄索尔兰 (Sørland) , 前往西北方向的罗姆达伦 (Rømdalen) 山谷. 山谷的谷底有一个免费的小停车场, 在 Google Maps 中的名字是 "Håen Parkering" (挪威语). 这个停车场是包括鲨鱼高地和鲨鱼峰徒步在内的很多徒步路线的起点. 这里距离轮渡码头只有 4 公里.
+
+需要注意的是停车场很小, 没有什么设施. 附近不远处虽然有一个收费卫生间, 但评价很低.
+
+[#trail-route]
+== 徒步路线
+
+鲨鱼高地和鲨鱼峰徒步路线是比较轻松的, 大部分时间里是走在铺装的柏油公路上.
+
+.瓦罗伊岛 (Værøy) 的鲨鱼高地和鲨鱼峰 (Håheia and Håen) 徒步路线图
+image::assets/images/2025/lofoten-faroe/hike-to-haaheia-and-haaen/trail-route.webp[瓦罗伊岛 (Værøy) 的鲨鱼高地和鲨鱼峰 (Håheia and Håen) 徒步路线图]
+
+从停车场出发, 可以看到有一条柏油公路盘山而上. 这条路叫 Natoveien, 字面意思就是 "北约路". 它通往建在山顶的已经停用了的一座北约雷达站, 也是观景点的所在地.
+
+在山谷中, 按照步道路标的指示, 朝着柏油路方向前进. 沿途步道会三次和柏油路交汇. 前两处交汇可以选择走柏油路, 也可以选择继续走步道上山. 第三次步道和柏油路交汇时, 走上柏油路, 然后沿着柏油路可以一直走到高地之上, 最后到达山顶的雷达站.
+
+沿着柏油公路上山, 路上可以看到两座经复原的捕鹰者的石头小屋 (挪威语: Ørnhus, 英语: Eagle House). 在过去, 曾经的捕鹰者就是躲在石头小屋里, 等着鹰上钩吃诱饵的时候, 徒手抓住鹰的脚, 拖进屋里.
+
+到了雷达站后, 在雷达站的右侧围栏外, 沿着步道尽头就是观景点了. 
+
+.瓦罗伊岛 (Værøy) 的鲨鱼高地和鲨鱼峰 (Håheia and Håen). 图片: visitlofoten.com
+image::assets/images/2025/lofoten-faroe/hike-to-haaheia-and-haaen/haaheia-and-haaen.webp[瓦罗伊岛 (Værøy) 的鲨鱼高地和鲨鱼峰 (Håheia and Håen)]
+
+在观景点, 你看到是瓦罗伊西部的半岛和海湾. 陡峭的山峰, 环抱着碧绿的海水和浅金色的沙滩. 特别值得一提的是, 在远处的海湾中, 隐藏在巍峨的悬崖脚下的是废弃的古老村落 Måstad. 据传那里公元 13 世纪开始就成为人类的定居点, 直到 1974 年最后一位居民离开.
+
+曾经居住在 Måstad 的人们的主要收入来源是他们卖到卑尔根的鱼. 同时他们也养鸡, 牛, 羊. Måstad 的特别之处在于捕鸟. 海鹦 (Puffin) 和海雀 (Auk) 的肉帮助可以自给自足, 而羽毛和绒还可以卖掉, 是一笔不错的额外收入. 著名的稀有犬种挪威伦德猎犬 (挪威语: Lundehund, 英语: Puffin Dog), 字面意思是 "海鹰猎犬", 就起源于 Måstad 这里. 海鹦猎犬发展出很多适合捕捉海鹦的特征. 包括体型小, 六趾, 耳软骨可闭合防泥水, 关节异常灵活, 颈部可以 90 度转向身体一侧. 它们可以攀爬上悬崖, 钻进海鹦在草坡上挖掘的地洞中. 一个晚上就可以抓上百只海鹦.
+
+每当春末夏初的海鹦繁殖季, Måstad 周围的悬崖是大量海鹦的栖息地. 使 Måstad 成为观赏海鹦的最佳地点.
+
+有一条起点在 Nordlandshagen 的徒步路线通往 Måstad. 不过往返超过 15 公里, 路线难度较大, 可能需要 7 个小时 ^<<utmm>>^. 为此, 你可能需要一个瓦罗伊深度游的行程了. 最好是在海鹦季.
+
+[#return-hike]
+== 回程
+
+在返回时, 可以沿着公路原路下山, 也可以沿着山脊上的步道走到 Hornet 峰, 然后下山.
+
+[#faq]
+== 常见问题
+
+[qanda]
+鲨鱼高地和鲨鱼峰 (Håheia and Håen) 可以在冬季徒步吗?::
+*可以*. 通往观景点的柏油公路在冬季会进行除雪. 所以这个路线是全年都可以走的.
+
+可以自驾到达鲨鱼高地和鲨鱼峰 (Håheia and Håen) 山顶吗?::
+*不能*. 虽然有柏油公路通往山顶, 但是不开放.
+
+[bibliography]
+[#resources]
+== 参考资源
+
+* [[[orig, 1]]] 本文: link:{% post_url 2025-07-08-hiking-ryten-and-kvalvika-in-lofoten-norway %}["徒步罗弗敦 (Lofoten) 的 Ryten 山和 Kvalvika 海滩"], _lilyroger.com_
+
+* [[[htrt, 2]]] link:{% post_url 2025-08-28-hiking-trail-route-types %}["徒步路线的类型"], _lilyroger.com_
+
+* [[[tgno, 3]]] link:{% post_url 2025-10-18-grading-of-trails-in-norway %}["挪威的徒步步道分级"], _lilyroger.com_
+
+* [[[vlhv, 4]]] 罗弗敦官方旅游指南: https://visitlofoten.com/en/activity/hiking/hike-to-haheia-at-vaeroy-438-m/["Hike to Håheia at Værøy (438 m)"], _visitlofoten.com_
+
+* [[[vldv, 5]]] 罗弗敦官方旅游指南: https://visitlofoten.com/en/discover-vaeroy/["Discover Værøy"],_visitlofoten.com_
+
+* [[[vvmv, 6]]] https://visitvaroy.no/vaeroy/hva-aa-gjore-varoy,land/mastad-varoy/[Måstad], _visitvaroy.no_
+
+* [[[anva, 7]]] https://arkivinordland.no/fylkesleksikon/innhold/kommuner/varoy/["Værøy kommune"], _arkivinordland.no_
+
+* [[[wtha, 8]]] https://en.wiktionary.org/wiki/h%C3%A5#Norwegian_Nynorsk["hå"], _en.wiktionary.org_
+
+* [[[uthh, 9]]] https://ut.no/turforslag/1112156933/haheia-og-haen-438-moh-pa-vry[Håheia og Håen (438 moh) på Værøy], _ut.no_
+
+* [[[utmm, 10]]] https://ut.no/turforslag/115907/mostad-og-mahornet[Mostad og Måhornet på Værøy], _ut.no_
