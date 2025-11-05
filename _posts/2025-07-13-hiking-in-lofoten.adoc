@@ -1,0 +1,163 @@
+= 徒步罗弗敦 (Lofoten) - 经典最佳徒步路线
+:page-subtitle: Hiking in Lofoten: The Best Hikes in Lofoten Islands, Norway
+:page-image: assets/images/2025/lofoten-faroe/hiking-in-lofoten/on-the-way-from-innersand-to-ryten.webp
+:page-date: 2025-07-13 08:00:00 +0200
+:page-modified_time: 2025-11-03 08:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦, 徒步]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:sectnums:
+
+在这篇攻略中, 我们精心挑选了罗弗敦地区 (Lofoten) 的五条经典最佳徒步路线, 适合罗弗敦群岛的初访者, 完美契合一周或者更长一点的行程. 同时还特别挑选了在罗弗敦附近的西奥伦群岛 (Vesterålen) 和塞尼亚岛 (Senja) 的两条热门徒步路线. 它们时常被误解为是罗弗敦的徒步. 如果你有足够的时间和精力打卡全部这些, 绝对是完美的徒步之旅.
+
+[#floya-and-djevelporten]
+== 弗洛亚和魔鬼之门 (Fløya and Djevelporten), 罗弗敦
+
+在罗弗敦群岛的斯沃尔韦尔 (Svolvær), 耸立着弗洛亚峰 (Fløya). 来自尼泊尔的夏尔巴人从 2018 年开始修建石阶 - 魔鬼之梯 (Djeveltrappa). 石阶通往弗洛亚峰的山隘之上, 卡在悬崖之间的奇石 - 魔鬼之门 (Djevelporten). 站在魔鬼之门上拍照是热门的冒险者的游戏.
+
+.斯沃尔维尔 (Svolvær) 的魔鬼之门 (Djevelporten).
+image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/djevelporten.webp[斯沃尔维尔 (Svolvær) 的魔鬼之门 (Djevelporten)]
+
+登上弗洛亚峰的最高点和山脊, 可以俯瞰斯沃尔韦尔全景. 此外, 在徒步的第一段魔鬼之梯的岔路口, 还可以绕道前往斯沃尔韦尔山羊峰 (Svolværgeita) 攀岩. 山羊峰同样也是斯沃尔韦尔的绝佳观景点.
+
+.在斯沃尔维尔 (Svolvær) 的山羊峰 (Svolværgeita) 攀岩. 图片: Ismaele Tortella - Visit Norway
+image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/svolvaergeita.webp[在斯沃尔维尔 (Svolvær) 的山羊峰 (Svolværgeita) 攀岩]
+
+弗洛亚和魔鬼之门徒步的基本信息如下:
+
+{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.floyaAndDjevelporten %}
+
+以上数据为徒步起点经魔鬼之梯, 魔鬼之门, 到弗洛亚峰的数据, 不包含途中绕道去斯沃尔韦尔山羊峰的路线部分.
+
+有关弗洛亚和魔鬼之门徒步的详细信息可以参考我们的攻略: link:{% post_url 2025-07-12-hiking-floya-and-djevelporten %}[徒步罗弗敦 (Lofoten) 的弗洛亚和魔鬼之门 (Fløya and Djevelporten)].
+
+[#festvaagtind]
+== 菲斯特沃格峰 (Festvågtind) 和鳕鱼舌 (Torsketunga), 罗弗敦
+
+菲斯特沃格峰 (Festvågtind) 在斯沃尔维尔 (Svolvær) 以南 25 公里. 而在菲斯特沃格峰以南 2 公里, 就是罗弗敦最美渔村之一, 亨宁斯维尔 (Henningsvær). 登上菲斯特沃格峰的最高点, 脚下就是在壮丽的西峡湾 (Vestfjorden) 衬托之下, 亨宁斯维尔的桥梁, 堤道和小岛构成的完美画面.
+
+.在菲斯特沃格峰 (Festvågtind) 山顶俯瞰绝美的渔村亨宁斯维尔 (Henningsvær).
+image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/festvagtind.webp[在菲斯特沃格峰 (Festvågtind) 山顶俯瞰绝美的渔村亨宁斯维尔 (Henningsvær).]
+
+如果你有足够的经验和胆量, 也许还可以顺路绕去著名的攀岩胜地 "牧师岩" (挪威语: Presten) 的悬崖之上, 冒险站上人称 "鳕鱼舌" (挪威语: Torsketunga) 的巨石.
+
+.在牧师岩 (Presten) 之上的巨石鳕鱼舌 (Torsketunga). 图片: alltrails.com
+image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/torsketunga.webp[在牧师岩 (Presten) 之上的巨石鳕鱼舌 (Torsketunga)]
+
+菲斯特沃格峰 (Festvågtind) 徒步的基本信息如下:
+
+{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.festvaagtind %}
+
+以上数据中不包含鳕鱼舌徒步. 途中去鳕鱼舌往返距离有 1 公里, 需要 1 小时左右.
+
+有关菲斯特沃格峰徒步的详细信息可以参考我们的攻略: link:{% post_url 2025-07-05-hiking-festvaagtind %}[徒步罗弗敦 (Lofoten) 的 Festvågtind].
+
+[#ryten-and-kvalvika]
+== 雷腾山和鲸湾海滩 (Ryten and Kvalvika), 罗弗敦
+
+位于罗弗敦海岬 (Lofotodden) 国家公园内的雷腾山和鲸湾海滩 (Ryten and Kvalvika), 是罗弗敦 最热门的徒步胜地之一, 也是少有的全年都可以去的徒步目的地. 在靠近雷腾山顶峰的悬崖上, 有一块巨石, 像迷你版的巨魔之舌 (Trolltunga). 站在巨石上, 俯瞰脚下的鲸湾中, 山峦环抱下的洁白沙滩和碧绿海水, 是经典的罗弗敦明信片画面.
+
+.站在雷腾山 (Ryten) 山顶的迷你 "巨魔之舌 (Trolltunga)" 之上俯瞰鲸湾 (Kvalvika) 海滩
+image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/ryten-over-kvalvika-beach.webp[站在雷腾山 (Ryten) 山顶的迷你 "巨魔之舌 (Trolltunga)" 之上俯瞰鲸湾 (Kvalvika) 海滩]
+
+有关雷腾山和鲸湾海滩 (Ryten and Kvalvika) 徒步的详细信息可以参考我们的攻略: link:{% post_url 2025-07-08-hiking-ryten-and-kvalvika-in-lofoten-norway %}[徒步罗弗敦 (Lofoten) 的 Ryten 山和 Kvalvika 海滩].
+
+雷腾山和鲸湾海滩徒步是我们最喜欢的罗弗敦徒步. 不仅仅终点, 徒步路线的全程几乎都是美景.
+
+.在雷腾山和鲸湾海滩 (Ryten and Kvalvika) 徒步路线上的壮丽全景
+image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/on-the-way-from-innersand-to-ryten.webp[在雷腾山和鲸湾海滩 (Ryten and Kvalvika) 徒步路线上的壮丽全景]
+
+雷腾山和鲸湾海滩 (Ryten and Kvalvika) 徒步的基本信息如下:
+
+{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.innersandToRyten %}
+
+[#reinebringen]
+== 雷讷布林根 (Reinebringen), 罗弗敦
+
+雷讷布林根 (Reinebringen) 是一座山, 位于罗弗敦最美渔村之一, 雷讷 (Reine). 登上雷讷布林根的山顶, 俯瞰在群山簇拥之下的渔村 (Reine, Sakrisøy, Hamnøy), 错落有致地点缀在峡湾之间. 这个壮丽全景是罗弗敦明信片中的标志性景色, 加上雷讷是罗弗敦必去的渔村, 使得雷讷布林根徒步成为罗弗敦最热门的徒步, 没有之一.
+
+.午夜在 Reinebringen 山顶俯瞰渔村 Reine, Sakrisøy 和 Hamnøy
+image::assets/images/2025/lofoten-faroe/hiking-reinebringen/panorama-from-reinebringen.webp[午夜在 Reinebringen 山顶俯瞰渔村 Reine, Sakrisøy 和 Hamnøy]
+
+雷讷布林根 (Reinebringen) 徒步的基本信息如下:
+
+{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.reinebringen %}
+
+有关雷讷布林根 (Reinebringen) 徒步的详细信息可以参考我们的攻略: link:{% post_url 2025-07-07-hiking-reinebringen %}[徒步罗弗敦 (Lofoten) 的 Reinebringen].
+
+[#haheia-and-haen]
+== 鲨鱼高地和鲨鱼峰 (Håheia and Håen), 瓦罗伊岛 (Værøy), 罗弗敦
+
+如果你一路旅行到了罗弗敦 (Lofoten) 南端的小岛瓦罗伊 (Værøy), 那你很可能是为了打卡小众的宝藏徒步 - 鲨鱼高地和鲨鱼峰 (Håheia and Håen). 月牙形的半岛上, 陡峭的山峰环抱着碧绿的海水, 金色的沙滩, 古老的村落, 是瓦罗伊最具标志性的风景. 这里还是海鹦的栖息地和挪威海鹦猎犬的起源地.
+
+.瓦罗伊 (Værøy) 的鲨鱼高地和鲨鱼峰 (Håheia and Håen). 图片: visitlofoten.com
+image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/haheia-and-haen.webp[瓦罗伊 (Værøy) 的鲨鱼高地和鲨鱼峰 (Håheia and Håen)]
+
+鲨鱼高地和鲨鱼峰 (Håheia and Håen) 徒步的基本信息如下:
+
+{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.haaheiaAndHaaen %}
+
+详细信息可以参考我们的笔记: link:{% post_url 2025-07-10-hike-to-haaheia-and-haaen %}[徒步罗弗敦 (Lofoten) 的鲨鱼高地和鲨鱼峰 (Håheia and Håen)].
+
+[#segla]
+== 塞格拉峰 (Segla), 塞尼亚岛 (Senja)
+
+从特罗姆瑟 (Tromsø) 租车出发, 经塞尼亚岛 (Senja) 和西奥伦群岛 (Vesterålen), 前往罗弗敦是夏季热门的经典自驾游路线. 这条路线途经挪威 18 条国家旅游公路中 3 条:
+
+* https://www.nasjonaleturistveger.no/en/routes/senja[Senja]
+* https://www.nasjonaleturistveger.no/en/routes/andoya/[Andøya]
+* https://www.nasjonaleturistveger.no/en/routes/lofoten/[Lofoten]
+
+在塞尼亚岛最引人注目的地标莫过于塞格拉峰 (Segla).
+
+.在塞尼亚岛 (Senja) 上从赫斯滕峰 (Hesten) 欣赏塞格拉峰 (Segla) 的视角. 图片: Simo Räsänen / Wikimedia Commons
+image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/segla.webp[在塞尼亚岛 (Senja) 上从赫斯滕峰 (Hesten) 欣赏塞格拉峰 (Segla) 的视角]
+
+塞尼亚岛在特罗姆瑟的西南, 罗弗敦的东北方向, 是挪威第二大的岛屿. 行政上属于北挪威的特罗姆斯郡 (Troms) 的塞尼亚市镇. 从特罗姆瑟前往塞尼亚岛, 无论是自驾还是乘坐公共交通都是还算便捷.
+
+徒步塞格拉峰是塞尼亚非常热门的徒步路线. 不过不要搞错了, 塞格拉峰的标志性的照片其实是在与它相邻的赫斯滕峰 (Hesten) 拍摄的. 塞格拉峰徒步和赫斯滕峰徒步的起点都在塞尼亚北部一个叫 Fjordgård 的小渔村里. 记得, 跟着赫斯滕峰的路标走.
+
+赫斯滕峰 (Hesten) 徒步路线的基本信息如下:
+
+{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.hesten %}
+
+塞尼亚是我们的下一个目标. 我们计划在冬季去打卡塞格拉峰.
+
+[#matinden]
+== 莫廷恩/莫峰 (Måtinden), 安岛 (Andøya), 西奥伦群岛 (Vesterålen)
+
+在塞尼亚岛以南, 罗弗敦以北, 是西奥伦群岛 (Vesterålen). 在西奥伦群岛北部的安岛 (Andøya) 上, 有另一个著名的徒步目的地, 莫廷恩 (Måtinden). "莫廷恩" 是 Måtinden 的直接音译. 其中 tind 源自古诺尔斯语, 意思就是 "山峰" 或者 "顶峰". 所以, Måtinden 也可以简单地称为 "莫峰".
+
+.午夜阳光下的莫廷恩 (Måtinden) -  安岛 (Andøya) - 西奥伦群岛 (Vesterålen). 图片: Vesterålen Tours / Visit Norway
+image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/matinden.webp[午夜阳光下的莫廷恩 (Måtinden) -  安岛 (Andøya) - 西奥伦群岛 (Vesterålen)]
+
+在莫峰的北侧和南侧的海岸线上分别是 Bleik 和 Stave 两个小村庄, 都可以作为莫峰徒步的起点. 不过, 最常见的走法是从莫峰的东侧出发. 安岛的 7702 号公路是国家旅游公路的一部分. 在这条路上, 大体在 Bleik 和 Stave 中间, 距离 Bleik 约 4 公里处, 有一个路边的停车场. 这里的名字叫 Baugtua, 是包括莫峰徒步路线在内的多条徒步路线的起点.
+
+莫廷恩/莫峰 (Måtinden) 徒步路线的基本信息如下:
+
+{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.matinden %}
+
+需要注意的是, 在冬季由于连接安岛和塞尼亚岛之间的汽车轮渡停航, 自驾去安岛要绕行几百公里. 专程去莫峰十分不易.
+
+[#final-thoughts]
+== 总结和建议
+
+如果有时间和精力, 推荐在夏季走经典自驾游路线: 特罗姆瑟 (Tromsø) - 塞尼亚 (Senja) - 西奥伦 (Vesterålen) - 罗弗敦 (Lofoten). 一次搞定所有这些徒步路线, 外加三条国家国家旅游公路和午夜的太阳.
+
+在冬季, 主题当然就是极光. 天气好的时候可以去尝试以下徒步路线:
+
+* 雷腾山和鲸湾海滩 (Ryten and Kvalvika), 罗弗敦
+* 鲨鱼高地和鲨鱼峰 (Håheia and Håen), 瓦罗伊岛 (Værøy), 罗弗敦
+* 塞格拉峰 (Segla), 塞尼亚岛 (Senja)
+
+[bibliography]
+[#resources]
+== 参考资源
+
+* [[[orig, 1]]] 本文: link:{% post_url 2025-07-13-hiking-in-lofoten %}["徒步罗弗敦 (Lofoten) - 最佳徒步路线"], _lilyroger.com_
+
+* [[[htrt, 2]]] link:{% post_url 2025-08-28-hiking-trail-route-types %}["徒步路线的类型"], _lilyroger.com_
+
+* [[[tgno, 3]]] link:{% post_url 2025-10-18-grading-of-trails-in-norway %}["挪威的徒步步道分级"], _lilyroger.com_

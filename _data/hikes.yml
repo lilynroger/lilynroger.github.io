@@ -208,3 +208,71 @@ routes:
             publisher: ut.no
             language: no
             year: 2025
+
+      hesten:
+        name: 赫斯滕峰 (Hesten), 塞尼亚 (Senja)
+        type:
+          value: outAndBack
+        difficulty:
+          value: blue
+          system: norway
+          notes: 大部分路段简单, 接近山顶的时候有一些陡峭需要攀爬的部分. 步道路标标记为蓝色.
+        altitude:
+          value: 556
+          unit: m
+        elevationGain:
+          value: 489
+          unit: m
+        distance:
+          value: 4.5
+          unit: km
+          roundTrip: true
+        estimatedTime:
+          value: 3
+          unit: h
+          roundTrip: true
+        season:
+          yearRound: true
+        links:
+          uths:
+            url: https://ut.no/turforslag/112336088/fottur-til-hesten-og-stavelitippen-i-fjordgard
+            title: Fottur til Hesten og Stavelitippen i Fjordgård
+            website: ut.no
+            createdOn: 2025-11-06
+
+      matinden:
+        name: 莫廷恩/莫峰 (Måtinden), 安岛 (Andøya), 西奥伦群岛 (Vesterålen)
+        type:
+          value: outAndBack
+        difficulty:
+          value: blue
+          system: norway
+        altitude:
+          value: 408
+          unit: m
+        elevationGain:
+          value: 498
+          unit: m
+        distance:
+          value: 7.4
+          unit: km
+          roundTrip: true
+        estimatedTime:
+          value: 3
+          unit: h
+          roundTrip: true
+        season:
+          min: 6
+          max: 10
+        links:
+          uths:
+            url: https://ut.no/turforslag/1112157119/matind
+            title: Fottur til Måtinden 408 moh
+            website: ut.no
+            createdOn: 2025-11-06
+          vvma:
+            url: https://visitvesteralen.com/en/hikers-paradise/matind
+            title: Måtind (408 masl)
+            website: visitvesteralen.com
+            createdOn: 2025-11-06
+          
