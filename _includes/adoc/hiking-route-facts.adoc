@@ -1,0 +1,32 @@
+[.routeFacts]
+* [.label .type]#路线类型#: [.value .type .{{include.route.type.value}}]#{{ site.data.hikes.types[include.route.type.value].label }}#
+
+* [.label .difficulty]#难度等级#: [.value .difficulty .{{include.route.difficulty.system}} .{{include.route.difficulty.value}}]#{{ site.data.hikes.difficulties[include.route.difficulty.system].levels[include.route.difficulty.value].label }}#
+
+{% if include.route.altitude %}
+* [.label .altitude]#海拔高度#: [.value .altitude]#{{include.route.altitude.value}} {{include.route.altitude.unit}}#
+{% endif %}
+
+{% if include.route.elevationGain %}
+* [.label .elevationGain]#累计爬升#: [.value .elevationGain]#{{include.route.elevationGain.value}} {{include.route.elevationGain.unit}}#
+{% endif %}
+
+{% if include.route.distance %}
+* [.label .distance]#距离#: [.value .distance]#{% if include.route.distance.value %}{{ include.route.distance.value }}{% else %}{{ include.route.distance.min }} - {{ include.route.distance.max }}{% endif %} {{ include.route.distance.unit }}# ( 往返 )
+{% endif %}
+
+{% if include.route.slope %}
+* [.label .slope]#坡度#: [.value .slope]#{{ include.route.slope.grade.value }}{{ include.route.slope.grade.unit }} | {{ include.route.slope.angle.value }}{{ include.route.slope.angle.unit }}#
+{% endif %}
+
+{% if include.route.steps %}
+* [.label .steps]#台阶#: [.value .steps]#{{ include.route.steps.value }} 级#
+{% endif %}
+
+{% if include.route.estimatedTime %}
+* [.label .estimatedTime]#估计用时#: [.value .estimatedTime]#{% if include.route.estimatedTime.value %}{{ include.route.estimatedTime.value }}{% else %}{{ include.route.estimatedTime.min }} - {{ include.route.estimatedTime.max }}{% endif %} {{ include.route.estimatedTime.unit }}# ( 往返 )
+{% endif %}
+
+{% if include.route.season %}
+* [.label .season]#季节#: [.value .season]#{% if include.route.season.yearRound %}全年{% else %}{% if include.route.season.value %}{{ include.route.season.value }}{% else %}{{ include.route.season.min }} - {{ include.route.season.max }}{% endif %} 月{% endif %}#
+{% endif %}
