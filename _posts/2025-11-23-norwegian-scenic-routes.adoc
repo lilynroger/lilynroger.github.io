@@ -1,0 +1,103 @@
+= 挪威国家旅游公路 (Norwegian Scenic Routes)
+:page-subtitle: The Norwegian Scenic Routes
+:page-image: assets/images/2025/lofoten-faroe/norwegian-scenic-routes/trollstigen.webp
+:page-date: 2025-11-23 14:00:00 +0800
+:page-modified_time: 2025-11-23 14:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 自驾]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:sectnums:
+
+挪威国家旅游公路 (Norwegian Scenic Routes) 是官方指定的一系列精选的公路, 穿行于挪威最具特色的海岸线, 峡湾, 山峦和瀑布之间. 沿途不仅仅拥有无以伦比的风光, 同时也有将建筑和艺术融入景观的休息区, 观景台和游客设施. 比如其中的大西洋之路 (The Atlantic Road), 就是无数人心目中的 "此生必驾" 之一.
+
+[#about-norwegian-scenic-routes]
+== 关于挪威国家旅游公路
+
+挪威国家旅游公路在挪威语中称为 Nasjonale turistveger, 官方的英语名称是 https://www.nasjonaleturistveger.no/en/[Norwegian Scenic Routes]. "挪威国家旅游公路" 基本上是挪威语名称的字面意思.
+
+挪威国家旅游公路项目的核心理念是将挪威的自然风光, 卓越的建筑和艺术设计和驾驶体验融为一体. 所以, 这些旅游公路不仅仅是交通通道, 它们本身就是旅行目的地. 每一条国家旅游公路被赋予了一个主题. 比如大西洋之路, 是公认的工程, 艺术, 和自然完美结合的典范. 其主题是 _The road across the sea_, 也就是 "跨越海洋之路". 
+
+挪威国家旅游公路一共有 18 条路线. 其中一半集中在西挪威, 也就是峡湾挪威 (Fjord Norway). 剩下的在北挪威和东挪威. 完整的列表和详细信息可以参考官网: https://www.nasjonaleturistveger.no/en/routes/[The Scenic Routes].
+
+[#hilights-of-norwegian-scenic-routes]
+== 挪威国家旅游公路亮点
+
+这里, 我们挑选出了一部分亮点. 都是本身最热门, 而且在热门的旅游目的地附近, 相对容易体验的路线. 由南向北:
+
+* 哈当厄尔之路 (Hardanger)
+
+* 盖朗厄尔 - 巨魔之路 (Geiranger - Trollstigen)
+
+* 大西洋路 (The Atlantic Road)
+
+* 塞尼亚之路, 安岛之路, 罗弗敦之路 (Senja, Andøya, Lofoten)
+
+[#hardanger]
+=== 哈当厄尔之路 (Hardanger)
+
+哈当厄尔之路 (https://www.nasjonaleturistveger.no/en/routes/hardanger/[Hardanger]) 的主题是 _Mountains, fjords, waterfalls and glaciers_, 也就是 "高山, 峡湾, 瀑布和冰川".
+
+哈当厄尔之路在西挪威, 也就是峡湾挪威. 靠近挪威最热门的旅游城市卑尔根 (Bergen). 地处挪威四大峡湾之一的哈当厄尔峡湾沿岸. 经这条路可以访问挪威三大奇石徒步之一的link:{% post_url 2024-06-07-trolltunga %}[巨魔之舌徒步] (Trolltunga). 沿途更有无数的瀑布. 这一地区也被称为 "挪威的果园". 可以媲美法国香槟, 只是更小众一些的link:{% post_url 2024-06-13-hardanger-ciders %}[哈当厄尔苹果酒] (Hardanger Apple Ciders) 就产自哈当厄尔之路沿途的果园中.
+
+.在哈当厄尔 (Hardanger) 国家旅游公路之上的于伦斯旺 (Ullensvang) 欣赏哈当厄尔峡湾 (Hardangerfjorden)
+image::assets/images/2025/lofoten-faroe/norwegian-scenic-routes/hardangerfjorden-from-hotel-ullensvang.webp[在哈当厄尔 (Hardanger) 国家旅游公路之上的于伦斯旺 (Ullensvang) 欣赏哈当厄尔峡湾 (Hardangerfjorden)]
+
+[#geiranger-trollstigen]
+=== 盖朗厄尔 - 巨魔之路 (Geiranger - Trollstigen)
+
+盖朗厄尔 - 巨魔之路 (https://www.nasjonaleturistveger.no/en/routes/geiranger--trollstigen/[Geiranger - Trollstigen]) 的主题是 _Bendy roads along precipitous mountains_, 也就是 "崇山峻岭间的蜿蜒之路".
+
+盖朗厄尔 - 巨魔之路也在西挪威, 也就是峡湾挪威. 靠近旅游胜地, 号称 "挪威最美小城" 的奥勒松 (Ålesund), 深入四大峡湾之一的盖朗厄尔峡湾. 经此路可以访问欧洲最美火车线路之一的劳马线 (Raumabanen). 盖朗厄尔 - 巨魔之路距离大西洋之路也不远.
+
+.由翁达尔斯内斯 (Åndalsnes) 前往盖朗厄尔 (Geiranger) 途中的的巨魔之路 (Trollstigen)
+image::assets/images/2025/lofoten-faroe/norwegian-scenic-routes/trollstigen.webp[由翁达尔斯内斯 (Åndalsnes) 前往盖朗厄尔 (Geiranger) 途中的的巨魔之路 (Trollstigen)]
+
+[#the-atlantic-road]
+=== 大西洋之路 (The Atlantic Road)
+
+大西洋之路 (挪威语: Atlanterhavsvegen, 英语: https://www.nasjonaleturistveger.no/en/routes/atlanterhavsvegen/[The Atlantic Road]) 的主题是 _The road across the sea_, 也就是 "跨越海洋之路". 
+
+大西洋之路同样在西挪威, 也就是峡湾挪威. 前往大西洋之路通常从奥勒松 (Ålesund) 出发. 这条路本身无需多言, 世界最美自驾路线之一. 只是要有心理准备, 无人机视角才能真正尽享它的壮美.
+
+详细信息可以参考我们的攻略: link:{% post_url 2024-06-14-the-atlantic-road %}[大西洋之路].
+
+.大西洋之路 (The Atlantic Road)
+image::assets/images/2025/lofoten-faroe/norwegian-scenic-routes/the-atlantic-road.webp[大西洋之路 (The Atlantic Road)]
+
+[#senja-andoya-lofoten]
+=== 塞尼亚之路, 安岛之路, 罗弗敦之路 (Senja, Andøya, Lofoten)
+
+北挪威三个临近的旅游公路线路. 从北方旅游胜地特罗姆瑟 (Tromsø) 租车出发, 经塞尼亚岛 (Senja) 和西奥伦群岛 (Vesterålen) 的安岛 (Andøya), 前往罗弗敦群岛是夏季热门的经典自驾游路线. 所以, 这里我们一并介绍.
+
+==== 塞尼亚之路 (Senja)
+
+塞尼亚之路 (https://www.nasjonaleturistveger.no/en/routes/senja/[Senja]) 的主题是 _Ocean, fjords and mountains_, 也就是 "海洋, 峡湾和高山".
+
+塞尼亚之路 (Senja) 在挪威的第二大岛屿塞尼亚岛上. 距离挪威北方旅游胜地特罗姆瑟不远. 从特罗姆瑟出发, 途中搭乘汽车轮渡, 可以前往塞尼亚之路. 塞尼亚夏季是徒步者的天堂, 冬季是追逐极光的最佳地点之一.
+
+==== 安岛之路 (Andøya)
+
+安岛之路 (https://www.nasjonaleturistveger.no/en/routes/andoya/[Andøya]) 的主题是 _Where the ocean comes ashore_, 也就是 "海洋登陆的地方".
+
+安岛之路在西奥伦群岛 (Vesterålen) 北部的安岛 (Andøya) 上, 大体上就是安岛上西部的整个海岸线. 安岛同样是徒步者的天堂. 其中最为著名的徒步目的地是莫廷恩 (Måtinden) 或者称 "莫峰". 安岛也是最著名的观鲸胜地之一.
+
+比较遗憾的是从塞尼亚岛前往安岛的汽车轮渡冬季停运, 使得塞尼亚之路, 安岛之路, 罗弗敦之路的公路之旅只在夏季可行.
+
+==== 罗弗敦之路 (Lofoten)
+
+罗弗敦之路 (https://www.nasjonaleturistveger.no/en/routes/lofoten/[Lofoten]) 的主题是 _Along the wall of jagged peaks rising from the expanse of ocean_, 也就是 "沿着耸立于广阔大洋中的嶙峋山峰之墙".
+
+罗弗敦之路在罗弗敦群岛之上, 包括欧洲 E10 公路在罗弗敦群岛的部分和几条支路. 这里拥有大洋, 峡湾, 高山, 沙滩, 和美丽的渔村. 无论是夏季还是冬季都是热门的目的地.
+
+.罗弗敦 (Lofoten) 渔村 Sakrisøy 的经典黄色传统渔屋 (Rorbuer)
+image::assets/images/2025/lofoten-faroe/norwegian-scenic-routes/rorbuer-at-sakrisoy-in-lofoten.webp[罗弗敦 (Lofoten) 渔村 Sakrisøy 的经典黄色传统渔屋 (Rorbuer)]
+
+[bibliography]
+[#resources]
+== 参考资源
+
+* [[[orig, 1]]] 本文: link:{% post_url 2025-11-23-norwegian-scenic-routes %}["挪威国家旅游公路 (Norwegian Scenic Routes)"], _lilyroger.com_
+
+* [[[ntve, 2]]] https://www.nasjonaleturistveger.no/en/["Norwegian Scenic Routes"], _nasjonaleturistveger.no_
