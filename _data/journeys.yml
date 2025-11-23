@@ -1,0 +1,26 @@
+trips:  
+  2026-France-Norway:
+    journeys:
+      Paris - Lyon:
+        name: 巴黎 (Paris) - 里昂 (Lyon) 的火车
+        legs:
+          - route:
+              type: 
+                name: Train
+              name: Frecciarossa 6645
+              url: https://www.trenitalia.com/
+              agency:
+                name: Trenitalia
+              color: f44336
+            duration: 2h9m
+            departure:                  
+              name: Paris Gare de Lyon
+              datetime: 2026-02-10T08:46:00+0100
+            arrival:
+              name: Gare de Lyon-Perrache
+              datetime: 2026-02-10T10:55:00+0100
+            fare:
+              name: Serenità - Standard Silenzio
+              amount: 23.00
+              currency: EUR
+
