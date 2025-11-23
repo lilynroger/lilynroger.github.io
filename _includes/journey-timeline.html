@@ -1,0 +1,49 @@
+<div class="journey-timeline">
+    <ul class="legs">
+        {% for leg in include.journey.legs %}
+        <li class="leg">
+            <div class="leg-stop leg-departure">
+                <div class="leg-stop-datatime">
+                    {{ leg.departure.datetime | date: "%a, %b %d %I:%M %p" }}
+                </div>
+                <div class="leg-stop-separator" style="background-color: #{{leg.route.color}};"></div>
+                <div class="leg-stop-name">
+                    {{ leg.departure.name }}
+                </div>
+            </div>
+            <div class="leg-content">
+                <div class="leg-content-left">
+                    {% if leg.duration %}<div class="leg-duration">Travel time: {{ leg.duration }}</div>{% endif %}
+                </div>
+                <div class="leg-content-separator">
+                    <div class="vertical-bar" style="border-color: #{{leg.route.color}};"></div>
+                </div>
+                <div class="leg-content-right">
+                    <div class="route">
+                        <span class="route-type">{{ leg.route.type.name }}</span> with <span class="route-agency-name">{{ leg.route.agency.name }}</span> <span class="route-name"  style="background-color: #{{leg.route.color}};">{{ leg.route.name }}</span>
+                    </div>
+                    {% if leg.fare %}
+                    <div class="leg-fare">
+                        <div class="leg-fare-name">
+                            {{ leg.fare.name }}
+                        </div>
+                        <div class="leg-fare-money">
+                            {{ leg.fare.amount }} {{ leg.fare.currency }}
+                        </div>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+            <div class="leg-stop leg-arrival">
+                <div class="leg-stop-datatime">
+                    {{ leg.arrival.datetime | date: "%a, %b %d %I:%M %p" }}
+                </div>
+                <div class="leg-stop-separator" style="background-color: #{{leg.route.color}};"></div>
+                <div class="leg-stop-name">
+                    {{ leg.arrival.name }}
+                </div>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
