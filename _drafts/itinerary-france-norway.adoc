@@ -1,0 +1,302 @@
+= 2026 法国和挪威冬季之旅 - 行程
+:page-subtitle: Itinerary of 2026 France and Norway in Winter
+:page-modified_time: 2025-11-08 18:00:00 +0800
+:page-date: 2026-03-03 12:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 西欧. 北欧, 中欧, 斯堪的纳维亚, 法国, 挪威, 瑞士, 捷克, 阿尔卑斯, 罗弗敦, 巴黎, 里昂, 安纳西, 霞慕尼, 日内瓦, 特隆赫姆, 博德, 奥斯陆, 布拉格, 徒步, 行程]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:toclevels: 2
+:sectnums:
+
+我们 2026 年的第一个行程是法国和挪威的冬季之旅. 在法国, 我们经巴黎前往被誉为 "法国美食之都" 的里昂和阿尔卑斯的霞慕尼 (Chamonix). 之后在挪威, 我们初次探访了号称 "北欧美食之都" 的特隆赫姆 (Trondheim), 并前往罗弗敦群岛 (Lofoten) 感受它的冬季. 最后, 我们取道捷克的首都布拉格回国.
+
+在 2025 年夏季我们游览罗弗敦群岛的时候, 就决定要再看看罗弗敦的冬天. 而在 2026 年的夏季, 我们最大的目标是完成环勃朗峰. 可我们不想单签挪威, 就想到何不在这个冬季去罗弗敦之前先去法国转转, 打卡还没有去过的里昂, 顺路熟悉一下霞慕尼和勃朗峰. 这样就可以更新长期的法国签证, 免去夏季的签证麻烦. 于是就有了这次先法国再挪威的行程的基本构想. 在做回国的行程时, 发现相比从罗弗敦返回奥斯陆乘机回国, 还不如经布拉格回国划算. 就这样, 布拉格成为这次行程的最后一站.
+
+[#route]
+== 路线
+
+[cols="4,8"]
+|===
+| 地点 | 备注
+
+| Paris
+| 
+
+| Lyon
+| 
+
+| Geneva
+| Geneva 距离 Chamonix 交通最方便 (1.5h), 而且 Geneva 到 Trondheim 的机票最便宜 (€116,28), 因为 Geneva - Oslo 在周二四六日有直飞航班
+
+| Trondheim
+| 先南后北, 这样 Lofoten 和 Senja 能有更多的日照时间. 从霞慕尼经日内瓦前往挪威属于行程中变数最大的一段, Trondheim 作为挪威的第一站, 可以作为应对行程受阻的缓冲, 确保后续主要目的地的行程.
+
+| Tromsø
+| 要飞回巴黎, Bodø 受轮渡时间表影响
+
+|===
+
+[#stays]
+== 住宿
+
+罗弗敦群岛是我们此行的主要目的地, 然后是法罗群岛. 我们分别在罗弗敦群岛和法罗群岛住了 9 晚和 6 晚. 此外, 乘机到达和离开北欧时分别在哥本哈根和奥斯陆停留了 1 晚和 2 晚. 下面是此行的住宿一览表:
+
+.住宿一览表
+[cols="3,5,4"]
+|===
+| 地点 | 住宿 | 时间
+
+| Paris
+|
+| 2026-02-09, 4 晚
+
+| Lyon
+|
+| 2026-02-13, 3 晚
+
+| Chamonix
+|
+| 2026-02-16, 3 晚
+
+| Trondheim
+|
+| 2026-02-19, 3 晚
+
+| Lofoten
+| 
+| 2026-02-22, 6 晚
+
+| Senja
+| 
+| 2026-02-28, 3 晚
+
+| Paris
+|
+| 2026-03-03, 2 晚
+
+|===
+
+
+[#flights]
+== 航班
+
+往返北欧的航班我们选择了阿联酋航空. 在哥本哈根, 法罗群岛, 罗弗敦群岛和奥斯陆之间也选择搭乘飞机. 下面是此行的航班一览表:
+
+.航班一览表
+|===
+| 出发 - 中转 - 到达 | 航空公司
+
+| 北京 - 迪拜 - 哥本哈根
+| 阿联酋航空 (Emirates)
+
+| 哥本哈根 - 法罗群岛
+| 大西洋航空公司 (Atlantic Airways)
+
+| 法罗群岛 - 卑尔根 (Bergen) - 博德 (Bodø) - 斯沃尔韦尔 (Svolvær)
+| 维德罗航空 (Widerøe)
+
+| 斯沃尔韦尔 (Svolvær) - 博德 (Bodø) - 奥斯陆
+| 维德罗航空 (Widerøe), 挪威航空 (Norwegian Air Shuttle)
+
+| 北京 - 迪拜 - 哥本哈根
+| 阿联酋航空 (Emirates)
+|===
+
+[#cars]
+== 租车
+
+罗弗敦群岛和法罗群岛的公共交通都相当有限. 初次探访两地, 租车是最佳选择. 下面是此行租车的一览表:
+
+.租车一览表
+[cols="9,3"]
+|===
+| 租车地点 | 租车公司
+
+| 法罗群岛沃格机场 (Vágar Airport, 机场代码: FAE)
+| Alamo
+
+| 罗弗敦群岛斯沃尔韦尔机场 (Svolvaer Airport, 机场代码: SVJ)
+| Hertz
+|===
+
+== 每日行程
+
+=== 巴黎 (Paris) - 里昂 (Lyon)
+
+我们从巴黎到里昂的行程细节如下:
+
+{% assign journey = site.data.journeys.trips["2026-France-Norway"].journeys["Paris - Lyon"] %}
+++++
+{% include journey-timeline.html journey=journey %}
+++++
+
+=== 里昂 (Lyon) - 安纳西 (Annecy)
+
+从里昂前往霞慕尼比较远, 乘火车和巴士需要 3 个小时以上. 我们的行程是先前往里昂和霞慕尼之间的阿尔卑斯小城安纳西 (Annecy) 住 1 晚. 安纳西的住宿费用只有霞慕尼的一半. 次日一早从安纳西去霞慕尼, 只要 1 小时多点, 不影响白天游玩的时间, 还省了不少住宿费用. 更重要的是安纳西本身是一个美丽的中世纪小城, 绝对值得停留一下.
+
+从里昂前往日内瓦, 可以乘坐火车或者巴士, 最经济的方式是巴士, 有两家主要的巴士公司:
+
+* FlixBus
+* BlaBlaCar Bus
+
+因为我们在里昂的住处距离 BlaBlaCar Bus 的 Perrache Bus Station 很近, 所以我们选择了 BlaBlaCar Bus 的班车. 具体的信息如下:
+
+[cols=">5,7"]
+.里昂 (Lyon) - 安纳西 (Annecy) 的巴士
+|===
+| Fri 13 Feb 09:45 AM | Lyon, Perrache Bus Station
+| 1 h 50m | BlaBlaCar Bus, 1727
+| Fri 13 Feb 11:35 AM | Annecy, Gare Routière
+|===
+
+在安纳西, 我们住在 Privilodges Le Royal Annecy.
+
+=== 安纳西 (Annecy) - 霞慕尼 (Chamonix)
+
+为了尽早赶到霞慕尼, 我们选择了乘坐 FlixBus 的早班巴士从安纳西前往霞慕尼. 具体的信息如下:
+
+[cols=">5,7"]
+.安纳西 (Annecy) - 霞慕尼 (Chamonix) 的巴士
+|===
+| Sat 14 Feb 06:45 AM | Annecy, Gare Routière
+| 1 h 20m | FlixBus
+| Sat 14 Feb 08:05 AM | Chamonix, Av. de Courmayeur (Gare routière Sud)
+|===
+
+在霞慕尼, 我们选择住在一家名叫 La Cabane 的民宿.
+
+=== 霞慕尼 (Chamonix)
+
+TBD
+
+=== 霞慕尼 (Chamonix) - 日内瓦 (Genève)
+
+在冬季, 日内瓦每周有两班极具性价比的飞往挪威的航班, 我们选择从日内瓦前往我们此行在挪威的首站 - 特隆赫姆 (Trondheim). 日内瓦住宿成本只有霞慕尼的一半, 所以我们在傍晚就离开霞慕尼前往日内瓦住宿, 一方面更经济, 同时第一天的航班行程也能更可靠一点.
+
+[cols=">5,7"]
+.霞慕尼 (Chamonix) - 日内瓦 (Genève) 的巴士
+|===
+| Mon 16 Feb 05:15 PM | Chamonix, Gare routière Sud
+| 1 h 18m | Swiss Tours
+| Mon 16 Feb 06:33 PM | Genève, Aéroport
+|===
+
+=== 日内瓦 (Genève) - 特隆赫姆 (Trondheim)
+
+[cols=">5,7"]
+.日内瓦 (Genève) - 特隆赫姆 (Trondheim) 的航班
+|===
+
+|
+Tue 17 Feb 12:55pm
+|
+Geneva Cointrin Intl. (GVA) +
+Terminal 1
+
+|
+Travel time: 2h 35m +
+|
+Scandinavian Airlines SK 4632 +
+Airbus A320neo +
+Economy, Standard
+
+|
+Tue 17 Feb 03:30pm +
+|
+Oslo Gardermoen (OSL)
+
+| 1h 30m layover in Oslo
+|
+
+|
+Tue 17 Feb 05:00pm
+|
+Oslo  Gardermoen (OSL)
+
+|
+Travel time: 1h
+|
+Scandinavian Airlines  SK 364 +
+Airbus A320-200neo +
+Economy, Standard
+
+|
+Tue 17 Feb 06:00pm
+|
+Trondheim Vaernes (TRD)
+
+|===
+
+
+== Trondheim - Lofoten
+
+=== 航班
+
+从 Trondheim 前往 Lofoten 的最佳方式是乘飞机. 其中从 Trondheim 乘机到 Bodø 然后换乘汽车轮渡或者高速客船前往 Lofoten 是最具性价比的方式. 如果行程选择先去 Værøy 岛, 那么只能先到 Bodø, 然后换乘汽车轮渡或者直升机前往 Værøy 岛.
+
+如果当天从 Trondheim 经 Bodø 前往 Lofoten 群岛, 则必须乘坐上午的飞机.
+
+=== 汽车轮渡
+
+==== Moskenes
+
+如果从 Bodø 首先前往 Moskenes 岛, 根据汽车轮渡冬季星期五的时间表, 可以乘坐:
+
+* Bodø - Moskenes 16:45 - 20:00
+
+==== Værøy
+
+如果从 Bodø 首先前往 Værøy 岛, 根据汽车轮渡冬季星期五的时间表, 可以乘坐: 
+
+* Bodø - Værøy 16:00 - 21:30
+
+在 Værøy 岛上停留 2 晚, 在间隔一天之后的星期日, 刚好有前往 Moskenes 的轮渡:
+
+* Værøy - Moskenes 13:30 - 14:45
+
+=== 直升机
+
+在 Bodø 机场 (BOO), 可以搭乘 Lufttransport 的直升机前往 Værøy 直升机机场 (VRY). 直升机平日早 (08:30) 晚 (16:30) 各一班, 周末只有早或者晚一班. 机票价格是每人 653 挪威克朗 (2025). 飞行时间是 20 分钟.
+
+如果轮渡因故取消, 有时直升机仍然可以飞行, 作为备份方案也是不错的.
+
+=== 高速客船
+
+作为可选方案, 也可以乘坐客船从 Bodø 前往 Svolvær 进入罗弗敦群岛.
+
+* Bodø - Svolvær: 18:00 (星期日 19:00)
+
+推荐提前在 Reis Nordland 平台上在线预定船票. 参考: https://www.reisnordland.no/bestill-hurtigbat[Book a express boat].
+
+== Lofoten - Oslo
+
+
+=== Moskenes - Bodø
+
+在 Lofoten 的 Moskenes 的轮渡码头乘汽车轮渡可以返回 Bodø 的轮渡码头. 在冬季的星期四, 早晚各有一班直达的汽车轮渡. 为了接驳前往 Oslo 的航班, 需要乘坐上午的轮渡. 时刻表如下:
+
+[cols=">3,9"]
+.Moskenes - Bodø 的轮渡
+|===
+
+|
+08:00 AM
+|
+Moskenes ferjekai +
+
+|
+轮渡
+|
+18-782 Bodø ferjekai (A-rute) +
+_3 h 15m_ +
+
+|
+11:15 AM +
+|
+Bodø ferjekai
+
+|===
+
+作为备份方案, 可以从 Reine 乘坐早班公交车前往 Leknes 的机场, 搭乘 Widerøe 航空前往 Bodø 的飞机. 接驳公交车, 上午至少有两班时间比较合适的航班.
