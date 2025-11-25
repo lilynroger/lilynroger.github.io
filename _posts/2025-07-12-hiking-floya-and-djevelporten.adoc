@@ -228,7 +228,10 @@ Fløya 和 Djevelporten 冬季可以徒步吗?::
 [#resources]
 == 参考资源
 
-* [[[ori, 1]]] 本文: link:{% post_url 2025-07-08-hiking-ryten-and-kvalvika-in-lofoten-norway %}["徒步罗弗敦 (Lofoten) 的 Ryten 山和 Kvalvika 海滩"], _lilyroger.com_
+* [[[ori, 1]]] 本文: link:{% post_url 2025-07-12-hiking-floya-and-djevelporten %}["徒步罗弗敦 (Lofoten) 的弗洛亚和魔鬼之门 (Fløya and Djevelporten)"], _lilyroger.com_
+
 * [[[trt, 2]]] link:{% post_url 2025-08-28-hiking-trail-route-types %}["徒步路线的类型"], _lilyroger.com_
+
 * [[[ntg, 3]]] link:{% post_url 2025-10-18-grading-of-trails-in-norway %}["挪威的徒步步道分级"], _lilyroger.com_
+
 * [[[vlf, 4]]] 罗弗敦官方旅游指南 - 弗洛亚和魔鬼之门: https://visitlofoten.com/en/guide/floya-and-djevelporten-590-m/["Fløya and Djevelporten (590 mos.)"], _visitlofoten.com_
