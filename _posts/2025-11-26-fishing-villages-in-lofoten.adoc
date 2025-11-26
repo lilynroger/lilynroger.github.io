@@ -1,0 +1,197 @@
+= 罗弗敦 (Lofoten) 的渔村
+:page-subtitle: Fishing Villages in Lofoten, Norway
+:page-image: assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/nusfjord-1200x900.webp
+:page-date: 2025-11-26 08:00:00 +0800
+:page-modified_time: 2025-11-26 08:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:sectnums:
+:url-norwegian-scenic-routes: {% post_url 2025-11-23-norwegian-scenic-routes %}
+:url-one-day-island-hopping-road-trip: {% post_url 2025-07-01-one-day-island-hopping-road-trip %}
+:url-hiking-in-lofoten: {% post_url 2025-07-13-hiking-in-lofoten %}
+:url-hiking-festvaagtind: {% post_url 2025-07-05-hiking-festvaagtind %}
+:url-hiking-reinebringen: {% post_url 2025-07-07-hiking-reinebringen %}
+:aff-link-nyvagar-rorbuhotell: https://expedia.com/affiliate/7bt6tx2
+:aff-link-henningsvaer-bryggehotell: https://expedia.com/affiliate/8DEkkBY
+:aff-link-henningsvaer-rorbuer: https://expedia.com/affiliate/svU4c2x
+:aff-link-nusfjord-arctic-resort: https://expedia.com/affiliate/IeSOJ7m
+:aff-link-eliassen-rorbuer: https://expedia.com/affiliate/8Mv2YEa
+:aff-link-reine-rorbuer: https://expedia.com/affiliate/mIZNIU9
+:aff-link-a-rorbuer: https://expedia.com/affiliates/moskenes-hotels-a-rorbuer.NcH5Ciz
+
+挪威的罗弗敦 (Lofoten) 因为拥有壮丽的大自然和迷人的渔村而成为无数人的梦想旅行目的地. 在这里, 渔村一个连着一个. 在高山, 碧海, 和蓝天的衬托下, 特别是夏季午夜的阳光中, 冬季跳动的极光下, 红色和黄色的传统渔屋 (Rorbu) 和渔船错落有致, 成为罗弗敦最具标志性的画面.
+
+在挪威语中, 渔村称为 Fiskevær, 由 _Fiske_ + _vær_ 两部分构成, 前者的意思是 "渔", 后者的意思就是 "渔村", 是挪威, 特别是北挪威非常常见的地名后缀.
+
+在罗弗敦的渔村, 乃至整个挪威, 最有名的鱼就是挪威北极鳕鱼 (Norwegian Arctic Cod). 这种鱼在挪威语中称为 Skrei, 发音 [skræj], 大体是 "斯克莱伊". 每年冬天, 挪威北极鳕鱼从白令海迁徙到北挪威的沿海地区繁殖. 而罗弗敦从维京时期就是挪威北极鳕鱼的捕捞中心.
+
+TIP: 在挪威你还会遇到另一个同样表示鳕鱼 (Cod) 的词 Torsk, 这个是泛指所有鳕鱼品种. 而 Skrei 特指冬季从白令海迁徙到北挪威的鳕鱼, 是最好的鳕鱼品种.
+
+.冬季在罗弗敦 (Lofoten) 钓挪威北极鳕鱼 (Norwegian Arctic Cod). 图片: VisitNorway.com
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/norwegian-arctic-cod-winter-fishing-in-lofoten-visitnorway.webp[冬季在罗弗敦 (Lofoten) 钓挪威北极鳕鱼 (Norwegian Arctic Cod)]
+
+人们常常误以为在罗弗敦的吃到本地鳕鱼总是新鲜的, 实际上, 在冬季新鲜收获的鳕鱼会在户外的木架上晾晒风干数月. 夏季去罗弗敦, 就会看到已经空了的木架子, 也会闻到浓重的鳕鱼干的味道. 本地人戏称为 "钱的味道".
+
+.罗弗敦 (Lofoten) 的雷讷快艇码头 (Reine hurtigbåtkai) 附近的的鳕鱼干木架
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/stockfish-racks-in-reine.webp[罗弗敦 (Lofoten) 的雷讷快艇码头 (Reine hurtigbåtkai) 附近的的鳕鱼干木架]
+
+在不少渔村里, 还会发现极具当地特色的晾干的大鱼头展示和售卖. 有鳕鱼头, 还有人称海魔鬼鱼 (Seadevil) 的安康鱼 (Monkfish) 的鱼头.
+
+.罗弗敦 (Lofoten) 的萨克里岛上 (Sakrisøy) 的安妮塔海鲜餐厅 (Anita's Sjømat) 中售卖的安康鱼头干
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/monkfish-heads-in-sakrisoy.webp[罗弗敦 (Lofoten) 的萨克里岛上 (Sakrisøy) 的安妮塔海鲜餐厅 (Anita's Sjømat) 中售卖的安康鱼头干]
+
+这里我们列举了最值得去体验的罗弗敦的渔村:
+
+.罗弗敦 (Lofoten) 的渔村
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/fishing-villages-in-lofoten.webp[罗弗敦 (Lofoten) 的渔村]
+
+在上面的地图中, 罗弗敦的两座拥有机场的城市包括北部的 Svolvær 和中部的 Leknes. 挪威国家旅游公路之一的 "罗弗敦之路" 以欧洲 [E10] 公路的罗弗敦段为主线, 其他一些辐射出去的郡道为直线. 在罗弗敦北部的起点是 Raftsundet, 南部的终点是 Å. 我们将介绍的渔村都在罗弗敦之路上. 由北到南:
+
+[#svolvar]
+== 斯沃尔维尔 (Svolvær)
+
+不同于这里其他的渔村, 斯沃尔维尔是罗弗敦的 "最大城市", 它是其所在的沃甘市镇 (Vågan) 的行政中心, 同时也是罗弗敦的 "首府". 它感觉更像一个热闹的小镇, 拥有不少现代化的特征, 但同时也保留了传统渔村的许多特点. 介绍罗弗敦的渔村当然不能跳过 Svolvær, 更何况它的名字的后缀就是渔村 (vær).
+
+.斯沃尔维尔 (Svolvær) 城市的一面
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/svolvaer.webp[斯沃尔维尔 (Svolvær) 城市的一面]
+
+斯沃尔维尔充满活力, 拥有不少的餐馆, 酒店和商店. 罗弗敦地区公路可达的两座机场之一, 斯沃尔韦尔机场 (Svolvær Airport, SVE) 就在城外 6 公里. 城内有港口连接周边各地的其他港口, 海达路德游轮也会停靠这里. 欧洲 E10 公路蜿蜒穿过斯沃尔韦尔中心. 交通可谓十分便利.
+
+斯沃尔维尔同时也是户外运动的天堂, 拥有包括包括弗洛亚和魔鬼之门 (Fløya and Djevelporten) 在内众多徒步路线和和斯沃尔维尔山羊峰攀岩 (Svolværgeita). 详细信息可以参考我们的攻略: link:{% post_url 2025-07-12-hiking-floya-and-djevelporten %}[徒步罗弗敦 (Lofoten) 的弗洛亚和魔鬼之门 (Fløya and Djevelporten)].
+
+斯沃尔韦尔是探索罗弗敦群岛, 特别是罗弗敦群岛北部的理想大本营.
+
+[#kabelvag]
+== 卡贝尔沃格 (Kabelvåg)
+
+卡贝尔沃格是罗弗敦最古老, 也曾经是罗弗敦最大的渔村. 早在萨迦 (Saga) 时期, 这里就已闻名. 据《挪威王列传》记载, 国王厄于斯坦 (Øystein, 1103-1128 年在位) 曾在此建造渔屋和教堂.
+
+卡贝尔沃格拥有建于 1898 年的十字形木结构的沃根教堂 (Vågan Church), 也称为罗弗敦主教座堂. 此外还有斯克雷体验中心 (https://www.museumnord.no/en/projects/skrei-2/[SKREI]), 北方博物馆 (https://www.museumnord.no/en/home/[Museum Nord]) 的一个分馆, 由罗弗敦博物馆, 罗弗敦水族馆, 和埃斯波林画廊组成.
+
+历史底蕴是这个渔村的特点. 喜欢历史和博物馆的话, 不妨路过时游览一番. 这里也有许多相当不错的住宿选择, 比如 link:{aff-link-nyvagar-rorbuhotell}[Nyvagar Rorbuhotell By Classic Norway Hotels].
+
+[#henningsvaer]
+== 亨宁斯维尔 (Henningsvær)
+
+亨宁斯维尔是罗弗敦群岛上最美的渔村之一. 它曾一度只能坐船前往. 直到 1983 年, 亨宁斯维尔大桥建成通车, 终于将亨宁斯维尔连接到罗弗敦大陆 <<hvnh>>. 因为亨宁斯维尔是几座风景如画的小岛, 由桥梁和堤道连接在一起, 当地人称之为 "罗弗敦的威尼斯".
+
+.罗弗敦的威尼斯 - 亨宁斯维尔 (Henningsvær)
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/henningsvaer.webp[罗弗敦的威尼斯 - 亨宁斯维尔 (Henningsvær)]
+
+亨宁斯维尔是一个生机勃勃的渔村, 有许多渔屋, 餐馆, 咖啡厅, 纪念品商店. 还有被称为 "世界尽头最美足球场" 的亨宁斯维尔足球场. 此外, 通往亨宁斯维尔的 [816] 号公路也是link:{url-norwegian-scenic-routes}[挪威的国家旅游公路]之一 "罗弗敦之路" 的一部分.
+
+TIP: 法罗群岛的艾迪 (Eiði) 也有一片足球场, 同样座落在北大西洋岸边, 被称为 "世界边缘最美足球场". 参考我们的游记: link:{url-one-day-island-hopping-road-trip}[法罗群岛三大岛跳岛自驾一日游].
+
+我们最喜欢的link:{url-hiking-in-lofoten}[罗弗敦徒步]之一 Festvågtind 徒步就在亨宁斯维尔. 详细信息可以参考我们的攻略: link:{url-hiking-festvaagtind}[徒步罗弗敦 (Lofoten) 的 Festvågtind].
+
+.徒步到 Festvågtind 的顶峰俯瞰亨宁斯维尔 (Henningsvær) 全景
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/henningsvaer-hike-to-festvagtind.webp[徒步到 Festvågtind 的顶峰俯瞰亨宁斯维尔 (Henningsvær) 全景]
+
+在我们的罗弗敦之行中, 是由斯沃尔维尔机场抵达罗弗敦. 我们选择自驾越过斯沃尔维尔, 直接住到亨宁斯维尔. 主要是考虑到离开罗弗敦之前反正还要回到斯沃尔维尔住, 以便尽可能离机场近一点. 所以, 亨宁斯维尔成为我们探索罗弗敦群岛的第一站. 这里有不少相当不错的住宿选项. 比如 link:{aff-link-henningsvaer-bryggehotell}[Henningsvær Bryggehotell - by Classic Norway Hotels] 和 link:{aff-link-henningsvaer-rorbuer}[Henningsvær Rorbuer].
+
+[#nusfjord]
+== 努斯峡湾 (Nusfjord)
+
+努斯峡湾 (Nusfjord) 是一个很小的渔村, 也是罗弗敦最古老保存最完好的渔村之一. 努斯峡湾被形容为 "_a pearl in red and ochre_" <<nnnf>>, 即 "红色和赭石色的明珠", 是深藏在罗弗敦群山之下的最美渔村之一.
+
+.努斯峡湾 (Nusfjord)
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/nusfjord.webp[努斯峡湾 (Nusfjord)]
+
+从欧洲 [E10] 公路转到 [7596] 号公路, 尽头就是努斯峡湾. 努斯峡湾很适合自驾半日游, 整段行程都是挪威国家旅游公路, 罗弗敦之路的一段. 不过这里是唯一收费的渔村, 游客进入渔村就需要 100 挪威克朗每人 (2025 年). 虽然有点贵, 不过还是值得的.
+
+努斯峡湾同时也是热门的度假地, 非常适合喜欢松弛感, 享受悠闲假期的人. 这里虽小, 但是有传统渔度假村 link:{aff-link-nusfjord-arctic-resort}[Nusfjord Arctic Resort], 还有一家不错的餐馆, 一个披萨店. 我们尤其喜欢这里的 Hansines Bakeri 面包店, 从 1887 年开始就在这里为渔民们烤制面包.
+
+.从 1887 年开始就在 Nusfjord 为渔民们烤制面包的 Hansines Bakeri 面包店
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/nusfjord-bakery.webp[从 1887 年开始就在 Nusfjord 为渔民们烤制面包的 Hansines Bakeri 面包店]
+
+[#hammoy]
+== 哈姆岛 (Hamnøy)
+
+哈姆岛 (Hamnøy) 是一个很小的渔村, 座落在同名的小岛上. 这里的经典红色传统渔屋在高山和峡湾的映衬下, 构成了罗弗敦最具标志性的画面. 相信大多数游客对罗弗敦的最初印象是建立在哈姆岛的风光片之上的.
+
+.哈姆岛 (Hamnøy) 上的罗弗敦经典红色传统渔屋 (Rorbu)
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/hamnoy.webp[哈姆岛 (Hamnøy) 上的罗弗敦经典红色传统渔屋 (Rorbu)]
+
+哈姆岛也有译作哈姆诺伊. 不过 Hamnøy 中的后缀 _øy_ 在挪威语中意思就是 "岛", 所以音和意结合起来的中文名称会更直白, 交流更方便些.
+
+现在小岛和渔村基本上都是 link:{aff-link-eliassen-rorbuer}[Eliassen Rorbuer] 的传统渔屋及其他度假和旅游设施了.
+
+[#sakrisoy]
+== 萨克里岛 (Sakrisøy)
+
+在过去, 红色的颜料最便宜, 所以罗弗敦的传统渔屋大多是红色的. 除此之外, 明黄色也是经典的颜色. 萨克里岛就是经典黄色的代表, 我们的最爱.
+
+.萨克里岛 (Sakrisøy) 上的罗弗敦经典黄色传统渔屋 (Rorbu)
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/sakrisoy.webp[萨克里岛 (Sakrisøy) 上的罗弗敦经典黄色传统渔屋 (Rorbu)]
+
+萨克里岛是一个私人拥有的小岛, 地处哈姆岛 (Hamnøy) 和雷讷 (Reine) 之间. 从 1889 年小岛的主人 Gylseth 一家买下这个小岛开始, 它们已经在此经营了六代人 <<sooo>>.
+
+如今, 岛上的传统渔屋 https://www.sakrisoyrorbuer.no/[Sakrisoy Rorbuer] 是高分的住宿选项, 而 Anita's Sjømat 海鲜餐厅更是附近不可错过的美食打卡地.
+
+.萨克里岛 (Sakrisøy) 上的 Anita's Sjømat 海鲜餐厅的火炙鲸肉片 (Whale Tataki)
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/sakrisoy-anitas-seafood-whale-tataki.webp[萨克里岛 (Sakrisøy) 上的 Anita's Sjømat 海鲜餐厅的火炙鲸肉片 (Whale Tataki)]
+
+[#reine]
+== 雷讷 (Reine)
+
+雷讷 (Reine) 基本上就是罗弗敦最知名的地方了, 被称为罗弗敦的最美渔村, 甚至经常没有之一. 它是其所在的莫斯科内斯 (Moskenes) 市镇的行政中心. 住宿, 餐饮, 超市, 加油站等等各项设施齐全. 甚至还有一个有一点规模的户外装备店. 交通, 停车也十分方便.
+
+.从挪威国家旅游公路罗弗敦之路上的 Reinehalsen 观景点欣赏午夜阳光下的雷讷 (Reine)
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/reine.webp[从挪威国家旅游公路罗弗敦之路上的 Reinehalsen 观景点欣赏午夜阳光下的雷讷 (Reine)]
+
+夏季徒步登上 Reinebringen 的山顶, 俯瞰雷讷和周围的小岛组成的岛链, 是罗弗敦最热门的徒步. 详细信息可以参考我们的攻略: link:{url-hiking-reinebringen}[徒步罗弗敦 (Lofoten) 的 Reinebringen].
+
+雷讷是探索罗弗敦最佳的基地之一, 有包括 link:{aff-link-reine-rorbuer}[Reine Rorbuer By Classic Norway Hotels] 在内的众多住宿选项.
+
+[#sorvagen]
+== 瑟尔沃格 (Sørvågen)
+
+瑟尔沃格 (Sørvågen) 在雷讷 (Reine) 和罗弗敦大陆最南端的奥村 (Å i Lofoten) 之间. 而且距离莫斯科内斯 (Moskenes) 的轮渡码头很近. 酒店, 餐馆, 超市等各项设施齐全. 比较有名的 Munkebu 徒步路线的起点也在这里. 所以, 这里也吸引着不少游客前往.
+
+.瑟尔沃格 (Sørvågen)
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/sorvagen.webp[瑟尔沃格 (Sørvågen)]
+
+这里也有一家非常吸引人的旅馆 https://www.holmenlofoten.no/[Holmen Lofoten], 设计感十足. 我们在这里还尝试了当地颇有名气的一家海鲜餐馆 https://marenanna.com/[Maren Anna], 还不错.
+
+.瑟尔沃格 (Sørvågen) 的海鲜餐馆 Maren Anna 的菜肴
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/sorvagen-maren-anna.webp[瑟尔沃格 (Sørvågen) 的海鲜餐馆 Maren Anna 的菜肴]
+
+[#a-i-lofoten]
+== 奥村 (Å i Lofoten)
+
+奥村 (Å i Lofoten) 是罗弗敦大陆的最南端的最后一个渔村. 欧洲 [E10] 公路的尽头. 挪威有不止一个名字叫 Å, 为了加以区分, 这里的渔村写作 Å i Lofoten, 意思就是罗弗敦的奥村.
+
+奥村精致而迷人. 不但拥有罗弗敦鱼干博物馆 (Lofoten Stockfish Museum) 和挪威渔村博物馆 (Norwegian Fishing Village Museum) 两座小博物馆, 还有包括 link:{aff-link-a-rorbuer}[Å Rorbuer - by Classic Norway Hotels] 在内的相当不错的住宿选项. 加之 "罗弗敦的尽头" 这样的卖点. 奥村是非常热门的渔村.
+
+.奥村 (Å i Lofoten) 的传统渔屋酒店 Å Rorbuer - by Classic Norway Hotels
+image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/a-i-lofoten.webp[奥村 (Å i Lofoten) 的传统渔屋酒店 Å Rorbuer - by Classic Norway Hotels]
+
+[#final-thoughts]
+== 总结和建议
+
+体验罗弗敦的渔村最佳的方式当然是住进去, 将其作为探索周边的基地. 我们认为最适合作为基地的渔村, 也是我们最喜欢的渔村是:
+
+* 哈姆岛 (Hamnøy), 萨克里岛 (Sakrisøy), 雷讷 (Reine)
+* 亨宁斯维尔 (Henningsvær)
+* 斯沃尔维尔 (Svolvær)
+
+哈姆岛, 萨克里岛, 雷讷是罗弗敦渔村最美的精华所在, 而且集中在几公里的范围内, 无疑是必去的, 也是探索罗弗敦最佳的基地. 从这里出发, 可以游览附近的瑟尔沃格 (Sørvågen) 和 奥村 (Å i Lofoten). 自驾的探访努斯峡湾 (Nusfjord), 单程也只要不到一小时.
+ 
+亨宁斯维尔 (Henningsvær) 是罗弗敦北部的最美渔村, 是理想的北部基地之一.
+
+斯沃尔维尔 (Svolvær) 相比其他渔村更像个城市, 如果你恰好喜欢这一点, 作为罗弗敦的北方门户和首府, 当然也是基地的上佳选择之一.
+
+[bibliography]
+[#resources]
+== 参考资源
+
+* [[[orig, 1]]] 本文: {{ page.url | absolute_url }}["{{page.title}}"], _lilyroger.com_
+
+* [[[hvnh, 2]]] https://henningsvaer.no/en/the-history-of-henningsvaer/[The history of Henningsvær], _henningsvaer.no_
+
+* [[[nnnf, 3]]] https://nordnorge.com/en/artikkel/nusfjord-in-lofoten-is-a-pearl-in-red-and-ochre/[Nusfjord in Lofoten is a pearl in red and ochre], _nordnorge.com_
+
+* [[[sooo, 4]]] https://sakrisoy.no/origin/[Origin: Our Story], _sakrisoy.no_
