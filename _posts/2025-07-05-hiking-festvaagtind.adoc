@@ -10,6 +10,9 @@
 :toc:
 :sectnums:
 :url-one-day-island-hopping-road-trip: {% post_url 2025-07-01-one-day-island-hopping-road-trip %}
+:url-norwegian-scenic-routes: {% post_url 2025-11-23-norwegian-scenic-routes %}
+:aff-link-henningsvaer-bryggehotell: https://expedia.com/affiliate/8DEkkBY
+:aff-link-henningsvaer-rorbuer: https://expedia.com/affiliate/svU4c2x
 
 Festvågtind 徒步是罗弗敦群岛最热门的徒步之一. 登顶 Festvågtind 山峰后, 可以俯瞰亨宁斯维尔 (Henningsvær) 和西峡湾 (Vestfjord) 的壮丽全景. 也许还可以顺路绕一下去挑战著名的 Presten (挪威语: 牧师岩) 悬崖之上的巨石 Torsketunga (挪威语: 鳕鱼舌).
 
@@ -131,23 +134,23 @@ image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/torsketunga.webp[在
 [#henningsvaer]
 == 亨宁斯维尔
 
-亨宁斯维尔是罗弗敦群岛上最美的渔村之一. 距离罗弗敦最大的城市斯沃尔维尔大约 26 公里. 距离斯沃尔维尔机场 (Svolvær Airport, Helle) 也只有 31 公里.
+亨宁斯维尔是罗弗敦群岛上最美的渔村之一. 它曾一度只能坐船前往. 直到 1983 年, 亨宁斯维尔大桥建成通车, 终于将亨宁斯维尔连接到罗弗敦大陆. 因为亨宁斯维尔是几座风景如画的小岛, 由桥梁和堤道连接在一起, 当地人称之为 "罗弗敦的威尼斯". 
 
-.亨宁斯维尔
-image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/henningsvaer.webp[亨宁斯维尔]
+.罗弗敦的威尼斯 - 亨宁斯维尔 (Henningsvær)
+image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/henningsvaer.webp[罗弗敦的威尼斯 - 亨宁斯维尔 (Henningsvær)]
 
-亨宁斯维尔除了 Festvågtind 徒步之外, 还有被称为 "世界尽头最美足球场" 的亨宁斯维尔足球场. 此外, 通往亨宁斯维尔的 [816] 号公路也是挪威的国家旅游公路之一.
+亨宁斯维尔是一个生机勃勃的渔村, 有许多渔屋, 餐馆, 咖啡厅, 纪念品商店, 还有被称为 "世界尽头最美足球场" 的亨宁斯维尔足球场. 此外, 通往亨宁斯维尔的 [816] 号公路也是link:{url-norwegian-scenic-routes}[挪威的国家旅游公路]之一 "罗弗敦之路" 的一部分.
 
 TIP: 法罗群岛的艾迪 (Eiði) 也有一片足球场, 同样座落在北大西洋岸边, 被称为 "世界边缘最美足球场". 参考我们的游记: link:{url-one-day-island-hopping-road-trip}[法罗群岛三大岛跳岛自驾一日游]
 
-在我们的罗弗敦之行中, 考虑到离开罗弗敦之前要回到斯沃尔维尔住, 以便尽可能离机场近一点. 所以, 抵达罗弗敦的斯沃尔维尔机场后, 我们选择自驾经过斯沃尔维尔, 直接住到亨宁斯维尔, 把这里作为探索罗弗敦群岛的第一站.
+在我们的罗弗敦之行中, 是由斯沃尔维尔机场抵达罗弗敦. 我们选择自驾越过斯沃尔维尔, 直接住到亨宁斯维尔. 主要是考虑到离开罗弗敦之前反正还要回到斯沃尔维尔住, 以便尽可能离机场近一点. 所以, 亨宁斯维尔成为我们探索罗弗敦群岛的第一站.
 
-这里有不少相当不错的住宿选项. 比如 2024 年才开业的 https://expedia.com/affiliates/vagan-hotels-henningsvr-bryggehotell-by-classic-norway-hotels.ykSA4Bp[Henningsvær Bryggehotell - by Classic Norway Hotels] 就是最好的选项之一. 
+这里有不少相当不错的住宿选项. 比如 link:{aff-link-henningsvaer-bryggehotell}[Henningsvær Bryggehotell - by Classic Norway Hotels] 就是最好的选项之一. 
 
 .Henningsvær Bryggehotell - by Classic Norway Hotels
 image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/cnh-henningsvaer.webp[Henningsvær Bryggehotell - by Classic Norway Hotels]
 
-我们住过 Classic Norway Hotels 旗下的多家酒店和传统渔屋. 可惜亨宁斯维尔的这家在我们的罗弗敦之行时有点太贵了. 所以, 我们选择了 https://expedia.com/affiliates/vagan-hotels-henningsvr-rorbuer.TMxY0N3[Henningsvær Rorbuer].
+我们住过 Classic Norway Hotels 旗下的多家酒店和传统渔屋. 可惜亨宁斯维尔的这家在我们的罗弗敦之行时有点太贵了. 所以, 我们选择了 link:{aff-link-henningsvaer-rorbuer}[Henningsvær Rorbuer].
 
 .Henningsvær Rorbuer
 image::assets/images/2025/lofoten-faroe/hiking-festvaagtind/henningsvaer-rorbuer.webp[Henningsvær Rorbuer]
