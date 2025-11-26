@@ -33,7 +33,7 @@ TIP: 在挪威你还会遇到另一个同样表示鳕鱼 (Cod) 的词 Torsk, 这
 .冬季在罗弗敦 (Lofoten) 钓挪威北极鳕鱼 (Norwegian Arctic Cod). 图片: VisitNorway.com
 image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/norwegian-arctic-cod-winter-fishing-in-lofoten-visitnorway.webp[冬季在罗弗敦 (Lofoten) 钓挪威北极鳕鱼 (Norwegian Arctic Cod)]
 
-人们常常误以为在罗弗敦的吃到本地鳕鱼总是新鲜的, 实际上, 在冬季新鲜收获的鳕鱼会在户外的木架上晾晒风干数月. 夏季去罗弗敦, 就会看到已经空了的木架子, 也会闻到浓重的鳕鱼干的味道. 本地人戏称为 "钱的味道".
+人们常常误以为在罗弗敦吃到的本地鳕鱼总是新鲜的, 实际上, 在冬季新鲜收获的鳕鱼会在户外的木架上晾晒风干数月. 夏季去罗弗敦, 就会看到已经空了的木架子, 也会闻到浓重的鳕鱼干的味道. 本地人戏称为 "钱的味道".
 
 .罗弗敦 (Lofoten) 的雷讷快艇码头 (Reine hurtigbåtkai) 附近的的鳕鱼干木架
 image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/stockfish-racks-in-reine.webp[罗弗敦 (Lofoten) 的雷讷快艇码头 (Reine hurtigbåtkai) 附近的的鳕鱼干木架]
@@ -60,7 +60,7 @@ image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/svolvaer.web
 
 斯沃尔维尔充满活力, 拥有不少的餐馆, 酒店和商店. 罗弗敦地区公路可达的两座机场之一, 斯沃尔韦尔机场 (Svolvær Airport, SVE) 就在城外 6 公里. 城内有港口连接周边各地的其他港口, 海达路德游轮也会停靠这里. 欧洲 E10 公路蜿蜒穿过斯沃尔韦尔中心. 交通可谓十分便利.
 
-斯沃尔维尔同时也是户外运动的天堂, 拥有包括包括弗洛亚和魔鬼之门 (Fløya and Djevelporten) 在内众多徒步路线和和斯沃尔维尔山羊峰攀岩 (Svolværgeita). 详细信息可以参考我们的攻略: link:{% post_url 2025-07-12-hiking-floya-and-djevelporten %}[徒步罗弗敦 (Lofoten) 的弗洛亚和魔鬼之门 (Fløya and Djevelporten)].
+斯沃尔维尔同时也是户外运动的天堂, 拥有包括包括弗洛亚和魔鬼之门 (Fløya and Djevelporten) 在内众多徒步路线和斯沃尔维尔山羊峰攀岩 (Svolværgeita). 详细信息可以参考我们的攻略: link:{% post_url 2025-07-12-hiking-floya-and-djevelporten %}[徒步罗弗敦 (Lofoten) 的弗洛亚和魔鬼之门 (Fløya and Djevelporten)].
 
 斯沃尔韦尔是探索罗弗敦群岛, 特别是罗弗敦群岛北部的理想大本营.
 
@@ -90,7 +90,7 @@ TIP: 法罗群岛的艾迪 (Eiði) 也有一片足球场, 同样座落在北大�
 .徒步到 Festvågtind 的顶峰俯瞰亨宁斯维尔 (Henningsvær) 全景
 image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/henningsvaer-hike-to-festvagtind.webp[徒步到 Festvågtind 的顶峰俯瞰亨宁斯维尔 (Henningsvær) 全景]
 
-在我们的罗弗敦之行中, 是由斯沃尔维尔机场抵达罗弗敦. 我们选择自驾越过斯沃尔维尔, 直接住到亨宁斯维尔. 主要是考虑到离开罗弗敦之前反正还要回到斯沃尔维尔住, 以便尽可能离机场近一点. 所以, 亨宁斯维尔成为我们探索罗弗敦群岛的第一站. 这里有不少相当不错的住宿选项. 比如 link:{aff-link-henningsvaer-bryggehotell}[Henningsvær Bryggehotell - by Classic Norway Hotels] 和 link:{aff-link-henningsvaer-rorbuer}[Henningsvær Rorbuer].
+在我们的罗弗敦之行中, 是由斯沃尔维尔机场抵达罗弗敦. 我们选择自驾越过斯沃尔维尔, 直接住到亨宁斯维尔. 主要是考虑到离开罗弗敦之前还要回到斯沃尔维尔住, 以便尽可能离机场近一点. 所以, 亨宁斯维尔成为我们探索罗弗敦群岛的第一站. 这里有不少相当不错的住宿选项. 比如 link:{aff-link-henningsvaer-bryggehotell}[Henningsvær Bryggehotell - by Classic Norway Hotels] 和 link:{aff-link-henningsvaer-rorbuer}[Henningsvær Rorbuer].
 
 [#nusfjord]
 == 努斯峡湾 (Nusfjord)
@@ -102,7 +102,7 @@ image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/nusfjord.web
 
 从欧洲 [E10] 公路转到 [7596] 号公路, 尽头就是努斯峡湾. 努斯峡湾很适合自驾半日游, 整段行程都是挪威国家旅游公路, 罗弗敦之路的一段. 不过这里是唯一收费的渔村, 游客进入渔村就需要 100 挪威克朗每人 (2025 年). 虽然有点贵, 不过还是值得的.
 
-努斯峡湾同时也是热门的度假地, 非常适合喜欢松弛感, 享受悠闲假期的人. 这里虽小, 但是有传统渔度假村 link:{aff-link-nusfjord-arctic-resort}[Nusfjord Arctic Resort], 还有一家不错的餐馆, 一个披萨店. 我们尤其喜欢这里的 Hansines Bakeri 面包店, 从 1887 年开始就在这里为渔民们烤制面包.
+努斯峡湾同时也是热门的度假地, 非常适合喜欢松弛感, 享受悠闲假期的人. 这里虽小, 但是有传统渔屋度假村 link:{aff-link-nusfjord-arctic-resort}[Nusfjord Arctic Resort], 还有一家不错的餐馆, 一个披萨店. 我们尤其喜欢这里的 Hansines Bakeri 面包店, 从 1887 年开始就在这里为渔民们烤制面包.
 
 .从 1887 年开始就在 Nusfjord 为渔民们烤制面包的 Hansines Bakeri 面包店
 image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/nusfjord-bakery.webp[从 1887 年开始就在 Nusfjord 为渔民们烤制面包的 Hansines Bakeri 面包店]
@@ -178,7 +178,7 @@ image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/a-i-lofoten.
 * 亨宁斯维尔 (Henningsvær)
 * 斯沃尔维尔 (Svolvær)
 
-哈姆岛, 萨克里岛, 雷讷是罗弗敦渔村最美的精华所在, 而且集中在几公里的范围内, 无疑是必去的, 也是探索罗弗敦最佳的基地. 从这里出发, 可以游览附近的瑟尔沃格 (Sørvågen) 和 奥村 (Å i Lofoten). 自驾的探访努斯峡湾 (Nusfjord), 单程也只要不到一小时.
+哈姆岛, 萨克里岛, 雷讷是罗弗敦渔村最美的精华所在, 而且集中在几公里的范围内, 无疑是必去的, 也是探索罗弗敦最佳的基地. 从这里出发, 可以游览附近的瑟尔沃格 (Sørvågen) 和 奥村 (Å i Lofoten). 自驾去探访努斯峡湾 (Nusfjord), 单程也只要不到一小时.
  
 亨宁斯维尔 (Henningsvær) 是罗弗敦北部的最美渔村, 是理想的北部基地之一.
 
