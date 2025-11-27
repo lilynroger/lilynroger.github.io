@@ -63,6 +63,7 @@ asciidoctor:
   attributes:
     imagesdir: "/"
     includedir: "_includes"
+    bibtex-file: _bibtex/master.bib
     icons: font
     toc: auto
     toc-title: 目录

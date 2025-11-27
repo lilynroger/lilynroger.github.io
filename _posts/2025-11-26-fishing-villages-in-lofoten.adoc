@@ -2,7 +2,7 @@
 :page-subtitle: Fishing Villages in Lofoten, Norway
 :page-image: assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/nusfjord-1200x900.webp
 :page-date: 2025-11-26 08:00:00 +0800
-:page-modified_time: 2025-11-26 08:00:00 +0800
+:page-modified_time: 2025-11-27 21:00:00 +0800
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦]
 :page-categories: posts
 :page-layout: post
@@ -76,7 +76,7 @@ image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/svolvaer.web
 [#henningsvaer]
 == 亨宁斯维尔 (Henningsvær)
 
-亨宁斯维尔是罗弗敦群岛上最美的渔村之一. 它曾一度只能坐船前往. 直到 1983 年, 亨宁斯维尔大桥建成通车, 终于将亨宁斯维尔连接到罗弗敦大陆 <<hvnh>>. 因为亨宁斯维尔是几座风景如画的小岛, 由桥梁和堤道连接在一起, 当地人称之为 "罗弗敦的威尼斯".
+亨宁斯维尔是罗弗敦群岛上最美的渔村之一. 它曾一度只能坐船前往. 直到 1983 年, 亨宁斯维尔大桥建成通车, 终于将亨宁斯维尔连接到罗弗敦大陆 cite:[hshh]. 因为亨宁斯维尔是几座风景如画的小岛, 由桥梁和堤道连接在一起, 当地人称之为 "罗弗敦的威尼斯".
 
 .罗弗敦的威尼斯 - 亨宁斯维尔 (Henningsvær)
 image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/henningsvaer.webp[罗弗敦的威尼斯 - 亨宁斯维尔 (Henningsvær)]
@@ -95,7 +95,7 @@ image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/henningsvaer
 [#nusfjord]
 == 努斯峡湾 (Nusfjord)
 
-努斯峡湾 (Nusfjord) 是一个很小的渔村, 也是罗弗敦最古老保存最完好的渔村之一. 努斯峡湾被形容为 "_a pearl in red and ochre_" <<nnnf>>, 即 "红色和赭石色的明珠", 是深藏在罗弗敦群山之下的最美渔村之一.
+努斯峡湾 (Nusfjord) 是一个很小的渔村, 也是罗弗敦最古老保存最完好的渔村之一. 努斯峡湾被形容为 "_a pearl in red and ochre_" cite:[nnnf], 即 "红色和赭石色的明珠", 是深藏在罗弗敦群山之下的最美渔村之一.
 
 .努斯峡湾 (Nusfjord)
 image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/nusfjord.webp[努斯峡湾 (Nusfjord)]
@@ -127,7 +127,7 @@ image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/hamnoy.webp[
 .萨克里岛 (Sakrisøy) 上的罗弗敦经典黄色传统渔屋 (Rorbu)
 image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/sakrisoy.webp[萨克里岛 (Sakrisøy) 上的罗弗敦经典黄色传统渔屋 (Rorbu)]
 
-萨克里岛是一个私人拥有的小岛, 地处哈姆岛 (Hamnøy) 和雷讷 (Reine) 之间. 从 1889 年小岛的主人 Gylseth 一家买下这个小岛开始, 它们已经在此经营了六代人 <<sooo>>.
+萨克里岛是一个私人拥有的小岛, 地处哈姆岛 (Hamnøy) 和雷讷 (Reine) 之间. 从 1889 年小岛的主人 Gylseth 一家买下这个小岛开始, 它们已经在此经营了六代人 cite:[saor].
 
 如今, 岛上的传统渔屋 https://www.sakrisoyrorbuer.no/[Sakrisoy Rorbuer] 是高分的住宿选项, 而 Anita's Sjømat 海鲜餐厅更是附近不可错过的美食打卡地.
 
@@ -178,20 +178,14 @@ image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/a-i-lofoten.
 * 亨宁斯维尔 (Henningsvær)
 * 斯沃尔维尔 (Svolvær)
 
-哈姆岛, 萨克里岛, 雷讷是罗弗敦渔村最美的精华所在, 而且集中在几公里的范围内, 无疑是必去的, 也是探索罗弗敦最佳的基地. 从这里出发, 可以游览附近的瑟尔沃格 (Sørvågen) 和 奥村 (Å i Lofoten). 自驾去探访努斯峡湾 (Nusfjord), 单程也只要不到一小时.
- 
-亨宁斯维尔 (Henningsvær) 是罗弗敦北部的最美渔村, 是理想的北部基地之一.
+哈姆岛, 萨克里岛, 雷讷是罗弗敦渔村最美的精华所在, 而且集中在几公里的范围内, 无疑是必去的, 也是探索罗弗敦最佳的基地. 从这里出发, 可以游览附近的瑟尔沃格 (Sørvågen) 和奥村 (Å i Lofoten). 自驾去探访努斯峡湾 (Nusfjord), 单程也只要不到一小时.
 
-斯沃尔维尔 (Svolvær) 相比其他渔村更像个城市, 如果你恰好喜欢这一点, 作为罗弗敦的北方门户和首府, 当然也是基地的上佳选择之一.
+亨宁斯维尔是罗弗敦北部的最美渔村, 是理想的北部基地之一.
+
+斯沃尔维尔相比其他渔村更像个城市, 如果你恰好喜欢这一点, 作为罗弗敦的北方门户和首府, 当然也是基地的上佳选择之一.
 
 [bibliography]
 [#resources]
 == 参考资源
 
-* [[[orig, 1]]] 本文: {{ page.url | absolute_url }}["{{page.title}}"], _lilyroger.com_
-
-* [[[hvnh, 2]]] https://henningsvaer.no/en/the-history-of-henningsvaer/[The history of Henningsvær], _henningsvaer.no_
-
-* [[[nnnf, 3]]] https://nordnorge.com/en/artikkel/nusfjord-in-lofoten-is-a-pearl-in-red-and-ochre/[Nusfjord in Lofoten is a pearl in red and ochre], _nordnorge.com_
-
-* [[[sooo, 4]]] https://sakrisoy.no/origin/[Origin: Our Story], _sakrisoy.no_
+bibliography::[]
