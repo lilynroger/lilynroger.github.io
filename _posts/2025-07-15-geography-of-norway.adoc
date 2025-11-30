@@ -1,7 +1,7 @@
 = 游客的挪威地理 - 行政区划和地理区划
 :page-subtitle: Geography of Norway for Visitors
 :page-image: assets/images/2025/lofoten-faroe/geography-of-norway/geography-of-norway.webp
-:page-modified_time: 2025-10-04 08:00:00 +0800
+:page-modified_time: 2025-11-30 15:00:00 +0800
 :page-date: 2025-07-15 22:00:00 +0200
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威]
 :page-layout: post
@@ -10,7 +10,7 @@
 :toc:
 :sectnums:
 
-挪威是我们最喜欢的旅行目的地国家之一, 可是这个国家的行政区划方式与我们国家截然不同. 每次做攻略和写游记的时候, 如何用中文尽可能准确地表达那些挪威的行政区划和地理区划, 一直困扰着我们. 这是我们的笔记, 整理了挪威的行政区划, 常见的地理区划和传统区划, 以及有关如何表达城镇和村庄等等的基本信息.
+挪威是我们最喜欢的旅行目的地国家之一, 可是这个国家的行政区划方式与我们国家截然不同. 每次做攻略和写游记的时候, 如何用中文尽可能准确地表达那些挪威的行政区划和地理区划, 一直困扰着我们. 这是我们的笔记, 整理了挪威的行政区划, 常见的地理区划和传统区划, 以及有关如何表达城区和村庄等等的基本信息.
 
 [#administrative-divisions-of-norway]
 == 挪威的行政区划
@@ -22,11 +22,11 @@
 
 对于挪威的行政区划, "郡" 和 "市镇" 是普遍接受和使用的中文术语. 其中郡由市镇组成. 
 
-挪威的行政区划改革一直在持续进行中. 在 2024 年, 挪威一共有 15 个郡 <<snlf>>. 除了奥斯陆自己既是一个郡又是一个市镇之外, 其他的郡由多个市镇组成. 在 2024 年, 挪威有 357 个市镇 <<snlc>>.
+挪威的行政区划改革一直在持续进行中. 在 2024 年, 挪威一共有 15 个郡 cite:[snlf]. 除了奥斯陆自己既是一个郡又是一个市镇之外, 其他的郡由多个市镇组成. 在 2024 年, 挪威有 357 个市镇 cite:[snlk].
 
 * 面积最小的市镇 Kvitsøy 只有 6 平方公里, 而最大的 Kautokeino 有 9,704 平方公里
 
-* 人口最少的市镇 Utsira 只有 200 多人口, 而人口最多的市镇奥斯陆在 2025 年的人口有 724,290 人 <<snlo>>.
+* 人口最少的市镇 Utsira 只有 200 多人口, 而人口最多的市镇奥斯陆在 2025 年的人口有 724,290 人 cite:[snlo].
 
 * 位于北极地区的斯瓦尔巴群岛 (Svalbard) 独立于挪威大陆上的郡和市镇的行政区划系统之外, 本身不是郡, 而是直接由挪威司法部管理.
 
@@ -44,7 +44,7 @@ image::assets/images/2025/lofoten-faroe/geography-of-norway/alesund.webp[奥勒�
 南挪威:: 挪威语: Sørlandet, 英语: Southern Norway
 东挪威:: 挪威语: Østlandet, 英语: Eastern Norway
 
-其中, 挪威语的 _norge_ 就是挪威. 而 _nord_, _vest_, _sør_, _øst_, _midt_ 分别对应 "东", "西", "南", "北", "中". 从词源上来讲, 挪威语的 landsdel 源自 _land_ + _s_ + _del_, 字面意思就是 "国家的一部分" <<wtld>>.
+其中, 挪威语的 _norge_ 就是挪威. 而 _nord_, _vest_, _sør_, _øst_, _midt_ 分别对应 "东", "西", "南", "北", "中". 从词源上来讲, 挪威语的 landsdel 源自 _land_ + _s_ + _del_, 字面意思就是 "国家的一部分".
 
 在北挪威以南的其余四大地理区划有时又统称为南挪威. 但是这个广义的南挪威在挪威语中是用 Sør-Norge 一词表达, 与北挪威的 Nord-Norge 对应. 遗憾的是, 中文和英文都翻译成了南挪威和 Southern Norway, 也就都无法准确区分狭义的 Sørlandet 和 广义的 Sør-Norge 了.
 
@@ -86,7 +86,7 @@ image::assets/images/2025/lofoten-faroe/geography-of-norway/divisions-of-norway.
 
 * 维京人旧都, 圣奥拉夫朝圣之路的终点, 号称北欧美食天堂的特隆赫姆 (Trondheim), 位于中挪威.
 
-* "四大峡湾" 吕瑟峡湾 (Lysefjorden), 哈当厄尔峡湾 (Hardangerfjorden), 松恩峡湾 (Sognefjorden), 盖朗厄尔峡湾 (Geirangerfjorden) 都在西挪威. 西挪威因此也被称为峡湾挪威 (Fjord Norway) <<vnfn>>. 三大旅游胜地斯塔万格 (Stavanger), 卑尔根 (Bergen), 奥勒松 (Ålesund) 以及 "三大奇石" 布道石 (Preikestolen), 奇迹石 (Kjeragbolten), 巨魔之舌 (Trolltunga) 也在西挪威. 当然还有大西洋路 (The Atlantic Road).
+* "四大峡湾" 吕瑟峡湾 (Lysefjorden), 哈当厄尔峡湾 (Hardangerfjorden), 松恩峡湾 (Sognefjorden), 盖朗厄尔峡湾 (Geirangerfjorden) 都在西挪威. 西挪威因此也被称为峡湾挪威 (Fjord Norway) cite:[vnfn]. 三大旅游胜地斯塔万格 (Stavanger), 卑尔根 (Bergen), 奥勒松 (Ålesund) 以及 "三大奇石" 布道石 (Preikestolen), 奇迹石 (Kjeragbolten), 巨魔之舌 (Trolltunga) 也在西挪威. 当然还有大西洋路 (The Atlantic Road).
 
 * 奥斯陆在东挪威.
 
@@ -117,18 +117,26 @@ image::assets/images/2025/lofoten-faroe/geography-of-norway/ullensvang.webp[乌�
 城镇:: 挪威语: tettsted, 英语: town / urban area
 城市:: 挪威语: by, 英语: city
 
-其中, 挪威语的 tettsted 字面意思就是 "聚居地" <<wtts>>. 最能清楚表达它的含义的描述是挪威关于 tettsted 的定义:
+其中, 挪威语的 tettsted 字面意思就是 "聚居地", 对应的英文是 "urban area", 而英文的 "urban area" 在中文中常译作 "市区" 或者 "城区". 最能清楚表达它的含义的描述是挪威关于 tettsted 的定义:
 
 * 人口数达到 200 或以上
 * 住房间距一般不超过 50 米
 * 非农业人口占比不低于全国平均的非农业人口占比
 
-而挪威语中 by 一词, 也就是城市, 本质上是在正式行政区划的市镇中, 具有一定规模的城镇. 如今在挪威是由市镇地方政府决定哪个城镇可以称作城市的, 这个政策催生了一批新的城市. 城市的概念在挪威已经非常模糊了, 没有多少法律和行政意义, 更多的是经贸和旅游等方面的宣传意义 <<snlb>>.
+挪威的 tettsted 的概念主要服务于地域, 人口等统计目的. 和行政区划中的市镇 (kommune) 并不是一一对应的. 只有人口在相对连续的地域内聚居, 那就基本上属于同一个 tettsted 区域. 所以, 一个 tettsted 可以只是一个市镇的核心区域, 也可能横跨相邻的多个市镇.
+
+我们将挪威的 tettsted 的译作 "城区". 以便区别于已经被普遍接受和采用的行政区划中的 "市镇", 以及下面要介绍的 "城市" 的概念.
+
+而挪威语中 by 一词, 对应英语中的 city, 也就是城市. 在挪威, 城市本质上是具有一定规模的城区. 如今, 挪威是由市镇地方政府决定哪个城区可以称作城市的. 因为地方政府总是变着法儿的推介它们的城区, 于是这个政策催生了一批新的 "城市". 有些 "城市" 以我们的标准来看会显得太小了. 城市的概念在挪威已经非常模糊了, 没有多少法律和行政意义, 更多的是经贸和旅游等方面的宣传意义 cite:[snlb].
 
 总结一下:
 
-* 城镇 (tettsted) 可以泛指城镇和城市.
+* 城区 (tettsted) 可以泛指城区和城市.
 * 城市 (by) 通常具有一定地位, 相对较大.
+
+以奥斯陆 (Oslo) 为例, 行政区划上, 它是一个市镇和其所属的郡的名称; 同时它也是城区的名称, 包含奥斯陆市镇及相邻的其它几个市镇的核心区域; 同时它也是挪威最大的城市.
+
+另一个例子是位于罗弗敦 (Lofoten) 的 Moskenes 市镇. 它有两个城区: Reine 和 Sørvågen. 其中 Reine 就是人称罗弗敦最美渔村的 "雷讷". 在 2025 年时, 它的人口数是 296 人. 所以这个小渔村也是一个城区.
 
 [#villages-of-norway]
 == 挪威的村
@@ -138,7 +146,7 @@ image::assets/images/2025/lofoten-faroe/geography-of-norway/ullensvang.webp[乌�
 村庄:: 挪威语: bygd, 英语: village / rural area
 小村庄:: 挪威语: grend, 英语: hamlet
 
-此外, 挪威沿海有很多的渔村, 挪威语称为 fiskevær. 这个词源自 _fiske_ + _vær_. 前者 fiske 表示打鱼. 后者 vær 是西挪威和北挪威的词汇, 在这里表示停靠渔船的港口 <<snlv>>. 
+此外, 挪威沿海有很多的渔村, 挪威语称为 fiskevær. 这个词源自 _fiske_ + _vær_. 前者 fiske 表示打鱼. 后者 vær 是西挪威和北挪威的词汇, 在这里表示停靠渔船的港口 cite:[snlv]. 
 
 这里是一些有关村庄的例子:
 
@@ -157,13 +165,4 @@ image::assets/images/2025/lofoten-faroe/geography-of-norway/henningsvar.webp[亨
 [#resources]
 == 参考资料
 
-* [[[snlf]]] 挪威大百科全书 - 郡: https://snl.no/fylke[fylke], Store norske leksikon
-* [[[snlc]]] 挪威大百科全书 - 市镇: https://snl.no/kommune[kommune], Store norske leksikon
-* [[[snlb]]] 挪威大百科全书 - 城市: https://snl.no/by[by], Store norske leksikon
-* [[[snlt]]] 挪威大百科全书 - 城镇: https://snl.no/tettsted[tettsted], Store norske leksikon
-* [[[snll]]] 挪威大百科全书 - 村庄: https://snl.no/landsby[landsby], Store norske leksikon
-* [[[snlv]]] 挪威大百科全书 - 渔村: https://snl.no/v%C3%A6r_-_fiskev%C3%A6r[vær (fiskevær)], Store norske leksikon
-* [[[snlo]]] 挪威大百科全书 - 奥斯陆: https://snl.no/Oslo[Oslo], Store norske leksikon
-* [[[wtld]]] 维基词典 - landsdel: https://en.wiktionary.org/wiki/landsdel[landsdel], Wiktionary
-* [[[wtts]]] 维基词典 - tettsted: https://en.wiktionary.org/wiki/tettsted[tettsted], Wiktionary
-* [[[vnfn]]] 挪威官方旅游指南 - 峡湾挪威: https://www.visitnorway.com/places-to-go/fjord-norway/[Fjord Norway], Visit Norway
+bibliography::[]
