@@ -1,0 +1,232 @@
+= 雷讷 (Reine) 攻略 - 罗弗敦 (Lofoten) 的最美渔村
+:page-subtitle: The Guide To Reine - Most Picturesque Village in Lofoten, Norway
+:page-image: assets/images/2025/lofoten-faroe/reine/reine-1200x900.webp
+:page-date: 2025-07-06 14:00:00 +0100
+:page-modified_time: 2025-12-01 21:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:sectnums:
+:url-norwegian-scenic-routes: {% post_url 2025-11-23-norwegian-scenic-routes %}
+:url-hiking-in-lofoten: {% post_url 2025-07-13-hiking-in-lofoten %}
+:url-hiking-reinebringen: {% post_url 2025-07-07-hiking-reinebringen %}
+:aff-link-eliassen-rorbuer: https://expedia.com/affiliate/8Mv2YEa
+:aff-link-reine-rorbuer: https://expedia.com/affiliate/mIZNIU9
+:aff-link-a-rorbuer: https://expedia.com/affiliates/moskenes-hotels-a-rorbuer.NcH5Ciz
+
+雷讷 (Reine) 是罗弗敦 (Lofoten) 的最美渔村之一. 在高耸的山峰之下, 碧蓝的峡湾之中, 红色的传统渔屋点缀在岸边, 构成完美的挪威渔村画卷. 凭借其优越的地理位置, 丰富的旅游资源, 完善的设施, 和便利的交通, 雷讷已经成为罗弗敦最热门的旅游目的地, 是探索罗弗敦的理想基地.
+
+[#where-is-reine]
+== 雷讷在哪里
+
+雷讷坐落在罗弗敦群岛的莫斯科内斯岛 (Moskenesøya). 行政区划上, 属于北挪威诺尔兰郡 (Nordland) 莫斯科内斯 (Moskenes) 市镇, 是该市镇的行政中心.
+
+雷讷是莫斯科内斯的几个主要渔村之一, 这些渔村都集中在东部的海岸线上, 由北到南包括:
+
+* 哈姆岛 (Hamnøya)
+* 萨克里岛 (Sakrisøya)
+* 雷讷 (Reine)
+* 莫斯科内斯 (Moskenes)
+* 瑟沃根 (Sørvågen)
+* 廷 (Tind)
+* 奥 (Å)
+
+参考下面的示意地图:
+
+.雷讷 (Reine) 地图
+image::assets/images/2025/lofoten-faroe/reine/reine-map.webp[雷讷 (Reine) 地图]
+
+在图中, 白色虚线标记出的绿色区域就是雷讷. 在它的北边, 是萨克里岛和哈姆岛及其它一下小岛组成的岛链. 继续向北可以前往莱克内斯 (Leknes) 和斯沃尔维尔 (Svolvær). 而从雷讷向南则前往南部的几个渔村, 直到罗弗敦大陆南部的最后一个渔村, 奥村 (Å).
+
+[#getting-to-reine]
+== 如何前往雷讷
+
+以罗弗敦的标准来看, 雷讷的交通是非常便利的. 有多种选项前往雷讷. 如果你想了解如何前往罗弗敦的更多信息, 可以参考我们的攻略: link:{% post_url 2025-07-04-getting-to-lofoten %}[如何前往罗弗敦群岛 (Lofoten) - 完全交通攻略].
+
+[#by-air]
+=== 机场
+
+罗弗敦大陆上有两座机场, 都在雷讷以北. 近一点的是莱克内斯, 更远的是罗弗敦的北方门户斯沃尔维尔.
+
+* 莱克内斯机场 (Leknes Airport, LKN): 距离 58 公里, 自驾用时 1 小时.
+* 斯沃尔维尔机场 (Svolvær Airport, SVJ): 距离 126 公里, 自驾用时 2 小时 15 分.
+
+[#by-ferry]
+=== 轮渡
+
+从挪威大陆上的博德到罗弗敦的汽车轮渡码头在莫斯科内斯, 就在雷讷以南 5 公里. 乘坐轮渡前往雷讷是非常热门的交通选项.
+
+[#by-cruise]
+=== 邮轮
+
+海达路德 (Hurtigruten) 的游轮在博德和斯沃尔维尔之间还会停靠在斯塔姆松 (Stamsund), 距离莱克内斯不算远. 也可以作为一些特色行程的选项考虑. 可以把海达路德的游轮当汽车轮渡来用.
+
+[#by-car]
+=== 自驾
+
+在罗弗敦, 最便捷的交通方式无疑是自驾. 可以在莱克内斯, 斯沃尔维尔, 甚至更远一点的机场租车. 从挪威大陆上的博德 (Bodø) 租车, 然后乘坐汽车轮渡前往罗弗敦的莫斯科内斯码头也是一个不错的选择.
+
+罗弗敦的主要公路是欧洲 E10 公路. 这条公路的罗弗敦段是link:{% post_url 2025-11-23-norwegian-scenic-routes %}[挪威的国家旅游公路]之一的罗弗敦之路的主线. 在驶离 E10 公路, 前往雷讷渔村的入口, 是一个罗弗敦之路上的名字叫 Reinehalsen 的观景点, 这里是雷讷的最佳拍照打卡点之一. 从这里进入雷讷中心的道路名叫雷讷路 (Reineveien), 终点是 Circle K 的连锁加油站和停车场, 也是雷讷的 "商业中心".
+
+[#by-bus]
+=== 公交车
+
+罗弗敦的公交车班次比较少, 时刻表也经常不尽如人意. 不过如果仔细规划, 完全依靠公交车出行虽有不便, 但确实可行.
+
+雷讷有两处公交站点:
+
+* Reinebringen: 雷讷入口不远处, 乘坐公交车去徒步 Reinebringen 的游客经常选择这一站.
+* Reine: 雷讷的 "商业中心", 就在 Circle K 连锁加油站那里.
+
+公交车 300, 742, 772 停靠雷讷各站. 从雷讷到莫斯科内斯轮渡码头只要 10 分钟, 到莱克内斯机场则需要 1 小时 30 分钟.
+
+[#what-to-do-in-and-around-reine]
+== 在雷讷做什么
+
+[#exploring-reine]
+=== 探索雷讷渔村
+
+虽然雷讷顶着行政中心的名头, 是附近最大的渔村了, 但是仍然很小, 非常适合步行游览.
+
+在欧洲 E10 公路转向雷讷的入口这里有一小块开阔地, 连接着通往雷讷的人行道. 这就是罗弗敦之路上的观景点之一, 挪威语叫 Reinehalsen. 其中的 hals 意思是 "脖子" 或者 "咽喉". 看看它的位置, 这个名字恰如其分.
+
+.从挪威国家旅游公路罗弗敦之路上的 Reinehalsen 观景点欣赏午夜阳光下的雷讷 (Reine)
+image::assets/images/2025/lofoten-faroe/reine/reinehalsen.webp[从挪威国家旅游公路罗弗敦之路上的 Reinehalsen 观景点欣赏午夜阳光下的雷讷 (Reine)]
+
+雷讷西侧和北端的海岸线一步一景. 西北端是一个游艇码头, 挪威语叫 Reine Gjestehavn, 直译就是雷讷客港, 也叫内港 (对应于东侧的外港). 在游艇码头可以欣赏雷讷的传统渔屋, 而背景就是著名的雷讷布林根山 (Reinebringen).
+
+.从雷讷 (Reine) 的游艇码头欣赏红色的传统渔屋 (Rorbu). 背景中的山峰就是雷讷布林根 (Reinebringen)
+image::assets/images/2025/lofoten-faroe/reine/reine-rorbuer.webp[从雷讷 (Reine) 的游艇码头欣赏红色的传统渔屋 (Rorbu). 背景中的山峰就是雷讷布林根 (Reinebringen)]
+
+雷讷北端是 Classic Norway Hotels 旗下的 Reine Rorbuer 传统渔屋酒店, 风景如下. 特别是东北角上的最后一间渔屋, 是最佳的取景点.
+
+雷讷东北端突出在峡湾中的港口是雷讷外港 (Reine Ytre Havn). 这里有穿过雷讷峡湾 (Reinefjorden) 前往西北边的几个小渔村的快艇码头 (Reine hurtigbåtkai).
+
+.雷讷外港 (ReReine Ytre Havn) 的雷讷快艇码头 (Reine hurtigbåtkai)
+image::assets/images/2025/lofoten-faroe/reine/reine-hurtigbatkai.webp[雷讷外港 (ReReine Ytre Havn) 的雷讷快艇码头 (Reine hurtigbåtkai)]
+
+雷讷外港也是雷讷最大的停车场. 需要注意的是这里的停车场分属两家, 收费方式不同. 在外港防波堤的尽头还有一座灯塔.
+
+.雷讷外港 (ReReine Ytre Havn) 防波堤之上的灯塔
+image::assets/images/2025/lofoten-faroe/reine/reine-lighhouse.webp[雷讷外港 (ReReine Ytre Havn) 防波堤之上的灯塔]
+
+外港这里也是雷讷最大的鱼干的晾晒场. 在晾晒场的木架的簇拥下, 雷讷的足球场就坐落在海边.
+
+雷讷的 Circle K 加油站前的小广场是雷讷的商业中心. 加油站本身也是杂货店, 纪念品店, 快餐店和小型的临时停车场. 公交车站, 公共卫生间都在这里. 还有几家咖啡馆和餐馆可以选择. 此外, 在加油站的旁边还有一家名字叫 Lofotsportbua 户外活动用品店, 正价和折扣装备都有, 品类还比较全, 非常值得逛逛.
+
+最后值得一提的是, 整个莫斯科内斯岛的西海岸和南部海岸都是 Lofotodden 国家公园的范围. 它的访客中心就坐落在雷讷的中心. 访客中心也提供了一个收费停车场. 需要注意的是, 这个国家公园叫 Lofotodden 国家公园, 常常被误以为是 Lofoten 国家公园. 挪威语 Lofotodden 是 _Lofot_ + _odden_ 的组合, 意思是 "罗弗敦海岬" 或 "罗弗敦角". 莫斯克内斯岛最南端的那一片山区, 就是罗弗敦角. 国家公园的名称就源自于此.
+
+.雷讷中心的 Lofotodden 国家公园访客中心
+image::assets/images/2025/lofoten-faroe/reine/lofotodden-national-park-visitor-centre.webp[雷讷中心的 Lofotodden 国家公园访客中心]
+
+[#exploring-around-reine]
+=== 探索雷讷周围
+
+雷讷距离周围的几个小岛也不远, 最远的哈姆岛也在 5 公里范围内, 甚至步行可达.
+
+挪威语中, øy 就是岛的意思, 读音接近 "厄伊". 而 øya 中的后缀 a 则是挪威语中的定冠词后缀之一, 类似英语中的 the 的作用. 在名称中起到标明专有名词的作用. 很多挪威的岛屿的名称都以 øya 结尾, 包括雷讷紧邻的 Andøya, Sakrisøya 和 Hamnøya 等等. 有时也可见到没有 a 后缀的拼写, 特别是当名字用来限定其他名词的时候.
+
+[#andoya]
+==== 安岛 (Andøya)
+
+在雷讷以北, 紧邻雷讷的稍大的岛是安岛. 两者之间隔着的小海湾是雷讷湾 (Reinevågen).
+
+对大多数游客而言, 安岛的意义就在于周围最大的超市 https://www.coop.no/butikker/coop-prix/coop-prix-reine-1891[Coop Prix Reine] 就在这座小岛上.
+
+如果你实在闲的无聊, 安岛中央的坡地上还有一个飞盘高尔夫 (Disc Golf) 场地, 在 Google Maps 中输入 Reine Frisbeegolf 就可以找到具体的位置.
+
+[#sakrisoya]
+==== 萨克里岛 (Sakrisøya)
+
+在过去, 红色的颜料最便宜, 所以罗弗敦的传统渔屋大多是红色的. 萨克里岛的黄色渔屋才是我们的最爱. 岛上的 Anita's Sjømat 海鲜餐厅是附近不可错过的美食打卡地.
+
+.萨克里岛 (Sakrisøya) 上的黄色传统渔屋 (Rorbu)
+image::assets/images/2025/lofoten-faroe/reine/sakrisoya.webp[萨克里岛 (Sakrisøya) 上的黄色传统渔屋 (Rorbu)]
+
+[#olenilsoya]
+==== 奥莱尼尔岛 (Olenilsøya)
+
+奥莱尼尔岛上的 E10 公路旁, 就是萨克里岛黄色传统渔屋的最佳观景点. 
+
+此外, 从公路步行 500 米左右登上奥莱尼尔岛的最高处. 这里有一处二战时期的堡垒遗迹, 在 Google Maps 中的名字是 Olenilsøya kystfort, 意思是奥莱尼尔岛海岸堡垒. 这里海拔高度超过 50 米, 可以欣赏萨克里岛全景, 和它身后的雷讷峡湾 (Reinefjorden), 以及远处高耸的金字塔形状的奥尔斯廷恩峰 (Olstinden). 虽然不及雷讷布林根山之上的全景壮美, 但是也是非常独特的视角. 而且雷讷布林根山冬季去不了, 这里是冬季也可以找到的最高点了.
+
+[#toppoya]
+==== 托普岛 (Toppøya)
+
+可能没有几个人知道这个岛的名字. 不过这个岛是与之一桥之隔的哈姆岛的最佳观景点之一. 而托普岛和哈姆岛之间的大桥上则是另一个最佳观景点. 对了, 桥的名字叫哈姆岛桥.
+
+[#hammoya]
+==== 哈姆岛 (Hamnøya)
+
+哈姆岛上经典红色传统渔屋在高山和峡湾的映衬下, 构成了罗弗敦最具标志性的画面. 相信大多数游客对罗弗敦的最初印象是建立在哈姆岛的风光片之上的.
+
+.哈姆岛 (Hamnøya) 上的罗弗敦经典红色传统渔屋 (Rorbu)
+image::assets/images/2025/lofoten-faroe/reine/hamnoya.webp[哈姆岛 (Hamnøya) 上的罗弗敦经典红色传统渔屋 (Rorbu)]
+
+哈姆岛也有译作哈姆诺伊. 不过我们觉得哈姆岛将音和意结合起来, 更直白, 方便交流.
+
+[#activities-from-reine]
+=== 雷讷的户外活动
+
+雷讷最热门的户外活动是徒步和皮划艇.
+
+[#hiking-in-reine]
+==== 徒步
+
+夏季徒步登上雷讷布林根山 (Reinebringen) 的山顶, 俯瞰雷讷和周围的小岛组成的岛链, 是罗弗敦最热门的徒步. 详细信息可以参考我们的攻略: link:{url-hiking-reinebringen}[徒步罗弗敦 (Lofoten) 的 Reinebringen].
+
+.在雷讷布林根 (Reinebringen) 山顶俯瞰雷讷 (Reine) 和其他小岛的全景
+image::assets/images/2025/lofoten-faroe/reine/reinebringen.webp[在雷讷布林根 (Reinebringen) 山顶俯瞰雷讷 (Reine) 和其他小岛的全景]
+
+[#kayaking-in-reine]
+==== 皮划艇
+
+在雷讷及其周围的许多旅馆都可以找到皮划艇租赁和导览服务. 比如雷讷中心的:
+
+* Reine Rorbuer 的 https://reinerorbuer.no/en/activities/[Reine Activities].
+* Catogården 的 https://reinepaddling.no/en/[Reine Paddling].
+
+远一点的还有:
+
+* 萨克里岛 (Sakrisøya) 上的 https://www.reineadventure.com/[Reine Adventure].
+* 哈姆岛 (Hamnøya) 上的 https://sagaadventureslofoten.com/[Saga Adventures Lofoten].
+
+[#day-trips-from-reine]
+=== 从雷讷出发的一日游
+
+雷讷距离罗弗敦大陆南部的最后一个渔村奥村 (Å) 也不过 10 公里. 从雷讷出发向南, 半日可以游览包括莫斯科内斯 (Moskenes), 瑟沃根 (Sørvågen), 廷 (Tind), 奥 (Å) 在内的几个渔村.
+
+向北, 从雷讷前往 Ryten 山和 Kvalvika 海滩的徒步起点只有 26 公里. 自驾需要不到 40 分钟. 这条徒步路线是我们在罗弗敦最喜欢的徒步路线. 具体的信息可以参考我们的攻略: link:{% post_url 2025-07-08-hiking-ryten-and-kvalvika-in-lofoten-norway %}[徒步罗弗敦 (Lofoten) 的 Ryten 山和 Kvalvika 海滩].
+
+此外在雷纳以北, 最古老, 保存最完美的渔村努斯峡湾 (Nusfjord) 距离雷讷也只有 41 公里. 自驾需要不到 1 小时.
+
+[#where-to-stay-in-reine]
+== 雷讷住在哪
+
+{% assign links = site.data.affiliate.links %}
+
+雷讷的住宿选项比较丰富, 这里推荐三种不同类型的:
+
+* 经典挪威酒店旗下的传统渔屋酒店: {{ links.reine["reine-rorbuer"].macro }}
+
+* 经济型的旅社: {{ links.reine["catogarden"].macro }}
+
+* 公寓: {{ links.reine["mays-apartments"].macro }}
+
+此外, 你很可会喜欢这两个:
+
+* 哈姆岛的红色传统渔屋: {{ links.moskenes["eliassen-rorbuer"].macro }}
+
+* 萨克里岛的黄色传统渔屋: {{ links.reine["sakrisoy-rorbuer"].macro }}
+
+[#where-to-eat-in-reine]
+== 雷讷去哪吃
+
+雷讷的 "商业中心" 附近有几家咖啡馆和餐馆可以尝试. 加油站也有简单的快餐食品提供. 安岛的超市可以采购食材自己做.
+
+我们推荐的是萨克里岛上的安妮塔海鲜餐厅 (Anita's Sjømat). 那里的寿司和海鲜菜肴应该更和中国胃. 如果你之前没有尝过鲸肉, 可以试试火炙鲸肉片 (Whale Tataki).
+
+.萨克里岛 (Sakrisøya) 上的 Anita's Sjømat 海鲜餐厅的火炙鲸肉片 (Whale Tataki)
+image::assets/images/2025/lofoten-faroe/reine/sakrisoy-anitas-seafood-whale-tataki.webp[萨克里岛 (Sakrisøya) 上的 Anita's Sjømat 海鲜餐厅的火炙鲸肉片 (Whale Tataki)]
