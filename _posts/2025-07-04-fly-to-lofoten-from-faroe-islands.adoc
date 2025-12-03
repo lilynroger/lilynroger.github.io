@@ -1,6 +1,6 @@
 = 从法罗群岛飞往罗弗敦 | 小众线路航班攻略
 :page-subtitle: Fly to Lofoten from Faroe Islands
-:page-modified_time: 2025-09-18 12:00:00 +0800
+:page-date_modified: 2025-09-18 12:00:00 +0800
 :page-date: 2025-07-04 08:00:00 +0100
 :page-image: assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/boarding-wideroe-flight.webp
 :page-layout: post

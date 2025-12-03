@@ -5,7 +5,7 @@ subtitle: Guide to Boston Logan International Airport (BOS)
 image: /assets/images/2025/us-italy/airport-bos/terminal-map-md.png
 categories: posts
 date: 2025-04-17 07:00:00 -0400
-modified_time: 2025-04-17 07:00:00 -0400
+date_modified: 2025-04-17 07:00:00 -0400
 tags: 2025-US-Italy 北美洲 美国 波士顿 机场 交通
 ---
 

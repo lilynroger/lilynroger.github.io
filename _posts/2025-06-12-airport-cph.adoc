@@ -2,7 +2,7 @@
 :page-categories: posts
 :page-date: 2025-06-12 08:00:00 +0800
 :page-image: /assets/images/2025/lofoten-faroe/airport-cph/airport-cph.png
-:page-modified_time: 2025-06-12 08:00:00 +0800
+:page-date_modified: 2025-06-12 08:00:00 +0800
 :page-page-layout: post
 :page-subtitle: Guide to Copenhagen Airport (CPH)
 :page-tags: [2025-Lofoten-Faroe, 旅行, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 哥本哈根, 机场]

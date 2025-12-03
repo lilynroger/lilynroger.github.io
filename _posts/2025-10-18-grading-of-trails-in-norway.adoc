@@ -2,7 +2,7 @@
 :page-subtitle: Grading of Trails in Norway
 :page-image: assets/images/2025/lofoten-faroe/grading-of-trails-in-norway/kjerag.webp
 :page-date: 2025-10-18 08:00:00 +0800
-:page-modified_time: 2025-10-18 08:00:00 +0800
+:page-date_modified: 2025-10-18 08:00:00 +0800
 :page-categories: posts
 :page-layout: post
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 运动, 徒步]

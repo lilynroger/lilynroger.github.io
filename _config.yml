@@ -33,6 +33,7 @@ url: "https://lilyroger.com" # the base hostname & protocol for your site, e.g. 
 # Build settings
 theme: minima
 plugins:
+  - jekyll-last-modified-at
   - jekyll-feed
   - jekyll-asciidoc
 

@@ -4,7 +4,7 @@ title: 挪威斯塔万格攻略
 subtitle:  Guide to Stavanger, Norway
 categories: posts
 date: 2024-06-01 00:00:00 +0200
-modified_time: 2025-03-31 12:00:00 +0800
+date_modified: 2025-03-31 12:00:00 +0800
 image: /assets/images/2024/scandinavia/stavanger/stavanger-md.jpg
 tags: 2024-Scandinavia 旅行 欧洲 北欧 斯堪的纳维亚 挪威 斯塔万格 城市
 ---

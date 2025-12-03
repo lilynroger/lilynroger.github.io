@@ -5,7 +5,7 @@ subtitle: "Honolulu International Airport (HNL) Guide"
 image: /assets/images/2025/us-italy/airport-hnl/terminals-map-md.jpg
 categories: posts
 date: 2025-04-09 11:00:00 -1000
-modified_time: 2025-04-09 11:00:00 -1000
+date_modified: 2025-04-09 11:00:00 -1000
 tags: 2025-US-Italy 北美洲 美国 夏威夷 欧胡岛 火奴鲁鲁 机场
 ---
 

@@ -1,6 +1,6 @@
 = 法罗群岛海鹦观鸟攻略
 :page-subtitle: Where to Spot Puffins in the Faroe Islands
-:page-modified_time: 2025-09-20 12:00:00 +0800
+:page-date_modified: 2025-09-20 12:00:00 +0800
 :page-date: 2025-07-04 05:00:00 +0100
 :page-image: assets/images/2025/lofoten-faroe/where-to-spot-puffins-in-the-faroe-islands/faroe-islands-puffin-magnet.webp
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 动物, 观鸟]

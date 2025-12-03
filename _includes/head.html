@@ -7,9 +7,9 @@
     src="https://cdn-cookieyes.com/client_data/8d5e5ceb26f27e1034a053f1/script.js"></script>
   <!-- End cookieyes banner -->
   {%- seo -%}
-  {%- if page.modified_time -%}
-  <meta property="article:modified_time" content="{{ page.modified_time | date_to_xmlschema }}" />
-  <meta property="og:updated_time" content="{{ page.modified_time | date_to_xmlschema }}" />
+  {%- if page.last_modified_at -%}
+  <meta property="article:modified_time" content="{{ page.last_modified_at | date_to_xmlschema }}" />
+  <meta property="og:updated_time" content="{{ page.last_modified_at | date_to_xmlschema }}" />
   {%- endif -%}
 
   <link rel="stylesheet" href="{{ '/assets/bootstrap@5.3.8/dist/css/bootstrap.min.css' | relative_url }}"

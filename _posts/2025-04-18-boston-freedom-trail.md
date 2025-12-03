@@ -5,7 +5,7 @@ subtitle: "Boston Freedom Trail"
 image: /assets/images/2025/us-italy/boston-freedom-trail/medallion.jpeg
 categories: posts
 date: 2025-04-18 07:30:00 -0400
-modified_time: 2025-04-18 07:30:00 -0400
+date_modified: 2025-04-18 07:30:00 -0400
 tags: 2025-US-Italy 北美洲 美国 波士顿 景点
 ---
 

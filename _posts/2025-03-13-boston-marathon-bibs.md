@@ -5,7 +5,7 @@ subtitle: "Bib Numbers Are Now Live Within Athletes' Village"
 image: /assets/images/2025/us-italy/boston-marathon-bibs/bibs-md.png
 categories: posts
 date: 2025-03-13 12:00:00 +0800
-modified_time: 2025-03-23 08:00:00 +0800
+date_modified: 2025-03-23 08:00:00 +0800
 tags: 2025-US-Italy 北美洲 美国 波士顿 跑步 马拉松
 ---
 

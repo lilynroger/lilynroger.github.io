@@ -1,5 +1,5 @@
 = 徒步挪威的奇迹石
-:page-modified_time: 2025-09-15 16:00:00 +0800
+:page-date_modified: 2025-09-15 16:00:00 +0800
 :page-date: 2024-06-03 08:00:00 +0200
 :page-subtitle: Hiking to Kjeragbolten
 :page-image: /assets/images/2024/scandinavia/kjeragbolten/kjeragbolten.webp

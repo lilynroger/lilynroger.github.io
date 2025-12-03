@@ -5,7 +5,7 @@ subtitle: The Guide to Stockholm, Sweden
 image: /assets/images/2024/scandinavia/stockholm/stortorget-md.jpeg
 categories: posts
 date: 2024-05-27 12:00:00 +0200
-modified_time: 2025-04-01 08:00:00 +0800
+date_modified: 2025-04-01 08:00:00 +0800
 tags: 2024-Scandinavia 旅行 欧洲 北欧 斯堪的纳维亚 瑞典 城市
 ---
 

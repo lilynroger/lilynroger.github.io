@@ -14,9 +14,9 @@ canonical_url: https://lilyroger.com/trips/2024/scandinavia
 # see: https://jekyllrb.com/docs/collections/#custom-sorting-of-documents
 date: 2024-05-27 00:00:00 +0800
 
-# article:modified_time
+# article:date_modified
 # see _includes/head.html
-modified_time: 2025-07-21 00:00:00 +0000
+date_modified: 2025-07-21 00:00:00 +0000
 ---
 
 几年前挪威的松恩峡湾 (Sognefjord) 和弗洛姆火车 (Flåmbana) 之旅, 令我们念念不忘. 这次我们终于有充足的时间来一次挪威峡湾的深度游. 这次旅行的主要目标是徒步包括步道石, 巨魔之舌和奇迹石在内的挪威 "三大奇石", 然后跑一场特罗姆瑟的日不落马拉松 ([Midnight Sun Marathon](https://msm.no/en/)). 顺路打卡同处斯堪的纳维亚半岛的丹麦哥本哈根和瑞典斯德哥尔摩.

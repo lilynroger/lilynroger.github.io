@@ -5,7 +5,7 @@ subtitle:  Guide to Florence Airport (FLR)
 image: /assets/images/2025/us-italy/airport-flr/terminal.jpeg
 categories: posts
 date: 2025-04-30 11:00:00 +0200
-modified_time: 2025-06-04 17:00:00 +0800
+date_modified: 2025-06-04 17:00:00 +0800
 tags: 2025-US-Italy 旅行 欧洲 意大利 佛罗伦萨 机场
 ---
 
