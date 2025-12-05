@@ -40,7 +40,7 @@ layout: null
     <!-- The page of all posts -->
     <url>
         <loc>https://lilyroger.com/posts/</loc>
-        <lastmod>{{ latest_modified_date | date: "%Y-%m-%d" }}</lastmod>
+        <lastmod>{{ site_last_modified_at | date: "%Y-%m-%d" }}</lastmod>
         <changefreq>weekly</changefreq>
     </url>
 
