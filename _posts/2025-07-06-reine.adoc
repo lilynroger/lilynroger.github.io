@@ -6,11 +6,13 @@
 :page-categories: posts
 :page-layout: post
 :page-liquid:
-:toc:
+:toc: preamble
 :sectnums:
 :url-hiking-reinebringen: {% post_url 2025-07-07-hiking-reinebringen %}
 
-雷讷 (Reine) 是罗弗敦 (Lofoten) 的最美渔村之一. 在高耸的山峰之下, 碧蓝的峡湾之中, 红色的传统渔屋点缀在岸边, 构成完美的挪威渔村画卷. 凭借其优越的地理位置, 丰富的旅游资源, 完善的设施, 和便利的交通, 雷讷已经成为罗弗敦最热门的旅游目的地, 是探索罗弗敦的理想基地.
+雷讷 (Reine) 是罗弗敦 (Lofoten) 的最美渔村之一. 在高耸的山峰之下, 碧蓝的峡湾之中, 红色的传统渔屋点缀在岸边, 构成完美的挪威渔村画卷. 凭借其优越的地理位置, 丰富的旅游资源, 完善的设施和便利的交通, 雷讷已经成为罗弗敦最热门的旅游目的地, 是探索罗弗敦的理想基地.
+
+toc::[]
 
 [#where-is-reine]
 == 雷讷在哪里
@@ -50,7 +52,7 @@ image::assets/images/2025/lofoten-faroe/reine/reine-map.webp[雷讷 (Reine) 地�
 [#by-ferry]
 === 轮渡
 
-从挪威大陆上的博德到罗弗敦的汽车轮渡码头在莫斯科内斯, 就在雷讷以南 5 公里. 乘坐轮渡前往雷讷是非常热门的交通选项.
+从位于挪威大陆上的博德出发, 前往罗弗敦群岛的汽车轮渡码头在莫斯科内斯, 就在雷讷以南 5 公里. 乘坐轮渡前往雷讷是非常热门的交通选项.
 
 [#by-cruise]
 === 邮轮
@@ -149,7 +151,7 @@ image::assets/images/2025/lofoten-faroe/reine/sakrisoya.webp[萨克里岛 (Sakri
 [#toppoya]
 ==== 托普岛 (Toppøya)
 
-可能没有几个人知道这个岛的名字. 不过这个岛是与之一桥之隔的哈姆岛的最佳观景点之一. 而托普岛和哈姆岛之间的大桥上则是另一个最佳观景点. 对了, 桥的名字叫哈姆岛桥.
+可能没有几个人知道这个岛的名字. 不过这个岛是与它一桥之隔的哈姆岛的最佳观景点之一. 而托普岛和哈姆岛之间的大桥上则是另一个最佳观景点. 对了, 桥的名字叫哈姆岛桥.
 
 [#hammoya]
 ==== 哈姆岛 (Hamnøya)
@@ -209,7 +211,7 @@ image::assets/images/2025/lofoten-faroe/reine/reinebringen.webp[在雷讷布林�
 
 * 公寓: {{ links.reine["mays-apartments"].macro }}
 
-此外, 你很可会喜欢这两个:
+此外, 你很可能会喜欢这两个:
 
 * 哈姆岛的红色传统渔屋: {{ links.moskenes["eliassen-rorbuer"].macro }}
 
@@ -220,7 +222,7 @@ image::assets/images/2025/lofoten-faroe/reine/reinebringen.webp[在雷讷布林�
 
 雷讷的 "商业中心" 附近有几家咖啡馆和餐馆可以尝试. 加油站也有简单的快餐食品提供. 安岛的超市可以采购食材自己做.
 
-我们推荐的是萨克里岛上的安妮塔海鲜餐厅 (Anita's Sjømat). 那里的寿司和海鲜菜肴应该更和中国胃. 如果你之前没有尝过鲸肉, 可以试试火炙鲸肉片 (Whale Tataki).
+我们推荐的是萨克里岛上的安妮塔海鲜餐厅 (Anita's Sjømat). 那里的寿司和海鲜菜肴应该更合中国胃. 如果你之前没有尝过鲸肉, 可以试试火炙鲸肉片 (Whale Tataki).
 
 .萨克里岛 (Sakrisøya) 上的 Anita's Sjømat 海鲜餐厅的火炙鲸肉片 (Whale Tataki)
 image::assets/images/2025/lofoten-faroe/reine/sakrisoy-anitas-seafood-whale-tataki.webp[萨克里岛 (Sakrisøya) 上的 Anita's Sjømat 海鲜餐厅的火炙鲸肉片 (Whale Tataki)]
