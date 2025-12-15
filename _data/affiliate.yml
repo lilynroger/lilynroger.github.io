@@ -1,9 +1,19 @@
 links:
+  a:
+    a-rorbuer:
+      link: https://hotels.ctrip.com/hotels/detail/?cityId=98642&hotelId=12767236&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh
+      title: Å Rorbuer - by Classic Norway Hotels
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=98642&hotelId=12767236&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[Å Rorbuer - by Classic Norway Hotels]
   moskenes:
     eliassen-rorbuer:
       link: https://hotels.ctrip.com/hotels/detail/?cityId=297911&hotelId=9213667&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh
       title: 伊莲森罗布尔酒店 (Eliassen Rorbuer)
       macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=297911&hotelId=9213667&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[伊莲森罗布尔酒店 (Eliassen Rorbuer)]
+  ramberg:
+    nusfjord-village-resort:
+      link: https://hotels.ctrip.com/hotels/detail/?cityId=39190&hotelId=4385608&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh
+      title: 努斯峡湾村度假村 (Nusfjord Village & Resort)
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=39190&hotelId=4385608&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[努斯峡湾村度假村(Nusfjord Village & Resort)]
   reine:
     reine-rorbuer:
       link: https://hotels.ctrip.com/hotels/detail/?cityId=39195&hotelId=4232198&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh
@@ -21,3 +31,25 @@ links:
       link: https://hotels.ctrip.com/hotels/detail/?cityId=39195&hotelId=9426628&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh
       title: 萨克利索伊罗布尔酒店 (Sakrisøy Rorbuer)
       macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=39195&hotelId=9426628&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[萨克利索伊罗布尔酒店 (Sakrisøy Rorbuer)]
+  svolvaer:
+    rorbuanlegget:
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=39233&hotelId=10030359&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[Rorbuanlegget Svolvær Havn]
+    svinoya-rorbuer:
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=39233&hotelId=9864398&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[Svinøya Rorbuer]
+    thon-hotel-lofoten:
+      link: https://hotels.ctrip.com/hotels/detail/?cityId=39233&hotelId=3108077&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh
+      title: Thon Hotel Lofoten
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=39233&hotelId=3108077&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[Thon Hotel Lofoten]
+    thon-hotel-svolvaer:
+      link: https://hotels.ctrip.com/hotels/detail/?cityId=39233&hotelId=76219495&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh
+      title: Thon Hotel Svolvær
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=39233&hotelId=76219495&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[Thon Hotel Svolvær]
+  vagan:
+    anker-brygge:
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=297399&hotelId=4378175&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[安克尔布里嘉酒店 (Anker Brygge)]
+    henningsvaer-bryggehotell:
+      macro: link:https://expedia.com/affiliate/8DEkkBY[Henningsvær Bryggehotell - by Classic Norway Hotels]
+    henningsvaer-rorbuer:
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=297399&hotelId=9906657&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[Henningsvær Rorbuer]
+    nyvagar-rorbuhotell:
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=297399&hotelId=9877246&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[Nyvågar Rorbuhotell - by Classic Norway Hotels]

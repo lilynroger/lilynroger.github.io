@@ -1,0 +1,110 @@
+<div class="imageblock">
+<div id="plot-weather-temperatures" class="content"></div>
+<div class="title">{{include.title}}</div>
+</div>
+<script src="{{ '/assets/plot/d3.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/plot/plot.min.js' | relative_url }}"></script>
+<script type="module">
+    // const url = "https://historical-forecast-api.open-meteo.com/v1/forecast?latitude=67.9308316&longitude=13.0582537&start_date=2025-01-01&end_date=2025-12-30&daily=temperature_2m_max,temperature_2m_min&timezone=Europe%2FBerlin";
+
+    // const url = "{{ 'assets/data/2025/lofoten-faroe/lofoten/open-meteo-weather-reine-2025.json' | relative_url }}";
+
+    const url = "{{include.data_url}}";
+
+    const json = await d3.json(url);
+    const rawData = json.daily;
+
+    // raw data is columnar data
+    const data = rawData.time.map (
+        (d, i) => {
+            return {
+                date: new Date(d),
+                temperature_2m_max: rawData.temperature_2m_max[i],
+                temperature_2m_min: rawData.temperature_2m_min[i]
+            }
+        }
+    );
+
+    const plot = Plot.plot({
+        width: 800,
+        marginRight: 50,
+        style: {
+            width: "100%",
+            height: "auto"
+        },
+        x: {
+            label: "日期",
+            tickFormat: (d) => {
+                // 'd' is the Date object for that specific tick mark
+                return d.toLocaleString("zh-CN", { month: "long" });
+                // This will output "一月", "二月", "三月", etc.
+                }
+        },
+        y: {
+            label: "气温 (°C)",
+            grid: true
+        },
+        marks: [
+            Plot.ruleY([0]),
+            Plot.lineY(
+                data,
+                {
+                    x: "date",
+                    y: "temperature_2m_max",
+                    stroke: "red",
+                    channels: {
+                        temperature: {
+                            value: (d) => `${d.temperature_2m_min} ~ ${d.temperature_2m_max} °C`,
+                            label: "气温"
+                        }
+                    },
+                    tip: {
+                        format: {
+                            x: true,
+                            y: false,
+                            temperature: true
+                        }
+                    }
+                }
+            ),
+            Plot.lineY(
+                data,
+                {
+                    x: "date",
+                    y: "temperature_2m_min",
+                    stroke: "blue"
+                }
+            ),
+            Plot.text(
+                data,
+                Plot.selectLast(
+                    {
+                        x: "date",
+                        y: "temperature_2m_max",
+                        text: d => "最高气温",
+                        fill: "red",
+                        textAnchor: "start",
+                        dx: 5,
+                        dy: -5
+                    }
+                )
+            ),
+            Plot.text(
+                data,
+                Plot.selectLast(
+                    {
+                        x: "date",
+                        y: "temperature_2m_min",
+                        text: d => "最低气温",
+                        fill: "blue",
+                        textAnchor: "start",
+                        dx: 5,
+                        dy: 5
+                    }
+                )
+            )
+        ]
+    });
+
+    document.querySelector("#plot-weather-temperatures").append(plot);
+</script>

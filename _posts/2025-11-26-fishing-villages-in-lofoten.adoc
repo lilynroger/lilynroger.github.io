@@ -1,12 +1,12 @@
-= 罗弗敦 (Lofoten) 的渔村
-:page-subtitle: Fishing Villages in Lofoten, Norway
+= 罗弗敦群岛 (The Lofoten Islands) 的渔村
+:page-subtitle: Fishing Villages in the Lofoten Islands, Norway
 :page-image: assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/nusfjord-1200x900.webp
 :page-date: 2025-11-26 08:00:00 +0800
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦]
 :page-categories: posts
 :page-layout: post
 :page-liquid:
-:toc:
+:toc: macro
 :sectnums:
 :url-norwegian-scenic-routes: {% post_url 2025-11-23-norwegian-scenic-routes %}
 :url-one-day-island-hopping-road-trip: {% post_url 2025-07-01-one-day-island-hopping-road-trip %}
@@ -23,11 +23,13 @@
 
 挪威的罗弗敦 (Lofoten) 因为拥有壮丽的大自然和迷人的渔村而成为无数人的梦想旅行目的地. 在这里, 渔村一个连着一个. 在高山, 碧海, 和蓝天的衬托下, 特别是夏季午夜的阳光中, 冬季跳动的极光下, 红色和黄色的传统渔屋 (Rorbu) 和渔船错落有致, 成为罗弗敦最具标志性的画面.
 
+toc::[]
+
 在挪威语中, 渔村称为 Fiskevær, 由 _Fiske_ + _vær_ 两部分构成, 前者的意思是 "渔", 后者的意思就是 "渔村", 是挪威, 特别是北挪威非常常见的地名后缀.
 
-在罗弗敦的渔村, 乃至整个挪威, 最有名的鱼就是挪威北极鳕鱼 (Norwegian Arctic Cod). 这种鱼在挪威语中称为 Skrei, 发音 [skræj], 大体是 "斯克莱伊". 每年冬天, 挪威北极鳕鱼从白令海迁徙到北挪威的沿海地区繁殖. 而罗弗敦从维京时期就是挪威北极鳕鱼的捕捞中心.
+在罗弗敦的渔村, 乃至整个挪威, 最有名的鱼就是挪威北极鳕鱼 (Norwegian Arctic Cod). 这种鱼在挪威语中称为 Skrei, 发音 [skræj], 大体是 "斯克莱伊". 每年冬天, 挪威北极鳕鱼从巴伦支海 (Barents Sea) 迁徙到北挪威的沿海地区繁殖. 而罗弗敦从维京时期就是挪威北极鳕鱼的捕捞中心.
 
-TIP: 在挪威你还会遇到另一个同样表示鳕鱼 (Cod) 的词 Torsk, 这个是泛指所有鳕鱼品种. 而 Skrei 特指冬季从白令海迁徙到北挪威的鳕鱼, 是最好的鳕鱼品种.
+TIP: 在挪威你还会遇到另一个同样表示鳕鱼 (Cod) 的词 Torsk, 这个是泛指所有鳕鱼品种. 而 Skrei 特指冬季从巴伦支海迁徙到北挪威的鳕鱼, 是最好的鳕鱼品种.
 
 .冬季在罗弗敦 (Lofoten) 钓挪威北极鳕鱼 (Norwegian Arctic Cod). 图片: VisitNorway.com
 image::assets/images/2025/lofoten-faroe/fishing-villages-in-lofoten/norwegian-arctic-cod-winter-fishing-in-lofoten-visitnorway.webp[冬季在罗弗敦 (Lofoten) 钓挪威北极鳕鱼 (Norwegian Arctic Cod)]

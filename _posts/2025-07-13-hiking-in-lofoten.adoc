@@ -1,4 +1,4 @@
-= 徒步罗弗敦 (Lofoten) - 经典最佳徒步路线
+= 徒步罗弗敦 (Lofoten) - 罗弗敦群岛经典最佳徒步路线
 :page-subtitle: Hiking in Lofoten: The Best Hikes in Lofoten Islands, Norway
 :page-image: assets/images/2025/lofoten-faroe/hiking-in-lofoten/on-the-way-from-innersand-to-ryten.webp
 :page-date: 2025-07-13 08:00:00 +0200
@@ -7,10 +7,12 @@
 :page-categories: posts
 :page-layout: post
 :page-liquid:
-:toc:
+:toc: macro
 :sectnums:
 
-在这篇攻略中, 我们精心挑选了罗弗敦地区 (Lofoten) 的五条经典最佳徒步路线, 适合罗弗敦群岛的初访者, 完美契合一周或者更长一点的行程. 同时还特别挑选了在罗弗敦附近的西奥伦群岛 (Vesterålen) 和塞尼亚岛 (Senja) 的两条热门徒步路线. 它们时常被误解为是罗弗敦的徒步. 如果你有足够的时间和精力打卡全部这些, 绝对是完美的徒步之旅.
+我们精心挑选了罗弗敦群岛 (Lofoten) 的五条经典徒步路线, 适合罗弗敦群岛的初访者, 完美契合一周或者更长一点的行程. 还特别挑选了在罗弗敦附近的西奥伦群岛 (Vesterålen) 和塞尼亚岛 (Senja) 的两条热门徒步路线. 它们时常被误解为是罗弗敦的徒步. 如果你有足够的时间和精力打卡全部这些, 绝对是完美的徒步之旅.
+
+toc::[]
 
 [#floya-and-djevelporten]
 == 弗洛亚和魔鬼之门 (Fløya and Djevelporten), 罗弗敦

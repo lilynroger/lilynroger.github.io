@@ -7,10 +7,12 @@
 :page-layout: post
 :page-categories: posts
 :page-liquid:
-:toc:
+:toc: macro
 :sectnums:
 
 挪威是我们最喜欢的旅行目的地国家之一, 可是这个国家的行政区划方式与我们国家截然不同. 每次做攻略和写游记的时候, 如何用中文尽可能准确地表达那些挪威的行政区划和地理区划, 一直困扰着我们. 这是我们的笔记, 整理了挪威的行政区划, 常见的地理区划和传统区划, 以及有关如何表达城区和村庄等等的基本信息.
+
+toc::[]
 
 [#administrative-divisions-of-norway]
 == 挪威的行政区划
@@ -110,11 +112,11 @@ image::assets/images/2025/lofoten-faroe/geography-of-norway/hamnoya.webp[哈姆�
 image::assets/images/2025/lofoten-faroe/geography-of-norway/ullensvang.webp[乌伦斯旺 (Ullensvang)是西挪威的一个市镇, 这里可以欣赏最美的哈当厄尔峡湾 (Hardangerfjorden) 景色]
 
 [#cities-and-towns-of-norway]
-== 挪威的城市和城镇
+== 挪威的城区和城市
 
-在挪威语中描述城镇和城市的词汇分别是:
+在挪威语中描述城区和城市的词汇分别是:
 
-城镇:: 挪威语: tettsted, 英语: town / urban area
+城区:: 挪威语: tettsted, 英语: town / urban area
 城市:: 挪威语: by, 英语: city
 
 其中, 挪威语的 tettsted 字面意思就是 "聚居地", 对应的英文是 "urban area", 而英文的 "urban area" 在中文中常译作 "市区" 或者 "城区". 最能清楚表达它的含义的描述是挪威关于 tettsted 的定义:

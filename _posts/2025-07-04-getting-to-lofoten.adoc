@@ -7,11 +7,13 @@
 :page-categories: posts
 :page-layout: post
 :page-liquid:
-:toc:
+:toc: macro
 :sectnums:
 :url-airport-svj: {% post_url 2025-07-04-airport-svj %}
 
 罗弗敦群岛位于北挪威的诺尔兰郡, 是挪威最热门的旅行目的地之一. 这篇攻略收罗了前往罗弗敦群岛的多种途径. 首先是空中, 如何飞往罗弗敦及其周边的机场. 然后是海路, 如何乘坐汽车轮渡, 高速客船, 海达路德游轮前往. 最后是陆路, 有关火车的信息, 重点是如何自驾前往, 特别是如何从特罗姆瑟, 经塞尼亚岛和西奥伦群岛前往的详细信息.
+
+toc::[]
 
 [#by-air]
 == 乘飞机

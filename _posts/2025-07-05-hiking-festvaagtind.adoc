@@ -7,7 +7,7 @@
 :page-categories: posts
 :page-layout: post
 :page-liquid:
-:toc:
+:toc: macro
 :sectnums:
 :url-one-day-island-hopping-road-trip: {% post_url 2025-07-01-one-day-island-hopping-road-trip %}
 :url-norwegian-scenic-routes: {% post_url 2025-11-23-norwegian-scenic-routes %}
@@ -15,6 +15,8 @@
 :aff-link-henningsvaer-rorbuer: https://expedia.com/affiliate/svU4c2x
 
 Festvågtind 徒步是罗弗敦群岛最热门的徒步之一. 登顶 Festvågtind 山峰后, 可以俯瞰亨宁斯维尔 (Henningsvær) 和西峡湾 (Vestfjord) 的壮丽全景. 也许还可以顺路绕一下去挑战著名的 Presten (挪威语: 牧师岩) 悬崖之上的巨石 Torsketunga (挪威语: 鳕鱼舌).
+
+toc::[]
 
 [#hiking-facts]
 == 基本信息
