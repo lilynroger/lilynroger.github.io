@@ -233,7 +233,7 @@ image::assets/images/2025/lofoten-faroe/lofoten/haukland-beach.webp[在 Mannen �
 
 罗弗敦群岛的 E10 欧洲公路是一条 A 级国际公路, 连接罗弗敦群岛五大主岛最南端的**奥镇 (Å)** 和瑞典北部的**吕勒奥市 (Luleå)**. 其中在挪威的这一段也称**奥拉夫国王之路 (King Olav's Road)**, 而在罗弗敦群岛的这一段则是**罗弗敦之路**的主干, 挪威国家旅游公路中的另一颗明珠.
 
-罗弗敦之路不仅仅是交通通道, 它本身就是旅行目的地. 几乎每个官方设置的休息区和观景点都有独特的惊艳之处. 这就是为什么自驾是游览罗弗敦群岛的最佳方式的原因之一. 详细的信息可以参考我们的攻略: link{url-norwegian-scenic-routes}[挪威国家旅游公路 (Norwegian Scenic Routes)].
+罗弗敦之路不仅仅是交通通道, 它本身就是旅行目的地. 几乎每个官方设置的休息区和观景点都有独特的惊艳之处. 这就是为什么自驾是游览罗弗敦群岛的最佳方式的原因之一. 详细的信息可以参考我们的攻略: link:{url-norwegian-scenic-routes}[挪威国家旅游公路 (Norwegian Scenic Routes)].
 
 .在罗弗敦之路 (Lofoten) 上的 Skreda 休息区所见的峡湾风光
 image::assets/images/2025/lofoten-faroe/lofoten/rorbuer-from-skreda.webp[在罗弗敦之路 (Lofoten) 上的 Skreda 休息区所见的峡湾风光]
