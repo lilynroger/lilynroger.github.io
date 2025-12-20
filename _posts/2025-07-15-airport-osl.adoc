@@ -1,0 +1,146 @@
+= 奥斯陆机场 (Oslo Airport, OSL) - 航站楼和公共交通
+:page-categories: posts
+:page-date: 2025-07-15 08:00:00 +0100
+:page-image: /assets/images/2025/lofoten-faroe/airport-osl/airport-osl.webp
+:page-page-layout: post
+:page-subtitle: Guide to Oslo Airport (OSL)
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 奥斯陆, 机场]
+:page-liquid:
+:toc: macro
+:sectnums:
+:experimental:
+
+奥斯陆机场 (Oslo Airport, IATA: OSL) 是服务于挪威首都奥斯陆的主要国际机场, 位于市中心东北约 47 公里外的加勒穆恩 (Gardermoen). 该机场是挪威最大的机场, 也是斯堪的纳维亚地区第二繁忙的机场. 这篇指南包含了关于奥斯陆机场航站楼, 航空公司, 和地面交通等实用信息.
+
+toc::[]
+
+[#quick-facts-of-oslo-airport]
+== 奥斯陆机场基本信息
+
+* *机场代码:* OSL
+* *机场正式名称:* 奥斯陆机场 (Oslo Airport, 挪威语: Oslo lufthavn)
+* *位置:* 市中心东北约 47 公里外的加勒穆恩 (Gardermoen)
+* *航站楼:* 航站楼 1
+* *公共交通:* 推荐连接市中心的火车
+* *官方网站:* https://www.avinor.no/en/airport/oslo/[Oslo Airport]
+
+[#terminal-of-oslo-airport]
+== 奥斯陆机场航站楼信息
+
+奥斯陆机场拥有一个大型综合航站楼, 该航站楼根据不同的航班类型（国内和国际）划分为不同的区域和登机口. 整个航站楼设计紧凑, 旅客步行和中转都很便捷. 
+
+奥斯陆机场航站楼主要由 4 层组成:
+
+* *地下层 (Basement):* 主要是**奥斯陆机场加勒穆恩火车站** (挪威语: Oslo Lufthavn Gardermoen stasjon). 旅客在此乘坐机场快线 (Flytoget) 或国家铁路 (Vy) 往返奥斯陆市中心及其他城市.
+
+* *地面层 (Ground Floor/Level 1):* 主要为到达层. 设有行李提取大厅, 海关以及通往巴士, 出租车, 停车场和机场酒店的出口.
+
+* *一层 (First Floor/Level 2)*: 主要为出发层 (Departures). 这一层包含值机柜台, 安检口以及大部分登机口.
+
+* *二层 (Second Floor/Level 3)*: 主要为出发层上层. 这一层有机场贵宾休息室以及一些餐饮和购物区. 登机口 C 区和登机口 F 区的候机区在这层.
+
+奥斯陆机场航站楼根据地理方位划分为 4 个主要的区域, 各区的功能划分如下:
+
+* *中央区:* 火车站, 行李提取大厅, 值机大厅, 安检区.
+
+* *西翼 (West Wing):* 机场最老的区域. 登机口 A 区在这里. 主要服务于国内航班.
+
+* *南指廊 (South Pier):* 登机口 B 区. 主要用于早间的国际申根航班.
+
+* *北指廊 (North Pier):* 机场最新的区域, 双层布局. 
+
+** 北指廊上层登机口 C 区用于国内航班
+** 北指廊下层登机口 D 区用于申根国际航班.
+
+* *东指廊 (East Pier):* 主要的国际航区
+
+** 靠近主航站楼的区域是登机口 E 区, 全部用于**申根国际航班**. 注意, E 区 与 A, B, D 区位于同一主出发层水平面, 即一层 (First Floor/Level 2).
+
+** 经过 E 区的尽头, 然后通过护照检查站, 在东指廊的末端是登机口 F 区, 用于**非申根国际航班**, 比如前往中美英等国的航班. 登机口 F 区这里分上下两层垂直布局, 首先到达上层的候机区, 下层是主出发层的登机区.
+
+此外, 还有一个特殊的登机口 G 区, 主要服务于国际申根区航班, 用于应对夏季旅游旺季及特定高峰时段的流量压力. 登机口 G 区是通过摆渡车连接的远机位区域.
+
+奥斯陆机场出发区的详细信息可以参考下面的官方地图:
+
+.奥斯陆机场出发区地图
+image::assets/images/2025/lofoten-faroe/airport-osl/kart-over-flyplassen-avgang-oslo-lufthavn-avinor.webp[奥斯陆机场出发区地图]
+
+这里是图中的一些要点:
+
+* 在中央区的安检区后, 前往国际出发区 (International, 挪威语: Utland) 的登机口 D, E, F 区需要通过屏蔽门进入. 就在图中中央大厅标记为紫色的 🅑 的位置.
+
+* 在中央区的安检区之前的东南角, 图中的标记为黄色的 ❺ ❻ 的位置是 Planet Playment 和 Global Blue 的在陆侧的退税柜台, 就在 10 号值机岛旁边.
+
+[TIP]
+*空测和陆侧:* 空侧旅客大厅 (Airside Passenger Concourse) 指的是指机场内经过安检后的区域, 包括登机口, 候机区, 免税店, 贵宾休息室, 海关区域等等. 与空侧相对的是陆侧 (Landside), 安检和边检前的区域, 比如值机, 接机, 商业等等.
+
+[TIP]
+*机场退税:* 按照规定, 退税应出示您的商品 (未使用的), 护照和退税单据. 我们经常购买的免税品主要是户外装备, 通常在挪威就直接就用上了. 根据商家的建议, 我们保留了所有的商品吊牌, 以便万一机场退税工作人员查验. 我们多次在奥斯陆机场使用 Gloal Blue 退税的经验是, 退税手续非常简单, 工作人员从未要求我们出示过商品. 现在部分商家甚至支持无纸化退税, 购物时在 Gloal Blue 的 App 中扫码即可. 不过为了以防万一, 一定要**在退税之后再托运商品**.
+
+奥斯陆机场到达区的详细信息可以参考下面的官方地图:
+
+.奥斯陆机场到达区地图
+image::assets/images/2025/lofoten-faroe/airport-osl/kart-over-flyplassen-ankomst-oslo-lufthavn-avinor.webp[奥斯陆机场到达区地图]
+
+这里的地图仅为便于参考 (2025). 最新地图请参考官方网站: https://www.avinor.no/en/airport/oslo/info/map/[Map of Oslo Airport].
+
+[#public-transport]
+== 奥斯陆机场公共交通
+
+奥斯陆机场的地面交通十分便利. 各种不同的交通选项应用尽有. 推荐乘坐火车, 安全, 快捷, 且并不比公交车更贵. 
+
+这里我们重点介绍火车. 有关公共交通的更多的信息可以参考奥斯陆机场官网: https://www.avinor.no/en/airport/oslo/info/public-transportation/[Public transportation].
+
+[#trains]
+=== 火车
+
+奥斯陆机场的火车站就在航站楼的地下层, 入口就在地面层的到达大厅中. 
+
+.奥斯陆机场加勒穆恩火车站的入口
+image::assets/images/2025/lofoten-faroe/airport-osl/airport-osl.webp[奥斯陆机场加勒穆恩火车站的入口]
+
+乘火车从奥斯陆机场到市中心的**奥斯陆中央车站 (Oslo S)** 大约需要 20 分钟.
+
+* *挪威国铁 (Vy):* https://www.vy.no/en[Vy] 是挪威最大的国有陆路运输集团。它前身为挪威国家铁路 (NSB, Norges Statsbaner)，于 2019 年更名为 Vy. Vy 运营的多条**区域列车 (R, Regional)** 和**区域快车 (RE, Regional Express)** 线路途经机场和中央车站, 比如 RE10, RE11, R12 等等. 就机场到中央车站这段而言, 普通列车和快车所需的时间没有多少区别, 无需刻意区分 RE 或 R. 找最近的一班 Vy 列车即可. 票价为 129 挪威克朗 (2025).
+
+* *机场快线 (Flytoget Airport Express):* https://flytoget.no/en/[Flytoget Airport Express] 是挪威唯一的机场快线列车, 是机场交通最快速, 最可靠的方式. 票价为 258 挪威克朗 (2025), 比 Vy 列车贵一倍. Flytoget 机场快线的线路标记为 FLY1.
+
+以上的票价信息仅供参考. 最新的票务信息参考官方网站.
+
+在火车站入口的旁边, 可以找到火车票的自动售票机. 
+
+.奥斯陆机场到达大厅火车站入口前的自动售票机
+image::assets/images/2025/lofoten-faroe/airport-osl/ticket-machines-at-oslo-airport.webp[奥斯陆机场到达大厅火车站入口前的自动售票机]
+
+注意, Vy 和 Flytoget 各自有自己的售票机. Vy 的自动售票机的机身上会印有 Vy 的标识.
+
+.奥斯陆机场到市中心的车票
+image::assets/images/2025/lofoten-faroe/airport-osl/entur-ticket.webp[奥斯陆机场到市中心的车票]
+
+如果选择 Vy 的列车, 推荐使用挪威政府拥有的公共交通数字化平台 https://entur.no/[Entur]. 该平台是前往挪威旅行最推荐安装的 "全能型" 交通应用. 如果你的行程不仅限于奥斯陆, 而是包含挪威的多个旅游目的地, 这一个应用可以省去安装不同地区的和不同交通方式的十几种应用. 机场的 Vy 的自动售票机出的就是 Entur 的车票.
+
+注意, Entur 上虽然可以查询 Flytoget 机场快线的列车, 但是不支持 在线购买 Flytoget 的车票.
+
+.Vy 的列车
+image::assets/images/2025/lofoten-faroe/airport-osl/vy-train.webp[Vy 的列车]
+
+[#tips]
+== 小贴士
+
+奇怪的知识又增加了.
+
+[#tip-oslo-s]
+=== 奥斯陆中央车站
+
+奥斯陆中央车站标记为 Oslo S, 源自挪威语 Oslo Sentralstasjon.
+
+.奥斯陆中央车站 (Oslo S)
+image::assets/images/2025/lofoten-faroe/airport-osl/oslo-s.webp[奥斯陆中央车站 (Oslo S)]
+
+北欧国家相似的命名习惯总结如下:
+
+* 挪威: 中央车站标记为 "S", 比如 Oslo S, 源自挪威语 Sentralstasjon.
+
+* 丹麦: 哥本哈根中央车站的丹麦语名称 København H 中的 "H" 是 Hovedbanegård 的首字母, 意为 "主火车站". 其他的例子比如还有 Odense H (欧登塞中央车站).
+
+* 瑞典: 中央车站标记为 "C", 比如 Stockholm C, 源自瑞典语 Centralstation.
