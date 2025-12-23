@@ -10,6 +10,7 @@
 :toclevels: 1
 :sectnums:
 :url-itinerary-faroe-islands: {% post_url 2025-07-04-itinerary-faroe-islands %}
+:url-lofoten: {% post_url 2025-12-11-lofoten %}
 :url-fly-to-lofoten-from-faroe-islands: {% post_url 2025-07-04-fly-to-lofoten-from-faroe-islands %}
 :url-airport-svj: {% post_url 2025-07-04-airport-svj %}
 :url-fishing-villages-in-lofoten: {% post_url 2025-11-26-fishing-villages-in-lofoten %}
@@ -22,7 +23,7 @@
 
 挪威的罗弗敦群岛拥有山峰, 峡湾, 岛屿和沙滩, 吸引着来自世界各地的徒步, 登山, 冲浪和皮划艇爱好者来到这座户外运动的天堂. 而丹麦的法罗群岛作为北大西洋上最后的的秘境, 世界的边缘, 同样拥有峡湾, 悬崖, 海蚀柱, 童话般的草顶村落, 此外还有蠢萌的海鹦. 我们在这个十八天的旅行中, 一次完成两个人生目标.
 
-这一篇游记是下篇, 包含了在挪威的罗弗敦群岛和奥斯陆的的每日行程. 而整个行程的住宿, 航班和租车的汇总信息, 以及在丹麦的哥本哈根和法罗群岛的每日行程, 记录在游记的上篇: link:{url-itinerary-faroe-islands}[罗弗敦群岛和法罗群岛之旅行程 (上) - 法罗群岛].
+这一篇游记是下篇, 我们记录了在挪威的罗弗敦群岛和奥斯陆的的每日行程. 而整个行程的住宿, 航班和租车的汇总信息, 以及在丹麦的哥本哈根和法罗群岛的每日行程, 记录在游记的上篇: link:{url-itinerary-faroe-islands}[罗弗敦群岛和法罗群岛之旅行程 (上) - 法罗群岛]. 关于罗弗敦群岛的更多信息, 可以参考我们的攻略: link:{url-lofoten}[罗弗敦群岛 (The Lofoten Islands) - 旅行指南和攻略].
 
 toc::[]
 
