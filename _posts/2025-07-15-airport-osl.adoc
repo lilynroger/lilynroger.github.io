@@ -96,8 +96,8 @@ image::assets/images/2025/lofoten-faroe/airport-osl/kart-over-flyplassen-ankomst
 
 奥斯陆机场的火车站就在航站楼的地下层, 入口就在地面层的到达大厅中. 
 
-.奥斯陆机场加勒穆恩火车站的入口
-image::assets/images/2025/lofoten-faroe/airport-osl/airport-osl.webp[奥斯陆机场加勒穆恩火车站的入口]
+.奥斯陆机场 (Oslo Airport, OSL) 中央到达大厅的火车站入口
+image::assets/images/2025/lofoten-faroe/airport-osl/airport-osl.webp[奥斯陆机场 (Oslo Airport, OSL) 中央到达大厅的火车站入口]
 
 乘火车从奥斯陆机场到市中心的**奥斯陆中央车站 (Oslo S)** 大约需要 20 分钟.
 

@@ -9,6 +9,15 @@ links:
       link: https://hotels.ctrip.com/hotels/detail/?cityId=297911&hotelId=9213667&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh
       title: 伊莲森罗布尔酒店 (Eliassen Rorbuer)
       macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=297911&hotelId=9213667&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[伊莲森罗布尔酒店 (Eliassen Rorbuer)]
+  oslo:
+    thon-hotel-europa:
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=827&hotelId=2098607&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[Thon Hotel Europa]
+    thon-hotel-rosenkrantz:
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=827&hotelId=2195732&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[Thon Hotel Rosenkrantz Oslo]
+    clarion-hotel-oslo:
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=827&hotelId=25763994&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[Clarion Hotel Oslo]
+    hotel-continental:
+      macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=827&hotelId=2195737&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[大陆酒店 (Hotel Continental)]
   ramberg:
     nusfjord-village-resort:
       link: https://hotels.ctrip.com/hotels/detail/?cityId=39190&hotelId=4385608&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh

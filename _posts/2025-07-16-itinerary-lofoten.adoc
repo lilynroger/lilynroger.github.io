@@ -1,0 +1,299 @@
+= 罗弗敦群岛和法罗群岛之旅行程 (下) - 罗弗敦群岛
+:page-subtitle: Lofoten Islands and Faroe Islands Itinerary Part 2 - Lofoten Islands
+:page-image: assets/images/2025/lofoten-faroe/itinerary-lofoten/lofoten.webp
+:page-date: 2025-07-16 12:00:00 +0800
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦群岛, 行程]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc: macro
+:toclevels: 1
+:sectnums:
+:url-itinerary-faroe-islands: {% post_url 2025-07-04-itinerary-faroe-islands %}
+:url-fly-to-lofoten-from-faroe-islands: {% post_url 2025-07-04-fly-to-lofoten-from-faroe-islands %}
+:url-airport-svj: {% post_url 2025-07-04-airport-svj %}
+:url-fishing-villages-in-lofoten: {% post_url 2025-11-26-fishing-villages-in-lofoten %}
+:url-hiking-festvaagtind: {% post_url 2025-07-05-hiking-festvaagtind %}
+:url-reine: {% post_url 2025-07-06-reine %}
+:url-hiking-reinebringen: {% post_url 2025-07-07-hiking-reinebringen %}
+:url-hiking-ryten-and-kvalvika-in-lofoten-norway: {% post_url 2025-07-08-hiking-ryten-and-kvalvika-in-lofoten-norway %}
+:url-hiking-floya-and-djevelporten: {% post_url 2025-07-12-hiking-floya-and-djevelporten %}
+:url-airport-osl: {% post_url 2025-07-15-airport-osl %}
+
+挪威的罗弗敦群岛拥有山峰, 峡湾, 岛屿和沙滩, 吸引着来自世界各地的徒步, 登山, 冲浪和皮划艇爱好者来到这座户外运动的天堂. 而丹麦的法罗群岛作为北大西洋上最后的的秘境, 世界的边缘, 同样拥有峡湾, 悬崖, 海蚀柱, 童话般的草顶村落, 此外还有蠢萌的海鹦. 我们在这个十八天的旅行中, 一次完成两个人生目标.
+
+这一篇游记是下篇, 包含了在挪威的罗弗敦群岛和奥斯陆的的每日行程. 而整个行程的住宿, 航班和租车的汇总信息, 以及在丹麦的哥本哈根和法罗群岛的每日行程, 记录在游记的上篇: link:{url-itinerary-faroe-islands}[罗弗敦群岛和法罗群岛之旅行程 (上) - 法罗群岛].
+
+toc::[]
+
+{% assign links = site.data.affiliate.links %}
+
+[#day1-get-to-lofoten]
+== 第一天: 从法罗群岛飞往罗弗敦 + 抵达亨宁斯维尔 (Henningsvær)
+
+这一天, 我们离开法罗群岛前往我们的下一个心愿单上的旅行目的地**罗弗敦群岛**.
+
+我们选择一周仅有两班的**威德罗航空 (Widerøe)** 的联程航班, 从法罗群岛出发, 经由挪威的卑尔根 (Bergen) 和博德 (Bodø), 到达罗弗敦的斯沃尔韦尔 (Svolvær). 具体的信息可以参考我们的攻略: link:{url-fly-to-lofoten-from-faroe-islands}[从法罗群岛飞往罗弗敦 - 小众线路航班攻略].
+
+我们在罗弗敦群岛的行程是全程租车自驾, 在**斯沃尔韦尔机场**取还车. 当天, 我们的航班到达斯沃尔韦尔机场的时候已经是晚上 8:30 了. 不过有午夜阳光照耀, 完全不用担心时间. 租车公司也营业到很晚, 而且手续极其简便. 实际上, 我们从下飞机开始, 提取行李, 到取到车, 总共就花了 10 分钟. 有关斯沃尔韦尔机场的详细信息, 可以参考我们的攻略: link:{url-airport-svj}[Svolvær Airport (SVJ) - 罗弗敦的斯沃尔韦尔机场].
+
+斯沃尔韦尔是罗弗敦的 "首府", 是探索罗弗敦, 特别是罗弗敦北部, 也就是本地人习惯所说的东罗弗敦的理想大本营. 不过, 我们的行程设计是在离开前回到斯沃尔韦尔游览周边. 所以, 在罗弗敦群岛的第一段行程, 我们选择住在斯沃尔韦尔以西不远的渔村**亨宁斯维尔 (Henningsvær)**. 从斯沃尔韦尔机场前往亨宁斯维尔只有 30 公里. 自驾需要 40 分钟.
+
+我们选择亨宁斯维尔作为第一站, 是因为亨宁斯维尔是罗弗敦群岛最美渔村之一, 人称 "罗弗敦的威尼斯". 这里还有我们非常期待的**菲斯特沃格峰 (Festvågtind)** 和**鳕鱼舌 (挪威语: Torsketunga)** 徒步.
+
+.罗弗敦的威尼斯 - 亨宁斯维尔
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/henningsvaer.webp[罗弗敦的威尼斯 - 亨宁斯维尔]
+
+[#where-we-stayed-in-henningsvaer]
+=== 在亨宁斯维尔住哪里
+
+我们在亨宁斯维尔选择住在了传统渔屋酒店:
+
+* {{ links.vagan["henningsvaer-rorbuer"].macro }}
+
+此外, 这里还有:
+
+* {{ links.vagan["henningsvaer-bryggehotell"].macro }}
+
+[#day2-hiking-festvagtind]
+== 第二天: 菲斯特沃格峰 (Festvågtind) 徒步
+
+今天天气极好. 我们在亨宁斯维尔的主要目标是徒步菲斯特沃格峰 (Festvågtind).
+
+上午仔细游览了一番亨宁斯维尔. 渔村很小, 一个半小时就几乎走遍了每一个角落. 还恰逢当地人的组织的一年一度的 Henningsvær Pride 游行和聚会活动. 这在有着悠久的历史和传统的一个小渔村里多少有些意外. 在这里的一间工作坊中, 还见到了极具特色的手工海胆灯, 当地人称 Lofotlys. 后来才知道, 海胆灯被认为是目前最具代表性的罗弗敦当地手工艺品之一.
+
+.罗弗敦的代表性手工艺品海胆灯 (Lofotlys)
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/lofotlys.webp[罗弗敦的代表性手工艺品海胆灯 (Lofotlys)]
+
+午后, 我们出发去徒步. 菲斯特沃格峰徒步罗弗敦群岛最著名的徒步路线之一. 登上菲斯特沃格峰, 俯瞰亨宁斯维尔由蜿蜒的公路, 大桥和堤道连接起来的小岛, 散落在碧蓝的西峡湾中, 画面美的令人窒息. 菲斯特沃格峰的名气还得益于人称 "鳕鱼舌" 的一块突出悬崖的奇石. 思路类似于挪威三大奇石中的 "巨魔之舌", 只是要小一点, 但是途中的危险程度要高很多. 详细的信息, 可以参考我们的攻略: link:{url-hiking-festvaagtind}[徒步罗弗敦 (Lofoten) 的 Festvågtind].
+
+.徒步到 Festvågtind 的顶峰俯瞰亨宁斯维尔 (Henningsvær) 全景
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/festvagtind.webp[徒步到 Festvågtind 的顶峰俯瞰亨宁斯维尔 (Henningsvær) 全景]
+
+[#day3-from-henningsvaer-to-reine]
+== 第三天: 从亨宁斯维尔到雷讷
+
+今天是轻松的自驾游. 我们从东罗弗敦的亨宁斯维尔退房出发, 前往西罗弗敦的雷讷 (Reine) 入住.
+
+连接罗弗敦群岛五大主要岛屿的主干公路是 E10 欧洲公路的罗弗敦段. 它也是挪威国家旅游公路的明珠之一 "罗弗敦之路" 的主干. 罗弗敦之路不仅仅是通路, 它本身就是和 "大西洋之路" 一样有名的旅行目的地. 所以, 自驾罗弗敦之路不要急着赶路, 否则会错过许多美景. 罗弗敦之路还包括几条支线, 通往一些最值得游览的渔村, 沙滩和观景点. 比如通往亨宁斯维尔的道路就是罗弗敦之路的一条支线. 建议提前做些功课, 规划好自驾路线. 时间允许的话, 不妨顺路驶离主路, 去探访那些藏身在峡湾和山峦之中的宝藏去处.
+
+.在罗弗敦之路 (Lofoten) 上的 Skreda 休息区所见的峡湾风光
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/norwegian-scenic-route-lofoten.webp[在罗弗敦之路 (Lofoten) 上的 Skreda 休息区所见的峡湾风光]
+
+地处西罗弗敦的雷讷和周边的小渔村是罗弗敦群岛的精华区, 是罗弗敦群岛最热门的旅行目的地. 凭借优越的地理位置, 丰富的旅游资源, 完善的设施和便利的交通, 雷讷是探访和体验罗弗敦群岛, 特别是西罗弗敦的最佳基地. 有关雷讷的详细信息, 参考我们的攻略: link:{url-reine}[雷讷 (Reine) - 罗弗敦 (Lofoten) 群岛最热门的旅行目的地].
+
+.午夜阳光照耀下的雷讷 (Reine) 渔村风光
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/reine.webp[午夜阳光照耀下的雷讷 (Reine) 渔村风光]
+
+[#where-to-stay-in-reine]
+=== 在雷讷住哪里
+
+我们在雷讷停留 5 晚. 因为整个行程选择了两处传统渔屋, 所以我们在雷讷选择体验此处评分最高的公寓:
+
+* {{ links.reine["mays-apartments"].macro }}
+
+其他不错的住宿选项包括:
+
+* {{ links.reine["reine-rorbuer"].macro }}
+
+* {{ links.reine["catogarden"].macro }}
+
+如果你有兴趣, 堪称罗弗敦群岛名片的那两处著名传统渔屋是:
+
+* 哈姆岛的红色传统渔屋: {{ links.moskenes["eliassen-rorbuer"].macro }}
+
+* 萨克里岛的黄色传统渔屋: {{ links.reine["sakrisoy-rorbuer"].macro }}
+
+[#day4-fishing-villages-and-reinebringen-hike]
+== 第四天: 游览渔村 + 徒步雷讷布林根山 (Reinebringen)
+
+在雷讷的第二天, 天公作美, 一整天都是晴天. 我们的主要目标是等到午夜时, 徒步登上**雷讷布林根**山, 欣赏罗弗敦群岛最经典的全景风光.
+
+在 "入夜" 前, 我们有一整天的时间, 可以悠闲地从北到南, 逐个游览雷讷周边的所有渔村:
+
+* 哈姆岛 (Hamnøya)
+* 萨克里岛 (Sakrisøya)
+* 雷讷 (Reine)
+* 莫斯克内斯 (Moskenes)
+* 瑟沃根 (Sørvågen)
+* 廷 (Tind)
+* 奥 (Å)
+
+从上世纪 70 年代, 雷讷就时常就称为 "最美渔村". 不过我们觉得在如今的罗弗敦群岛, 单单雷讷是难当这一盛名的. 在雷纳峡湾和西峡湾之间, 从哈姆岛到雷讷的一连串岛屿和渔村一同构成了罗弗敦群岛的精华. 特别是**哈姆岛**的红色传统渔屋, 和**萨克里岛**的黄色传统渔屋已经成为罗弗敦群岛的名片. 我们对罗弗敦群岛的最初印象就来自于这两个小渔村的标志性的画面.
+
+萨克里岛还有 Anita's Sjømat 海鲜餐厅, 是附近不可错过的美食打卡地. 我们在这里品尝了火炙鲸肉片 (Whale Tataki). 这是我们第一次品尝冰鲜的鲸肉, 完全不像鱼肉, 更像牛肉.
+
+.萨克里岛 (Sakrisøya) 的黄色传统渔屋
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/lofoten.webp[萨克里岛 (Sakrisøya) 的黄色传统渔屋]
+
+从雷讷继续向南直到公路的尽头, 散落着另外几个静谧唯美的渔村. 特别是最后一个渔村**奥**, 也是最美渔村之一. 这里不但有 "罗弗敦的尽头" 的卖点, 还有袖珍的**渔村博物馆**和**鱼干 (Stockfish) 博物馆**, 是非常热门的目的地. 天气好的时候, 从这里还可以眺望罗弗敦群岛南部的 Værøy 岛.
+
+得益于紧邻雷讷, 雷讷布林根徒步是罗弗敦群岛最热门的徒步. 我们在夜里 10:30 出发去徒步. 一路上, 来自世界各地的徒步爱好者络绎不绝. 在临近午夜前, 我们来到山顶, 成功打卡了在罗弗敦的第二条徒步路线. 有关雷讷布林根徒步的详细信息可以参考我们的攻略: link:{url-hiking-reinebringen}[徒步罗弗敦 (Lofoten) 的 Reinebringen].
+
+.在雷讷布林根 (Reinebringen) 的山顶俯瞰峡湾中的渔村全景
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/reinebringen.webp[在雷讷布林根 (Reinebringen) 的山顶俯瞰峡湾中的渔村全景]
+
+[#day5-hiking-ryten-and-kvalvika]
+== 第五天: 徒步 Ryten 山和 Kvalvika 海滩
+
+依旧是极佳的天气. 今天的主要目标是我们在罗弗敦群岛徒步计划中的第三个: Ryten 山和 Kvalvika 海滩.
+
+凌晨一点钟, 我们才完成雷讷布林根山的徒步回到住处. 休息了一上午. 午后才悠闲地驾车前往 Ryten 山和 Kvalvika 海滩的徒步起点. 从雷讷到徒步起点的距离只有 26 公里, 自驾快点的话只需要半小时. 不过建议多留些时间, 因为沿途有许多值得停下来欣赏的风光, 特别是 Fredvang 大桥附近. 经过大桥后, 从 Fredvang 向南的 Fv 808 公路沿途的峡湾风光也值得绕道过去看看.
+
+.一艘渔船正在通过 Flakstad 大桥
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/flakstad.webp[一艘渔船正在通过 Flakstad 大桥]
+
+Ryten 山和 Kvalvika 海滩徒步是我们在罗弗敦群岛的徒步中, 最喜欢的一个. 原因是徒步整体非常轻松, 而且前往徒步起点的途中, 徒步的步道途中, 一直到徒步的目的地, 全程都是美景. 最终站上那块突出的奇石, 俯瞰青山, 碧海, 白沙的照片更是人生照片之一. 详细的信息可以参考我们的攻略: link:{url-hiking-ryten-and-kvalvika-in-lofoten-norway}[徒步罗弗敦 (Lofoten) 的 Ryten 山和 Kvalvika 海滩].
+
+.在 Ryten 山顶俯瞰 Kvalvika 海滩
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/ryten-and-kvalvika.webp[在 Ryten 山顶俯瞰 Kvalvika 海滩]
+
+[#day6-road-trip-to-beaches]
+== 第六天: 自驾探访罗弗敦的沙滩
+
+这一天的天气依然很好. 我们自驾去探访了罗弗敦的沙滩.
+
+位于 Flaskstad 和 Leknes 西部海岸边的沙滩是罗弗敦群岛最好的沙滩. 比较出人意料的是, 这里的沙滩比绝大多数我们去过的热带沙滩要好很多. 海滩宽阔, 平坦. 沙子洁白, 细腻. 唯一的问题是海水太冷. 在夏季, 罗弗敦的沙滩适合家庭休憩和漫步. 许多冲浪爱好者在这里享受冷水冲浪的乐趣. 晚间也很热闹, 人们在沙滩上欣赏午夜的太阳. 在冬季, 这些海滩是拍摄北极光的最佳地点之一.
+
+在 Flakstad 的西海岸, 几个著名海滩都在 E10 欧洲公路旁, 从北到南:
+
+* Flakstadsanden (弗拉克斯塔德海滩)
+* Skagsanden (斯卡格海滩)
+* Rambergstranda (拉姆贝格海滩)
+
+继续向北, 在莱克内斯 (Leknes) 的西海岸, 虽然距离 E10 欧洲公路远了点, 但是有几个名气更大的海滩. 
+
+* Uttakleiv (乌塔克莱夫海滩)
+* Haukland (豪克兰海滩)
+* Vik (维克海滩)
+
+其中, 豪克兰海滩曾被评选为挪威的最美海滩; 而乌塔克莱夫海滩则拥有龙眼石和心形石, 是被拍摄最多的海滩. 这三座相邻的海滩, 拥有极佳的北方视野, 是冬季欣赏和拍摄比极光最佳的地点.
+
+如果你是冲浪高手, 继续向北的 Ustad 海滩是北极最好的冬季冷水冲浪胜地.
+
+.Skagsanden 的海滩营地
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/lofoten-beach-camp.webp[Skagsanden 的海滩营地]
+
+[#day7-visit-sorvagen]
+== 第七天: 修整 + 再访瑟沃根 (Sørvågen)
+
+在罗弗敦群岛的第七天, 乌云到底还是来了. 我们决定好好休整一天. 只是傍晚十分, 去临近的渔村瑟沃根 (Sørvågen) 品尝了当地小有名气的 Maren Anna 餐厅. 顺便又转了转这个渔村.
+
+.瑟沃根 (Sørvågen) 的渔村风光
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/sorvagen.webp[瑟沃根 (Sørvågen) 的渔村风光]
+
+[#day8-from-reine-to-svolvaer]
+== 第八天: 从雷讷到斯沃尔维尔
+
+这一天细雨连绵. 我们从雷讷退房, 驱车返回斯沃尔维尔入住.
+
+我们将从斯沃尔维尔机场乘飞机离开罗弗敦群岛. 因此, 我们在罗弗敦群岛的第三段行程是回到斯沃尔维尔. 主要的考虑是可以在前往机场时轻松一些.
+
+从雷讷到斯沃尔维尔有 120 公里, 自驾需要大约 2 小时 20 分钟. 不过天气不佳, 我们也不急于赶到斯沃尔维尔. 所以, 沿途我们走走停停.
+
+在 Flakstad 时, 我们拐了个弯去参观了 Flakstad 的小教堂 (Flakstad Church). 这座教堂是罗弗敦群岛最标志性的历史建筑之一, 以其鲜艳的红色木制外墙和独特的洋葱头形尖顶而闻名. 在 E10 欧洲公路上就可以远远的看到它.
+
+在离开 Flakstad 之前, 我们绕道去了努斯峡湾 (Nusfjord). 它是挪威最古老, 保存最完美的渔村之一. 也是罗弗敦群岛最美渔村之一. 渔村很小, 在渔村外有个小型停车场, 很容易停满. 意外的是, 进入渔村竟然需要缴费. 这大概是罗弗敦唯一的一个收费才能进的渔村. 虽然每人 100 挪威克朗 (2025) 的价格不便宜, 不过最后证明还是值得的. 记得一定要尝尝渔村中的面包店.
+
+.细雨中的努斯峡湾 (Nusfjord)
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/nusfjord.webp[细雨中的努斯峡湾 (Nusfjord)]
+
+距离莱克内斯不远, 穿过博格 (Borg) 的 E10 公路, 会经过路旁的**罗弗敦维京博物馆 (Lofotr Viking Museum)**. 这是一座建立在考古遗址上的历史博物馆. 博物馆重建了一座长达 83 米的维京首领长屋. 其原型是 1980 年代在此地挖掘出的, 已知斯堪的纳维亚半岛规模最大的维京时代建筑遗址. 夏季来到博物馆, 还可以搭乘 1:1 复刻的维京战船, 亲自划桨出海. 此外, 还有其他多种互动游戏和传统活动. 体验这座博物馆, 特别是参与战船出海等活动, 受时刻表的限制, 记得预留足够的时间.
+
+我们到达斯沃尔维尔的时候, 已经是傍晚时分. 在镇上的超市中采购了冰鲜鲸肉排 (Hvalbiff), 青口 (Blåskjell). 在酒类专卖店 (Vinmonopolet) 买了哈当厄尔苹果酒 (Hardanger Sider). 入住传统渔屋酒店之后, 自己动手, 饱餐了一顿. 
+
+顺便说一句: 如果问到夏季在罗弗敦吃什么, 美味的青口贝绝对不能错过, 挪威的青口贝简直不是一个物种. 此外, 挪威是少数允许合法捕捞小须鲸的国家, 所以还可以体验一下鲸肉. 自己动手也很简单, 就当作牛排一样来煎, 味道实际上也差不多. 不要忘了来上一瓶堪比法国香槟的哈当厄尔苹果酒.
+
+.斯沃尔维尔 (Svolvaer) 的桑拿 (Lofoten Sauna)
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/lofoten-sauna.webp[斯沃尔维尔 (Svolvaer) 的桑拿 (Lofoten Sauna)]
+
+[#where-to-stay-in-svolvaer]
+=== 在斯沃尔维尔住哪里
+
+在斯沃尔维尔, 我们选择位于港口中心, 标志性的小岛 Lamholmen 上的传统渔屋酒店:
+
+* {{ links.vagan["anker-brygge"].macro }}
+
+斯沃尔维尔的住宿选项非常多. 评价极高的传统渔屋酒店有:
+
+* {{ links.svolvaer["rorbuanlegget"].macro }}
+* {{ links.svolvaer["svinoya-rorbuer"].macro }}
+
+这里的两间 Thon 的连锁酒店也都是高分酒店:
+
+* {{ links.svolvaer["thon-hotel-lofoten"].macro }}
+* {{ links.svolvaer["thon-hotel-svolvaer"].macro }}
+
+[#day9-hiking-floya-and-djevelporten]
+== 第九天: 徒步弗洛亚和魔鬼之门 (Fløya and Djevelporten)
+
+我们在斯沃尔维尔最重要的目标是徒步徒步弗洛亚和魔鬼之门.
+
+可惜今天依旧是阴雨连绵. 不过, 天气预报说接近午夜时会迎来晴天. 我们也只好在镇上闲逛, 打发时间. 期待着明天离开罗弗敦群岛之前, 能等来晴天, 完成最后这个徒步.
+
+虽然是罗弗敦群岛的首府, 还被称为罗弗敦群岛最大的 "城市". 不过, 整个斯沃尔维尔都在步行范围内. 除了热闹的港口中心外, 最值得一去的是**斯沃尔韦尔防波堤 (Moloen i Svolvær)**. 从市中心出发, 经 Svinøya 桥, 可以前往防波堤. 防波堤的最尽头矗立着著名的 **"渔妻雕像" (The Fisherman's Wife)**. 她面朝大海, 挥动手中的头巾, 象征着守望并期盼出海捕鱼的丈夫平安归来.
+
+.斯沃尔维尔 (Svolvaer) 的 "渔妻雕像" (The Fisherman's Wife) 和正在驶离的海达路德 (Hurtigruten) 的游轮
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/the-fishermans-wife.webp[斯沃尔维尔 (Svolvaer) 的 "渔妻雕像" (The Fisherman's Wife) 和正在驶离的海达路德 (Hurtigruten) 的游轮]
+
+直到夜里 9:00 云雾开始逐渐散去. 我们从住处出发去徒步弗洛亚和魔鬼之门.
+
+**弗洛亚 (Fløya)** 是斯沃尔维尔的一座山峰. 沿着夏尔巴人修建的石阶 **"魔鬼之梯" (Djeveltrappa)** 拾级而上, 可以去挑战卡在悬崖之间的奇石 - **魔鬼之门 (Djevelporten)**, 或者登上弗洛亚峰, 俯瞰斯沃尔韦尔全景. 还可以前往**斯沃尔韦尔山羊峰 (Svolværgeita)** 攀岩. 详细信息可以参考我们的攻略: link:{url-hiking-floya-and-djevelporten}[徒步罗弗敦 (Lofoten) 的弗洛亚和魔鬼之门 (Fløya and Djevelporten)].
+
+等徒步之后回到住处时, 已经是凌晨一点钟了. 酒店的餐馆中仍然几乎是座无虚席.
+
+.弗洛亚 (Fløya) 山上的魔鬼之门 (Djevelporten)
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/djevelporten.webp[弗洛亚 (Fløya) 山上的魔鬼之门 (Djevelporten)]
+
+[#day10-from-svolvaer-to-oslo]
+== 第十天: 从斯沃尔维尔岛奥斯陆
+
+一觉醒来, 斯沃尔维尔已经是万里无云了. 今天我们将乘飞机离开罗弗敦群岛前往奥斯陆. 回国前在奥斯陆休整一天.
+
+.斯沃尔维尔 (Svolvaer) 的港口区
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/svolvaer.webp[斯沃尔维尔 (Svolvaer) 的港口区]
+
+从斯沃尔维尔市中心到机场只有 6 公里. 还车是自助的. 停好车后, 把车钥匙投进柜台门旁边的钥匙投递箱即可. 飞机起飞前半小时才有工作人员出现值机. 而且, 机场真的是什么都没有. 所以, 只需要提前半小时到机场即可.
+
+我们经博德 (Bodø) 短暂中转, 傍晚时分抵达了奥斯陆. 办理了入住之后, 决定睡觉前, 去旁边的餐厅 Den Glade Gris 打牙祭. 
+
+挪威语 Den Glade Gris 的字面意思是 "快乐的猪". 恰如其名, 这家店主打猪肉, 招牌是挪威传统的慢烤猪蹄膀 (挪威语: Langgrillet svineknoke). 如果你的饭量不大, 两个人点一份猪蹄膀再加点其他的就够了. 我们觉得还不错, 比较适合中国胃, 特别是配上红酒和精酿啤酒. 不过说实话, 我们主要还是被门口坐着的这位骗进去的.
+
+.奥斯陆的 Den Glade Gris 餐厅
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/den-glade-gris.webp[奥斯陆的 Den Glade Gris 餐厅]
+
+[#where-to-stay-in-oslo]
+=== 在奥斯陆住哪里
+
+在挪威, 我们经常住在 Thon 的连锁酒店, 主要是觉得 Thon 的早餐最好, 而且免费的苏打水和咖啡也好喝. 这次在奥斯陆我们选择的是这间:
+
+* {{ links.oslo["thon-hotel-europa"].macro }}
+
+不过, 体验后我们发现, 这间距离步行街**卡尔·约翰斯大道 (Karl Johans gate)** 和车站稍微远了一点. 有机会的话, 我们下次会想试试看下面这家. 距离步行街更近, 评分也最高.
+
+* {{ links.oslo["thon-hotel-rosenkrantz"].macro }}
+
+如果你偏爱 Clarion 的连锁店. 这家评分很高, 距离歌剧院一步之遥:
+
+* {{ links.oslo["clarion-hotel-oslo"].macro }}
+
+如果喜欢高档酒店, 也许大陆酒店适合你:
+
+* {{ links.oslo["hotel-continental"].macro }}
+
+[#day11-shopping-in-oslo]
+== 第十一天: 奥斯陆
+
+这次罗弗敦群岛和法罗群岛之旅, 时间比较长, 行程也比较复杂. 我们有意在从奥斯陆回国前安排了一天的缓冲时间. 所以, 我们有了一整天的闲暇时光在奥斯陆. 
+
+这是我们第三次来到这座城市, 所以本来就没有多少游览这座城市的打算. 加上这一天也天气不佳, 大部分时间被乌云笼罩. 我们没有去任何景点. 相比另外两座北欧的首都哥本哈根和斯德哥尔摩, 奥斯陆从观光的角度来说要逊色不少. 可是说到户外装备, 这里就是购物天堂了. 我们从卡尔·约翰斯大道的旗舰店, 到深藏在小巷中的折扣店, 逛了一天, 乐此不疲.
+
+[#day12-return-flight]
+== 第十二天: 回国
+
+即将结束我们的双群岛之旅. 我们照旧选择了阿联酋航空经迪拜回北京.
+
+奥斯陆市中心到机场的交通十分方便. 绝大多数人选择在市中心的中央火车站 (Oslo S) 乘坐火车前往机场. 有关奥斯陆机场的详细信息, 可以参考我们的攻略: link:{url-airport-osl}[奥斯陆机场 (Oslo Airport, OSL) - 航站楼和公共交通].
+
+.奥斯陆机场 (Oslo Airport, OSL) 中央到达大厅的火车站入口
+image::assets/images/2025/lofoten-faroe/itinerary-lofoten/airport-osl.webp[奥斯陆机场 (Oslo Airport, OSL) 中央到达大厅的火车站入口]

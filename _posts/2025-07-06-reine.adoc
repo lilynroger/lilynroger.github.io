@@ -10,21 +10,21 @@
 :sectnums:
 :url-hiking-reinebringen: {% post_url 2025-07-07-hiking-reinebringen %}
 
-雷讷 (Reine) 小镇是挪威诺尔兰郡莫斯科内斯市镇的行政中心. 高耸的山峰下, 碧蓝的峡湾中, 红色的传统渔屋 (Rorbur) 点缀在海岸边, 构成一幅完美的挪威渔村画卷. 凭借优越的地理位置, 丰富的旅游资源, 完善的设施和便利的交通, 雷讷已经成为罗弗敦 (Lofoten) 群岛最热门的旅行目的地.
+雷讷 (Reine) 小镇是挪威诺尔兰郡莫斯克内斯市镇的行政中心. 高耸的山峰下, 碧蓝的峡湾中, 红色的传统渔屋 (Rorbur) 点缀在海岸边, 构成一幅完美的挪威渔村画卷. 凭借优越的地理位置, 丰富的旅游资源, 完善的设施和便利的交通, 雷讷已经成为罗弗敦 (Lofoten) 群岛最热门的旅行目的地.
 
 toc::[]
 
 [#where-is-reine]
 == 雷讷在哪里
 
-雷讷坐落在罗弗敦群岛的莫斯科内斯岛 (Moskenesøya). 行政区划上, 属于北挪威诺尔兰郡 (Nordland) 莫斯科内斯 (Moskenes) 市镇, 是该市镇的行政中心.
+雷讷坐落在罗弗敦群岛的莫斯克内斯岛 (Moskenesøya). 行政区划上, 属于北挪威诺尔兰郡 (Nordland) 莫斯克内斯 (Moskenes) 市镇, 是该市镇的行政中心.
 
-雷讷是莫斯科内斯的几个主要渔村之一, 这些渔村都集中在东部的海岸线上, 由北到南包括:
+雷讷是莫斯克内斯的几个主要渔村之一, 这些渔村都集中在东部的海岸线上, 由北到南包括:
 
 * 哈姆岛 (Hamnøya)
 * 萨克里岛 (Sakrisøya)
 * 雷讷 (Reine)
-* 莫斯科内斯 (Moskenes)
+* 莫斯克内斯 (Moskenes)
 * 瑟沃根 (Sørvågen)
 * 廷 (Tind)
 * 奥 (Å)
@@ -52,7 +52,7 @@ image::assets/images/2025/lofoten-faroe/reine/reine-map.webp[雷讷 (Reine) 地�
 [#by-ferry]
 === 轮渡
 
-从位于挪威大陆上的博德出发, 前往罗弗敦群岛的汽车轮渡码头在莫斯科内斯, 就在雷讷以南 5 公里. 乘坐轮渡前往雷讷是非常热门的交通选项.
+从位于挪威大陆上的博德出发, 前往罗弗敦群岛的汽车轮渡码头在莫斯克内斯, 就在雷讷以南 5 公里. 乘坐轮渡前往雷讷是非常热门的交通选项.
 
 [#by-cruise]
 === 邮轮
@@ -62,7 +62,7 @@ image::assets/images/2025/lofoten-faroe/reine/reine-map.webp[雷讷 (Reine) 地�
 [#by-car]
 === 自驾
 
-在罗弗敦, 最便捷的交通方式无疑是自驾. 可以在莱克内斯, 斯沃尔维尔, 甚至更远一点的机场租车. 从挪威大陆上的博德 (Bodø) 租车, 然后乘坐汽车轮渡前往罗弗敦的莫斯科内斯码头也是一个不错的选择.
+在罗弗敦, 最便捷的交通方式无疑是自驾. 可以在莱克内斯, 斯沃尔维尔, 甚至更远一点的机场租车. 从挪威大陆上的博德 (Bodø) 租车, 然后乘坐汽车轮渡前往罗弗敦的莫斯克内斯码头也是一个不错的选择.
 
 罗弗敦的主要公路是欧洲 E10 公路. 这条公路的罗弗敦段是link:{% post_url 2025-11-23-norwegian-scenic-routes %}[挪威的国家旅游公路]之一的罗弗敦之路的主线. 在驶离 E10 公路, 前往雷讷渔村的入口, 是一个罗弗敦之路上的名字叫 Reinehalsen 的观景点, 这里是雷讷的最佳拍照打卡点之一. 从这里进入雷讷中心的道路名叫雷讷路 (Reineveien), 终点是 Circle K 的连锁加油站和停车场, 也是雷讷的 "商业中心".
 
@@ -76,7 +76,7 @@ image::assets/images/2025/lofoten-faroe/reine/reine-map.webp[雷讷 (Reine) 地�
 * Reinebringen: 雷讷入口不远处, 乘坐公交车去徒步 Reinebringen 的游客经常选择这一站.
 * Reine: 雷讷的 "商业中心", 就在 Circle K 连锁加油站那里.
 
-公交车 300, 742, 772 停靠雷讷各站. 从雷讷到莫斯科内斯轮渡码头只要 10 分钟, 到莱克内斯机场则需要 1 小时 30 分钟.
+公交车 300, 742, 772 停靠雷讷各站. 从雷讷到莫斯克内斯轮渡码头只要 10 分钟, 到莱克内斯机场则需要 1 小时 30 分钟.
 
 [#what-to-do-in-and-around-reine]
 == 在雷讷做什么
@@ -100,19 +100,19 @@ image::assets/images/2025/lofoten-faroe/reine/reine-rorbuer.webp[从雷讷 (Rein
 
 雷讷东北端突出在峡湾中的港口是雷讷外港 (Reine Ytre Havn). 这里有穿过雷讷峡湾 (Reinefjorden) 前往西北边的几个小渔村的快艇码头 (Reine hurtigbåtkai).
 
-.雷讷外港 (ReReine Ytre Havn) 的雷讷快艇码头 (Reine hurtigbåtkai)
+.雷讷外港 (Reine Ytre Havn) 的雷讷快艇码头 (Reine hurtigbåtkai)
 image::assets/images/2025/lofoten-faroe/reine/reine-hurtigbatkai.webp[雷讷外港 (ReReine Ytre Havn) 的雷讷快艇码头 (Reine hurtigbåtkai)]
 
 雷讷外港也是雷讷最大的停车场. 需要注意的是这里的停车场分属两家, 收费方式不同. 在外港防波堤的尽头还有一座灯塔.
 
-.雷讷外港 (ReReine Ytre Havn) 防波堤之上的灯塔
+.雷讷外港 (Reine Ytre Havn) 防波堤之上的灯塔
 image::assets/images/2025/lofoten-faroe/reine/reine-lighhouse.webp[雷讷外港 (ReReine Ytre Havn) 防波堤之上的灯塔]
 
 外港这里也是雷讷最大的鱼干的晾晒场. 在晾晒场的木架的簇拥下, 雷讷的足球场就坐落在海边.
 
 雷讷的 Circle K 加油站前的小广场是雷讷的商业中心. 加油站本身也是杂货店, 纪念品店, 快餐店和小型的临时停车场. 公交车站, 公共卫生间都在这里. 还有几家咖啡馆和餐馆可以选择. 此外, 在加油站的旁边还有一家名字叫 Lofotsportbua 户外活动用品店, 正价和折扣装备都有, 品类还比较全, 非常值得逛逛.
 
-最后值得一提的是, 整个莫斯科内斯岛的西海岸和南部海岸都是 Lofotodden 国家公园的范围. 它的访客中心就坐落在雷讷的中心. 访客中心也提供了一个收费停车场. 需要注意的是, 这个国家公园叫 Lofotodden 国家公园, 常常被误以为是 Lofoten 国家公园. 挪威语 Lofotodden 是 _Lofot_ + _odden_ 的组合, 意思是 "罗弗敦海岬" 或 "罗弗敦角". 莫斯克内斯岛最南端的那一片山区, 就是罗弗敦角. 国家公园的名称就源自于此.
+最后值得一提的是, 整个莫斯克内斯岛的西海岸和南部海岸都是 Lofotodden 国家公园的范围. 它的访客中心就坐落在雷讷的中心. 访客中心也提供了一个收费停车场. 需要注意的是, 这个国家公园叫 Lofotodden 国家公园, 常常被误以为是 Lofoten 国家公园. 挪威语 Lofotodden 是 _Lofot_ + _odden_ 的组合, 意思是 "罗弗敦海岬" 或 "罗弗敦角". 莫斯克内斯岛最南端的那一片山区, 就是罗弗敦角. 国家公园的名称就源自于此.
 
 .雷讷中心的 Lofotodden 国家公园访客中心
 image::assets/images/2025/lofoten-faroe/reine/lofotodden-national-park-visitor-centre.webp[雷讷中心的 Lofotodden 国家公园访客中心]
@@ -192,7 +192,7 @@ image::assets/images/2025/lofoten-faroe/reine/reinebringen.webp[在雷讷布林�
 [#day-trips-from-reine]
 === 从雷讷出发的一日游
 
-雷讷距离罗弗敦大陆南部的最后一个渔村奥村 (Å) 也不过 10 公里. 从雷讷出发向南, 半日可以游览包括莫斯科内斯 (Moskenes), 瑟沃根 (Sørvågen), 廷 (Tind), 奥 (Å) 在内的几个渔村.
+雷讷距离罗弗敦大陆南部的最后一个渔村奥村 (Å) 也不过 10 公里. 从雷讷出发向南, 半日可以游览包括莫斯克内斯 (Moskenes), 瑟沃根 (Sørvågen), 廷 (Tind), 奥 (Å) 在内的几个渔村.
 
 向北, 从雷讷前往 Ryten 山和 Kvalvika 海滩的徒步起点只有 26 公里. 自驾需要不到 40 分钟. 这条徒步路线是我们在罗弗敦最喜欢的徒步路线. 具体的信息可以参考我们的攻略: link:{% post_url 2025-07-08-hiking-ryten-and-kvalvika-in-lofoten-norway %}[徒步罗弗敦 (Lofoten) 的 Ryten 山和 Kvalvika 海滩].
 
