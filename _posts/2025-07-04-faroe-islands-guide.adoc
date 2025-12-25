@@ -1,4 +1,4 @@
-= 世界的边缘 - 法罗群岛 (Faroe Islands) 攻略
+= 世界的边缘 - 法罗群岛 (The Faroe Islands) 旅行指南和攻略
 :page-subtitle: The Faroe Islands - Complete Guide for First-Time Visitors
 :page-image: assets/images/2025/lofoten-faroe/faroe-islands-guide/mulafossur.webp
 :page-date: 2025-07-04 13:00:00 +0100
@@ -6,7 +6,7 @@
 :page-layout: post
 :page-categories: posts
 :page-liquid:
-:toc:
+:toc: macro
 :sectnums:
 :url-airport-fae: {% post_url 2025-06-15-airport-fae %}
 :url-undersea-tunnels: {% post_url 2025-07-01-undersea-tunnels-in-the-faroe-islands %}
@@ -16,7 +16,9 @@
 :url-old-town-and-tinganes-of-torshavn: {% post_url 2025-07-03-old-town-and-tinganes-of-torshavn %}
 :url-where-to-spot-puffins: {% post_url 2025-07-04-where-to-spot-puffins-in-the-faroe-islands %}
 
-法罗群岛 (Faroe Islands), 常常被人们称为 "世界的边缘", 拥有苍凉而壮丽的峡湾, 悬崖, 海蚀柱, 童话般的草顶村落, 还有呆萌的海鹦. 作为世界最佳的群岛之一, 法罗群岛是无数人梦想的旅行目的地.
+法罗群岛 (Faroe Islands), 丹麦的海外自治领地, 常常被人们称为 "世界的边缘", 拥有苍凉而壮丽的峡湾, 悬崖, 海蚀柱, 童话般的草顶村落, 还有呆萌的海鹦 (Puffin). 作为世界最佳的群岛之一, 法罗群岛是无数人梦想的旅行目的地.
+
+toc::[]
 
 [#quick-facts]
 == 法罗群岛速览
