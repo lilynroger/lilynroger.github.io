@@ -51,7 +51,8 @@
                 {
                     x: "date",
                     y: "temperature_2m_max",
-                    stroke: "red",
+                    stroke: "#2caffe",
+                    strokeWidth: 1,
                     channels: {
                         temperature: {
                             value: (d) => `${d.temperature_2m_min} ~ ${d.temperature_2m_max} °C`,
@@ -72,7 +73,8 @@
                 {
                     x: "date",
                     y: "temperature_2m_min",
-                    stroke: "blue"
+                    stroke: "#544fc5",
+                    strokeWidth: 1,
                 }
             ),
             Plot.text(
@@ -82,7 +84,7 @@
                         x: "date",
                         y: "temperature_2m_max",
                         text: d => "最高气温",
-                        fill: "red",
+                        fill: "#2caffe",
                         textAnchor: "start",
                         dx: 5,
                         dy: -5
@@ -96,7 +98,7 @@
                         x: "date",
                         y: "temperature_2m_min",
                         text: d => "最低气温",
-                        fill: "blue",
+                        fill: "#544fc5",
                         textAnchor: "start",
                         dx: 5,
                         dy: 5
