@@ -16,9 +16,7 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-asciidoc"
-  gem "jekyll-last-modified-at"
   gem "asciidoctor-bibtex"
-  gem "jekyll-feed"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

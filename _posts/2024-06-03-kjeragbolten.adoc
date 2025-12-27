@@ -5,7 +5,7 @@
 :page-image: /assets/images/2024/scandinavia/kjeragbolten/kjeragbolten.webp
 :page-layout: post
 :page-categories: posts
-:page-tags: [2024-Scandinavia, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 徒步, 精选]
+:page-tags: [2024-Scandinavia, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 徒步]
 :page-liquid:
 :toc:
 :sectnums:

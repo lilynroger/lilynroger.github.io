@@ -1,8 +1,8 @@
 = 游客的挪威地理 - 行政区划和地理区划
 :page-subtitle: Geography of Norway for Visitors
 :page-image: assets/images/2025/lofoten-faroe/geography-of-norway/geography-of-norway.webp
-:page-date_modified: 2025-11-30 15:00:00 +0800
 :page-date: 2025-07-15 22:00:00 +0200
+:page-date_modified: 2025-12-19 08:00:00 +0800
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威]
 :page-layout: post
 :page-categories: posts

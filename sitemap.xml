@@ -1,23 +1,26 @@
 ---
-layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">    
-    {% 
-        assign site_last_modified_at = "now"
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {%
+        assign latest_date_modified = site.posts
+        | where_exp: "post", "post.date_modified" 
+        | map: "date_modified"
+        | sort
+        | last
     %}
     <url>
         <loc>https://lilyroger.com/</loc>
-        <lastmod>{{ site_last_modified_at | date: "%Y-%m-%d" }}</lastmod>
+        <lastmod>{{ latest_date_modified | date: "%Y-%m-%d" }}</lastmod>
         <changefreq>weekly</changefreq>
     </url>
 
     <!-- The page of the trips collection -->
     <url>
         <loc>https://lilyroger.com/trips/</loc>
-        <lastmod>{{ site_last_modified_at | date: "%Y-%m-%d" }}</lastmod>
+        <lastmod>{{ latest_date_modified | date: "%Y-%m-%d" }}</lastmod>
         <changefreq>weekly</changefreq>
     </url>
 
@@ -27,8 +30,8 @@ layout: null
     <url>
         <loc>https://lilyroger.com{{ item.url }}</loc>
         <lastmod>
-        {%- if item.last_modified_at -%}
-        {{ item.last_modified_at | date: "%Y-%m-%d" }}
+        {%- if item.modified_time -%}
+        {{ item.modified_time | date: "%Y-%m-%d" }}
         {%- else -%}
         {{ item.date | date: "%Y-%m-%d" }}
         {%- endif -%}
@@ -40,7 +43,7 @@ layout: null
     <!-- The page of all posts -->
     <url>
         <loc>https://lilyroger.com/posts/</loc>
-        <lastmod>{{ site_last_modified_at | date: "%Y-%m-%d" }}</lastmod>
+        <lastmod>{{ latest_date_modified | date: "%Y-%m-%d" }}</lastmod>
         <changefreq>weekly</changefreq>
     </url>
 
@@ -49,8 +52,8 @@ layout: null
     <url>
         <loc>https://lilyroger.com{{ post.url }}</loc>
         <lastmod>
-        {%- if post.last_modified_at -%}
-        {{ post.last_modified_at | date: "%Y-%m-%d" }}
+        {%- if post.modified_time -%}
+        {{ post.modified_time | date: "%Y-%m-%d" }}
         {%- else -%}
         {{ post.date | date: "%Y-%m-%d" }}
         {%- endif -%}

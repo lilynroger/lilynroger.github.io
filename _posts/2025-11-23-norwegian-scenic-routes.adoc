@@ -2,6 +2,7 @@
 :page-subtitle: The Norwegian Scenic Routes
 :page-image: assets/images/2025/lofoten-faroe/norwegian-scenic-routes/trollstigen.webp
 :page-date: 2025-11-23 14:00:00 +0800
+:page-date_modified: 2025-11-23 08:00:00 +0800
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 自驾]
 :page-categories: posts
 :page-layout: post

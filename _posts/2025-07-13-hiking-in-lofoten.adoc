@@ -1,9 +1,9 @@
 = 徒步罗弗敦 (Lofoten) - 罗弗敦群岛经典最佳徒步路线
 :page-subtitle: Hiking in Lofoten: The Best Hikes in Lofoten Islands, Norway
 :page-image: assets/images/2025/lofoten-faroe/hiking-in-lofoten/on-the-way-from-innersand-to-ryten.webp
+:page-date_modified: 2025-12-19 08:00:00 +0800
 :page-date: 2025-07-13 08:00:00 +0200
-:page-date_modified: 2025-11-03 08:00:00 +0800
-:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦, 徒步]
+:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦, 徒步, 精选]
 :page-categories: posts
 :page-layout: post
 :page-liquid:
