@@ -31,9 +31,10 @@ url: "https://lilyroger.com" # the base hostname & protocol for your site, e.g. 
 # github_username:  jekyll
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-asciidoc
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
