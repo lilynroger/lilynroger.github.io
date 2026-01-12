@@ -87,6 +87,6 @@ timezone: Etc/UTC
 show_excerpts: true
 date_format: "%Y 年 %m 月 %d 日"
 header_pages:
-  - _pages/trips.html
+  - _pages/trips.md
   - _pages/posts.html
   - _pages/about.html
