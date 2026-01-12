@@ -1,0 +1,30 @@
+<nav class="navbar navbar-expand-lg">
+  <div class="container"> <!-- required, center -->
+
+    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <a class="navbar-brand" rel="author" href="{{ '/' | relative_url }}">
+      <img src="/assets/images/logo.svg" class="light-theme" alt="{{ site.title | escape }}" width="150">
+      <img src="/assets/images/logo-light.svg" class="dark-theme" alt="{{ site.title | escape }}" width="150">
+    </a>
+
+    <button class="navbar-toggler mt-1" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+      aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button> <!-- mt-1 is to fix visual vertical align -->
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-5 mt-1">
+        {%- for path in page_paths -%}
+        {%- assign my_page = site.pages | where: "path", path | first -%}
+        {%- if my_page.title -%}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+        </li>
+        {%- endif -%}
+        {%- endfor -%}
+      </ul>  <!-- mt-1 is to fix visual vertical align -->
+    </div>
+
+  </div>
+</nav>

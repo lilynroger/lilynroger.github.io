@@ -1,18 +1,14 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en" }}">
+<html lang="{{ page.lang | default: site.lang | default: " en" }}" data-bs-theme="light">
 
 {%- include head.html -%}
 
 <body>
 
-  {%- include header.html -%}
+  {{ content }}
 
-  <main class="container-fluid py-5" aria-label="Content">
-    {{ content }}
-  </main>
-
-  {%- include footer.html -%}
-
+  <script src="{{ '/assets/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js' | relative_url }}"
+    crossorigin="anonymous"></script>
 </body>
 
 </html>
