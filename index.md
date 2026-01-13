@@ -1,5 +1,9 @@
 ---
 layout: default
+
+# jekyll-seo-tag
+# see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
+canonical_url: https://lilyroger.com
 ---
 <!-- the front cover fills the entire initial viewable area -->
 <div id="front-cover" class="position-relative vh-100 overflow-hidden">
@@ -74,9 +78,6 @@ layout: default
 
 <!-- main content -->
 <div id="content" class="container-md py-5">
-
-  {{ content }}
-
   <!-- welcome -->
   <div class="my-3 py-3">
     <hgroup class="text-center">
