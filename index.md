@@ -77,15 +77,15 @@ canonical_url: https://lilyroger.com
 </div>
 
 <!-- main content -->
-<div id="content" class="container-md py-5">
+<main id="content" class="container-md py-5">
   <!-- welcome -->
-  <div class="my-3 py-3">
+  <header class="my-3 py-3">
     <hgroup class="text-center">
       <p class="text-body-secondary kicker">{{ site.tagline }}</p>
       <h1>欢迎来到我们的网站</h1>
       <p>{{ site.description }}</p>
     </hgroup>
-  </div>
+  </header>
 
   <!-- latest posts  -->
   {%- if site.posts.size > 0 -%}
@@ -138,6 +138,6 @@ canonical_url: https://lilyroger.com
   </section>
   {% endif %}
 
-</div>
+</main>
 
 {%- include footer.html -%}
