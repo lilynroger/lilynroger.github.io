@@ -6,30 +6,24 @@ layout: default
   so we can put page-specific hero, including the image and title in the <main> element
   to maintain clear SEO and accessibility hierarchy.
  -->
-<header id="site-header" class="position-absolute top-0 start-0 w-100 z-3 bg-dark bg-opacity-50" role="banner"
-  data-bs-theme="dark">
+<header id="site-header" class="w-100 bg-body-tertiary" role="banner">
   {%- include navbar.html -%}
 </header>
 
 <!-- the page-specific content -->
 <main class="mb-5">
   <!-- the hero image and text is on top as the header of the main content -->
-  <header id="hero" class="position-relative overflow-hidden" style="height: 500px">
+  <header id="hero" class="position-relative overflow-hidden" style="height:500px">
 
     <!-- art direction of the hero image that fills the entire parent container -->
-    {% capture image_url_base %}{{ site.image_path }}trips/{{ page.picture.slug }}{%
-    endcapture %}
+    {% capture image_url_base %}{{ site.image_path }}{{ page.image_base }}{% endcapture %}
     <picture>
       <!--art direction / mobile / landscape -->
       <source media="(min-width: 768px)" srcset="
-              {{ image_url_base }}-1200.webp 1200w,
-              {{ image_url_base }}-2400.webp 2400w,
+              {{ image_url_base }}-16x9-1200.avif 1200w,
+              {{ image_url_base }}-16x9-2400.avif 2400w,
               " sizes="100vw"> <!-- always 100% of the view width -->
-      <!-- <source srcset="
-              {{ image_url_base }}-portrait-1200.webp 1200w,
-              {{ image_url_base }}-portrait-2400.webp 2400w,
-              " sizes="100vw"> -->
-      <img src="{{ image_url_base }}-1200.webp"
+      <img src="{{ image_url_base }}-4x3-1200.avif"
         class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-n1" alt="{{ trip.picture.alt }}">
     </picture>
 
@@ -38,7 +32,7 @@ layout: default
       <div class="hero-wrapper">
 
         <hgroup class="text-white hero-text">
-          <h1 class="display-2">{{ page.title | escape }}</h1>
+          <h1>{{ page.title | escape }}</h1>
           <p class="lead dek">{{ page.tagline }}</p>
         </hgroup>
 

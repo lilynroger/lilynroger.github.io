@@ -24,19 +24,19 @@ canonical_url: https://lilyroger.com
   {% endunless %}
 
   <!-- art direction of the hero image that fills the entire parent container -->
-  {% capture image_url_base %}{{ site.image_path }}trips/{{ trip.year }}/{{ trip.slug }}/{{ trip.picture.slug }}{%
+  {% capture image_url_base %}{{ site.image_path }}{{ trip.image_base }}{%
   endcapture %}
   <picture>
     <!--art direction / mobile / landscape -->
     <source media="(min-width: 768px)" srcset="
-              {{ image_url_base }}-1200.webp 1200w, 
-              {{ image_url_base }}-2400.webp 2400w, 
+              {{ image_url_base }}-4x3-1200.avif 1200w, 
+              {{ image_url_base }}-4x3-2400.avif 2400w, 
               " sizes="100vw"> <!-- always 100% of the view width -->
     <source srcset="
-              {{ image_url_base }}-portrait-1200.webp 1200w,
-              {{ image_url_base }}-portrait-2400.webp 2400w,
+              {{ image_url_base }}-3x4-900.avif 900w,
+              {{ image_url_base }}-3x4-1800.avif 1800w,
               " sizes="100vw">
-    <img src="{{ image_url_base }}-1200.webp" class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-n1"
+    <img src="{{ image_url_base }}-4x3-1200.avif" class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-n1"
       alt="{{ trip.picture.alt }}">
   </picture>
 
