@@ -1,18 +1,18 @@
-<div class="card h-100 border-0 shadow post-card">
+<article class="card h-100 border-0 shadow post-card">
   {%- if post.image -%}
   <img src="{{ post.image | relative_url }}" class="card-img-top" alt="{{ post.title | escape }}">
   {%- endif -%}
   <div class="card-body">
-    <h5 class="card-title">
+    <h3 class="h5 card-title">
       <a class="link-dark link-offset-2-hover link-underline-opacity-0 link-underline-opacity-75-hover"
         href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
       </a>
-    </h5>
+    </h3>
     {%- if post.subtitle -%}
-    <h6 class="card-subtitle text-body-secondary">
+    <p class="card-subtitle text-body-secondary">
       {{ post.subtitle | escape }}
-    </h6>
+    </p>
     {%- endif -%}
     {%- if site.show_excerpts -%}
     <p class="card-text text-body-secondary py-2">
@@ -28,4 +28,4 @@
       </small>
     </p>
   </div>
-</div>
+</article>

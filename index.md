@@ -96,13 +96,13 @@ canonical_url: https://lilyroger.com
       <h2>最新博客文章</h2>
     </hgroup>
 
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-4 g-4">
+    <ul class="list-unstyled row row-cols-1 row-cols-sm-2 row-cols-xl-4 g-4">
       {%- for post in site.posts limit:4 -%}
-      <div class="col">
+      <li class="col">
         {% include post-card.html post = post %}
-      </div>
+      </li>
       {%- endfor -%}
-    </div>
+    </ul>
 
     <div class="d-flex align-items-center justify-content-center my-5">
       <a href="{% link _pages/posts.html %}" class="btn btn-warning px-3">
@@ -122,13 +122,13 @@ canonical_url: https://lilyroger.com
       <h2>精选博客文章</h2>
     </hgroup>
 
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-xl-4 g-4">
+    <ul class="list-unstyled row row-cols-1 row-cols-sm-2 row-cols-xl-4 g-4">
       {%- for post in posts -%}
-      <div class="col">
+      <li class="col">
         {% include post-card.html post = post %}
-      </div>
+      </li>
       {%- endfor -%}
-    </div>
+    </ul>
 
     <div class="d-flex align-items-center justify-content-center my-5">
       <a href="{% link _pages/posts.html %}" class="btn btn-warning px-3">
