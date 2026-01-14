@@ -19,6 +19,7 @@ picture:
 </section>
 
 <section class="container collection">
+  <h2 class="text-center my-5">所有旅行</h2>
   <ul class="list-unstyled row row-cols-1 row-cols-lg-2 g-4">
     {% assign items = site.trips | reverse %}
     {%- for item in items -%}
