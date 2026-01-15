@@ -18,7 +18,7 @@ image_alt: "这幅由保罗·高更于 1897 年创作的名作，是一幅具有
 
 ---
 
-<section class="my-5 p-5" style="min-height:400px">
+<section class="container my-5 py-5">
 <p class="lead">欢迎来到 Lily & Roger 的网站。</p>
 
 {%- if site.email -%}

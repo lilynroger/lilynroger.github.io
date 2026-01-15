@@ -96,6 +96,14 @@ blockquote p:last-child {
     filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.5));
 }
 
+/*
+    site footer
+ */
+#site-footer {
+    background-color: var(--bs-gray-700); 
+    color: var(--bs-white);
+}
+
 .post h1 {
     /* h1 in a post always has subtitle or time right below it */
     margin-bottom: 0.25em;
