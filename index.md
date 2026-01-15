@@ -37,7 +37,7 @@ canonical_url: https://lilyroger.com
               {{ image_url_base }}-3x4-1800.avif 1800w,
               " sizes="100vw">
     <img src="{{ image_url_base }}-4x3-1200.avif" class="position-absolute top-0 start-0 w-100 h-100 object-fit-cover z-n1"
-      alt="{{ trip.picture.alt }}">
+      alt="{{ trip.image_alt }}">
   </picture>
 
   <!-- the overlay of the hero text -->
