@@ -21,7 +21,7 @@ featured: true
 
 slug: lofoten-faroe
 title: 罗弗敦群岛和法罗群岛之旅
-tagline: 两个群岛, 哪一个最美?
+tagline: 北大西洋中的两个群岛, 哪一个最美?
 image_base: trips/2025/lofoten-faroe/rorbuer-on-sakrisoy
 image_alt: "罗弗敦群岛 (The Lofoten Islands) 标志性的黄色传统渔屋 (挪威语: Rorbuer)"
 tag: 2025-Lofoten-Faroe
