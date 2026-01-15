@@ -89,4 +89,4 @@ date_format: "%Y 年 %m 月 %d 日"
 header_pages:
   - _pages/trips.md
   - _pages/posts.md
-  - _pages/about.html
+  - _pages/about.md
