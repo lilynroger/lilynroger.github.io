@@ -105,7 +105,7 @@ canonical_url: https://lilyroger.com
     </ul>
 
     <div class="d-flex align-items-center justify-content-center my-5">
-      <a href="{% link _pages/posts.html %}" class="btn btn-warning px-3">
+      <a href="{% link _pages/posts.md %}" class="btn btn-warning px-3">
         更多博客文章
       </a>
     </div>
@@ -131,7 +131,7 @@ canonical_url: https://lilyroger.com
     </ul>
 
     <div class="d-flex align-items-center justify-content-center my-5">
-      <a href="{% link _pages/posts.html %}" class="btn btn-warning px-3">
+      <a href="{% link _pages/posts.md %}" class="btn btn-warning px-3">
         更多博客文章
       </a>
     </div>

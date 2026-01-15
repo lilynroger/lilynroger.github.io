@@ -1,5 +1,6 @@
 _site
 assets/images/trips
+assets/images/posts
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
