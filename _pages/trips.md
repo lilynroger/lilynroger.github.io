@@ -12,7 +12,7 @@ canonical_url: https://lilyroger.com/trips/
 date_modified: 2026-01-14 20:00:00 +0800
 
 title: 旅行
-tagline: 激发旅行灵感
+tagline: 需要旅行的灵感？
 image_base: trips/funningur-the-faroe-islands
 image_alt: 在丹麦的法罗群岛 (The Faroe Islands)，被深邃峡湾环抱的古老村庄 Funningur 相传是维京人最早的落脚地。它的名字意为“发现”。
 ---
