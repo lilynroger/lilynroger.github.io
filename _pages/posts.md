@@ -9,7 +9,7 @@ canonical_url: https://lilyroger.com/posts/
 
 # article:date_modified
 # see _includes/head.html
-date_modified: 2026-01-15 08:00:00 +0800
+date_modified: 2026-01-18 20:00:00 +0800
 
 title: 所有文章
 tagline: "行程，游记，攻略和指南"
@@ -18,24 +18,36 @@ image_alt: "在法国波尔多的水镜广场 (Miroir d'eau) 是全球最大的�
 
 ---
 
-<section class="container d-flex align-items-center justify-content-center mt-5 p-5">
-    <p>
-        这里是我们所有的博客文章。有关于行程，城市，机场，交通，徒步，马拉松，和更多趣事的游记，指南和攻略。 
-    </p>
+<div class="container-fluid py-5" aria-label="Content">
+
+<section class="container">
+  <p>
+      这里是我们所有的旅行博客文章。有关于行程，城市，机场，交通，徒步，马拉松，和更多趣事的游记，指南和攻略。
+  </p>
 </section>
 
-<section class="container collection">
+</div>
 
-    <h2 class="text-center my-5">所有文章</h2>
+<div class="container-fluid bg-body-tertiary py-5" aria-label="Content">
 
-    {%- if site.posts.size > 0 -%}
-    <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-lg-4 g-3">
-        {%- for post in site.posts -%}
-        <li class="col">
-            {% include post-card.html post = post %}
-        </li>
-        {%- endfor -%}
-    </ul>
-    {%- endif -%}
+<section class="container">
+
+  {% assign items = site.posts %}
+  <hgroup class="text-center my-5">
+    <h2 class="mb-3">所有文章</h2>
+    <p class="small text-body-secondary">共有 <span class="fw-medium">{{items.size}}</span> 篇文章</p>
+  </hgroup>
+
+  {%- if items.size > 0 -%}
+  <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
+      {%- for post in items -%}
+      <li class="col">
+          {% include card-post.html post = post %}
+      </li>
+      {%- endfor -%}
+  </ul>
+  {%- endif -%}
 
 </section>
+
+</div>
