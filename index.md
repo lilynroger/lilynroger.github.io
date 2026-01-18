@@ -77,9 +77,10 @@ canonical_url: https://lilyroger.com
 </div>
 
 <!-- main content -->
-<main id="content" class="container-md py-5">
-  <!-- welcome -->
-  <header class="my-3 py-3">
+<main id="content" class="container-fluid">
+
+  <!-- welcome main content header-->
+  <header class="container py-5">
     <hgroup class="text-center">
       <p class="text-body-secondary kicker">{{ site.tagline }}</p>
       <h1>欢迎来到我们的网站</h1>
@@ -87,55 +88,52 @@ canonical_url: https://lilyroger.com
     </hgroup>
   </header>
 
-  <!-- latest posts  -->
-  {%- if site.posts.size > 0 -%}
-  <hr class="my-3">
-
-  <section id="latest-posts" class="my-3 py-3 post-list">
-    <hgroup class="text-center">
-      <h2>最新博客文章</h2>
-    </hgroup>
-
-    <ul class="list-unstyled row row-cols-1 row-cols-sm-2 row-cols-xl-4 g-4">
-      {%- for post in site.posts limit:4 -%}
-      <li class="col">
-        {% include post-card.html post = post %}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <div class="d-flex align-items-center justify-content-center my-5">
-      <a href="{% link _pages/posts.md %}" class="btn btn-warning px-3">
-        更多博客文章
-      </a>
-    </div>
-  </section>
+  {%- if site.posts -%}
+  <div class="container-fluid bg-body-tertiary py-5 mt-1">
+    <!-- latest posts  -->
+    <section id="latest-posts" class="container">
+      <hgroup class="text-center">
+        <h2>最新旅行故事</h2>
+      </hgroup>
+      <ul class="list-unstyled row row-cols-1 row-cols-sm-2 row-cols-xl-4 g-4">
+        {%- for post in site.posts limit:4 -%}
+        <li class="col">
+          {% include card-post.html post = post %}
+        </li>
+        {%- endfor -%}
+      </ul>
+      <div class="d-flex align-items-center justify-content-center mt-5">
+        <a class="btn btn-outline-secondary rounded-pill px-3" role="button"
+          href="{% link _pages/posts.md %}">
+          更多旅行故事
+        </a>
+      </div>
+    </section>
+  </div>
   {%- endif -%}
 
-  {%- if site.tags["精选"] -%}
   {%- assign posts = site.tags["精选"] -%}
-  <hr class="my-3">
-
-  <section id="featured-posts" class="my-3 py-3 post-list">
-
-    <hgroup class="text-center">
-      <h2>精选博客文章</h2>
-    </hgroup>
-
-    <ul class="list-unstyled row row-cols-1 row-cols-sm-2 row-cols-xl-4 g-4">
-      {%- for post in posts -%}
-      <li class="col">
-        {% include post-card.html post = post %}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-    <div class="d-flex align-items-center justify-content-center my-5">
-      <a href="{% link _pages/posts.md %}" class="btn btn-warning px-3">
-        更多博客文章
-      </a>
-    </div>
-  </section>
+  {%- if posts -%}
+  <div class="container-fluid bg-body-tertiary py-5">
+    <section id="featured-posts" class="container">
+      <hgroup class="text-center">
+        <h2>精选旅行故事</h2>
+      </hgroup>
+      <ul class="list-unstyled row row-cols-1 row-cols-sm-2 row-cols-xl-4 g-4">
+        {%- for post in posts -%}
+        <li class="col">
+          {% include card-post.html post = post %}
+        </li>
+        {%- endfor -%}
+      </ul>
+      <div class="d-flex align-items-center justify-content-center mt-5">
+        <a class="btn btn-outline-secondary rounded-pill px-3" role="button"
+          href="{% link _pages/posts.md %}">
+          更多旅行故事
+        </a>
+      </div>
+    </section>
+  </div>
   {% endif %}
 
 </main>
