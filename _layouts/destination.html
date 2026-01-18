@@ -1,0 +1,40 @@
+---
+layout: page
+---
+<div class="container-fluid py-5" aria-label="Content">
+
+  <section class="container">
+    {{ content }}
+
+    <div class="d-flex align-items-center justify-content-center mt-5">
+      <a class="btn btn-outline-secondary rounded-pill px-3" role="button"
+        href="{% link _pages/destinations.md %}">更多旅行目的地</a>
+    </div>
+  </section>
+
+</div>
+
+<div class="container-fluid bg-body-tertiary py-5" aria-label="Content">
+
+  <section class="container">
+
+    {% assign tagged_posts = site.tags[page.tag] %}
+    <hgroup class="text-center my-5">
+      <h2 class="mb-3">所有旅行文章</h2>
+      {% if tagged_posts.size %}
+      <p class="small text-body-secondary">共有 <span class="fw-medium">{{tagged_posts.size}}</span> 篇文章</p>
+      {% else %}
+      <p class="small text-secondary">抱歉，目前在这个专题下还没有文章。</p>
+      {% endif %}
+    </hgroup>
+
+    <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      {%- for post in tagged_posts -%}
+      <li class="col">
+        {% include card-post.html post = post %}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+  </section>
+</div>

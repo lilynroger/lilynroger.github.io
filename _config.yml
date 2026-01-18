@@ -80,6 +80,9 @@ include:
 collections:
   trips:
     output: true
+  destinations:
+    output: true
+    sort_by: title_pinyin
 
 logo: /assets/images/logo.svg
 tagline: 生活, 旅行, 徒步, 马拉松, 网球
@@ -88,5 +91,6 @@ show_excerpts: true
 date_format: "%Y 年 %m 月 %d 日"
 header_pages:
   - _pages/trips.md
+  - _pages/destinations.md
   - _pages/posts.md
   - _pages/about.md

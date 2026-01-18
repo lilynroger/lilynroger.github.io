@@ -1,0 +1,31 @@
+<article class="card h-100 border-0">
+  {%- if post.image -%}
+  <img src="{{ post.image | relative_url }}" class="card-img-top" alt="{{ post.title | escape }}">
+  {%- endif -%}
+  <div class="card-body">
+    <h3 class="h5 card-title">
+      <a class="link-dark link-offset-2-hover link-underline-opacity-0 link-underline-opacity-75-hover"
+        href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a>
+    </h3>
+    {%- if post.subtitle -%}
+    <p class="card-subtitle text-body-secondary">
+      {{ post.subtitle | escape }}
+    </p>
+    {%- endif -%}
+    {%- if site.show_excerpts -%}
+    <p class="card-text text-body-secondary py-2">
+      {{ post.excerpt | strip_html | truncatewords: 50 }}
+    </p>
+    {%- endif -%}
+    {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+    <p class="card-text">
+      <small>
+        <date class="text-body-tertiary">
+          {{ post.date | date: date_format }}
+        </date>
+      </small>
+    </p>
+  </div>
+</article>

@@ -11,7 +11,7 @@ canonical_url: https://lilyroger.com/posts/
 # see _includes/head.html
 date_modified: 2026-01-15 08:00:00 +0800
 
-title: 文章
+title: 所有文章
 tagline: "行程，游记，攻略和指南"
 image_base: posts/water-mirror-bordeaux
 image_alt: "在法国波尔多的水镜广场 (Miroir d'eau) 是全球最大的反射水池，通过地面石板上覆盖的薄薄水层，将 18 世纪的古典建筑群与现代城市景观完美倒映在波光粼粼的镜面之中。"
