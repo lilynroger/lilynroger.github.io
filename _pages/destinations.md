@@ -9,7 +9,7 @@ canonical_url: https://lilyroger.com/destinations/
 
 # article:date_modified
 # see _includes/head.html
-date_modified: 2026-01-14 20:00:00 +0800
+date_modified: 2026-01-18 18:00:00 +0800
 
 title: 目的地
 tagline: 下一次旅行，你想去哪里？

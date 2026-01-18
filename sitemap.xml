@@ -6,7 +6,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {%
         assign latest_date_modified = site.posts
-        | where_exp: "post", "post.date_modified" 
+        | where_exp: "post", "post.date_modified"
         | map: "date_modified"
         | sort
         | last
@@ -24,8 +24,32 @@
         <changefreq>weekly</changefreq>
     </url>
 
-    <!-- Items in the trip collection -->
+    <!-- The page of the items in the trips collection -->
     {%- assign items = site.trips | reverse -%}
+    {% for item in items %}
+    <url>
+        <loc>https://lilyroger.com{{ item.url }}</loc>
+        <lastmod>
+        {%- if item.modified_time -%}
+        {{ item.modified_time | date: "%Y-%m-%d" }}
+        {%- else -%}
+        {{ item.date | date: "%Y-%m-%d" }}
+        {%- endif -%}
+        </lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    {% endfor %}
+
+    <!-- The page of the detinations collection -->
+    {%- assign target = site.pages | find_exp: "p", "p.path == '_pages/destinations.md'" -%}
+    <url>
+        <loc>https://lilyroger.com/destinations/</loc>
+        <lastmod>{{ target.date_modified | date: "%Y-%m-%d" }}</lastmod>
+        <changefreq>weekly</changefreq>
+    </url>
+
+    <!-- The pages of the items in the detinations collection -->
+    {%- assign items = site.destinations -%}
     {% for item in items %}
     <url>
         <loc>https://lilyroger.com{{ item.url }}</loc>
