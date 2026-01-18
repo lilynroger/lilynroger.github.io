@@ -18,7 +18,7 @@ canonical_url: https://lilyroger.com/trips/2024/france-benelux/
 date_modified: 2026-01-14 20:00:00 +0800
 
 title: 法比荷卢之旅
-tagline: 红酒，香槟和艺术
+tagline: 红酒，香槟和博物馆之旅。
 image_base: trips/2024/france-benelux/zaanse-schans
 image_alt: "荷兰的桑斯安斯（Zaanse Schans），以传统的绿色木屋和标志性的工业风车景观而闻名。"
 year: 2024

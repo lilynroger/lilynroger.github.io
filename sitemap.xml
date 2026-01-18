@@ -18,9 +18,10 @@
     </url>
 
     <!-- The page of the trips collection -->
+    {%- assign trips = site.pages | find_exp: "p", "p.path == '_pages/trips.md'" -%}
     <url>
         <loc>https://lilyroger.com/trips/</loc>
-        <lastmod>{{ latest_date_modified | date: "%Y-%m-%d" }}</lastmod>
+        <lastmod>{{ trips.date_modified | date: "%Y-%m-%d" }}</lastmod>
         <changefreq>weekly</changefreq>
     </url>
 
@@ -41,10 +42,10 @@
     {% endfor %}
 
     <!-- The page of the detinations collection -->
-    {%- assign target = site.pages | find_exp: "p", "p.path == '_pages/destinations.md'" -%}
+    {%- assign destinations = site.pages | find_exp: "p", "p.path == '_pages/destinations.md'" -%}
     <url>
         <loc>https://lilyroger.com/destinations/</loc>
-        <lastmod>{{ target.date_modified | date: "%Y-%m-%d" }}</lastmod>
+        <lastmod>{{ destinations.date_modified | date: "%Y-%m-%d" }}</lastmod>
         <changefreq>weekly</changefreq>
     </url>
 

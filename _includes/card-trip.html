@@ -10,7 +10,7 @@
         <a class="link-dark link-offset-2-hover link-underline-opacity-0 link-underline-opacity-75-hover"
           href="{{ item.url | relative_url }}">
           {{ item.title | escape }}
-        </a>        
+        </a>
       </h3>
     </hgroup>
 
@@ -18,5 +18,13 @@
       {{ item.tagline | escape }}
     </p>
 
+    {%- assign date_format = "%Y 年 %m 月" -%}
+    <p class="card-text">
+      <small>
+        <date class="text-body-secondary">
+          {{ item.date | date: date_format }}
+        </date>
+      </small>
+    </p>
   </div>
 </article>

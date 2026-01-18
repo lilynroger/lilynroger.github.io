@@ -18,7 +18,7 @@ canonical_url: https://lilyroger.com/trips/2025/us-italy/
 date_modified: 2026-01-14 20:00:00 +0800
 
 title: 美国和意大利之旅
-tagline: 一路向东，环球之旅
+tagline: 一路向东，跨越美欧亚的环球之旅。
 image_base: trips/2025/us-italy/val-dorcia
 image_alt: "意大利托斯卡纳大区奥尔恰谷 (Val d'Orcia) 中著名的地标 - 贝尔维德雷农庄 (Podere Belvedere)，以其标志性的蜿蜒山丘和晨雾中的田园风光而闻名。"
 tag: 2025-US-Italy

@@ -18,7 +18,7 @@ date: 2024-05-27 00:00:00 +0800
 date_modified: 2026-01-14 20:00:00 +0800
 
 title: 斯堪的纳维亚之旅
-tagline: 徒步壮丽峡湾，漫步北欧都市
+tagline: 徒步壮丽峡湾，漫步北欧都市。
 image_base: trips/2024/scandinavia/trolltunga
 image_alt: "与步道石和奇迹石并称挪威“三大奇石”的巨魔之舌 (挪威语: Trolltunga)"
 year: 2024
