@@ -17,7 +17,7 @@ image_base: trips/funningur-the-faroe-islands
 image_alt: 在丹麦的法罗群岛 (The Faroe Islands)，被深邃峡湾环抱的古老村庄 Funningur 相传是维京人最早的落脚地。它的名字意为“发现”。
 ---
 
-<div class="container-fluid py-5" aria-label="Content">
+<div class="py-5" aria-label="Content">
 
 <section class="container">
   <p>
@@ -27,7 +27,7 @@ image_alt: 在丹麦的法罗群岛 (The Faroe Islands)，被深邃峡湾环抱�
 
 </div>
 
-<div class="container-fluid bg-body-tertiary py-5" aria-label="Content">
+<div class="bg-body-tertiary py-5" aria-label="Content">
 
 <section class="container">
 

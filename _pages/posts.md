@@ -18,7 +18,7 @@ image_alt: "在法国波尔多的水镜广场 (Miroir d'eau) 是全球最大的�
 
 ---
 
-<div class="container-fluid py-5" aria-label="Content">
+<div class="py-5" aria-label="Content">
 
 <section class="container">
   <p>
@@ -28,7 +28,7 @@ image_alt: "在法国波尔多的水镜广场 (Miroir d'eau) 是全球最大的�
 
 </div>
 
-<div class="container-fluid bg-body-tertiary py-5" aria-label="Content">
+<div class="bg-body-tertiary py-5" aria-label="Content">
 
 <section class="container">
 

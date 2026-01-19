@@ -77,7 +77,7 @@ canonical_url: https://lilyroger.com
 </div>
 
 <!-- main content -->
-<main id="content" class="container-fluid">
+<main id="content">
 
   <!-- welcome main content header-->
   <header class="container py-5">

@@ -18,7 +18,7 @@ image_base: destinations/chapel-madonna-vitaleta-val-dorcia
 image_alt: 这座被誉为托斯卡纳地标的 Madonna di Vitaleta Chapel（小耳朵教堂），位于意大利锡耶纳省的 San Quirico d'Orcia（圣奎里科-多尔恰）和 Pienza（皮恩扎）之间，坐落于 Val d'Orcia（奥尔恰谷）的起伏丘陵间，是 UNESCO 世界文化遗产区域内最著名的摄影景点和旅游地标之一。
 ---
 
-<div class="container-fluid py-5" aria-label="Content">  
+<div class="py-5" aria-label="Content">  
 
   <section class="container">
     <p>{{ page.description | escape }}</p>
@@ -26,7 +26,7 @@ image_alt: 这座被誉为托斯卡纳地标的 Madonna di Vitaleta Chapel（小
 
 </div>
   
-<div class="container-fluid bg-body-tertiary py-5" aria-label="Content">  
+<div class="bg-body-tertiary py-5" aria-label="Content">  
   <section class="container">
   
     <hgroup class="text-center my-5">
