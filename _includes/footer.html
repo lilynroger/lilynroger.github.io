@@ -1,8 +1,8 @@
-<footer id="site-footer" class="container-fluid mt-auto">
+<footer id="site-footer" class="container-fluid mt-auto bg-dark text-body-secondary" data-bs-theme="dark">
   <div class="container">
     <data class="u-url" href="{{ '/' | relative_url }}"></data>
 
-    <div class="row mb-5 py-3">
+    <div class="row my-3 py-3">
       <div class="col">
         <img src="/assets/images/logo-light.svg" alt="{{ site.title | escape }}" width="120">
       </div>
@@ -10,10 +10,43 @@
       </div>
     </div>
 
-    <div class="row py-3">
-      <div class="col">
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 pb-5">
+      <div class="col footer-sitemap">
+
+        {%- assign trips = site.pages | find_exp: "p", "p.path == '_pages/trips.md'" -%}
+        <p class="h6">
+          <a href="{{ trips.url }}">{{ trips.title | escape }}</a>
+        </p>
+
+        {% assign items = site.trips | reverse %}
+        <ul class="list-unstyled small">
+          {%- for item in items -%}
+          <li>
+            <a href="{{ item.url }}">{{ item.title | escape }}</a>
+          </li>
+          {%- endfor -%}
+        </ul>
+
       </div>
-      <div class="col">
+
+      <div class="col footer-sitemap">
+
+        {%- assign destinations = site.pages | find_exp: "p", "p.path == '_pages/destinations.md'" -%}
+        <p class="h6">
+          <a href="{{ destinations.url }}">{{ destinations.title | escape }}</a>
+        </p>
+
+        {% assign items = site.destinations %}
+        <ul class="list-unstyled small">
+          <!-- skipping destinations with no post yet -->
+          {%- for item in items -%}
+          {% if site.tags[item.tag] %}
+          <li>
+            <a href="{{ item.url }}">{{ item.title | escape }}</a>
+          </li>
+          {% endif %}
+          {%- endfor -%}
+        </ul>
       </div>
     </div>
 
