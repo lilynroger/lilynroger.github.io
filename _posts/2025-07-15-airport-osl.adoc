@@ -3,8 +3,7 @@
 :page-date_modified: 2025-12-24 08:00:00 +0800
 :page-date: 2025-07-15 08:00:00 +0100
 :page-image: /assets/images/2025/lofoten-faroe/airport-osl/airport-osl.webp
-:page-page-layout: post
-:page-subtitle: Guide to Oslo Airport (OSL)
+:page-layout: post
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 奥斯陆, 机场]
 :page-liquid:
 :toc: macro
