@@ -16,6 +16,7 @@ gem "jekyll", "~> 4.3.3"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-asciidoc"
+  gem "slim"
   gem "asciidoctor-bibtex"
   gem "jekyll-seo-tag"
 end

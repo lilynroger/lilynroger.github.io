@@ -63,6 +63,8 @@ asciidoc:
   ext: asciidoc, adoc
 
 asciidoctor:
+  template_dir: _templates
+  template_engine: slim
   attributes:
     imagesdir: "/"
     includedir: "_includes"
