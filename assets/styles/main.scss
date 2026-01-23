@@ -1,4 +1,7 @@
-@import "journey-timeline.css";
+---
+---
+@use "asciidoc";
+@use "journey-timeline";
 
 body {
     font-family: Roboto, Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
