@@ -1,0 +1,89 @@
+= 在法国乘火车 - 游客的法国火车小知识
+:page-layout: post
+:page-categories: posts
+:page-date_modified: 2026-02-07 08:00:00 +0800
+:page-date: 2026-02-07 07:00:00 +0100
+:page-tags: [2026-Alps-Lofoten, 欧洲, 西欧, 法国, 巴黎]
+:toc: macro
+:sectnums:
+:experimental:
+:page-liquid:
+
+在法国乘坐火车旅行非常便捷。这篇攻略罗列了许多针对游客的法国铁路和火车的小知识。目标是刚好够用，帮你快速认识什么是 SNCF, TGV, TER, RER, Inoui, OUIGO, Eurostar 等等。还有很多且不断扩充的冷知识。
+
+toc::[]
+
+[#sncf]
+== 法国国家铁路公司 SNCF
+
+法国的国家铁路运输系统由法国国家铁路公司运营。法国国家铁路公司中文简称法国国铁及法铁，是法国最大的国营公司之一，也是欧盟区内仅次于德国铁路的第二大铁路公司。
+
+法国国家铁路公司在法语中称为 Société nationale des chemins de fer français，简写为 SNCF 即法国国家铁路局 (Socicte Nationale des Chemins de Fer Francais) 运营.
+
+法国国家铁路公司的官方网站是 https://www.groupe-sncf.com/en[SNCF Group]。不过，对乘客而言更重要的是其官方票务网站 https://www.sncf-connect.com/en-en[SNCF Connect]。在 SNCF Connect 注册用户之后，可以在线查询和预订火车票，也能预订包括 BlaBlaCar Bus 和 Flixbus 在内的欧洲主要长途大巴公司的车票。通过 SNCF Connect 的手机应用预订和管理 SNCF 的车票非常便捷。
+
+[#tgv]
+== 法国高速列车 TGV
+
+法国法国高速列车通称为 TGV，即法语的 Train à grande vitesse，意为“高速列车”。TGV 又分为 TGV inOui 和 TGV Ouigo 两个核心分类，二者的差别主要是在于服务和舒适程度。
+
+* TGV inOui 是 SNCF 的旗舰、全方位服务的高速列车品牌，特点是提供完整的附加服务，比如大件行李，预订座位，WI-FI 等等。
+
+* TGV Ouigo 是 SNCF 的低成本高速列车服务，旨在与廉价航空和国际铁路运营商竞争。其特点是一切从简、低价实惠，但限制较多，附加服务需要另外付费。Ouigo 没有餐车也没有一等座。此外，Ouigo 通常停靠在城市边缘的卫星站，比如在巴黎的戴高乐机场 (CDG) 的 TGV 火车站，而不是市中心的火车站。
+
+如果你乘飞机抵达巴黎戴高乐机场，而目的地是其他城市，比如波尔多，从戴高乐机场乘坐 TGV Ouigo 可以不必进入巴黎市区，而且价格相比 TGV inOui 要便宜很多。
+
+[#ter]
+== 法国省际列车 TER
+
+在法国旅行很可能还会乘坐 TER 的火车。TER 是法语 Transport Express Régional 的缩写，字面意思是“大区快速交通”，中文通常翻译为“省际列车”，“大区列车”或者“区域列车”。
+
+TER 它是法国国家铁路公司（SNCF）与各个大区政府合作运营的轨道交通系统，主要服务于中短途的区域性出行，通常在一个大区内部或相邻大区之间运行。TER 连接了高铁 TGV 不经过的中小城镇。基本上在大城市之间是乘坐 TGV，然后换乘 TER 去周边的小地方。
+
+不同于 TGV 线路，TER 绝大多数的线路不提供座位预定，买票上车后自己找座位。此外，只要不是限定时间的促销票，购买 TER 车票后，通常可以乘坐当天该线路的任何车次。
+
+[#rer]
+== 大区快铁 RER
+
+特指巴黎及其周边的通勤系统。在巴黎及法兰西岛大区 (Île-de-France) 的交通体系中，RER 是 Réseau Express Régional 的缩写，字面意思是“大区快速网络”，官方中文译名为“大区快铁”。
+
+RER 连接市中心与远郊，主要功能是将巴黎市中心与周边重要目的地（如戴高乐机场、凡尔赛宫、迪士尼乐园、拉德芳斯商务区）快速连接。在巴黎市区内，RER 和地铁一样，也在地下运行，只是车站间距比地铁大，行驶速度更快。所以，有时被形容为“大号地铁”。
+
+RER 有主要线路，每条线用不同的字母和颜色标识：
+
+* RER A (红色)：全欧洲最繁忙的线路。连接拉德芳斯和巴黎迪士尼乐园。
+* RER B (蓝色)：游客最重要的线路。连接戴高乐机场 (CDG)、奥利机场 (ORY) 和巴黎市中心枢纽，如巴黎北站 (Gare du Nord)、沙特莱 (Châtelet) 等站。
+* RER C (黄色)：旅游干线。前往凡尔赛宫 (Versailles)、奥赛博物馆和埃菲尔铁塔。
+* RER D (绿色)：连接南北远郊，经过巴黎北站和里昂站。
+* RER E (粉色)：连接东部郊区。
+
+[#eurostar]
+== 欧洲之星 Eurostar
+
+欧洲之星 (Eurostar) 是连接欧洲大陆与英国的标志性高速度列车系统。它不仅是往返伦敦与巴黎之间的首选方式，还因与大力士 (Thalys) 品牌的全面合并，成为横跨英、法、比、荷、德五国的高铁巨头。
+
+欧洲之星将西欧主要的商业和旅游城市紧密连接：
+
+* 伦敦线（原欧洲之星核心）：连接伦敦、巴黎、布鲁塞尔、里尔。
+* 欧陆线（原大力士核心）：连接巴黎、布鲁塞尔、阿姆斯特丹、鹿特丹、科隆和杜塞尔多夫。
+* 核心枢纽：布鲁塞尔南站 (Bruxelles-Midi) 成为整个网络的中心转运点。
+
+[#trenitalia]
+== 意大利国家铁路公司 Trenitalia
+
+不是法国火车吗？怎么还有意大利？意大利国家铁路公司 Trenitalia 是进入法国高铁市场的主要外国运营商，也是法国国家铁路 (SNCF) 最强劲的竞争对手。如果您计划往返于巴黎、里昂、意大利北部的都灵、米兰，Trenitalia 的“红箭”高铁 (Frecciarossa) 是极受欢迎的选择。不但更现代，提供正宗意式餐饮，而且价格也往往比 SNCF 的 TGV 要便宜。
+
+意铁的官网 https://www.trenitalia.com/en.html[trenitalia.com] 是综合性的官方网站，还有一个 https://www.lefrecce.it/Channels.Website.WEB/[lefrecce.it] 也是它的官方网站，服务于注册用户预订和管理车票和行程 (Customer Area)。网站名称中的 Le Frecce 是 Trenitalia 的高铁的品牌名，意思是“箭”，由高到低分为“红箭”、“银箭”、“白箭”，即 Frecciarossa, Frecciargento, Frecciabianca 三个。
+
+所有 Trenitalia 往返意大利的列车均在巴黎里昂站 (Gare de Lyon) 出发和到达。巴黎 - 米兰 (Milan) 是其旗舰航线。主要经停站：巴黎 (Gare de Lyon)、里昂 (Lyon Part Dieu)、尚贝里 (Chambéry)、都灵 (Torino Porta Susa)，米兰 (Milano Centrale)。
+
+作为参考，对比下面分别在 https://www.sncf-connect.com/en-en[SNCF Connect] 和 Trenitalia 的 https://www.lefrecce.it/Channels.Website.WEB/[Le Frecce] 查询的火车票信息：
+
+.SNCF TGV 和 Trenitalia Frecciarossa 之间的对比
+image::assets/images/trips/2026/alps-lofoten/trains-in-france/sncf-tgv-vs-trenitalia-lefrecce.png[alt="SNCF TGV 和 Trenitalia Frecciarossa 之间的对比"]
+
+火车票都是提前预订 2 个月之后的相同时间段，巴黎到里昂的火车票。从上到下依次是：
+
+* Trenitalia Frecciarossa
+* SNCF TGV Ouigo: 从戴高乐机场 2 号 TGV 火车站出发
+* SNCF TGV inOui
