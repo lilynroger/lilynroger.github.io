@@ -12,18 +12,18 @@
 - srcset = srcset_raw ? srcset_raw.split(',').map { |s| s.strip.start_with?('http') ? s : "#{document.attr 'imagesdir'}/#{s.strip}" }.join(', ') : nil
 
 - full_caption = captioned_title if title?
+
 / .compact removes nil values if no role is provided
-- figure_classes = ['imageblock', attr('role')].compact.join(' ')
-
-figure class=figure_classes id=id
-  .content
-    / A <source> is valid only if it has a srcset
-    - if srcset
-      picture
-        source media=media sizes=sizes srcset=srcset
+div class=['imageblock', attr('role')].compact.join(' ')
+  figure id=id
+    .content
+      / A <source> is valid only if it has a srcset
+      - if srcset
+        picture
+          source media=media sizes=sizes srcset=srcset
+          img src=target alt=alt
+      - else
         img src=target alt=alt
-    - else
-      img src=target alt=alt
 
-  - if full_caption
-    figcaption.title = full_caption
+    - if full_caption
+      figcaption.title = full_caption
