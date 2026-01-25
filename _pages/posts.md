@@ -39,7 +39,7 @@ image_alt: "在法国波尔多的水镜广场 (Miroir d'eau) 是全球最大的�
   </hgroup>
 
   {%- if items.size > 0 -%}
-  <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
+  <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
       {%- for post in items -%}
       <li class="col">
           {% include card-post.html post = post %}

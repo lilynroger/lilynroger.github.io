@@ -3,6 +3,9 @@
 / Standardize URLs (Handles imagesdir automatically)
 - target = image_uri(attr 'target')
 - alt = attr 'alt'
+- attribution = attr 'attribution'
+- width = attr 'width'
+- height = attr 'height'
 
 / Resolve custom attributes
 - media = attr 'media'
@@ -15,15 +18,20 @@
 
 / .compact removes nil values if no role is provided
 div class=['imageblock', attr('role')].compact.join(' ')
-  figure id=id
+  / figure based on Bootstrap and the Asciidoctor converter template
+  figure.figure id=id
+    / Wrap the picture/img in a .content div per the Asciidoctor template
     .content
       / A <source> is valid only if it has a srcset
       - if srcset
         picture
           source media=media sizes=sizes srcset=srcset
-          img src=target alt=alt
+          img.figure-img src=target alt=alt width=width height=height
       - else
-        img src=target alt=alt
+        img.figure-img src=target alt=alt width=width height=height
 
     - if full_caption
-      figcaption.title = full_caption
+      figcaption.figure-caption
+        .title = full_caption
+        - if attribution
+          .attribution = attribution

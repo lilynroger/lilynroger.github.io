@@ -1,3 +1,6 @@
+$paragraph-margin-bottom: 1.5rem;
+$line-height-base: 1.7;
+
 .post-content {
 
     h1>a.anchor,
@@ -121,17 +124,6 @@ span.icon>.fa {
     }
 }
 
-.imageblock {
-    margin-bottom: 2em;
-
-    .title {
-        margin-top: 0.5em;
-        padding: 0 0 0 1em;
-        color: #757575;
-        border-left: 3px solid #FFC107;
-    }
-}
-
 .dlist dd {
     margin: 0.5em 0.5em 0.5em 1.5em;
 }
@@ -150,24 +142,102 @@ p.tableblock {
     font-style: italic;
 }
 
-article {
-    a {
-        text-decoration: none;
+article,
+.article {
+
+    --spacer-paragraph: 1.5rem;
+
+    .article-header {
+        margin-bottom: 2.5rem;
     }
 
-    a:hover {
-        text-decoration: underline;
-        text-decoration-color: #FFC107;
-        text-decoration-thickness: 2px;
-        text-underline-offset: 2px;
+    .article-body {
+        font-size: 1.125rem;
+        line-height: 1.75;
+
+        // 增加段落呼吸感和提升长文易读性
+        :where(p, ul, ol) {
+            margin-bottom: var(--spacer-paragraph);
+        }
+
+        /* 标题边距：上大下小原则 */
+        :where(h2, h3) {
+            margin-top: calc(var(--spacer-paragraph) * 1.5);
+            margin-bottom: var(--spacer-paragraph);
+            font-weight: 500;
+        }
+
+        /* 如果标题紧跟在另一个标题后面（取消重复的大间距） */
+        :where(h2+h3) {
+            margin-top: 1.25rem;
+        }
+
+        :where(a) {
+            text-decoration: none;
+        }
+
+        :where(a:hover) {
+            text-decoration: underline;
+            text-decoration-color: #FFC107;
+            text-decoration-thickness: 2px;
+            text-underline-offset: 2px;
+        }
     }
+
+
+    /* 优化 Asciidoctor TOC */
+    .toc .title {
+        margin-bottom: 1rem;
+    }
+
+    .imageblock {
+        /* 图片块的上下边距比段落间距大 */
+        margin-top: calc(var(--spacer-paragraph) * 1.5);
+        margin-bottom: calc(var(--spacer-paragraph) * 1.5);
+    }
+
+    .figure {
+        /* 覆盖 Bootstrap 默认的 inline-block 定义 */
+        display: block;
+
+        /* 与段落间距保持一致 */
+        margin-bottom: var(--spacer-paragraph);
+    }
+
+    .figure .content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .figure-img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .figure-caption {
+        padding: 0 0 0 1em;
+        border-left: 3px solid #FFC107;
+    }
+
+    .nav-card {
+        transition: all 0.2s ease-in-out;
+    }
+
+    .nav-card:hover {
+        transform: translateY(-2px);
+    }
+
 }
+
 
 .post {
     .halign-right {
         text-align: right;
     }
 }
+
 .citation {
     vertical-align: super;
     font-size: 0.75em;

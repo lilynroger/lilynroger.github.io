@@ -1,15 +1,24 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/trains-in-france/ter-train-at-epernay-station-4x3-1200.avif
+  alt: "由 Grand Est 运营的在两个香槟区核心城市 Épernay 和 Reims 之间 SNCF 的 TER 省际列车。"
+  width: 1200
+  height: 900
+  srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/trains-in-france/ter-train-at-epernay-station-4x3-1200.avif 1200w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/trains-in-france/ter-train-at-epernay-station-4x3-2400.avif 2400w
+  sizes: 100vw
+---
 = 在法国乘火车 - 游客的法国火车小知识
-:page-layout: post
+:page-layout: article
 :page-categories: posts
-:page-date_modified: 2026-02-07 08:00:00 +0800
-:page-date: 2026-02-07 07:00:00 +0100
-:page-tags: [2026-Alps-Lofoten, 欧洲, 西欧, 法国, 巴黎]
+:page-date_modified: 2026-01-25 08:00:00 +0800
+:page-date: 2026-01-25 08:00:00 +0800
+:page-tags: [2026-Alps-Lofoten, 欧洲, 西欧, 法国, 巴黎, 机场, 交通]
 :toc: macro
 :sectnums:
 :experimental:
 :page-liquid:
 
-在法国乘坐火车旅行非常便捷。这篇攻略罗列了许多针对游客的法国铁路和火车的小知识。目标是刚好够用，帮你快速认识什么是 SNCF, TGV, TER, RER, Inoui, OUIGO, Eurostar 等等。还有很多且不断扩充的冷知识。
+在法国乘坐火车旅行非常便捷。这篇攻略罗列了许多针对游客的法国铁路和火车的小知识。目标是刚好够用，帮你快速认识什么是 SNCF, TGV, TER, RER, INOUI, OUIGO, Eurostar 等等。
 
 toc::[]
 
@@ -27,29 +36,29 @@ toc::[]
 
 法国法国高速列车通称为 TGV，即法语的 Train à grande vitesse，意为“高速列车”。TGV 又分为 TGV inOui 和 TGV Ouigo 两个核心分类，二者的差别主要是在于服务和舒适程度。
 
-* TGV inOui 是 SNCF 的旗舰、全方位服务的高速列车品牌，特点是提供完整的附加服务，比如大件行李，预订座位，WI-FI 等等。
+* TGV INOUI 是 SNCF 的旗舰、全方位服务的高速列车品牌，特点是提供完整的附加服务，比如大件行李，预订座位，WI-FI 等等。
 
-* TGV Ouigo 是 SNCF 的低成本高速列车服务，旨在与廉价航空和国际铁路运营商竞争。其特点是一切从简、低价实惠，但限制较多，附加服务需要另外付费。Ouigo 没有餐车也没有一等座。此外，Ouigo 通常停靠在城市边缘的卫星站，比如在巴黎的戴高乐机场 (CDG) 的 TGV 火车站，而不是市中心的火车站。
+* TGV OUIGO 是 SNCF 的低成本高速列车服务，旨在与廉价航空和国际铁路运营商竞争。其特点是一切从简、低价实惠，但限制较多，附加服务需要另外付费。OUIGO 没有餐车也没有一等座。此外，OUIGO 通常停靠在城市边缘的卫星站，比如在巴黎的戴高乐机场 (CDG) 的 TGV 火车站，而不是市中心的火车站。
 
-如果你乘飞机抵达巴黎戴高乐机场，而目的地是其他城市，比如波尔多，从戴高乐机场乘坐 TGV Ouigo 可以不必进入巴黎市区，而且价格相比 TGV inOui 要便宜很多。
+如果你乘飞机抵达巴黎戴高乐机场，而目的地是其他城市，比如波尔多，从戴高乐机场乘坐 TGV OUIGO 可以不必进入巴黎市区，而且价格相比 TGV INOUI 要便宜很多。
 
 [#ter]
 == 法国省际列车 TER
 
 在法国旅行很可能还会乘坐 TER 的火车。TER 是法语 Transport Express Régional 的缩写，字面意思是“大区快速交通”，中文通常翻译为“省际列车”，“大区列车”或者“区域列车”。
 
-TER 它是法国国家铁路公司（SNCF）与各个大区政府合作运营的轨道交通系统，主要服务于中短途的区域性出行，通常在一个大区内部或相邻大区之间运行。TER 连接了高铁 TGV 不经过的中小城镇。基本上在大城市之间是乘坐 TGV，然后换乘 TER 去周边的小地方。
+省际列车 TER 是法铁 SNCF 与各个大区政府合作运营的轨道交通系统，主要服务于中短途的区域性出行，通常在一个大区内部或相邻大区之间运行。省际列车 TER 连接了高铁 TGV 不经过的中小城镇。基本上在大城市之间是乘坐 TGV 列车，然后换乘省际列车 TER 去周边的小地方。
 
-不同于 TGV 线路，TER 绝大多数的线路不提供座位预定，买票上车后自己找座位。此外，只要不是限定时间的促销票，购买 TER 车票后，通常可以乘坐当天该线路的任何车次。
+不同于 TGV 线路，省际列车 TER 绝大多数的线路不提供座位预定，买票上车后自己找座位。此外，只要不是限定时间的促销票，购买 TER 车票后，通常可以乘坐当天该线路的任何车次。
 
 [#rer]
 == 大区快铁 RER
 
-特指巴黎及其周边的通勤系统。在巴黎及法兰西岛大区 (Île-de-France) 的交通体系中，RER 是 Réseau Express Régional 的缩写，字面意思是“大区快速网络”，官方中文译名为“大区快铁”。
+游客在戴高乐机场机场看到的 RER 是 Réseau Express Régional 的缩写，字面意思是“大区快速网络”，官方中文译名为“大区快铁”，特指巴黎及其周边的通勤系统。
 
-RER 连接市中心与远郊，主要功能是将巴黎市中心与周边重要目的地（如戴高乐机场、凡尔赛宫、迪士尼乐园、拉德芳斯商务区）快速连接。在巴黎市区内，RER 和地铁一样，也在地下运行，只是车站间距比地铁大，行驶速度更快。所以，有时被形容为“大号地铁”。
+大区快铁 RER 连接市中心与远郊，主要功能是将巴黎市中心与周边重要目的地（如戴高乐机场、凡尔赛宫、迪士尼乐园、拉德芳斯商务区）快速连接。在巴黎市区内，大区快铁 RER 和地铁一样，也在地下运行，只是车站间距比地铁大，行驶速度更快。所以，有时被形容为“大号地铁”。
 
-RER 有主要线路，每条线用不同的字母和颜色标识：
+大区快铁 RER 有几条线路，每条线用不同的字母和颜色标识：
 
 * RER A (红色)：全欧洲最繁忙的线路。连接拉德芳斯和巴黎迪士尼乐园。
 * RER B (蓝色)：游客最重要的线路。连接戴高乐机场 (CDG)、奥利机场 (ORY) 和巴黎市中心枢纽，如巴黎北站 (Gare du Nord)、沙特莱 (Châtelet) 等站。
@@ -79,11 +88,11 @@ RER 有主要线路，每条线用不同的字母和颜色标识：
 
 作为参考，对比下面分别在 https://www.sncf-connect.com/en-en[SNCF Connect] 和 Trenitalia 的 https://www.lefrecce.it/Channels.Website.WEB/[Le Frecce] 查询的火车票信息：
 
-.SNCF TGV 和 Trenitalia Frecciarossa 之间的对比
-image::assets/images/trips/2026/alps-lofoten/trains-in-france/sncf-tgv-vs-trenitalia-lefrecce.png[alt="SNCF TGV 和 Trenitalia Frecciarossa 之间的对比"]
+.类似行程，相同时间段的 Trenitalia Frecciarossa 和 SNCF TGV 之间的预售火车票对比。
+image::assets/images/trips/2026/alps-lofoten/trains-in-france/sncf-tgv-vs-trenitalia-lefrecce.png[alt="类似行程，相同时间段的 Trenitalia Frecciarossa 和 SNCF TGV 之间的预售火车票对比。", width=600, height=350]
 
 火车票都是提前预订 2 个月之后的相同时间段，巴黎到里昂的火车票。从上到下依次是：
 
 * Trenitalia Frecciarossa
-* SNCF TGV Ouigo: 从戴高乐机场 2 号 TGV 火车站出发
-* SNCF TGV inOui
+* SNCF TGV OUIGO: 从戴高乐机场 2 号 TGV 火车站出发
+* SNCF TGV INOUI
