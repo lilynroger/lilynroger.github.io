@@ -89,7 +89,7 @@ toc::[]
 作为参考，对比下面分别在 https://www.sncf-connect.com/en-en[SNCF Connect] 和 Trenitalia 的 https://www.lefrecce.it/Channels.Website.WEB/[Le Frecce] 查询的火车票信息：
 
 .类似行程，相同时间段的 Trenitalia Frecciarossa 和 SNCF TGV 之间的预售火车票对比。
-image::assets/images/trips/2026/alps-lofoten/trains-in-france/sncf-tgv-vs-trenitalia-lefrecce.png[alt="类似行程，相同时间段的 Trenitalia Frecciarossa 和 SNCF TGV 之间的预售火车票对比。", width=600, height=350]
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/trains-in-france/sncf-tgv-vs-trenitalia-lefrecce.png[alt="类似行程，相同时间段的 Trenitalia Frecciarossa 和 SNCF TGV 之间的预售火车票对比。", width=600, height=350]
 
 火车票都是提前预订 2 个月之后的相同时间段，巴黎到里昂的火车票。从上到下依次是：
 
