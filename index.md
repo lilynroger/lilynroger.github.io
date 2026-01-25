@@ -95,8 +95,8 @@ canonical_url: https://lilyroger.com
       <hgroup class="text-center">
         <h2>最新旅行故事</h2>
       </hgroup>
-      <ul class="list-unstyled row row-cols-1 row-cols-sm-2 row-cols-xl-4 g-4">
-        {%- for post in site.posts limit:4 -%}
+      <ul class="list-unstyled row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
+        {%- for post in site.posts limit:3 -%}
         <li class="col">
           {% include card-post.html post = post %}
         </li>
@@ -119,8 +119,8 @@ canonical_url: https://lilyroger.com
       <hgroup class="text-center">
         <h2>精选旅行故事</h2>
       </hgroup>
-      <ul class="list-unstyled row row-cols-1 row-cols-sm-2 row-cols-xl-4 g-4">
-        {%- for post in posts -%}
+      <ul class="list-unstyled row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
+        {%- for post in posts limit:3 -%}
         <li class="col">
           {% include card-post.html post = post %}
         </li>
