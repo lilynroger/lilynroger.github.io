@@ -84,15 +84,15 @@ toc::[]
 
 意铁的官网 https://www.trenitalia.com/en.html[trenitalia.com] 是综合性的官方网站，还有一个 https://www.lefrecce.it/Channels.Website.WEB/[lefrecce.it] 也是它的官方网站，服务于注册用户预订和管理车票和行程 (Customer Area)。网站名称中的 Le Frecce 是 Trenitalia 的高铁的品牌名，意思是“箭”，由高到低分为“红箭”、“银箭”、“白箭”，即 Frecciarossa, Frecciargento, Frecciabianca 三个。
 
-所有 Trenitalia 往返意大利的列车均在巴黎里昂站 (Gare de Lyon) 出发和到达。巴黎 - 米兰 (Milan) 是其旗舰航线。主要经停站：巴黎 (Gare de Lyon)、里昂 (Lyon Part Dieu)、尚贝里 (Chambéry)、都灵 (Torino Porta Susa)，米兰 (Milano Centrale)。
+所有 Trenitalia 往返意大利的列车均在巴黎里昂站 (Gare de Lyon) 出发和到达。巴黎 - 米兰 (Milan) 是其旗舰线路。主要经停站：巴黎 (Gare de Lyon)、里昂 (Lyon Part Dieu)、尚贝里 (Chambéry)、都灵 (Torino Porta Susa)，米兰 (Milano Centrale)。
 
 作为参考，对比下面分别在 https://www.sncf-connect.com/en-en[SNCF Connect] 和 Trenitalia 的 https://www.lefrecce.it/Channels.Website.WEB/[Le Frecce] 查询的火车票信息：
 
 .类似行程，相同时间段的 Trenitalia Frecciarossa 和 SNCF TGV 之间的预售火车票对比。
 image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/trains-in-france/sncf-tgv-vs-trenitalia-lefrecce.png[alt="类似行程，相同时间段的 Trenitalia Frecciarossa 和 SNCF TGV 之间的预售火车票对比。", width=600, height=350]
 
-火车票都是提前预订 2 个月之后的相同时间段，巴黎到里昂的火车票。从上到下依次是：
+火车票都是提前预订两个月之后的相同时间段，巴黎到里昂的火车票。其中 TGV OUIGO 是从戴高乐机场 2 号 TGV 火车站出发，而其他两个都是从巴黎市中心出发。从上到下依次是：
 
 * Trenitalia Frecciarossa
-* SNCF TGV OUIGO: 从戴高乐机场 2 号 TGV 火车站出发
+* SNCF TGV OUIGO
 * SNCF TGV INOUI
