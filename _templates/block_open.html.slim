@@ -1,0 +1,16 @@
+/ _templates/block_open.html.slim
+- if has_role? 'gallery'
+  - images = content.split('</figure>').reject(&:empty?).map { |i| i + '</figure>' }
+  - count = images.size
+
+  div class=['container', role]
+    .row.row-cols-1.row-cols-md-2
+      - images.each do |img|
+        .col == img
+    
+- else
+  / Standard open block behavior
+  div id=id class=['openblock', (attr 'role')]
+    - if title?
+      .title = title
+    .content == content
