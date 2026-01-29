@@ -160,6 +160,11 @@ article,
             margin-bottom: var(--spacer-paragraph);
         }
 
+        :where(li>ul) {
+            // 取消嵌套列表的底部边距
+            margin-bottom: 0;
+        }
+
         /* 标题边距：上大下小原则 */
         :where(h2, h3) {
             margin-top: calc(var(--spacer-paragraph) * 1.5);
