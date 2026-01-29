@@ -2,7 +2,7 @@
 :page-subtitle: Itinerary of 2026 France and Norway in Winter
 :page-modified_time: 2025-11-08 18:00:00 +0800
 :page-date: 2026-03-03 12:00:00 +0800
-:page-tags: [2025-Lofoten-Faroe, 欧洲, 西欧. 北欧, 中欧, 斯堪的纳维亚, 法国, 挪威, 瑞士, 捷克, 阿尔卑斯, 罗弗敦, 巴黎, 里昂, 安纳西, 霞慕尼, 日内瓦, 特隆赫姆, 博德, 奥斯陆, 布拉格, 徒步, 行程]
+:page-tags: [2026-Alps-Lofoten, 欧洲, 西欧. 北欧, 中欧, 斯堪的纳维亚, 法国, 挪威, 瑞士, 捷克, 阿尔卑斯, 罗弗敦, 巴黎, 里昂, 安纳西, 霞慕尼, 日内瓦, 特隆赫姆, 博德, 奥斯陆, 布拉格, 徒步, 行程]
 :page-categories: posts
 :page-layout: post
 :page-liquid:
