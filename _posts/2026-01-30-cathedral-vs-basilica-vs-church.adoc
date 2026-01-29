@@ -1,0 +1,50 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/cathedral-vs-basilica-vs-church/interior-of-dome-of-st-peters-basilica-4x3-1200.avif
+  alt: "位于梵蒂冈的圣彼得大教堂 (Basilica of Saint Peter) 圆顶的内部由米开朗基罗 (Michelangelo) 设计"
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/cathedral-vs-basilica-vs-church/interior-of-dome-of-st-peters-basilica-4x3-1200.avif 1200w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/cathedral-vs-basilica-vs-church/interior-of-dome-of-st-peters-basilica-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-01-30 08:00:00 +0800
+tags: [2026-Alps-Lofoten, 欧洲, 博物馆, 教堂]
+tagline: 主教座堂、宗座圣殿、教堂、小教堂
+---
+= Cathedral, Basilica, Church, Chapel 有什么区别？
+:toc: macro
+:sectnums:
+:experimental:
+
+欧洲的主教座堂 (Cathedral)、宗座圣殿 (Basilica)、教堂 (Church) 和小教堂 (Chapel) 有什么区别？这篇短文是我们在欧洲被各种教堂的称呼搞得稀里糊涂之后整理的笔记。不但可以作为“旅行小贴士”，同时也帮助我们在旅行故事中统一中文翻译。
+
+**要点：**
+
+教堂 (Church) 是通称；主教座堂 (Cathedral) 是主教的家；圣殿 (Basilica) 是教皇认证的名胜；小教堂 (Chapel) 是小型祷告室。
+
+[#terminology-of-churches]
+== 教堂称谓
+
+简而言之，在宗教建筑中，这些名称通常由行政级别和教会地位决定，而不仅仅取决于建筑的大小：
+
+教堂 (Church):: 这是一个通称。指任何基督徒进行礼拜的固定场所。通常由神父或牧师管理。
+
+主教座堂 (Cathedral):: 这里的关键词是“座”。它是教区内地位最高的教堂，因为这里放着主教 (Bishop) 的正式座位 (Cathedra)，象征着他的管辖权。
+
+圣殿 (Basilica):: 这是一种荣誉称号。由教皇特许授予那些具有重大历史、属灵或艺术意义的教堂。有时也译作“大殿”。
++
+* **特级宗座圣殿 (Major Basilica):** 全球仅有四座，全部位于罗马。名气最大的圣彼得大教堂 (https://www.basilicasanpietro.va/en/[Basilica of Saint Peter]) 就是一座特级宗座圣殿，而地位最高的则圣约翰拉特朗圣殿 (https://www.basilicasangiovanni.va/en.html[Basilica of Saint John Lateran])，教皇的座堂。
+* **乙级宗座圣殿 (Minor Basilica):** 分布在世界各地。
+
+小教堂 (Chapel):: 通常是较小的礼拜场所。它们通常没有固定的常住神职人员，且多设在医院、学校、机场等机构内部，或者在大教堂内作为侧室存在。有时也译作“小堂”。
+
+== 其他相关词汇
+
+这里还有一些相关词汇。
+
+[#architectural-styles-basilica]
+=== 建筑类型：巴西利卡 (Basilica)
+
+值得一提的是 Basilica 一词还有另一个用法，指的是一种平面呈长方形、带柱廊和半圆形后殿的古罗马公共建筑。后来的基督教教堂建筑布局便是源于此。当指代这种建筑类型时，标准的翻译是音译为”巴西利卡“。
