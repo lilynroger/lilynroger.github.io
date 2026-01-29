@@ -18,10 +18,10 @@ date_modified: 2026-01-14 20:00:00 +0800
 featured: true
 
 slug: alps-lofoten
-title: 阿尔卑斯和罗弗敦冬季之旅
-tagline: 阿尔卑斯雪山胜景和罗弗敦群岛的极光之美。
-image_base: trips/2025/lofoten-faroe/rorbuer-on-sakrisoy
-image_alt: "罗弗敦群岛 (The Lofoten Islands) 标志性的黄色传统渔屋 (挪威语: Rorbuer)"
+title: 阿尔卑斯和罗弗敦的冬季
+tagline: 阿尔卑斯的雪山胜景和罗弗敦群岛的极光之美。
+image_base: trips/2026/alps-lofoten/eliassen-rorbuer
+image_alt: "在罗弗敦群岛 (The Lofoten Islands) 的哈姆岛 (Hamnøy) 上标志性的红色传统渔屋 (挪威语: Rorbuer)"
 tag: 2026-Alps-Lofoten
 year: 2026
 continents:
