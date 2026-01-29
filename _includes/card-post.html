@@ -15,12 +15,11 @@
         {{ post.title | escape }}
       </a>
     </h3>
-    {%- if post.subtitle -%}
-    <p class="card-subtitle text-body-secondary">
-      {{ post.subtitle | escape }}
+    {%- if post.tagline -%}
+    <p class="card-text text-body-secondary py-2">
+      {{ post.tagline | escape }}
     </p>
-    {%- endif -%}
-    {%- if site.show_excerpts -%}
+    {%- elsif site.show_excerpts -%}
     <p class="card-text text-body-secondary py-2">
       {{ post.excerpt | strip_html | truncatewords: 50 }}
     </p>
