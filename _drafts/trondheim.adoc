@@ -1,0 +1,37 @@
+= 特隆赫姆 (Trondheim)
+:page-subtitle: Guide to Trondheim in Winter
+:page-modified_time: 2025-11-08 18:00:00 +0800
+:page-date: 2026-02-14 12:00:00 +0100
+:page-tags: [2026-Alps-Lofoten, 欧洲, 西欧. 北欧, 斯堪的纳维亚, 法国, 挪威, 勃朗峰, 罗弗敦, 里昂, 特隆赫姆, 徒步, 行程]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:toclevels: 1
+:sectnums:
+
+在游玩了法国阿尔卑斯的的霞慕尼小镇之后, 我们选择从距离霞慕尼最近的城市, 日内瓦作为前往下一站挪威的特隆赫姆的中转地.
+
+[#getting-to-prague]
+== 如何前往
+
+[#key-attractions]
+== 主要景点
+
+
+== 体验朝圣徒步之旅
+
+* Lian Gård - Pilgrim Hostel
+* Haltdalen Stave Church
+* Sverresli Utsikten
+* Ilen Church
+* St.Olav water source at Hadrian's Plass
+
+[bibliography]
+[#resources]
+== 参考资源
+
+* [[[vtpl]]] https://visittrondheim.no/en/activities-attractions/outdoor-adventures/hiking/the-pilgrimage-last-leg/["The Pilgrimage Last Leg: 
+Lian to Nidaros Cathedral"], _visittrondheim.no_
+
+* [[[pogt]]] https://www.pilegrimsleden.no/en/trails/gudbrandsdalsleden["Gudbrandsdalsleden: Oslo - Gjøvik/Hamar - Trondheim"], _pilegrimsleden.no_
