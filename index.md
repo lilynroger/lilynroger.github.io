@@ -83,8 +83,8 @@ canonical_url: https://lilyroger.com
   <header class="container py-5">
     <hgroup class="text-center">
       <p class="text-body-secondary kicker">{{ site.tagline }}</p>
-      <h1>欢迎来到我们的网站</h1>
-      <p>{{ site.description }}</p>
+      <h1 class="mb-5">欢迎来到我们的网站</h1>
+      <p>{{ site.description | escape }}</p>
     </hgroup>
   </header>
 
@@ -93,10 +93,10 @@ canonical_url: https://lilyroger.com
     <!-- latest posts  -->
     <section id="latest-posts" class="container">
       <hgroup class="text-center">
-        <h2>最新旅行故事</h2>
+        <h2 class="mb-5">最新旅行故事</h2>
       </hgroup>
-      <ul class="list-unstyled row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
-        {%- for post in site.posts limit:3 -%}
+      <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4">
+        {%- for post in site.posts limit:4 -%}
         <li class="col">
           {% include card-post.html post = post %}
         </li>
@@ -117,10 +117,10 @@ canonical_url: https://lilyroger.com
   <div class="container-fluid bg-body-tertiary py-5">
     <section id="featured-posts" class="container">
       <hgroup class="text-center">
-        <h2>精选旅行故事</h2>
+        <h2 class="mb-5">精选旅行故事</h2>
       </hgroup>
-      <ul class="list-unstyled row row-cols-1 row-cols-sm-2 row-cols-lg-3 g-4">
-        {%- for post in posts limit:3 -%}
+      <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4">
+        {%- for post in posts limit:4 -%}
         <li class="col">
           {% include card-post.html post = post %}
         </li>
