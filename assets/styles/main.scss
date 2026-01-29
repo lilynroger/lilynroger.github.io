@@ -3,10 +3,25 @@
 @use "asciidoc";
 @use "journey-timeline";
 
+:root {
+  /* System-ui targets the high-quality native fonts of each OS */
+  --font-main: "Inter Variable", "Inter",                       /* Modern Web Sans */
+               "-apple-system", "BlinkMacSystemFont",           /* iOS/macOS (PingFang) */
+               "Segoe UI Variable Text", "Segoe UI",            /* Windows (Segoe/YaHei) */
+               "Noto Sans SC",                                  /* Android/Google Standard */
+               "Hiragino Sans GB", "Microsoft YaHei", 
+               sans-serif;
+}
+
 body {
-    font-family: Roboto, Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    font-family: var(--font-main);
     font-weight: 300;
+    line-height: 1.75;
     scroll-behavior: smooth;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-weight: 400;
 }
 
 blockquote {
