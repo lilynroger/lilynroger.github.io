@@ -1,0 +1,67 @@
+= 霞慕尼 (Chamonix) 冬季不滑雪攻略
+:page-subtitle: Chamonix in Winter for Non-skiers
+:page-modified_time: 2025-11-08 18:00:00 +0800
+:page-date: 2026-02-14 12:00:00 +0100
+:page-tags: [2026-Alps-Lofoten, 欧洲, 西欧. 北欧, 斯堪的纳维亚, 法国, 挪威, 勃朗峰, 罗弗敦, 里昂, 特隆赫姆, 徒步, 行程]
+:page-categories: posts
+:page-layout: post
+:page-liquid:
+:toc:
+:toclevels: 1
+:sectnums:
+
+我们的霞慕尼 (Chamonix) 之行多少有些意外. 环勃朗峰是我们下一个徒步目标. 在规划 2026 年冬季的法国之行时, 发现作为我们主要目的地之一的里昂, 就是距离霞慕尼最近的法国大城市. 尽管我们不是滑雪爱好者, 可也无法错过这个阿尔卑斯山的童话小镇.
+
+霞慕尼的全名是霞慕尼勃朗峰 (Chamonix-Mont-Blanc).
+
+[#getting-to-chamonix]
+== 如何前往霞慕尼
+
+最近的大城市:
+
+* 日内瓦, 瑞士
+* 里昂, 法国
+* 米兰, 意大利
+
+最近的机场:
+
+* Geneva International Airport (GVA)
+
+== 勃朗峰 (Mont Blanc)
+
+勃朗峰正在变矮. 在 2010 年, 曾经录得勃朗峰的最高高度是 4810.90 米. 在 2023 年 9 月, 官方的测量结果是 4805.59 米. 比之前最高时矮了足足 5 米.
+
+TIP: 霞慕尼山谷中的一个热门咖啡馆和甜品店的名字就叫 Chalet 4810. 这家招牌的招牌之一是勃朗峰造型的 4810 巧克力.
+
+== 南针峰 (Aiguille du Midi)
+
+冬季的滑雪季时, 南针峰的首班上行缆车时间是 8:10 AM, 末班下行缆车时间是 4:30 PM. 需要仔细规划游览时间. 最新的南针峰的游览时间和价格表, 可以参考官网上的: https://aiguilledumidi.montblancnaturalresort.com/en/timetables-rates[The Aiguille du Midi: Timetables and Rates].
+
+== 冰海 (Mer de Glace)
+
+=== Montenvers Mer de Glace Train
+
+冬季的滑雪季时, 冰海的蒙特维火车上行首班车是 10:00 AM; 上行末班车是 4:00 PM, 下行末班车是 4:30 PM. 需要仔细规划游览时间. 最新的时间和价格表, 可以参考官网上的: https://www.montenverstrain.com/en/homepage/[Montenvers Mer de Glace Train].
+
+== 霞慕尼主要山峰
+
+* 勃朗峰 (Mont Blanc)
+* 恶魔峰 (Mont Maudit)
+* 塔库尔勃朗峰 (Mont Blanc du Tacul)
+* 南针峰 (Aiguille du Midi)
+* 普朗针峰 (Aiguille du Plan)
+* 埃尔布罗纳峰 (Pointe Helbronner)
+
+=== 恶魔峰 (Mont Maudit)
+
+这座山的法语名字 Mont Maudit 的字面意思是 "被诅咒的山", 意译为 "恶魔峰", 也可以音译为 "莫迪峰". 恶魔峰是法国和意大利的边界.
+
+=== 埃尔布罗纳峰 (Pointe Helbronner)
+
+这座山峰是法国和意大利的边界, 以法国阿尔卑斯的制图先驱, 登山家 Paul Helbronner 命名. 
+
+现在 Pointe Helbronner 是缆车站平台. 在法国一侧是与南针峰之间的 Panoramic Mont-Blanc 缆车; 在意大利一侧是 Skyway Monte Bianco 缆车.
+
+[bibliography]
+[#resources]
+== 参考资源
