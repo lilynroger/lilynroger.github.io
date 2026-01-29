@@ -2,19 +2,24 @@
 
 / Standardize URLs (Handles imagesdir automatically)
 - target = image_uri(attr 'target')
-- alt = attr 'alt'
+
+/ Use captione title as caption
+- caption = captioned_title if title?
+
+/ Use caption for alt by default
+- alt = caption ? caption : attr('alt')
+
 - attribution = attr 'attribution'
 - width = attr 'width'
 - height = attr 'height'
 
 / Resolve custom attributes
 - media = attr 'media'
-- sizes = attr 'sizes'
+- sizes = attr('sizes') ? attr('sizes') : '(max-width: 575px) 400px, 800px'
 / If srcset is present, we must process it to ensure paths are correct
 - srcset_raw = attr 'srcset'
 - srcset = srcset_raw ? srcset_raw.split(',').map { |s| s.strip.start_with?('http') ? s : "#{document.attr 'imagesdir'}/#{s.strip}" }.join(', ') : nil
 
-- full_caption = captioned_title if title?
 
 / .compact removes nil values if no role is provided
 div class=['imageblock', attr('role')].compact.join(' ')
@@ -30,8 +35,8 @@ div class=['imageblock', attr('role')].compact.join(' ')
       - else
         img.figure-img src=target alt=alt width=width height=height
 
-    - if full_caption
+    - if caption
       figcaption.figure-caption
-        .title = full_caption
+        .title = caption
         - if attribution
           .attribution = attribution
