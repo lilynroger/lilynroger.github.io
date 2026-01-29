@@ -1,0 +1,371 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-4x3-1200.avif
+  alt: "在塞纳河的卡鲁索桥 (Pont du Carrousel) 上眺望上游夕阳下的皇家桥 (Pont Royal) 和位于左岸的奥赛博物馆 (Musée d'Orsay)"
+  width: 1200
+  height: 900
+  sources:
+    - media: "(min-aspect-ratio: 16/9)"
+      srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-16x9-1200.avif 1200w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-16x9-2400.avif 2400w
+    - media: "(min-aspect-ratio: 4/3)"
+      srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-4x3-1200.avif 1200w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-4x3-2400.avif 2400w
+    - media: "(max-aspect-ratio: 3/4)"
+      srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-3x4-1200.avif 900w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-3x4-2400.avif 1800w
+
+layout: article
+categories: posts
+date: 2026-02-08 09:30:00 +0200
+tags: [2026-Alps-Lofoten, 欧洲, 西欧, 法国, 巴黎, 博物馆, 印象派]
+tagline: 全球收藏印象派和后印象派艺术品最丰富的博物馆
+---
+= 奥赛博物馆 (Musée d\'Orsay)
+:toc: macro
+:sectnums:
+:page-liquid:
+
+奥赛博物馆 (Musée d'Orsay) 位于塞纳河左岸，前身是为 1900 年万国博览会建造的火车站，是全球收藏印象派和后印象派艺术品最丰富的博物馆。在 2026 年，该博物馆迎来开馆 40 周年庆典。
+
+toc::[]
+
+[#overview-orsay-museum]
+== 奥赛博物馆简介
+
+奥赛博物馆与卢浮宫、蓬皮杜艺术中心并称巴黎三大艺术博物馆，是世界著名的印象派与后印象派艺术宝库，填补了卢浮宫（古代艺术）与蓬皮杜中心（现代艺术）之间的艺术断层。
+
+它的建筑原是为 1900 年巴黎世博会建造的奥赛火车站。1977 年，时任法国总统瓦莱里·吉斯卡尔·德斯坦决定将其改造为博物馆，最终于 1986 年 2 月 1 日由弗朗索瓦·密特朗总统揭幕。如今，博物馆内部仍保留着作为火车站时的标志性拱形玻璃穹顶、巨型车站时钟和工业时代的恢弘结构，极具特色，建筑本身无遗也是一件艺术品。
+
+[#opening-hours-of-orsay-museum]
+== 奥赛博物馆的开放时间
+
+奥赛博物馆的开放时间的要点:
+
+* 每周二到周日开放，**周一闭馆**
+* 每日 09:30 - 18:00 开放，**17:00 停止入场**
+* **周四夜场：**延长开放至 21:45，21:00 停止入场
+* 节假日：每年 5 月 1 日和 12 月 25 日闭馆
+
+有关参观奥赛博物馆的官方信息，参考: https://www.musee-orsay.fr/en/visit[Visit | Musée d'Orsay]。
+
+[#entrances-of-orsay-museum]
+== 奥赛博物馆的入口
+
+奥赛博物馆的入口在建筑的西侧，靠近利奥波德-塞达-桑戈尔行人桥 (Passerelle Léopold-Sédar-Senghor)，远离皇家桥 (Pont Royal)。分流不同类型的参观者，设置了 A 和 C 两个入口，每个入口设置了两条通道。注意找到正确的入口和通道排队，以免浪费时间。
+
+* A 入口：有票入口，靠近塞纳河一端。
+** A1 通道：优先通道，比如孕妇，残疾人，持有年票和贵宾票的参观者等等。
+** A2 通道：有票，且预约了时间段的参观者。
+* C 入口：售票处入口，在里尔路 (Rue de Lille) 一端。
+** C1: 有票但是没有预约时间段的参观者，比如持有巴黎博物馆通票 (Paris Museum Pass)，奥赛/罗丹联票 (Combined Orsay/Rodin) 等等的参观者。
+** C2: 现场购票的参观者，以及按规定享受免票的参观者，比如儿童，少年，学生等等。
+
+有关奥赛博物馆入口的最新信息，参考官方网站: https://www.musee-orsay.fr/en/articles/enter-museum-296246[Enter the museum | Musée d'Orsay]。
+
+[#tickets-of-orsay-museum]
+== 奥赛博物馆的购票信息
+
+奥赛博物馆的门票 (2026) 要点信息如下：
+
+* 全票：现场购买需要 14 欧元，官网在线预订则需要 16 欧元
+* 周四夜场全票：现场购买需要 10 欧元，官网在线预订则需要 12 欧元
+
+奥赛博物馆的官方票务网站是: https://billetterie.musee-orsay.fr/index-css5-museeorsay-lgen-pg1.html[Musée d'Orsay official ticketing]。
+
+[#layout-and-masterpieces-of-orsay-museum]
+== 奥赛博物馆楼层与藏品布局
+
+奥赛博物馆的建筑前身是火车站，内部拥有高大的中庭，底层挑高非常高，上层则是错层布局。你会看到 -1/0/2/3/4/5/6 的楼层标识，其中：
+
+* -1 层卫生间
+* 0 层是地面层
+* 没有 1 层
+* 2 层是中层
+* 3/4 层是错层空间中的夹层，面积很小，不是主要收藏区
+* **5 层是顶层，印象派展品集中在此**。是最重要的楼层。
+* 6 层通常不会出现在介绍中，但是现场有标识，是卫生间
+
+馆内展品主要分布在 0/2/5 层。
+
+[#level-0]
+=== 地面层 (0)
+
+奥赛博物馆地面层的中央是雕塑大厅，中央走廊两侧是学院派、写实主义和早期印象派艺术。
+
+这一层的代表作品主要有：
+
+* 米勒《拾穗者》
+* 马奈《奥林匹亚》
+
+[#level-2]
+=== 中层 (2)
+
+奥赛博物馆中层展出自然主义、象征主义画作及精美的新艺术运动 (Art Nouveau) 家具装饰。
+
+这一层的必看展品有：
+
+* 罗丹《地狱之门》雕塑的原始石膏模型
+* 蓬蓬《白熊》雕塑。
+
+[#level-5]
+=== 顶层 (5)
+
+奥赛博物馆的顶层拥有全球最丰富的印象派收藏，也是最受游客欢迎的楼层。
+
+这一层的必看展品有：
+
+* 马奈《草地上的午餐》
+* 雷诺阿《煎饼磨坊的舞会》
+* 莫奈《圣拉扎尔车站》、《蓝色睡莲》
+* 德加《舞蹈课》、《十四岁的小舞蹈员》雕塑
+* 梵高《自画像》、《罗纳河上的星夜》、《奥维尔教堂》、《梵高在阿尔勒的卧室》
+* 塞尚《玩牌者》
+* 高更《快乐的人》
+
+此外，著名的标志性打卡地**大钟窗户**也在这一层。
+
+[#clocks-of-orsay-museum]
+== 奥赛博物馆的大钟窗户
+
+奥赛博物馆的大钟窗户是著名的网红打卡地。博物馆实际上共有三个巨大的时钟。其中有两个是两个面向塞纳河的外墙大钟，也就是大钟窗户，另一个则是位于主展厅内部的主画廊大钟。
+
+两个外墙大钟都在博物馆北侧外墙，面向塞纳河以及河对岸的杜乐丽花园，左右对称，在博物馆内部的顶层 5 楼。
+
+* **标志性的拍照点：**位于顶层 5 楼印象派展区尽头的那座时钟最为著名。乘坐地面层直达顶层的长滚梯上到顶层后，不远就是。游客可以走到时钟后面，透过透明的表盘玻璃窗欣赏巴黎的城市全景（包括卢浮宫、圣心堂等）。
+
+* **咖啡厅内的时钟：**另一座相同的时钟位于 5 楼的 Café Campana 咖啡厅内，也可以透过它欣赏风景，但通常不如第一座时钟出片率高，且在咖啡厅内可能不太方便拍照。
+
+博物馆的主画廊大钟位于博物馆主中庭上方，它虽然不直接面向外部提供“窗户”景观，但在博物馆内抬头即可见，装饰华丽，镶有金色细节和罗马数字，也是奥赛博物馆建筑结构钟的亮点。
+
+[#recommended-route-of-orsay-museum]
+== 奥赛博物馆参观路线
+
+参观奥赛博物馆的重点当然是顶层 5 楼。建议从 5 楼开始参观，再逐层往下：
+
+从底层开始:: 从入口进入后，直接穿过中央雕塑大厅。在大厅对面的背面乘坐直达 5 楼印象派 (Impressionnisme) 展区的自动扶梯。
+首先参观顶层:: 最先经过的就是标志性大钟窗户打卡点，之后是印象派收藏，梵高展厅，咖啡厅和里面的另一座大钟窗户，高更展厅。
+逐层往下参观:: 下到中层 2 楼，欣赏雕塑和新艺术装饰品，最后下到地面层，浏览雕塑大厅和其他展厅。
+
+[#top-15-must-see-masterpiecess-you-cant-miss-at-orsay-museum]
+== 奥赛博物馆 16 件必看杰作
+
+这里是奥赛博物馆的必看杰作，和它们通常所在的展厅 (2026)，大体上按照推荐路线排列。由于博物馆时常调整展位，甚至借出展品，建议您在参观前前往奥赛博物馆官网确认作品的最新展出状态: https://www.musee-orsay.fr/en/collections[Collections | Musées d'Orsay]。
+
+[#le-dejeuner-sur-lherbe]
+=== 《草地上的午餐》爱德华·马奈
+
+奥赛博物馆 5 楼 29 号展厅展出收藏家艾蒂安·莫罗-内拉顿 (Étienne Moreau-Nélaton) 的捐赠收藏，其中就包括爱德华·马奈 (Édouard Manet) 著名的《草地上的午餐》 (Le Déjeuner sur l'Herbe)。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的爱德华·马奈 (Édouard Manet) 的《草地上的午餐》 (Le Déjeuner sur l'Herbe)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/le-dejeuner-sur-lherbe-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/le-dejeuner-sur-lherbe-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/le-dejeuner-sur-lherbe-2400.avif 2400w"]
+
+这幅画是 19 世纪艺术史上最具争议和影响力的作品之一，它标志着现代艺术的开端。之所以引起争议，并非因为描绘了裸体女性，这在当时的艺术中很常见。画作挑战传统之处在于，画中的裸体女性公然与两位穿着得体的绅士一同野餐，并且画中女性直视观者。
+
+画面前景中的女性据说是马奈最喜欢的模特维克多琳·默兰 (Victorine Meurent)。
+
+该作品在 1863 年被官方的巴黎艺术沙龙拒绝，后在拿破仑三世开设的“落选者沙龙” (Salon des Refusés) 展出，引起巨大轰动。
+
+[#bal-du-moulin-de-la-galette]
+=== 《煎饼磨坊的舞会》皮埃尔-奥古斯特·雷诺阿
+
+奥赛博物馆 5 楼 的 30 号展厅展出的这幅《煎饼磨坊的舞会》 (Bal du moulin de la Galette) 是奥古斯特·雷诺阿 (Pierre-Auguste Renoir) 的杰作，早期印象派运动的标志性作品，奥赛博物馆的镇馆之宝之一。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的奥古斯特·雷诺阿 (Pierre-Auguste Renoir) 的《煎饼磨坊的舞会》 (Bal du moulin de la Galette)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/bal-du-moulin-de-la-galette-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/bal-du-moulin-de-la-galette-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/bal-du-moulin-de-la-galette-2400.avif 2400w"]
+
+在 1876 年，雷诺阿在蒙马特高地的煎饼磨坊（一个当时流行的户外舞场）创作了这幅画，展现这座舞场里充满活力和欢乐的氛围。画家捕捉了穿过树叶缝隙洒在人们衣服上的斑驳阳光，这种对光线瞬间变化的刻画是印象派的核心特征。此外，画中还出现了他的一些朋友。
+
+画面略显模糊的质感引起了当时评论家的负面评价。
+
+2026 年是这幅名作诞生的 150 周年。为此，奥赛博物馆将在 2026 年春季举办盛大的雷诺阿回顾特展《雷诺阿与爱：快乐的现代性》 (Renoir et l'amour)。
+
+[#la-gare-saint-lazare]
+=== 《圣拉扎尔车站》克劳德·莫奈
+
+奥赛博物馆收藏的《圣拉扎尔车站》 (La Gare Saint-Lazare) 是克劳德·莫奈 (Claude Monet) 以该车站为主题的系列画作中最著名、最精美的一幅。在馆时通常在 5 楼的 31 号展厅附近。在 2026 年正在外借，用于在世界各地举办的“莫奈百年纪念”系列展览。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的克劳德·莫奈 (Édouard Manet) 的《圣拉扎尔车站》 (La Gare Saint-Lazare)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-gare-saint-lazare-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-gare-saint-lazare-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-gare-saint-lazare-2400.avif 2400w"]
+
+在 1877 年，莫奈在巴黎圣拉扎尔街区附近租了工作室，向铁路公司申请许可后，在车站内架起画架进行创作。他一共创作了 11 幅以该车站为主题的系列画作，是印象派描绘现代都市生活的杰出代表。
+
+在这幅画中，莫奈的关注点并非机械细节或旅客，而是光影、色彩和蒸汽的效果。火车头喷涌而出的蓝紫色蒸汽笼罩了中景和远景，在穿过巨大玻璃穹顶的阳光照射下，蒸汽变得辉煌迷蒙。莫奈巧妙地捕捉了光线在不断变化的环境中的瞬间效果。
+
+[#la-classe-de-danse]
+=== 《舞蹈课》埃德加·德加
+
+埃德加·德加 (Edgar Degas) 被称为“芭蕾舞者的画家”，创作了约 1500 件这一主题的不同类型的作品。奥赛博物馆拥有世界上最系统、最完整的德加芭蕾舞者收藏。其中著名的《舞蹈课》 (La Classe de danse) 就在奥赛博物馆 5 楼的 31 号展厅展出。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的埃德加·德加 (Edgar Degas) 的《舞蹈课》 (La Classe de danse)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-classe-de-danse-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-classe-de-danse-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-classe-de-danse-2400.avif 2400w"]
+
+画面中心站着一位拄着拐棍、白头发的老教师正在点评。他是当时在俄国和法国最为著名的芭蕾舞大师朱尔斯·佩罗 (Jules Perrot)。周围散落着二十多个穿着白色芭蕾舞裙的小姑娘，她们并不是在轻盈起舞，而是在排练结束时表现出疲惫和松散。有的在抓背，有的在调整耳环，有的瘫坐着。
+
+尽管德加是印象派的创始人之一，但他在艺术理念上与莫奈等人背道而驰，是一个不画草地的印象派，甚至对户外写生极度鄙视。当莫奈在野外喂蚊子画风景时，德加则待在室内研究透视和线条。德加曾在与友人谈话中提到：
+
+“你知道我怎么看那些在户外工作的人。如果我是政府首脑，我会派一队宪兵去监视那些对着自然画风景的人。 哦，我不是要杀掉谁，只是偶尔开上两枪作为警告。”
+
+埃德加·德加的现实主义杰作之一《在咖啡馆》，又名《苦艾酒》(L'Absinthe) 通常也在《舞蹈课》旁边展出。
+
+[#petite-danseuse-de-quatorze-ans]
+=== 《十四岁的小舞蹈员》埃德加·德加
+
+埃德加·德加 (Edgar Degas) 一生唯一曾经公开展出的一件雕塑作品《十四岁的小舞蹈员》 (The Little Fourteen-Year-Old Dancer) 的复制品之一在奥赛博物馆 5 楼的 32 号展厅展出。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的埃德加·德加 (Edgar Degas) 的《十四岁的小舞蹈员》 (The Little Fourteen-Year-Old Dancer) 雕塑的青铜复制品
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/petite-danseuse-de-quatorze-ans-560.avif[width="560", height="850"]
+
+在 1881 年的巴黎印象派展览上展出了德加的《十四岁的小舞蹈员》雕塑。最初版是用蜡做的身体，穿了真的芭蕾舞裙、胸衣和舞鞋，带着丝绸发带，还披了假发。在那个时代，雕塑通常是用纯大理石或青铜制成的。德加给雕塑穿上真实的布料短裙被认为极其“卑俗”和“激进”，评论家嘲讽它像是在陈列室里展示的标本，这也是它在 1881 年震惊巴黎的原因。
+
+目前德加的《十四岁的小舞蹈员》的唯一真身，腊制原作收藏在美国华盛顿国家美术馆 (National Gallery of Art)。
+
+在 1917 年德加去世时，他的继承人决定委托著名的埃贝尔铸造厂 (Hébrard) 将其蜡像翻铸成青铜像以供保存和出售。目前它们散落在世界各地的知名的博物馆和美术馆中，比如波士顿美术馆 (MFA) 等等。目前公认由埃贝尔铸造厂铸造的青铜版本多达 28 件。每件都有一个字母编号，加上预留给铸造厂和德加家族的特制版。奥赛博物馆的这一件编号是 "P"，是德加家族保留的版本。
+
+有趣的是，在不同博物馆看到的这尊雕像，虽然青铜身体是一样的，但芭蕾舞裙和发带往往不一样。这是因为外层的布料会随时间老化腐烂，各博物馆会根据德加当年的描述和历史照片进行定期更换。所以，它们的裙子颜色和长度可能略有出入。
+
+[#nympheas-bleus]
+=== 《蓝色睡莲》克劳德·莫奈
+
+奥赛博物馆 5 楼的 34 号展厅展出的这幅《蓝色睡莲》 (Nymphéas bleus) 是克劳德·莫奈 (Claude Monet) 晚年吉维尼花园系列作品的一部分。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的克劳德·莫奈 (Claude Monet) 的《蓝色睡莲》 (Nymphéas bleus)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/nympheas-bleus-1200x1194.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/nympheas-bleus-1200x1194.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/nympheas-bleus-2400x2388.avif 2400w", width="1200", height="1194"]
+
+Nymphéas 是睡莲 (Water Lily) 的植物学名称。莫奈于 1893 年在吉维尼 (Giverny) 的庄园里建造了一座水景花园，并在其中种植了白色的睡莲。从 20 世纪初到 1926 年去世，这座花园，尤其是其中的池塘，成为了这位艺术家唯一的灵感源泉。他曾说：“我又回到了那些不可能完成的事情：水底长满水草，随风摇曳。除了绘画和园艺，我一无是处。我最伟大的杰作就是我的花园。”
+
+莫奈舍弃了地平线和天空，将目光聚焦于池塘的一小块区域，将其视为自然的一部分，几乎像是一幅特写。画面中没有任何突出的细节，整体给人一种无形水面的感觉。正方形的构图强化了这种中性感。由于缺乏参照物，这幅局部画面呈现出一种无限延伸的意境。
+
+[#les-joueurs-de-cartes]
+=== 《玩牌者》保罗·塞尚
+
+法国后印象派画家保罗·塞尚 (Paul Cézanne) 的画作《玩牌者》(Les Joueurs de cartes) 是五幅以纸牌为主题的画作中最为知名的一副。目前 (2026 年 2 月) 该画出借中，不在博物馆展出。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的保罗·塞尚 (Paul Cézanne) 的《玩牌者》 (Les Joueurs de cartes)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/les-joueurs-de-cartes-1200x984.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/les-joueurs-de-cartes-1200x984.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/les-joueurs-de-cartes-2400x1969.avif 2400w", width="1200", height="984"]
+
+画作描绘了两位普罗旺斯当地的农民在一家简朴的酒吧里玩牌的场景。光线在其上流转的瓶子构成了画面的中心轴线。它将空间分割成两个对称的区域，突显了两位玩家之间的对立。
+
+塞尚的五幅相同主题主题的画作，其中前两幅分别有五个人和四个人，有打牌的人，也就围观者；后三幅被简化到只有两个打牌的人。奥赛博物馆的这幅最为简洁，尺寸也最小。
+
+值得一提的是后三幅《玩牌者》其中的一副，在 2011 年被售出，当时的售价就高达 2.5 亿美元，至今仍然位列最贵画作第三位。
+
+[#arearea]
+=== 《快乐的人》保罗·高更
+
+后印象派和象征主义的领军人物保罗·高更 (Paul Gauguin) 第一次旅居大溪地时的代表作《快乐的人》 (Arearea / Joyousness)，在奥赛博物馆的 5 楼弗朗索瓦丝·卡钦画廊 (Galerie Françoise Cachin)，通常是 44 号展厅。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的保罗·高更 (Paul Gauguin) 的《快乐的人》 (Arearea / Joyousness)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/arearea-1200x945.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/arearea-1200x945.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/arearea-2400x1890.avif 2400w", width="1200", height="945"]
+
+这幅画描绘了两个大溪地妇女在热带风景中休息，背景为黄色的狗和仪式场景，色彩鲜艳，具有象征意义，反映了高更对异国情调的向往。
+
+[#portrait-de-lartiste]
+=== 《自画像》文森特·梵高
+
+荷兰后印象派画家文森特·梵高 (Vincent van Gogh) 短暂的艺术生涯创作了约 35-43 幅自画像。奥赛博物馆 5 楼 36 号厅中的这幅《自画像》 (Self-Portrait) 是最著名的，创作于 1889 年 9 月，被认为是其最后一幅自画像。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的文森特·梵高 (Vincent van Gogh) 的《自画像》 (Self-Portrait)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/portrait-de-lartiste-1200x1459.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/portrait-de-lartiste-1200x1459.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/portrait-de-lartiste-2400x2918.avif 2400w", width="1200", height="1459"]
+
+梵高大多数自画像是在 1886-1889 年间完成的。频繁画自画像的主要原因是经济拮据。他买不起昂贵的模特，因此选择通过照镜子画自己来练习人物肖像技巧。在巴黎时期 (1886-1888)，画家创作了约 25 幅。这一时期他受印象派影响，色调开始变得明亮。
+
+1888 年，梵高在法国南部小镇阿尔勒 (Arles) 租下了“黄房子”，梦想建立一个乌托邦式的艺术飞地。保罗·高更 (Paul Gauguin) 是第一位、也是唯一应邀前来共同生活和创作的画家。不过两人性格迥异，艺术见解矛盾重重。在阿尔勒共同生活的两个月里，争吵不断升级。梵高的精神状态在长期的贫困、过度劳累和酒精影响下极度不稳。
+
+在一次激烈的争吵后，高更愤而离家住进旅馆。当晚，梵高在幻听和崩溃中，用剃刀割下了自己左耳的一部分。他还将割下的耳朵用报纸包好，送给了当地妓院一名叫蕾切尔 (Rachel) 的女子，随后回到黄房子昏睡。第二天警察发现了血泊中的梵高并将其送医。高更随即离开阿尔勒，两人此生未再见面。
+
+在“割耳事件”后，梵高自愿进入了圣雷米镇 (Saint-Rémy-de-Provence) 的圣保罗精神病院 (Saint-Paul-de-Mausole)。这段经历是他艺术生涯中最痛苦也最辉煌的时期。
+
+这幅半身像是梵高在精神病院期间绘制的众多自画像之一，也被认为是最后一幅自画像。艺术家身着西装，而非他通常穿的呢子大衣。观者的目光聚焦于面部。他的五官棱角分明，略显消瘦，绿色的眼眶中透着一丝不苟和焦虑。主色调是苦艾绿和浅绿松石的混合色，与胡须和头发的亮橙色形成鲜明对比。背景中如梦似幻的阿拉伯式花纹则呼应并强化了这种对比。
+
+值得一提的是，画中梵高故意露出了没有受伤的右脸，或者是镜子镜像的原因导致看起来是右侧（实际受伤的是左耳）。
+
+[#la-nuit-etoilee]
+=== 《罗纳河上的星夜》文森特·梵高
+
+文森特·梵高最著名的夜景画之一就是《罗纳河上的星夜》 (Starry Night Over the Rhône)，以其深邃的蓝色和星星的螺旋描绘而闻名。这幅画展出在奥赛博物馆 5 楼 36 号厅。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的文森特·梵高 (Vincent van Gogh) 的《罗纳河上的星夜》 (Starry Night Over the Rhône)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-nuit-etoilee-1200x930.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pola-nuit-etoilee-1200x930.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-nuit-etoilee-2400x1860.avif 2400w", width="1200", height="930"]
+
+该画作创作于 1888 年 9 月，描绘了法国阿尔勒 (Arles) 罗纳 (Rhône) 河畔的夜景。画面以蓝色为主：普鲁士蓝、群青和钴蓝。氛围宁静，一对恋人在河岸散步，城市煤气灯闪烁着浓郁的橙色光芒倒映在水中，星星闪耀在深蓝的天空中。
+
+值得一提的是，奥赛博物馆的这幅《星夜》并非最著名的一副。在创作了《罗纳河上的星夜》几个月后，梵高住进了精神病院。在那里，他创作了另一幅《星夜》，充分展现了他饱受折磨的内心世界，树木如同火焰般燃烧，天空和繁星在宇宙的幻象中旋转。这幅充满动荡感的《星夜》收藏在纽约现代艺术博物馆 (MoMA)。奥赛博物馆收藏的这幅《星夜》则更为宁静，画布底部的一对恋人更强化了这种氛围。
+
+[#leglise-dauvers-sur-oise-vue-du-chevet]
+=== 《奥维尔教堂》文森特·梵高
+
+梵高生命的最后几周时的画作之一《奥维尔教堂》 (The Church at Auvers)，展出在奥赛博物馆 5 楼 36 号厅。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的文森特·梵高 (Vincent van Gogh) 的《奥维尔教堂》 (The Church at Auvers)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/leglise-dauvers-sur-oise-vue-du-chevet-1200x1549.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/leglise-dauvers-sur-oise-vue-du-chevet-1200x1549.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/leglise-dauvers-sur-oise-vue-du-chevet-2400x3098.avif 2400w", width="1200", height="1549"]
+
+梵高离开圣雷米精神病院后，搬到了巴黎近郊的瓦兹河畔奥维尔 (Auvers-sur-Oise)。在他弟弟从 1890 年 5 月 21 日抵达奥维尔到 7 月 29 日去世，短短两个月间，梵高创作了约七十幅画作，平均每天一幅以上，此外还有大量的素描作品。这幅画是唯一一幅完整描绘欧维尔教堂的作品。
+
+值得一提的是，如果你有兴趣，从巴黎北站 (Gare du Nord) 乘坐火车约 1 小时就可以抵达奥维尔小镇。在那里，你可以亲眼看到这座教堂的原型并前往不远处的公墓祭拜梵高及其弟弟提奥之墓。
+
+[#la-chambre-de-van-gogh-arles]
+=== 《梵高在阿尔勒的卧室》文森特·梵高
+
+文森特·梵高创作了三幅几乎完全相同的卧室主题画作。奥赛博物馆的这幅《梵高在阿尔勒的卧室》 (Van Gogh's Bedroom in Arles) 展出在 5 楼 36 号厅。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的文森特·梵高 (Vincent van Gogh) 的《梵高在阿尔勒的卧室》 (Van Gogh's Bedroom in Arles)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-chambre-de-van-gogh-arles-1200x930.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-chambre-de-van-gogh-arles-1200x930.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-chambre-de-van-gogh-arles-2400x1861.avif 2400w", width="1200", height="930"]
+
+在写给弟弟提奥的一封信中，梵高解释了创作这幅画的缘由：他想通过色彩的象征意义来表达卧室的宁静和简洁。因此，他描述道：“淡紫色的墙壁，不均匀褪色的红色地板，铬黄色的椅子和床，浅石灰绿色的枕头和床单，血红色的毯子，橙色的洗漱台，蓝色的洗脸盆，以及绿色的窗户”，并表示“我想用这些不同的颜色来表达绝对的宁静”。
+
+梵高三幅卧室主题画作，第一幅现藏于阿姆斯特丹梵高博物馆，创作于 1888 年 10 月，后因梵高在阿尔勒住院期间遭遇洪水而受损。近一年后，梵高复制了两幅：一幅尺寸相同，现藏于芝加哥艺术博物馆；另一幅尺寸较小，就是奥赛博物馆收藏的这幅，是为他在荷兰的家人创作的。三幅画中墙上挂的画都有所不同。
+
+[#la-porte-de-lenfer]
+=== 《地狱之门》奥古斯特·罗丹
+
+奥赛博物馆最重要的雕塑类展品应该就是“现代雕塑之父”奥古斯特·罗丹 (Auguste Rodin) 的《地狱之门》 (The Gates of Hell) 了。展出在中间层 2 楼的罗丹露台。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的奥古斯特·罗丹 (Auguste Rodin) 的《地狱之门》 (The Gates of Hell)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-porte-de-lenfer-681x850.avif[width="681", height="850"]
+
+奥赛博物馆的《地狱之门》是罗丹的原始石膏模型。罗丹生前从未亲眼看到《地狱之门》被铸造成青铜器。现在的多个青铜版都是在他去世后，由巴黎罗丹美术馆 (Musée Rodin) 授权，根据他的石膏原模铸造的。罗丹美术馆的花园中的青铜版《地狱之门》是最著名的一座。
+
+奥赛博物馆石膏原件是博物馆最宏伟的罗丹雕塑，高约 6 米，里面包含了 180 多个扭曲挣扎的人物形象。罗丹在这个作品上磨了 37 年，直到去世都没完全“做完”。它就像是罗丹的“创意素材库”，他后来的很多独立名作，最初都是这扇门上的小零件。比如：
+
+* 《思想者》(The Thinker) 就在《地狱之门》门楣的正中央。
+* 《三个影子》 (Les Trois Ombres) 就在《地狱之门》顶端，三尊相同的男子雕像并排站立，形成一个弧形，手臂指向下方。
+
+[#ours-blanc]
+=== 《白熊》弗朗索瓦·蓬蓬
+
+提到奥赛博物馆的必看展品，不得不提法国雕塑家弗朗索瓦·蓬蓬 (François Pompon) 最著名的代表作《白熊》 (Ours blanc)。这座雕塑已经成为博物馆里最受观众喜爱的雕塑之一，是奥赛非官方的吉祥物和许多游客购买纪念品的首选。目前它展出在博物馆中层 2 楼的雕塑露台。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的弗朗索瓦·蓬蓬 (François Pompon) 的《白熊》 (Ours blanc) 雕塑
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/ours-blanc-850x572.avif[width="850", height="572"]
+
+蓬蓬大部分时间都在给罗丹 (Rodin) 和卡米耶·克洛岱尔 (Camille Claudel) 当助手，打下手，切割大理石。直到 1922 年，已经 67 岁的他展出这只《白熊》时，才一夜暴火。这尊大理石雕塑以其现代、简洁的线条和圆润的造型打破了传统，标志着现代动物雕塑的开端。作品以其流线型设计和对白熊形体的独特把握，展现了简洁的艺术美学。蓬蓬最终成为极简主义 (Simplification) 的“动物雕塑”大师。
+
+[#olympia]
+=== 《奥林匹亚》爱德华·马奈
+
+爱德华·马奈 (Édouard Manet) 的《奥林匹亚》 (Olympia) 被公认为现代绘画的开端。它在 1865 年巴黎沙龙展出时引发了前所未有的愤怒和丑闻。目前收藏于奥赛博物馆地面层的 14 号展厅。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的爱德华·马奈 (Édouard Manet) 的《奥林匹亚》 (Olympia)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/olympia-1200x812.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/olympia-1200x812 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/olympia-2400x1624.avif 2400w", width="1200", height="812"]
+
+画中裸体白人女性是马奈的御用模特维克多琳·默兰 (Victorine Meurent)，画面右侧的黑人女仆劳雷 (Laure) 正献上一束花，她的身份和名字近年来通过研究才被确认。
+
+在马奈之前，西方艺术中的女性裸体通常被包装成维纳斯等神话女神，马奈的《奥林匹亚》就受到了提香的《乌尔比诺的维纳斯》的启发。不过马奈打破了传统古典裸体画的陈规，将神话人物替换为一位巴黎高级交际花 (Olympia)。还将提香画中象征忠诚的“小狗”被马奈换成了象征欲望和独立、且弓着背呈现攻击态势的黑猫。公众被画中裸体女性的挑衅凝视和非理想化的处理方式所震惊，认为其不道德且粗俗。
+
+[#des-glaneuses]
+=== 《拾穗者》让-弗朗索瓦·米勒
+
+法国巴比松画派画家让-弗朗索瓦·米勒 (Jean-François Millet) 于 1857 年创作了油画《拾穗者》 (The Gleaners)，是奥赛博物馆最杰出的现实主义 (Realism) 代表作之一。此画目前在奥赛博物馆地面层的 4 号展厅展出。
+
+.奥赛博物馆 (Musée d'Orsay) 收藏的让-弗朗索瓦·米勒 (Jean-François Millet) 的《拾穗者》 (The Gleaners)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/des-glaneuses-1200x898.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/des-glaneuses-1200x898 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/des-glaneuses-2400x1796.avif 2400w", width="1200", height="898"]
+
+画面描绘了三名贫苦的农妇在收割后的麦田里弯腰捡拾残余麦穗的场景。在当时的法国法律下，穷人被允许在收割结束后进入农田捡拾漏掉的庄稼。背景中可以看到满载的马车、堆积如山的麦垛和骑马的监工。在 1857 年展出时，这幅画曾引发巴黎中产阶级的恐慌。他们认为米勒在美化贫困，甚至怀疑这幅画带有某种社会主义倾向或“革命暗示”。
+
+[final-tips-for-orsay-museum]
+== 后记
+
+虽然在奥赛博物馆可以看到《蓝色睡莲》，但莫奈在 1918 年捐赠给法国政府的八幅大型环绕式《睡莲》壁画系列，则收藏于位于塞纳河对岸，杜乐丽花园 (Jardin des Tuileries) 内的橘园美术馆 (Musée de l'Orangerie)。橘园美术馆专门设计了两个椭圆形展厅来永久展示这些巨型作品，提供了完全沉浸式的观赏体验，被誉为“印象派的西斯廷教堂”。很多艺术爱好者会选择早上先去奥赛看莫奈的《圣拉扎尔车站》、《罂粟田》和《蓝色睡莲》，下午穿过协和广场去橘园看那八幅环绕式的《睡莲》巨作。
+
+同在塞纳河左岸的罗丹美术馆 (Musée Rodin) 是巴黎最迷人的博物馆之一，专门展示“现代雕塑之父”奥古斯特·罗丹的作品。从奥赛博物馆步行过去只需约 15 分钟。在那里的花园草地上可以看到罗丹的《地狱之门》、《思想者》的青铜版，以及室内展厅中的《吻》的大理石原作。
+
+
+
