@@ -1,0 +1,24 @@
+---
+layout: article
+categories: posts
+date: 2026-02-10 08:00:00 +0100
+tags: [2026-Alps-Lofoten, 欧洲, 西欧, 法国, 巴黎, 里昂, 交通]
+tagline: 乘坐意铁的红箭高铁从巴黎到里昂
+liquid:
+---
+= 从巴黎到里昂
+:toc: macro
+:sectnums:
+:experimental:
+:page-liquid:
+
+乘坐意铁的红箭高铁从巴黎到里昂。
+
+toc::[]
+
+我们从巴黎到里昂的行程细节如下:
+
+{% assign journey = site.data.journeys.trips["2026-Alps-Lofoten"].journeys["Paris - Lyon"] %}
+++++
+{% include journey-timeline.html journey=journey %}
+++++

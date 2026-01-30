@@ -125,13 +125,6 @@
 
 === 巴黎 (Paris) - 里昂 (Lyon)
 
-我们从巴黎到里昂的行程细节如下:
-
-{% assign journey = site.data.journeys.trips["2026-France-Norway"].journeys["Paris - Lyon"] %}
-++++
-{% include journey-timeline.html journey=journey %}
-++++
-
 === 里昂 (Lyon) - 安纳西 (Annecy)
 
 从里昂前往霞慕尼比较远, 乘火车和巴士需要 3 个小时以上. 我们的行程是先前往里昂和霞慕尼之间的阿尔卑斯小城安纳西 (Annecy) 住 1 晚. 安纳西的住宿费用只有霞慕尼的一半. 次日一早从安纳西去霞慕尼, 只要 1 小时多点, 不影响白天游玩的时间, 还省了不少住宿费用. 更重要的是安纳西本身是一个美丽的中世纪小城, 绝对值得停留一下.
