@@ -68,7 +68,13 @@ span.icon>.fa {
         padding: 1.5em 1em 1.5em 0;
     }
 
+    td.content .title {
+        font-weight: 400;
+        margin-bottom: var(--spacer-paragraph);
+    }
+
     td.icon {
+        vertical-align: top;
         text-align: center;
         width: 1em;
         padding: 1.5em 1em;
@@ -195,8 +201,9 @@ article,
         margin-bottom: 1rem;
     }
 
-    .imageblock {
-        /* 图片块的上下边距比段落间距大 */
+    .imageblock,
+    .admonitionblock {
+        /* 图片块和警告块的上下边距比段落间距大 */
         margin-top: calc(var(--spacer-paragraph) * 1.5);
         margin-bottom: calc(var(--spacer-paragraph) * 1.5);
     }
