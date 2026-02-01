@@ -1,0 +1,153 @@
+= 寻味里昂：里昂小馆 (Bouchons Lyonnais) 攻略
+:page-layout: article
+:page-categories: posts
+:page-date: 2026-02-13 09:00:00 +0100
+:page-tags: [2026-Alps-Lofoten, 欧洲, 西欧. 法国, 里昂]
+:page-tagline: 梭鱼丸 (Quenelle)、工兵围裙 (Tablier de Sapeur) 和 Pot Lyonnais 红酒
+:page-liquid: true
+:toc:
+:toclevels: 2
+:sectnums:
+
+什么是里昂小馆 (Bouchon Lyonnais)? 从“一捆稻草”的起源到传奇的“里昂妈妈”，走进挂着红白格子桌布的小馆，品尝梭鱼丸 (Quenelle)、工兵围裙 (Tablier de Sapeur) 及正宗的 Pot Lyonnais 红酒。
+
+[#what-is-lyonnais-bouchon]
+== 什么是里昂小馆
+
+里昂小馆 (Bouchons) 是里昂最具代表性的餐厅。这些小而温馨的餐馆是这座城市的文化符号。它们在温暖质朴的环境中供应分量十足的当地特色菜肴。餐厅里装饰着老旧的海报，摆放着木桌和红白格子桌布，营造出一种迷人而地道的用餐体验。
+
+法语 Bouchon 一词源于古法语中的 Bousche 一词，指的是“一捆稻草”。其起源可追溯至 17 世纪，当时的小酒馆老板会在门口悬挂一捆稻草作为招牌，示意此处提供餐饮，同时还为过往客商提供用稻草刷洗马匹的额外服务。这种集歇脚、用餐与理马于一体的特色小店，最终演变成了今日著名的里昂小馆 (Bouchons Lyonnais)，成为了里昂地道传统风味的代名词。
+
+这些小酒馆最初由著名的“妈妈们”经营，主要服务于寻求美味实惠餐食的丝织工人 (Canut)。典型的菜肴包括“梭鱼丸” (Quenelle de Brochet) 和 “工兵围裙” (Tablier de Sapeur)。
+
+为了保护这些小酒馆的传统风味，里昂市政府设立了里昂小馆认证，授予那些保留了里昂小馆传统烹饪技艺和氛围的餐厅。
+
+[TIP]
+里昂小馆的份量通常非常惊人，而且很多经典菜品都是重口味，堪比北京的豆汁。建议采取“分享模式”，或者在正餐前保持空腹。除非胃口很大，酷爱重口味，尽量单点，没有把握不要点套餐。
+
+[#how-to-spot-an-authentic-bouchon-lyonnais]
+== 如何辨别正宗的里昂小馆？
+
+市面上“挂羊头卖狗肉”的餐厅很多，特别是游客密集的里昂老城，几乎每家餐厅都自称 Bouchon 小馆。要避雷，最简单的办法就是认清官方认证标志 (The Gnafron Label):
+
+寻找大门上的黄色与蓝色圆形标志。标志中心是一个戴着黑色帽子、手举红酒杯的木偶角色。标志的外圈印有 Les Bouchons Lyonnais 字样。这是由里昂工商会颁发的“身份证”，目前全城仅有约 20 几家餐厅拥有此称号。
+
+[TIP]
+.尼亚弗隆 (Gnafron) 木偶认证标志
+正宗里昂小馆认证标志上的这个木偶名叫尼亚弗隆 (Gnafron)，是里昂传统木偶剧《基尼奥尔》 (Guignol) 中的主要角色之一，一个爱喝酒、爱美食的鞋匠，代表了里昂平民阶层的乐观精神。
+
+完整的认证里昂小馆的列表可以在保护里昂小馆协会的官方网站找到: https://lesbouchonslyonnais.org/restaurants/[Liste des Bouchons Lyonnais par Arrondissement]。
+
+[#the-legendary-meres-lyonnaises]
+== 里昂小馆的“灵魂推手”：里昂妈妈 (Mères Lyonnaises)
+
+里昂小馆的菜式之所以充满“家的味道”，归功于 20 世纪初的里昂妈妈们。她们原是富有资产阶级家庭的厨师，在经济大萧条时期失业后开始自立门户，经营这些充满温情的小餐馆。其中的杰出代表有：
+
+* Mère Guy: 1759 年便在罗讷河畔成名，因其出色的小龙虾料理被视为第一位传奇妈妈。
+* Mère Brazier (布拉齐耶妈妈)：她是里昂妈妈中最耀眼的明星。她不仅是历史上首位获得米其林三星的女性（且曾同时在两家餐厅获得三星），更是“厨神”保罗·博古斯的启蒙恩师。如今的 Mère Brazier 餐厅已进化为高端米其林餐厅。
+
+[#must-try-dishes-at-a-bouchon]
+== 里昂小馆的经典菜肴
+
+里昂小馆以其特色美食闻名于世，饮食文化以猪肉、动物内脏和浓郁酱汁为核心，充满了浓郁的平民生活气息。
+
+[#les-entrees]
+=== 里昂小馆明星前菜
+
+里昂沙拉 (Salade Lyonnaise)::
+
+最经典的前菜。由苦苣 (Frisée) 打底，拌入香脆的烟熏培根丁(Lardons) 和酥脆的面包丁，顶端放一颗温热的水波蛋，划开蛋黄时浓郁的流心与酸爽的油醋汁融合。
+
+里昂香肠 (Saucisson Lyonnais)::
+
+通常有几种做法，最受欢迎的是布里欧修香肠 (Saucisson Brioché)，切片的里昂特产香肠包裹在松软的布里欧修面包中，配以红酒酱汁。 
+
+红十字山鱼子酱 (Caviar de la Croix-Rousse)::
+
+名字听起来很高大上，实际上是里昂工人的自嘲。它其实是用红葱头、香料和红酒醋腌渍的扁豆沙拉，因其外形像黑色鱼子酱而得名。
+
+[#les-plats-de-resistance]
+=== 里昂小馆经典主菜
+
+梭鱼丸 (Quenelle de Brochet Sauce Nantua)::
+
+里昂最著名的菜肴。选用周边河流的淡水梭鱼肉与面糊等混合制成橄榄形，口感像舒芙蕾一样轻盈膨。南图阿酱 (Sauce Nantua) 是最经典的伴侣，淋上这种以淡水小龙虾熬制的浓郁酱汁，赋予梭鱼丸鲜艳的橙红色和浓郁的海鲜香气。
+
+工兵围裙 (Tablier de Sapeur):: 
+
+里昂小馆最具代表性传统黑暗内脏料理，一种腌制后裹上面包屑的牛肚特色菜；将煮熟的牛肚用白葡萄酒腌渍后，裹上面包屑炸至金黄酥脆，口感扎实。通常配以经典的拉维戈特酱 (Sauce Ravigote)（一种由油醋汁、碎洋葱、酸豆和香草调制而成的酸味酱汁），或是强劲的第戎芥末酱。配菜则常搭配煮土豆或里昂式炒土豆。
+
+在 19 世纪，拿破仑三世时期的里昂军事长官卡斯特拉纳元帅 (Maréchal de Castellane) 曾是一名工兵。当时工兵在工作时会穿一种宽大、坚韧且呈深色的皮革围裙。而经过煎炸、呈现金褐色且形状扁平的牛肚，外观极像当时工兵穿的皮革围裙，因此得名。
+
+熏肠 (Andouillette)::
+
+里昂小馆里最“重口味”也是最地道的挑战。如果你能接受它，你就成了半个里昂人。它是用猪大肠和猪肚（有时也用牛内脏）切碎后，灌入肠衣制成的香肠。里昂最正宗的做法是 "Tirée à la ficelle"（用绳子拉制），这是一种传统手工技艺，确保内脏碎片在肠衣内纵向排列，口感更有层次。
++
+据说他有极其强烈原始的气味。正因为气味浓烈，它几乎总是伴随厚重的莫城芥末酱 (Moutarde de Meaux) 奶油汁或白葡萄酒汁一起烘烤或煎炸。通常搭配炸薯条或苹果泥（苹果的甜酸可以解腻）。而且一定要配一杯强劲的博若莱红酒 (Beaujolais)，酒中的单宁和酸度是抵御油脂和异味的绝佳武器。
++
+如果你确实要尝尝这个，请留意 "AAAAA" 标志，这代表它是 5A 级熏肠，证明这根香肠完全手工制作且品质顶级。
+
+[#fromages-et-desserts]
+=== 里昂奶酪与甜点
+
+织工脑花 (Cervelle de Canut)::
+
+名字听起来很吓人，但织工脑花 (Cervelle de Canut) 其实是一道非常清新、爽口的奶酪蘸酱，主要成分是新鲜白奶酪 (Fromage Blanc)，里面完全没有脑子。
++
+法语 Canut 指的是 19 世纪里昂著名的丝织工人。当时丝绸工人生活贫苦，买不起昂贵的动物脑花（那是富人的奢侈品），于是他们用廉价的新鲜奶酪拌入调料，模拟脑花的质地，并戏称其为“织工的脑花”。
+
+粉色果仁糖挞 (Tarte aux Pralines Roses)::
+
+里昂的代表性甜点，亮粉色的果仁糖浆色泽诱人，口感浓郁香甜。
+
+圣马瑟兰奶酪 (Saint-Marcellin)::
+
+如果您更倾向于咸口收尾，这里提供的当地成熟奶酪非常正宗。 
+
+[#wines]
+=== 里昂必点饮品
+
+里昂“罐装”红酒 (Le Pot Lyonnais)::
+
+在里昂小馆点餐时，通常不点整瓶，而是点一个容量为 460ml 的厚底玻璃瓶装酒，法语中称为 Pot。通常装的是物美价廉的博若莱 (Beaujolais) 红酒或罗讷河谷 (Côtes du Rhône) 红酒。
+
+[#best-lyonnais-bouchons]
+== 几家有名的里昂小馆
+
+这里我们为里昂的三天行程整理了几家常被推荐的里昂小馆。哪一家方便就试试哪一家。预算方面，午间套餐通常在 20-30 欧元左右，晚间则在 35-55 欧元。
+
+需要注意的是，很多里昂小馆在周日和周一休息，如果想体验热门的里昂小馆，一定要提前查询营业时间，旺季最好提前预定。为了稳妥起见，我们预订了其中的联邦咖啡馆，其他的随缘。
+
+[#daniel-and-denise-saint-jean]
+=== 丹尼尔和丹尼斯 - 圣让店 (Daniel & Denise Saint Jean)
+
+丹尼尔和丹尼斯 (https://danieletdenise.fr/[Daniel & Denise]) 是法国最佳工匠 MOF 获得者，名厨 Joseph Viola 在老城开设的分店，被公认为该地区最高水准的小馆之一。店内的招牌是曾获得世界冠军的酥皮肉酱派 (Pâté en Croûte)。
+
+[#les-fines-gueules]
+=== 精致胃口小馆 (Les Fines Gueules)
+
+精致胃口小馆 (https://fines-gueules.fr/[Les Fines Gueules]) 位于里昂老城中，坐落在一座 16 世纪古老建筑内，以其原始的石墙装潢和纯正的家庭式烹饪而闻名。
+
+[#cafe-des-federations]
+=== 联邦咖啡馆 (Café des Fédérations)
+
+联邦咖啡馆 (https://www.restaurant-cafedesfederations-lyon.fr/en/[Café des Fédérations]) 是一家拥有超过 120 年历史的标志性老店，位于里昂市中心第 1 区的沃土广场 (Place des Terreaux) 附近，距离里昂美术馆 (Musée des Beaux-Arts de Lyon) 一步之遥。曾经荣获 2019-2020 年里昂最佳正宗餐厅称号。
+
+值得一提的是，它们的固定套餐分量很大，除非胃口很大，可能会因为吃不完而有心理压力。加上口味传统（重口），不排除第一口就被劝退了。
+
+[#le-bouchon-des-cordeliers]
+=== 科德利埃小馆 (Le Bouchon des Cordeliers)
+
+科德利埃小馆 (https://www.bouchondescordeliers.com/[Le Bouchon des Cordeliers]) 评分极高，地理位置优越，位于里昂半岛区 (Presqu'île) 的核心位置，距离圣博纳文图拉圣殿 (Basilique Saint-Bonaventure de Lyon) 不远。因为它大体处在沃土广场 (Place des Terreaux) 和白莱果广场 (Place Bellecour) 的中间，非常适合步行游览半岛区时顺路体验。
+
+这家小馆不仅在游客当中非常热门，也是附近商务人士午餐的热门选择。如果要确保吃的上，一定要提前预定。
+
+[#daniel-and-denise-corneille]
+=== 丹尼尔和丹尼斯 - 戈内伊店 (Daniel & Denise - Corneille)
+
+这是丹尼尔和丹尼斯的第三家分店，距离位于第 3 区的里昂保罗·博古斯美食市场 (Les Halles de Lyon Paul Bocuse) 步行仅需约 5-8 分钟。比起挤死人的老城店，这里空间更大，更容易订到位置。
+
+[#cafe-lobut]
+=== 洛布咖啡馆 (Café Lobut):
+
+洛布咖啡馆 (https://www.cafe-lobut.fr/[Café Lobut]) 坐落在第三区以东一点，位置稍微偏远了一点。不过它刚刚荣膺里昂小馆保护协会 2025 年度最佳“正宗里昂小馆”称号。如果你出于什么原因路过这里附近，可以试试。
