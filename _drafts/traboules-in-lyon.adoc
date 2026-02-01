@@ -1,0 +1,100 @@
+= 里昂 (Lyon) 的串廊 (Traboules)
+:page-layout: article
+:page-categories: posts
+:page-date: 2026-02-11 09:00:00 +0100
+:page-tags: [2026-Alps-Lofoten, 欧洲, 西欧. 法国, 里昂]
+:page-tagline: 里昂版的“胡同”和“弄堂”
+:page-liquid: true
+:toc:
+:toclevels: 2
+:sectnums:
+
+里昂的“串廊” (Traboules) 是这座城市不容错过的隐秘宝藏，主要分布在里昂老城区 (Vieux Lyon) 和红十字区 (Croix-Rousse)。串廊作为一种内部通道，允许人们可以穿过建筑物，从一条街道通往另一条街道。它见证了里昂的丝绸贸易历史和二战抵抗运动。
+
+[#what-is-traboule]
+== 什么是 Traboule?
+
+法语 Traboules 源自拉丁语，本意是“穿过”，指的是连接街道并穿过一栋或多栋建筑的捷径。里昂全城大约有 500 条这样的串廊，其中有大约 80 条对公众开放。
+
+[TIP]
+.什么又是 Mirabole 呢？
+这个词里昂当地历史学家费利克斯·贝努瓦 (Félix Benoît) 在 20 世纪 60 年代创造的，用来指代里昂的庭院。这些庭院虽然不通往任何地方，但往往美轮美奂。螺旋楼梯、塔楼、意式长廊、水井、小雕像和雕塑，以及小花园，都是隐藏在这些内院中的宝藏。
+
+里昂旅游局官方网站提供了相当丰富的有关串廊和庭院的信息，参考: https://en.visiterlyon.com/discover/heritage-unesco/lyon-s-traboules-and-courtyards[Lyon's traboules and courtyards]。
+
+[#plaque-de-signaletique]
+== 串廊的青铜牌标识
+
+由于大多数串廊位于私人住宅内，为了方便游客并在不干扰居民的前提下展示文化遗产，里昂市政府设立了专门的标识系统。
+
+这是一种嵌入墙面的盾形的青铜标牌，通常位于街道入口处。标牌上通常印有里昂市徽（狮子图案），并配有该通道的简要历史介绍、路线示意图以及对应的街道编号。在老城，看到这种铜牌就意味着该通道目前是对公众开放 的。常见的开放时间通常是早 7 点到晚 7 点。
+
+[#visiting-tips]
+== 游览小贴士
+
+以下是探索里昂的串廊和庭院的小贴士：
+
+* 推门即入：很多串廊的大门看起来是关着的，但只要旁边有青铜牌且在开放时间内，你通常可以按下门口的按钮（标注为 Services 或 Traboule ）开门进入。
+
+* 保持安静：进入后请保持绝对安静，因为楼上就是普通住户。
+
+* 地面标记：在红十字区，除了看青铜牌，还可以留意地面上的狮子头金属标（通常为黄色或金属色）。
+
+[#courtyards-and-traboules-of-vieux-lyon]
+== 里昂老城的串廊
+
+在里昂老城 (Vieux Lyon) 的串廊大多建于文艺复兴时期。与红十字山 (Croix-Rousse) 那种为了方便丝绸工人搬运布料而建的实用主义通道不同，老城的串廊更具装饰性。它们通常隐藏在平凡的街道大门后，穿过精美的内部庭院，里面往往藏着螺旋石梯、意式长廊和鲜艳的赭石色墙壁。最初是为了让居民能方便的到达索恩河 (Saône) 取水和坐船，后来成为商人们保护昂贵丝绸免受雨淋的运输通道。
+
+这里列出了最不容错过的几处里昂老城的串廊。里昂旅游局官方网站提供了更多有关里昂老城的庭院和串廊的信息，参考: https://en.visiterlyon.com/discover/heritage-unesco/renaissance/courtyards-and-traboules-of-vieux-lyon[Courtyards and Traboules of Vieux-Lyon]。
+
+[#deux-cours-en-une]
+=== 两院串廊 (Deux cours en une)
+
+因为它内部连接了两个非常漂亮的、由于近代修复而色彩明艳的文艺复兴庭院。 
+
+=== 圣让街和三玛丽街之间的串廊
+
+在圣让街和三玛丽街之间的串廊是里昂最漂亮的串廊之一。具体地址位于 27 Saint Jean 和 6 rue des Trois Maries 之间。这条串廊穿过两个非常漂亮的内部庭院。其中一个庭院拥有 16 世纪典型的文艺复兴式连拱走廊 (Galeries à arcades)，这种建筑风格深受当时意大利商人的影响。
+
+如果你从三玛丽街一侧出来，正好可以顺便在街上寻找 7 号楼那个著名的“三玛丽”雕像招牌。
+
+[#place-de-la-basoche]
+=== 巴索什小广场 (Place de la Basoche)
+
+在老里昂的中心地带，这座小巧精致、不容错过的广场位于圣让街 (60 rue Saint-Jean) 与邦巴德街 (rue de la Bombarde) 交汇处。
+
+小广场的北侧是一座文艺复兴时期的建筑群，堪称精美绝伦，下面的三层是托斯卡纳风格的连拱廊。自 1406 年起，就一直是司法宫的附属建筑，先后作为巴索什兄弟会 (Basoche brothers) 的住所、著名法学学者的居所，以及青年律师的培训中心。所以，这座建筑原来也称“律师之家” (La Maison des Avocats)，现在是一座小型的电影院和微缩模型博物馆。
+
+[#la-longue-traboule]
+=== 最长串廊 (La Longue Traboule)
+
+最长串廊 (La Longue Traboule) 的入口在圣让街 (54 Rue Saint-Jean)，横跨三座庭院，直通西侧的“牛街” (27 rue du Boeuf)，是老城最具代表性的迷宫。
+
+值得一提的是“牛街” (rue du Boeuf) 是里昂老城保存最完好的街道之一，也目前法国拥有米其林星级餐厅最密集的街道之一。路名源自 16 世纪时安放在圣让新广场 (Place Neuve Saint-Jean) 拐角处壁龛里的一尊公牛雕塑。这尊雕像实际上是 16 世纪里昂医生路易·托雷尔 (Louis Thorel) 家族的纹章标志，他在 1597 年因在鼠疫期间的卓越贡献被封为贵族。因为法语的“公牛”一词 Taureau 与其姓氏 Thorel 发音相近，他选择了公牛作为盾徽，装饰其房舍。尽管雕塑本身是一头雄赳赳的公牛，但当地居民长期以来习惯称其为“牛” (Bœuf)，久而久之，“牛街”便取代了街道原有的正式名称。
+
+[#la-tour-rose]
+=== 粉红塔楼 (La Tour Rose)
+
+粉红塔楼 (La Tour Rose) 位于“牛街” 16 号 (16 Rue du Bœuf)。这里既是一个庭院，也是一个串廊。其标志性的粉色圆形楼梯塔是里昂里昂老城最浪漫、出镜率最高的建筑之一，被公认为里昂文艺复兴建筑的瑰宝。
+
+[#courtyards-and-traboules-of-croix-rousse]
+== 红十字山的串廊
+
+在红十字山的山坡上，曾有修建了大量的这种串廊。这里的串廊比老城区的修建的晚一点，通常更宽大、更坚固。这是为了让丝绸工人能够背着沉重的织机和昂贵的丝绸布料，在雨天也能迅速在山坡的不同街道间穿行，而不弄湿货物。
+
+在 19 世纪的里昂纺织工人 (Canuts) 起义期间，以及第二次世界大战期间里昂抵抗运动期间，这些串廊也曾为他们的秘密出行提供庇护。
+
+这里我们推荐一处最有名的：沃拉斯庭院 (Cour des Voraces)。如果你有兴趣和时间想了解更多，，可以参考里昂旅游局官方网站有关红十字山的庭院和串廊的信息: 
+https://en.visiterlyon.com/discover/heritage-unesco/remarkable-sites-and-monuments/courtyards-and-traboules-of-croix-rousse[Courtyards and Traboules of Croix-Rousse]。
+
+[#cour-des-voraces]
+=== 沃拉斯庭院 (Cour des Voraces)
+
+沃拉斯庭院 (Cour des Voraces) 是里昂红十字山 (Croix-Rousse) 最震撼、最具标志性的串廊，也是这座城市工人运动历史的象征。
+
+法语 Cour des Voraces 的意思是“贪食者的庭院”。其中 Voraces 意思是“贪食者”，原本是一个由丝绸工人 (Canuts) 组成的互助协会的名称。在 1848 年法国大革命期间，这些工人激进的工人以此为据点进行政治集会和斗争。院内墙上仍刻有一句著名的格言：“在自由中劳动，或在战斗中死亡” (Vivre en travaillant ou mourir en combattant)。
+
+推荐从 Place Colbert 9 号进入这栋建筑的庭院。入口左侧的墙上处可以看到红十字区特有的黄底蓝色狮子头标识牌。标记这是一个公共通道。
+
+[TIP]
+.寻找标志
