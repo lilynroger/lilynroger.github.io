@@ -1,0 +1,170 @@
+= 里昂公共交通指南 (2026)
+:page-layout: article
+:page-categories: posts
+:page-date: 2026-02-10 12:00:00 +0100
+:page-tags: [2026-Alps-Lofoten, 欧洲, 西欧. 法国, 里昂]
+:page-tagline: TCL, 地铁, 缆车，有轨电车，和 Rhônexpress
+:page-liquid: true
+:toc:
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/
+
+这我们为自己 2026 年在里昂的 3 天行程整理的公共交通攻略。包含了里昂的 TCL 系统，地铁、缆车、有轨电车，以及 Rhônexpress 机场快线的基本信息。里昂城市卡 (Lyon City Card) 值不值？这里也有相关的建议。
+
+[#network-overview]
+== 里昂公共交通速览
+
+里昂的公共交通由 https://www.tcl.fr/en[TCL] 系统统一运营，覆盖地铁、有轨电车、缆车和公交车（机场快线 Rhônexpress 除外）。建议乘坐地铁和有轨电车，避开地面交通的拥堵。
+
+[TIP]
+TCL 是法语 **T**ransports en **c**ommun **l**yonnais 的缩写，字面意思就是“公共交通”。
+
+[#metro-system]
+=== 地铁
+
+里昂地铁系统是效率最高的出行方式，共有 A、B、C、D 四条线路，每天运行至午夜左右。
+
+image:lyon-tcl-line-a.svg[role=icon]:: 地铁 A 线（红线）在半岛区 (Presqu'île) 中的一段南北向贯穿半岛区的购物街区，连接着北到市政厅 (Hôtel de Ville) 南到佩拉什火车站 (Gare de Perrache) 之间的各站。
+
+image:lyon-tcl-line-b.svg[role=icon]:: 地铁 B 线（蓝线）是前往帕尔迪厄站 (Gare de Part-Dieu) 及南部新兴办公区的主要通道。
+
+image:lyon-tcl-line-c.svg[role=icon]:: 地铁 C 线（黄线）世界上少有的齿轨地铁，专为攀爬红十字山 (Croix-Rousse) 的陡坡而设计，值得体验。
+
+image:lyon-tcl-line-d.svg[role=icon]:: 地铁 D 线（绿线）游客使用频率最高。它是全自动驾驶线路，发车频率极高，横穿城市东西，连接了老城区 (Vieux Lyon)、市中心的白莱果 (Place Bellecour) 和帕尔迪厄站 (Gare de Part-Dieu)。
+
+[#tramway-network]
+=== 有轨电车
+
+里昂的有轨电车网络 (T1 - T7) 是地铁的重要补充，站台通常设在地面，大多行驶在宽阔的林荫大道或河岸边，是欣赏城市风光的不错选择。对于游客而言最重要的是其中的两条线路 (T1, T2)。其他有轨电车线路 (T2, T4, T5, T6, T7) 主要服务于里昂的外围住宅区、大学城或医疗中心。对于通常集中在市中心的半岛区、红十字区和里昂老城的游客来说，搭乘这些线路的机会不大。
+
+image:lyon-tcl-line-t1.svg[role=icon]:: 有轨电车 T1 线被誉为里昂最美的有轨电车线路，连接了帕尔迪厄站 (Gare de Part-Dieu)、佩拉什火车站 (Gare de Perrache)和现代化的**汇流区** (Confluence)，终点站即为造型前卫的汇流博物馆。
+
+image:lyon-tcl-line-t3.svg[role=icon]:: 有轨电车 T3 线是前往里昂东部郊区的主要线路，和 Rhônexpress 机场快线共用轨道，是去 Groupama Stadium 看球或参加大型演唱会的唯一公共交通选择。
+
+[#funicular]
+=== 缆车
+
+里昂拥有两条历史悠久的缆车线路，分别是 F1 和 F2 线，当地人亲切地称之为 ficelles, 字面意思是“绳”。它们起点都是地铁 D 线的 Vieux Lyon - Cathédrale Saint-Jean 站，是登上富维耶山 (Fourvière Hill) 最便捷的方式。
+
+image:lyon-tcl-line-f1.svg[role=icon]:: Vieux Lyon - Saint-Just: 途中停靠 Minimes - Théâtres Romains 站，是前往古罗马剧场和卢格杜努姆博物馆 (Lugdunum Museum), 即高卢-罗马 (Gallo-Roman Museum) 的最佳选择。
+
+image:lyon-tcl-line-f2.svg[role=icon]:: Vieux Lyon - Fourvière: 直达富维耶山顶，出站即可到达著名的富维耶圣母圣殿 (Basilica of Notre-Dame de Fourvière), 这里拥有俯瞰里昂全城的绝佳视角。从富维耶圣母圣殿步行五分钟可达古罗马剧场。
+
+建议上午 9:00 前到达以避开旅游大巴人潮。游览富维耶山时，推荐上山时体验缆车，然后沿着玫瑰花园 (Jardins du Rosaire) 的小径步行下山，欣赏沿途的风景。
+
+里昂的缆车也是完全整合在 TCL 系统内。如果你持有 TCL 的单程票，一日或者多日通票 (Day Pass)，无需额外购票，直接刷卡过闸机即可从地铁站无缝换乘缆车。
+
+[#airport-connection]
+=== 机场往返 (Rhônexpress)
+
+里昂圣埃克絮佩里机场 (Lyon-Saint Exupéry Airport, LYS) 以《小王子》作者、飞行员圣埃克絮佩里命名，是服务法国第二大都市圈里昂的主要国际门户，也是法国第四大繁忙机场。从圣埃克絮佩里机场到市中心，**最便捷的工具是 Rhônexpress 机场快线**。
+
+image:lyon-tcl-line-rx.svg[role=icon]:: 里昂的 Rhônexpress 机场快线是有轨电车，连接机场与市中心的里昂帕尔迪厄站 (Lyon Part Dieu)，车程约 30 分钟，高峰期每 15 分钟一班。机场快线票务独立，普通的 TCL 车票无法使用，可通过 https://www.rhonexpress.fr/en_GB/[Rhônexpress] 官网在线购票，单程全票 16 欧元 (2026)，往返票有优惠。
+
+如果不嫌倒车麻烦，乘**公交车往返机场是最实惠的方式**。在机场有 47 路和 C200 路公交车可连接至 TCL 的公交车、地铁和有轨电车网络，单程仅需一张普通公交票的价格，全票 2.1 欧元 (2026)，耗时通常一小时左右或更多。通过 Google Maps 或者里昂 TCL 官网上 https://www.tcl.fr/en/journey-planner/route-finder[Route planner] 可以规划线路。
+
+[#ticketing]
+== 购票方案
+
+里昂的公交系统的票价按照不同的地理范围区分，目前一共有 6 个票价区 (Fare Zones)。核心区 1 区和 2 区是绝大多数游客的活动区域，涵盖了里昂市中心和近郊。我们这篇攻略所介绍的内容，比如票价等等都是指核心区。
+
+对于在里昂行程时间不太长的游客而言，主要有三种适合的公交系统购票选项：
+
+* 感应支付 (TCL Carte Bancaire): 直接刷信用卡或手机；
+* 可充值纸质票 (The rechargeable ticket): 可充值，可以购买多种通票；
+* 里昂城市卡 (Lyon City Card): 包含所有公共交通，如果行程包含多个博物馆，此卡可能性价比最高。
+
+作为短期游客，考虑到安全性，遇到问题的语言障碍等问题，我们不推荐使用感应支付。此外，虽然 TCL 推出了手机应用，但是目前苹果版的不支持购票。将来手机应用更完善的时候，也许也会是一个不错的选项。
+
+[#tcl-carte-bancaire]
+=== 感应支付 (TCL Bank Card)
+
+TCL 的主要线路都支持非接触式银行卡和绑定了银行卡的手机 (Apple Pay, Google Pay, Samsung Pay) 支付。使用方式是：
+
+1. 直接将您的感应式银行卡或绑定了银行卡的手机靠近交通工具入口处或车厢内的红色刷卡机。
+2. 刷卡机屏幕显示法语 "Voyage validé" 或英文 "Travel validated" （行程已验证）表明刷卡成功。可在 1 小时内无限次换乘地铁、电车、巴士及缆车（每次换乘仍需刷卡，但不会重复扣费）。
+3. 系统会在次日根据你的消费情况自动汇总扣费（因为有每日封顶政策）。
+
+实际支付的车票根据当日乘车的次数有所不同。目前 (2026) 单程是 2.10 欧元，如果一天内刷卡超过 3 次，系统会自动转为日票模式 (24-hour Pass)，当日最高扣费封顶为 6.90 欧元。
+
+这种支付方式还支持多人模式，同一银行卡或者手机在 10 秒以内连续为同伴刷卡。看到刷卡机显示法语 Voyageur 2 ajouté 或者英语 Passenger 2 added 等等表明刷卡成功。最多可支持 5 人同行。
+
+有关如何使用非接触式银行卡和手机支付的官方信息可以参考: https://www.tcl.fr/en/node/2821/tcl-carte-bancaire[TCL Bank Card]。
+
+[#rechargeable-ticket]
+=== 可充值纸质票 (The rechargeable ticket)
+
+在里昂 TCL 交通系统中，可充值纸质票 (https://www.tcl.fr/en/tickets-fares/transport-ticket-holders/rechargeable-ticket-your-transport-ticket[The Rechargeable Ticket]) 全面取代旧式磁条票，是短期游客的首选。在所有地铁站和有轨电车站的自动售票机上均可购买可充值纸质票。首次购买需 0.20 欧元的工本费，随后可以反复充值最多 10 次。
+
+里昂 TCL 的可充值纸质票的充值选项非常丰富，包括单程票、不同时长的日票、周票等等。大部分票种限个人使用，但特定票种支持多人模式，如 Tribu Pass、10 次票支持多人共用。完整的官方信息可以参考: https://www.tcl.fr/en/tickets-fares/fares[Fares]。这里重点介绍几种常用的：
+
+普通单程票 (1 trip):: 票价 2.10 欧元。激活后 1 小时内可无限次换乘地铁、电车、缆车和巴士等等 TCL 的公共交通工具。值得一提的是，在巴士上也可以购买普通单程票，不过票价更贵，建议提前在机器上买票充值。
+
+日票 (Day Pass):: 分为 24 / 48 / 72 小时三种，票价分别约为 6.90 / 13.00 / 18.00 欧元。从第一次刷卡起计，分别在 24 / 48 / 72 小时内有效，可跨自然天。
+
+周票 (7 Days Pass):: 票价 23.20 欧元。从第一次刷卡起计。
+
+十次票 (10 trips):: 支持多人共用，票价 20 欧，比单买 10 张单程票略低。上车时，由一人操作，在检票机上连续刷卡（如果是 2 人，就连续刷 2 次，以此类推）。
+
+青少年和学生十次票 (10 trips - under 26 and students aged 26 and 27):: 针对 26 岁以下青少年和 26-27 岁的学生的 10 次优惠票，票价 17.00 欧元。购票时建议随身携带护照以备查验。
+
+亲子一日票 (1-day Tribu Pass):: image:lyon-tcl-ticket-pass-tribu.svg[width=150] **里昂最划算的家庭出行选项**。充值这种票后，允许多人共用一张纸票，包括 1 名成人和 1-4 名 17 岁及以下青少年；或者 2 名成人和 1-3 名青少年。票价 7.00 欧元，从第一次刷卡起计，在当日运营结束前可无限次使用（注意不是 24 小时）。实际上，此票并不需要是家庭，也无需出示年龄证明。只要求所有成员必须在整个行程中集体行动，不能分头出行。使用时，由一人操作，在检票机上连续刷卡（如果是 3 人，就连续刷 3 次，以此类推），即可完成全员检票。
+
+有关可充值纸质票的官方信息可以参考: https://www.tcl.fr/en/tickets-fares/transport-ticket-holders/rechargeable-ticket-your-transport-ticket[The Rechargeable Ticket]。
+
+[#lyon-city-card]
+=== 里昂城市卡 (Lyon City Card)
+
+根据我们的经验，欧洲各地的城市卡极少有真正划算的。不过，如果你愿意根据你的行程安排做做算术题，里昂城市卡还真有可能是你最划算的选择。
+
+首先看看里昂城市卡的成人票价格（学生，儿童有优惠）：
+
+[cols="4*^.^",role="table table-striped-columns"]
+|===
+| 24 小时
+| 48 小时
+| 72 小时
+| 96 小时
+| €29.90
+| €41.90
+| €52.00
+| €63.90
+|===
+
+再看看包含在里昂城市卡中的核心的几个博物馆和游览项目：
+
+[cols="3,1", options="header", role="table table-striped"]
+|===
+| 项目名称 | 单人票价
+| 里昂美术馆 | €8.00
+| 富维耶圣母院屋顶 | €14.00
+| 高卢-罗马博物馆 | €8.00
+| 汇流博物馆 | €12.00
+| 电影与微缩模型博物馆 | €22.90
+| 卢米埃尔博物馆 | €9.50
+| 观光游船 | €15.00
+|===
+
+其中重点说明几项：
+
+* 里昂美术馆 (Musée des Beaux-Arts): 号称“小卢浮宫”，艺术爱好者不能错过。
+
+* 富维耶圣母院屋顶 (Visite insolite de Fourvière): 称为“富维耶非凡之旅”，跟随导游登上富维耶圣母院屋顶，俯瞰里昂。项目极其热门，且每组人数有限。请务必在到达里昂前通过官方预订系统 https://booking.fourviere.org/visite-insolite.html[Visite insolite | Fourvière] 或在旅游局前台预约。即便有城市卡，不预约大概率无法登顶。
+
+* 观光游船: 如果你喜欢观光游船，塞纳河和罗讷河上的观光游船 (Les Bateaux Lyonnais) 票价 €15.00 也包含在城市卡中。
+
+可以看出来，只要单日行程中包含了两个收费项目，再加上公共交通的话，基本上就值回 24 小时的城市卡了。如果赶上促销，那就不要犹豫了。即便是平日，如果你是乘坐火车或者长途汽车到的里昂，也有 10% 折扣，凭车票直接到市中心的游客信息中心领取。
+
+我们两人正赶上情人节促销，第二张城市卡半价。于是我们就买了两张 24 小时的城市卡。集中一天游览收费项目。其余时间每天只需要一张 €7.00 的 Tribu Pass 单日票就可以了。
+
+有关里昂城市卡的官方信息参考: https://boutique.visiterlyon.com/lyon-city-card[Lyon City Card]。
+
+[#safety-overview]
+== 安全性概览
+
+里昂的公共交通系统在欧洲属于管理较好、安全性较高的类别。
+
+* 有轨电车：运行在地面，视野开阔，安全性感受极佳，适合晚间慢行。
+* 缆车：主要是游客和当地居民使用，环境非常友好且安全。
+* 地铁：白天非常安全，夜晚需注意周边人群。

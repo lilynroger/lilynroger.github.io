@@ -66,7 +66,7 @@ asciidoctor:
   template_dir: _templates
   template_engine: slim
   attributes:
-    imagesdir: "/"
+    imagesdir: /@
     includedir: "_includes"
     bibtex-file: _bibtex/master.bib
     icons: font

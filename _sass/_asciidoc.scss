@@ -195,10 +195,31 @@ article,
         }
     }
 
-
     /* 优化 Asciidoctor TOC */
     .toc .title {
         margin-bottom: 1rem;
+    }
+
+    td p:last-child {
+        margin-bottom: 0;
+    }
+
+    /* 水平居中 */
+    th.halign-center,
+    td.halign-center {
+        text-align: center;
+    }
+
+    /* 垂直居中 */
+    th.valign-middle,
+    td.valign-middle {
+        vertical-align: middle;
+    }
+
+    /* 底部对齐 (对应 . 符号) */
+    th.valign-bottom,
+    td.valign-bottom {
+        vertical-align: bottom;
     }
 
     .imageblock,
@@ -231,6 +252,22 @@ article,
     .figure-caption {
         padding: 0 0 0 1em;
         border-left: 3px solid #FFC107;
+    }
+
+    .icon img {
+        display: inline-block;
+        height: 1em; // 高度等于当前字体大小 
+        width: auto; // 宽度自动缩放
+        vertical-align: -0.125em; // 微调图标文字对齐
+        fill: currentColor; // 图标颜色继承文本颜色
+    }
+
+    span.image img {
+        vertical-align: text-bottom;
+    }
+
+    strong {
+        font-weight: 700; // 和 Bootstrap 的 <dt> 的权重一致
     }
 
     .nav-card {
