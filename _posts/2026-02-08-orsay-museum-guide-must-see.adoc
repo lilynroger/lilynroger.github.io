@@ -14,11 +14,11 @@ image:
 
 layout: article
 categories: posts
-date: 2026-02-08 09:30:00 +0200
-tags: [2026-Alps-Lofoten, 欧洲, 西欧, 法国, 巴黎, 博物馆, 印象派]
+date: 2026-02-08 07:00:00 +0100
+tags: [2026-Alps-Lofoten, 欧洲, 西欧, 法国, 巴黎, 博物馆, 艺术]
 tagline: 全球收藏印象派和后印象派艺术品最丰富的博物馆
 ---
-= 奥赛博物馆 (Musée d\'Orsay)
+= 奥赛博物馆 (Musée d\'Orsay) 攻略: 参观指南和必看杰作
 :toc: macro
 :sectnums:
 :page-liquid:
