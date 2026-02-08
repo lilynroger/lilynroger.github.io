@@ -1,7 +1,16 @@
-= 巴黎夏尔·戴高乐机场 (Paris-Charles de Gaulle airport, CDG) 
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/gare-aeroport-charles-de-gaulle-2-rer-4x3-1200.avif
+  alt: "巴黎戴高乐机场 2 号航站楼火车站 (Gare Aéroport Charles de Gaulle 2) 前往市区的 RER B 线火车的入口。"
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/gare-aeroport-charles-de-gaulle-2-rer-4x3-1200.avif 1200w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/gare-aeroport-charles-de-gaulle-2-rer-4x3-1200.avif 2400w
+---
+= 巴黎夏尔·戴高乐机场 (Paris-Charles de Gaulle airport, CDG) 指南 (2026)
 :page-layout: article
 :page-categories: posts
-:page-date_modified: 2026-02-07 08:00:00 +0800
+:page-date_modified: 2026-02-08 06:00:00 +0100
 :page-date: 2026-02-07 07:00:00 +0100
 :page-tags: [2026-Alps-Lofoten, 欧洲, 西欧, 法国, 巴黎, 机场]
 :page-tagline: 航站楼，火车站和公共交通
@@ -40,7 +49,9 @@ toc::[]
 .巴黎戴高乐机场 (Paris Charles de Gaulle Airport) 所有航站楼的总览图
 image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/airport-cdg-terminal-map-3000x2015.avif[alt="巴黎戴高乐机场 (Paris Charles de Gaulle Airport) 所有航站楼的总览图"]
 
-最新版本的示意图和详尽的交互式航站楼地图，请参考巴黎戴高乐机场的官网：link:https://www.parisaeroport.fr/en/passengers/at-the-airport/terminals-map/cdg[Terminal maps at Paris-CDG Airport]。
+最新版本的示意图和详尽的交互式航站楼地图，请参考巴黎戴高乐机场的官网: link:https://www.parisaeroport.fr/en/passengers/at-the-airport/terminals-map/cdg[Terminal maps at Paris-CDG Airport]。
+
+巴黎戴高乐机场近期频繁调整航空公司的航站楼分配。请务必查询最新的信息，参考官网: link:https://www.parisaeroport.fr/en/passengers/flights/airlines/cdg[Airlines flying from Paris-CDG]。
 
 [#cdg-terminal-1]
 === 1 号航站楼
@@ -58,9 +69,6 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/a
 * 阿提哈德航空 (Etihad Airways)
 * 土耳其航空 (Turkish Airlines)
 
-[WARNING]
-巴黎戴高乐机场近期频繁调整航空公司的航站楼分配。请务必查询最新的信息，参考官网：link:https://www.parisaeroport.fr/en/passengers/flights/airlines/cdg[Airlines flying from Paris-CDG]。
-
 [#cdg-terminal-1-layout]
 ==== 1 号航站楼布局
 
@@ -72,11 +80,11 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/a
 
 * **2 层（机场内线）：**主要是与外部的交通连接层，还有退税和部分值机柜台。在这一层可以乘坐免费的戴高乐机场内线 CDGVAL 自动轻轨，前往其他航站楼、火车站和停车场。另外 5-6 号值机大厅 (Hall) 也在这一层，指示牌上中文标记为“乘机手续 5,6”。退税在 6 号直接大厅 (Hall 6)。
 
-* **3 层（出发 / 值机）：**主要是**出发大厅**，大多数的航空公司的值机柜台在这一层，包括 1-4 号值机大厅。这一层也可以直接通往出租车，巴士和其他车辆的接送区域。
+* **3 层（出发 / 值机）：**主要是出发大厅，大多数的航空公司的值机柜台在这一层，包括 1-4 号值机大厅。这一层也可以直接通往出租车，巴士和其他车辆的接送区域。
 
 * **4 层 (登机 / 安检)：**这一层是前往卫星楼的必经之路，旅客在此完成安检和边检，进入地下自动步道，前往各个卫星楼的登机口。这一层也是主要的免税店区域。
 
-* **5 层 (到达 / 行李提取)：**此层是**到达大厅**，旅客在此提取行李，完成海关手续。
+* **5 层 (到达 / 行李提取)：**此层是到达大厅，旅客在此提取行李，完成海关手续。
 
 * **6 层及以上：**主要是 P1 停车场，按照蓝色、红色和绿色划分区域。
 
@@ -105,7 +113,7 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/a
 从位于 5 层的到达层下到 2 层，可以乘坐免费的机场内线 (CDGVAL) 自动轻轨前往其他航站楼，机场酒店，和 TGV / RER 火车站。
 
 [#cdg-terminal-2]
-=== 2 号航站楼 (即将更名为 3 到 7 号航站楼)
+=== 2 号航站楼
 
 巴黎戴高乐机场的 2 号航站楼 (Terminal 2) 是一个巨大的综合建筑群，由 7 座独立的子航站楼组成。这 7 座子航站楼目前的名称分别是 2A, 2B, 2C, 2D, 2E, 2F 和 2G 航站楼。在 2027 年的 3 月之后，将启用新的航站楼规划和名称。
 
@@ -117,7 +125,7 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/a
 * 上层：这是出发层，包含值机、安检、候机大厅和登机口。
 
 [#cdg-terminal-2a]
-==== 2A 航站楼（2A/2C 即将更名合称 3 号航站楼）
+==== 2A 航站楼
 
 2A 航站楼主要服务于国际非申根航线，对中国游客比较重要的包括比如：
 
@@ -127,24 +135,24 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/a
 2A 航站楼与其西侧紧邻的 2C 之间共享部分设施。
 
 [#cdg-terminal-2b]
-==== 2B 航站楼（2B/2D 即将更名合称 4 号航站楼）
+==== 2B 航站楼
 
 2B 航站楼主要服务于申根区内的航线，其中可能比较重要的有连接意大利罗马的 ITA 航空，还有北欧航空 (Scandinavian Airlines)。
 
 [#cdg-terminal-2c]
-==== 2C 航站楼（2A/2C 即将更名合称 3 号航站楼）
+==== 2C 航站楼
 
 2C 与 2A 直接相通并共享部分设施。这里比较重要的航空公司有：
 
 * 阿联酋航空 (Emirates)
 
 [#cdg-terminal-2d]
-==== 2D 航站楼（2B/2D 即将更名合称 4 号航站楼）
+==== 2D 航站楼
 
 2C 与 2A 直接相通并共享部分设施。
 
 [#cdg-terminal-2e]
-==== 2E 航站楼（即将更名为 5 号航站楼）
+==== 2E 航站楼
 
 巴黎戴高乐机场的 2E 航站楼 (Terminal 2E) 是机场的旗舰航站楼，主要作为法国航空 (Air France) 及其天合联盟伙伴处理非申根区（国际）长途航线的核心枢纽。对于中国游客比较重要的航空公司有：
 
@@ -158,7 +166,7 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/a
 * M 候机厅：位于第二座卫星楼（最新且最豪华）。需乘坐 LISA 捷运系统（车程约 3 分钟）。这里空间极高，绿植丰富，设有小型艺术博物馆和露天景观台。
 
 [#cdg-terminal-2f]
-==== 2F 航站楼（即将更名为 6 号航站楼）
+==== 2F 航站楼
 
 巴黎戴高乐机场的 2F 航站楼 (Terminal 2F) 是机场内设计最美观、效率最高的航站楼之一。它主要作为法国航空 (Air France) 和荷兰皇家航空 (KLM) 在申根区内 (Schengen Area) 航班的核心枢纽。
 
@@ -167,7 +175,7 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/a
 此外 2F 航站楼与处理非申根区（国际）长途航线的 2E 航站楼隔街相对。通过地面的室内人行通道（带有自动步道）步行仅需 3-5 分钟。从 2E 过来就可以直接换乘前往很多欧洲其他城市的航班。
 
 [#cdg-terminal-2g]
-==== 2G 航站楼（即将更名为 7 号航站楼）
+==== 2G 航站楼
 
 巴黎戴高乐机场的 2G 航站楼 (Terminal 2G) 是 2 号航站楼群中最小、位置最偏远的一个独立建筑。它专门用于处理区域性和短途的申根区内部航班。
 
@@ -175,7 +183,7 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/a
 * 前往 2G 必须在先到 2F 航站楼，换乘 N2 机场摆渡巴士。
 
 [#cdg-terminal-3]
-=== 3 号航站楼 (即将更名为 2 号航站楼)
+=== 3 号航站楼
 
 巴黎戴高乐机场的 3 号航站楼是一个独特的存在，主要用于处理包机航班、廉价航空以及季节性航班。对于绝大多数中国游客而言，这个 3 号航站楼的意义是它位于机场的中央交通枢纽区域。往返巴黎戴高乐机场和市中心之间最快，最便宜的 RER B 火车就在这个区域。步行即可前往机场大巴站（如 Roissybus）和主要的巴士总站。详细的信息，请参考关于机场交通的部分。
 
@@ -250,8 +258,14 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/c
 
 其中 2 号火车站是始发站，而 1 号火车站则是始发站后的第一站。需要注意的是 RER B 线有支线，从机场出发都是前往巴黎市区。**从市区前往机场，一定要看清站台屏幕，确认列车终点是 Aéroport Ch. de Gaulle 2 火车站**。
 
+在机场的人工售票处 (Ticket Office) 和自助售票机上都可以购票。我们购买的是被称为 Navigo easy 的纸质的可充值的交通卡，每人一卡。卡本身需要 2 欧元的工本费，加上机场去巴黎的车票 14 欧元，一共 16 欧元。交通卡在可以反复充值，可以用于市区内的公共交通和返回戴高乐机场。
+
+.巴黎戴高乐机场 2 号火车站内的自动售票机
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/ticket-machines-at-gare-aeroport-charles-de-gaulle-2-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/ticket-machines-at-gare-aeroport-charles-de-gaulle-2-4x3-1200.avif 1200w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/ticket-machines-at-gare-aeroport-charles-de-gaulle-2-4x3-2400.avif 2400w", width=800, height=600, alt="巴黎戴高乐机场 2 号火车站内的 Navigo 自助售票机"]
+
 有关往高乐机场的 RER B 的最新信息，参见官网: https://www.parisaeroport.fr/en/passengers/transport-parking/public-transport-paris/rer-b/cdg[How to leave / go to Paris-CDG with the RER B?]
 
+[#gare-de-charles-de-gaulle-1]
 ==== 戴高乐机场 1 号火车站
 
 虽然名字叫 1 号火车站，但是这个车站实际上在 3 号航站楼旁边的名叫 Roissypôle 的公交枢纽。步行来往 3 号航站楼和 1 号火车站之间需要几分钟。乘坐戴高乐机场内线 CDGVAL 自动捷运系统则可以在所有主航站楼之间穿梭。
@@ -264,7 +278,7 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/c
 
 由于 3 号航站楼主要处理包机，季节性航班和部分廉价航空的航班。中国游客较少需要使用 3 号航站楼。如果要前往 3 号航站楼，从 Roissypôle 公交枢纽出口出去，穿过露天广场，正对面就是。
 
-[#charles-de-gaulle-2-tgv]
+[#gare-de-charles-de-gaulle-2-tgv]
 ==== 戴高乐机场 2 号 TGV 火车站
 
 戴高乐机场 2 号 TGV 火车站是法国高速铁路网络的关键枢纽之一，位于 2 号航站楼正下方，夹在 2C、2D、2E 和 2F 四个子航站楼之间，由法国国营铁路公司 (SNCF) 运营。
@@ -273,7 +287,7 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/c
 
 戴高乐机场 2 号 TGV 火车站在 2 号航站楼的中心位置，是一座多层建筑：
 
-* 1 层： 火车站台（TGV 高铁和 RER B 快铁的站台）。
+* 1 层： 火车站台（高铁 TGV 和快铁 RER B 的站台）。
 * 2 层： 售票大厅。您可以在此购买 RER B 前往巴黎市区或 TGV 高铁的票。设有自助售票机和人工售票柜台。
 * 3 层： 行李寄存处和一些便利设施。
 * 4 层： 步行连接大厅。这是连接 2 号航站楼各个区域的中心枢纽，也是通往喜来登酒店 (Sheraton) 和戴高乐机场内线 CDGVAL 轻轨站台的地方。
