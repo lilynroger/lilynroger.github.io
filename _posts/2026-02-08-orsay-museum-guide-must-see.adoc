@@ -15,6 +15,7 @@ image:
 layout: article
 categories: posts
 date: 2026-02-08 07:00:00 +0100
+date_modified: 2026-02-09 12:00:00 +0100
 tags: [2026-Alps-Lofoten, 欧洲, 西欧, 法国, 巴黎, 博物馆, 艺术]
 tagline: 全球收藏印象派和后印象派艺术品最丰富的博物馆
 ---
@@ -283,7 +284,7 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/
 文森特·梵高最著名的夜景画之一就是《罗纳河上的星夜》 (Starry Night Over the Rhône)，以其深邃的蓝色和星星的螺旋描绘而闻名。这幅画展出在奥赛博物馆 5 楼 36 号厅。
 
 .奥赛博物馆 (Musée d'Orsay) 收藏的文森特·梵高 (Vincent van Gogh) 的《罗纳河上的星夜》 (Starry Night Over the Rhône)
-image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-nuit-etoilee-1200x930.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pola-nuit-etoilee-1200x930.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-nuit-etoilee-2400x1860.avif 2400w", width="1200", height="930"]
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-nuit-etoilee-1200x930.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-nuit-etoilee-1200x930.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/la-nuit-etoilee-2400x1860.avif 2400w", width="1200", height="930"]
 
 该画作创作于 1888 年 9 月，描绘了法国阿尔勒 (Arles) 罗纳 (Rhône) 河畔的夜景。画面以蓝色为主：普鲁士蓝、群青和钴蓝。氛围宁静，一对恋人在河岸散步，城市煤气灯闪烁着浓郁的橙色光芒倒映在水中，星星闪耀在深蓝的天空中。
 
@@ -344,7 +345,7 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/
 爱德华·马奈 (Édouard Manet) 的《奥林匹亚》 (Olympia) 被公认为现代绘画的开端。它在 1865 年巴黎沙龙展出时引发了前所未有的愤怒和丑闻。目前收藏于奥赛博物馆地面层的 14 号展厅。
 
 .奥赛博物馆 (Musée d'Orsay) 收藏的爱德华·马奈 (Édouard Manet) 的《奥林匹亚》 (Olympia)
-image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/olympia-1200x812.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/olympia-1200x812 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/olympia-2400x1624.avif 2400w", width="1200", height="812"]
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/olympia-1200x812.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/olympia-1200x812.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/olympia-2400x1624.avif 2400w", width="1200", height="812"]
 
 画中裸体白人女性是马奈的御用模特维克多琳·默兰 (Victorine Meurent)，画面右侧的黑人女仆劳雷 (Laure) 正献上一束花，她的身份和名字近年来通过研究才被确认。
 
@@ -356,7 +357,7 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/
 法国巴比松画派画家让-弗朗索瓦·米勒 (Jean-François Millet) 于 1857 年创作了油画《拾穗者》 (The Gleaners)，是奥赛博物馆最杰出的现实主义 (Realism) 代表作之一。此画目前在奥赛博物馆地面层的 4 号展厅展出。
 
 .奥赛博物馆 (Musée d'Orsay) 收藏的让-弗朗索瓦·米勒 (Jean-François Millet) 的《拾穗者》 (The Gleaners)
-image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/des-glaneuses-1200x898.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/des-glaneuses-1200x898 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/des-glaneuses-2400x1796.avif 2400w", width="1200", height="898"]
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/des-glaneuses-1200x898.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/des-glaneuses-1200x898.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/des-glaneuses-2400x1796.avif 2400w", width="1200", height="898"]
 
 画面描绘了三名贫苦的农妇在收割后的麦田里弯腰捡拾残余麦穗的场景。在当时的法国法律下，穷人被允许在收割结束后进入农田捡拾漏掉的庄稼。背景中可以看到满载的马车、堆积如山的麦垛和骑马的监工。在 1857 年展出时，这幅画曾引发巴黎中产阶级的恐慌。他们认为米勒在美化贫困，甚至怀疑这幅画带有某种社会主义倾向或“革命暗示”。
 
