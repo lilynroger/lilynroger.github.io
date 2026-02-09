@@ -1,0 +1,73 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/marche-bastille-paris-fresh-oyster-stall-vendor-tourists-4x3-1200.avif
+  alt: "巴黎巴士地市场 (Marché Bastille) 忙碌的生蚝摊主正在开壳，背景中游客正尽情享用新鲜海鲜。"
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/marche-bastille-paris-fresh-oyster-stall-vendor-tourists-4x3-1200.avif 1200w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/marche-bastille-paris-fresh-oyster-stall-vendor-tourists-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-02-08 07:00:00 +0100
+date_modified: 2026-02-09 12:00:00 +0100
+tags: [2026-Alps-Lofoten, 欧洲, 西欧. 法国, 巴黎, 美食]
+tagline: 畅享生蚝 (Huîtres) 和海螺 (Bulots)
+---
+= 巴黎巴士底市场 (Marché Bastille): 生蚝自由攻略 (2026)
+:toc: macro
+:sectnums:
+:toclevels: 1
+:page-liquid:
+
+如果你想在巴黎像当地人一样迎接周末，**巴士底市场** (https://www.paris.fr/lieux/marche-bastille-5477[Marché Bastille]) 是唯一的答案。在这里，你可以在路边摊位用极其亲民的价格，品尝到刚从诺曼底或布列塔尼运抵的顶级**生蚝** (Huîtres) 与**海螺** (Bulots)。
+
+[#market-soul]
+== 巴黎的灵魂，藏在巴士底的早市里
+
+我们已经多次到访巴黎，巴士底市场是我们每次必去的“保留节目”。每逢**周四和周日**，这片紧邻巴士底广场的区域就会变身为全巴黎最具规模且最具活力的露天市场之一。
+
+对于我们来说，这里不仅是购买奶酪和蔬果的地方，更是一个露天的**海鲜圣地**。
+
+[#oyster-feast]
+== 亮点：站着吃的“生蚝盛宴”
+
+在巴士底市场，最吸引人的莫过于那些堆满冰块的海鲜摊位。
+
+[#atlantic-fresh]
+=== 产地直达：生蚝
+
+这里的摊位通常由来自诺曼底 (Normandie) 或布列塔尼 (Bretagne) 的渔民直接经营。这里的生蚝带着淡淡的海水咸味，肉质肥美，挤上几滴新鲜柠檬汁，鲜甜味瞬间在口腔爆发。比起餐馆里成倍的溢价，在这里你可以直接购买两个或九个品尝，价格往往不到餐厅的一半。
+
+.巴黎巴士地市场 (Marché Bastille) 摊位上，新鲜的生蚝准备出售。
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/fresh-oysters-marche-bastille-paris-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/fresh-oysters-marche-bastille-paris-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/fresh-oysters-marche-bastille-paris-4x3-2400.avif 2400w"]
+
+你可以看到标有 Fine de Claire 或 Spéciale 字样的不同等级生蚝：
+
+* Fine de Claire: 市集上最常见的品种，代表在盐田池塘 (Claire) 中经过基础工艺“精炼”过的生蚝。海水味较浓，适合喜欢清爽、不爱太肥腻口感的食客。
+* Spéciale: 通常品相更好的生蚝进行更长时间或更低投放密度的精炼。
+
+还有生蚝的个头也决定了价格。巴黎市集上的生蚝个头通常分为 N°0 到 N°5 号，数字越小，个头越大。最受欢迎的是 N°3 号，也是餐厅最常用的尺寸。而 N°2 则是进阶选择。
+
+.巴黎巴士地露天市场 (Marché Bastille) 生蚝摊位的新鲜生蚝和其他海鲜的品尝价格。
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/marche-bastille-paris-oyster-tasting-price-list-menu-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/marche-bastille-paris-oyster-tasting-price-list-menu-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/marche-bastille-paris-oyster-tasting-price-list-menu-4x3-2400.avif 2400w"]
+
+[#bulots-experience]
+=== 必点配角：海螺
+
+在巴士底市场发现的另一个惊喜是那里的**大号海螺** (Bulots)。
+
+*  **吃法建议**：这些海螺通常已经煮熟并在冰上冷却，口感 Q 弹紧实。
+*  **灵魂伴侣**：一定要搭配摊位上提供的**蒜泥蛋黄酱**，浓郁的蒜香与海螺的鲜味是绝配。
+
+[#travel-tips]
+== 小贴士
+
+* **如何前往**：乘坐地铁到巴士底站 (Bastille) 下车，从 1 号出口 (1 Rue de la Roquette) 出来就能看到市场了。
+* **营业时间**：周四 07:00-14:30 周日 07:00-15:00
+* **季节性**：虽然全年都能吃到生蚝，但传统上 9 月至次年 4 月是生蚝最肥美的季节。
+* **最佳到访时间**：建议在**上午 10:30 之前**到达。在 11:00 之后这里会变得水泄不通，想要在摊位边抢占一个位置会变得很难。
+* **现开现吃**：许多摊位提供“现开现吃”服务 (_Dégustation sur place_)，他们会为你配好柠檬和简单的酱汁。
+* **支付方式**：虽然我们在巴黎的其他地方使用信用卡毫无问题，巴士底市场摊位也接受信用卡，但是不知道什么原因，我们的信用卡在这里刷卡一直不成功。所以，**记得一定要带上现金备用**。
+
+related::trains-in-france,cathedral-vs-basilica-vs-church[]
