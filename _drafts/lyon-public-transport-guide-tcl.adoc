@@ -1,9 +1,19 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/lyon-f2-funicular-vieux-lyon-station-4x3-1200.avif
+  alt: 里昂著名的红色复古缆车 F2 线，正停在里昂老城 (Vieux-Lyon) 站台准备出发前往富维耶山 (Fourvière) 站。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/lyon-f2-funicular-vieux-lyon-station-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/lyon-f2-funicular-vieux-lyon-station-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-02-13 06:00:00 +0100
+tags: [2026-Alps-Lofoten, 欧洲, 西欧. 法国, 里昂, 交通]
+tagline: TCL, 地铁, 缆车，有轨电车，和 Rhônexpress
+---
 = 里昂公共交通指南 (2026)
-:page-layout: article
-:page-categories: posts
-:page-date: 2026-02-10 12:00:00 +0100
-:page-tags: [2026-Alps-Lofoten, 欧洲, 西欧. 法国, 里昂]
-:page-tagline: TCL, 地铁, 缆车，有轨电车，和 Rhônexpress
 :page-liquid: true
 :toc:
 :toclevels: 2
@@ -29,14 +39,17 @@ image:lyon-tcl-line-a.svg[role=icon]:: 地铁 A 线（红线）在半岛区 (Pre
 
 image:lyon-tcl-line-b.svg[role=icon]:: 地铁 B 线（蓝线）是前往帕尔迪厄站 (Gare de Part-Dieu) 及南部新兴办公区的主要通道。
 
-image:lyon-tcl-line-c.svg[role=icon]:: 地铁 C 线（黄线）世界上少有的齿轨地铁，专为攀爬红十字山 (Croix-Rousse) 的陡坡而设计，值得体验。
+image:lyon-tcl-line-c.svg[role=icon]:: 地铁 C 线（黄线）世界上少有的**齿轨地铁**，专为攀爬红十字山 (Croix-Rousse) 的陡坡而设计，值得体验。
 
 image:lyon-tcl-line-d.svg[role=icon]:: 地铁 D 线（绿线）游客使用频率最高。它是全自动驾驶线路，发车频率极高，横穿城市东西，连接了老城区 (Vieux Lyon)、市中心的白莱果 (Place Bellecour) 和帕尔迪厄站 (Gare de Part-Dieu)。
+
+.里昂地铁 C 线的列车在红十字山 (Croix-Rousse) 站台，该线路结合了齿轨技术以攀爬陡峭的坡道。
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/lyon-metro-line-c-rack-railway-croix-rousse-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/lyon-metro-line-c-rack-railway-croix-rousse-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/lyon-metro-line-c-rack-railway-croix-rousse-4x3-2400.avif 2400w"]
 
 [#tramway-network]
 === 有轨电车
 
-里昂的有轨电车网络 (T1 - T7) 是地铁的重要补充，站台通常设在地面，大多行驶在宽阔的林荫大道或河岸边，是欣赏城市风光的不错选择。对于游客而言最重要的是其中的两条线路 (T1, T2)。其他有轨电车线路 (T2, T4, T5, T6, T7) 主要服务于里昂的外围住宅区、大学城或医疗中心。对于通常集中在市中心的半岛区、红十字区和里昂老城的游客来说，搭乘这些线路的机会不大。
+里昂的有轨电车网络 (T1 - T7) 是地铁的重要补充，站台通常设在地面，大多行驶在宽阔的林荫大道或河岸边，是欣赏城市风光的不错选择。对于游客而言最重要的是其中的两条线路 (T1, T3)。其他有轨电车线路 (T2, T4, T5, T6, T7) 主要服务于里昂的外围住宅区、大学城或医疗中心。对于通常集中在市中心的半岛区、红十字区和里昂老城的游客来说，搭乘这些线路的机会不大。
 
 image:lyon-tcl-line-t1.svg[role=icon]:: 有轨电车 T1 线被誉为里昂最美的有轨电车线路，连接了帕尔迪厄站 (Gare de Part-Dieu)、佩拉什火车站 (Gare de Perrache)和现代化的**汇流区** (Confluence)，终点站即为造型前卫的汇流博物馆。
 
@@ -82,7 +95,7 @@ image:lyon-tcl-line-rx.svg[role=icon]:: 里昂的 Rhônexpress 机场快线是�
 
 TCL 的主要线路都支持非接触式银行卡和绑定了银行卡的手机 (Apple Pay, Google Pay, Samsung Pay) 支付。使用方式是：
 
-1. 直接将您的感应式银行卡或绑定了银行卡的手机靠近交通工具入口处或车厢内的红色刷卡机。
+1. 直接将您的感应式银行卡或绑定了银行卡的手机靠近交通工具入口处或车厢内的**红色刷卡机**。
 2. 刷卡机屏幕显示法语 "Voyage validé" 或英文 "Travel validated" （行程已验证）表明刷卡成功。可在 1 小时内无限次换乘地铁、电车、巴士及缆车（每次换乘仍需刷卡，但不会重复扣费）。
 3. 系统会在次日根据你的消费情况自动汇总扣费（因为有每日封顶政策）。
 
@@ -97,6 +110,11 @@ TCL 的主要线路都支持非接触式银行卡和绑定了银行卡的手机 
 
 在里昂 TCL 交通系统中，可充值纸质票 (https://www.tcl.fr/en/tickets-fares/transport-ticket-holders/rechargeable-ticket-your-transport-ticket[The Rechargeable Ticket]) 全面取代旧式磁条票，是短期游客的首选。在所有地铁站和有轨电车站的自动售票机上均可购买可充值纸质票。首次购买需 0.20 欧元的工本费，随后可以反复充值最多 10 次。
 
+可充值纸质票的使用方式是进地铁站和榄车站时在闸机验票。在乘坐有轨电车时，是上车后在**灰色的验票机**上验票。如果充值了支持多人共用的票种，则上车后由一人操作，在验票机上连续刷卡（如果是 2 人，就连续刷 2 次，以此类推）。验票机上显示绿色的对号则表明验票成功，多人共用时还会显示验票次数。
+
+.在里昂的有轨电车上使用 TCL 公共交通系统的可充值纸质票验票。
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/lyon-tcl-tram-rechargeable-ticket-validation-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/lyon-tcl-tram-rechargeable-ticket-validation-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/lyon-tcl-tram-rechargeable-ticket-validation-4x3-2400.avif 2400w"]
+
 里昂 TCL 的可充值纸质票的充值选项非常丰富，包括单程票、不同时长的日票、周票等等。大部分票种限个人使用，但特定票种支持多人模式，如 Tribu Pass、10 次票支持多人共用。完整的官方信息可以参考: https://www.tcl.fr/en/tickets-fares/fares[Fares]。这里重点介绍几种常用的：
 
 普通单程票 (1 trip):: 票价 2.10 欧元。激活后 1 小时内可无限次换乘地铁、电车、缆车和巴士等等 TCL 的公共交通工具。值得一提的是，在巴士上也可以购买普通单程票，不过票价更贵，建议提前在机器上买票充值。
@@ -105,11 +123,11 @@ TCL 的主要线路都支持非接触式银行卡和绑定了银行卡的手机 
 
 周票 (7 Days Pass):: 票价 23.20 欧元。从第一次刷卡起计。
 
-十次票 (10 trips):: 支持多人共用，票价 20 欧，比单买 10 张单程票略低。上车时，由一人操作，在检票机上连续刷卡（如果是 2 人，就连续刷 2 次，以此类推）。
+十次票 (10 trips):: 支持多人共用，票价 20 欧，比单买 10 张单程票略低。
 
 青少年和学生十次票 (10 trips - under 26 and students aged 26 and 27):: 针对 26 岁以下青少年和 26-27 岁的学生的 10 次优惠票，票价 17.00 欧元。购票时建议随身携带护照以备查验。
 
-亲子一日票 (1-day Tribu Pass):: image:lyon-tcl-ticket-pass-tribu.svg[width=150] **里昂最划算的家庭出行选项**。充值这种票后，允许多人共用一张纸票，包括 1 名成人和 1-4 名 17 岁及以下青少年；或者 2 名成人和 1-3 名青少年。票价 7.00 欧元，从第一次刷卡起计，在当日运营结束前可无限次使用（注意不是 24 小时）。实际上，此票并不需要是家庭，也无需出示年龄证明。只要求所有成员必须在整个行程中集体行动，不能分头出行。使用时，由一人操作，在检票机上连续刷卡（如果是 3 人，就连续刷 3 次，以此类推），即可完成全员检票。
+亲子一日票 (1-day Tribu Pass):: image:lyon-tcl-ticket-pass-tribu.svg[width=150] **里昂最划算的家庭出行选项**。充值这种票后，允许多人共用一张纸票，可以是 1 名成人和 1-4 名 17 岁及以下青少年，或者 2 名成人和 1-3 名青少年。票价 7.00 欧元，从第一次刷卡起计，在当日运营结束前可无限次使用（**注意不是 24 小时**）。实际上，此票并不需要是家庭，也无需出示年龄证明。只要求所有成员必须在整个行程中集体行动，不能分头出行。
 
 有关可充值纸质票的官方信息可以参考: https://www.tcl.fr/en/tickets-fares/transport-ticket-holders/rechargeable-ticket-your-transport-ticket[The Rechargeable Ticket]。
 
@@ -150,7 +168,7 @@ TCL 的主要线路都支持非接触式银行卡和绑定了银行卡的手机 
 
 * 里昂美术馆 (Musée des Beaux-Arts): 号称“小卢浮宫”，艺术爱好者不能错过。
 
-* 富维耶圣母院屋顶 (Visite insolite de Fourvière): 称为“富维耶非凡之旅”，跟随导游登上富维耶圣母院屋顶，俯瞰里昂。项目极其热门，且每组人数有限。请务必在到达里昂前通过官方预订系统 https://booking.fourviere.org/visite-insolite.html[Visite insolite | Fourvière] 或在旅游局前台预约。即便有城市卡，不预约大概率无法登顶。
+* 富维耶圣母院屋顶 (Visite insolite de Fourvière): 称为“富维耶非凡之旅”，跟随导游登上富维耶圣母院屋顶，俯瞰里昂。项目极其热门，且每组人数有限。持有里昂城市卡的话，无法在官方预订系统 https://booking.fourviere.org/visite-insolite.html[Visite insolite | Fourvière] 预约，只能前往白莱果广场的旅游局柜台领取城市卡，同时预约富维耶非凡之旅。
 
 * 观光游船: 如果你喜欢观光游船，塞纳河和罗讷河上的观光游船 (Les Bateaux Lyonnais) 票价 €15.00 也包含在城市卡中。
 
@@ -158,13 +176,12 @@ TCL 的主要线路都支持非接触式银行卡和绑定了银行卡的手机 
 
 我们两人正赶上情人节促销，第二张城市卡半价。于是我们就买了两张 24 小时的城市卡。集中一天游览收费项目。其余时间每天只需要一张 €7.00 的 Tribu Pass 单日票就可以了。
 
+.在白莱果广场 (Place Bellecour) 上的旅游局办公室领取里昂城市卡 (Lyon City Card) 的实体卡
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/collecting-lyon-city-card-bellecour-tourist-office-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/collecting-lyon-city-card-bellecour-tourist-office-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/collecting-lyon-city-card-bellecour-tourist-office-4x3-2400.avif 2400w"]
+
 有关里昂城市卡的官方信息参考: https://boutique.visiterlyon.com/lyon-city-card[Lyon City Card]。
 
 [#safety-overview]
 == 安全性概览
 
-里昂的公共交通系统在欧洲属于管理较好、安全性较高的类别。
-
-* 有轨电车：运行在地面，视野开阔，安全性感受极佳，适合晚间慢行。
-* 缆车：主要是游客和当地居民使用，环境非常友好且安全。
-* 地铁：白天非常安全，夜晚需注意周边人群。
+里昂的公共交通系统在欧洲属于管理较好、安全性较高的类别。亲身体会是车上的乘客绝大部分都在看着手机，甚至靠近车门的也不例外，可见抢夺应该不常发生。我们在里昂的三天中，除了一次有一个看起来脑子不太清醒的本地行乞的人，让我们紧张了一下之外，没有感受到其他特别的危险。
