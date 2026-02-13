@@ -5,7 +5,7 @@ image:
   width: 1200
   height: 900
   sources:
-    - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/cathedral-vs-basilica-vs-church/interior-of-dome-of-st-peters-basilica-4x3-1200.avif 1200w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/cathedral-vs-basilica-vs-church/interior-of-dome-of-st-peters-basilica-4x3-2400.avif 2400w
+    - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/cathedral-vs-basilica-vs-church/interior-of-dome-of-st-peters-basilica-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/cathedral-vs-basilica-vs-church/interior-of-dome-of-st-peters-basilica-4x3-2400.avif 2400w
 
 layout: article
 categories: posts

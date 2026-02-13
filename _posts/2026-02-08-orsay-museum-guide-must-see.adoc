@@ -6,9 +6,9 @@ image:
   height: 900
   sources:
     - media: "(min-aspect-ratio: 16/9)"
-      srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-16x9-1200.avif 1200w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-16x9-2400.avif 2400w
+      srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-16x9-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-16x9-2400.avif 2400w
     - media: "(min-aspect-ratio: 4/3)"
-      srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-4x3-1200.avif 1200w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-4x3-2400.avif 2400w
+      srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-4x3-2400.avif 2400w
     - media: "(max-aspect-ratio: 3/4)"
       srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-3x4-1200.avif 900w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/pont-royal-and-musee-dorsay-paris-3x4-2400.avif 1800w
 

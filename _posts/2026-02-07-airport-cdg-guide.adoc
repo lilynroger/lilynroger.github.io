@@ -5,7 +5,7 @@ image:
   width: 1200
   height: 900
   sources:
-    - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/gare-aeroport-charles-de-gaulle-2-rer-4x3-1200.avif 1200w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/gare-aeroport-charles-de-gaulle-2-rer-4x3-1200.avif 2400w
+    - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/gare-aeroport-charles-de-gaulle-2-rer-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/gare-aeroport-charles-de-gaulle-2-rer-4x3-1200.avif 2400w
 ---
 = 巴黎夏尔·戴高乐机场 (Paris-Charles de Gaulle airport, CDG) 指南 (2026)
 :page-layout: article
@@ -261,7 +261,7 @@ image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/c
 在机场的人工售票处 (Ticket Office) 和自助售票机上都可以购票。我们购买的是被称为 Navigo easy 的纸质的可充值的交通卡，每人一卡。卡本身需要 2 欧元的工本费，加上机场去巴黎的车票 14 欧元，一共 16 欧元。交通卡在可以反复充值，可以用于市区内的公共交通和返回戴高乐机场。
 
 .巴黎戴高乐机场 2 号火车站内的自动售票机
-image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/ticket-machines-at-gare-aeroport-charles-de-gaulle-2-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/ticket-machines-at-gare-aeroport-charles-de-gaulle-2-4x3-1200.avif 1200w https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/ticket-machines-at-gare-aeroport-charles-de-gaulle-2-4x3-2400.avif 2400w", width=800, height=600, alt="巴黎戴高乐机场 2 号火车站内的 Navigo 自助售票机"]
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/ticket-machines-at-gare-aeroport-charles-de-gaulle-2-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/ticket-machines-at-gare-aeroport-charles-de-gaulle-2-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/ticket-machines-at-gare-aeroport-charles-de-gaulle-2-4x3-2400.avif 2400w", width=800, height=600, alt="巴黎戴高乐机场 2 号火车站内的 Navigo 自助售票机"]
 
 有关往高乐机场的 RER B 的最新信息，参见官网: https://www.parisaeroport.fr/en/passengers/transport-parking/public-transport-paris/rer-b/cdg[How to leave / go to Paris-CDG with the RER B?]
 
