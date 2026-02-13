@@ -1,0 +1,78 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/marche-bastille-paris-fresh-oyster-stall-vendor-tourists-4x3-1200.avif
+  alt: "巴黎巴士地市场 (Marché Bastille) 忙碌的生蚝摊主正在开壳，背景中游客正尽情享用新鲜海鲜。"
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/marche-bastille-paris-fresh-oyster-stall-vendor-tourists-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/marche-bastille-paris-fresh-oyster-stall-vendor-tourists-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-02-11 10:00:00 +0100
+tags: [2026-Alps-Lofoten, 欧洲, 西欧. 法国, 里昂, 博物馆]
+tagline: 深入富维耶山腹地，探索卢格杜努姆的往昔荣光。
+description:  这篇攻略详细介绍里昂高卢-罗马博物馆 (Lugdunum) 的展区分布及克劳狄青铜板、战车竞技马赛克等必看文物。
+---
+= 里昂高卢-罗马博物馆 (Lugdunum) 参观指南 (2026)
+:toc: macro
+:sectnums:
+:toclevels: 2
+:page-liquid:
+
+里昂高卢-罗马博物馆 (Lugdunum Musée) 坐落于富维耶山 (Fourvière) 坡，建筑本身便是杰作。它由建筑师 Bernard Zehrfuss 设计，巧妙地将现代混凝土结构嵌入山体，与相邻的古罗马剧场遗址和谐共生。以下是我们的参观笔记和攻略。
+
+[#museum-layout]
+== 空间布局与参观逻辑
+
+博物馆内部采用无台阶的螺旋下行坡道设计。建议您搭乘电梯直达顶层，随后顺着斜坡缓缓下行，这不仅省力，也能体验建筑空间从现代向古老延伸的视觉美感。展区按主题分布，涵盖了从史前时期到罗马帝国晚期的里昂历史。
+
+[#must-see-artifacts]
+== 核心藏品详解
+
+[#claudian-table]
+=== 克劳狄青铜板
+
+克劳狄青铜板是博物馆的镇馆之宝。这块巨大的青铜板发现于1528年，上面刻有公元48年克劳狄皇帝在罗马元老院的演说辞。他在演说中力排众议，主张赋予高卢贵族参政权。它是研究罗马帝国民族政策和里昂政治地位最重要的实物史料。
+
+[#circus-games-mosaic]
+=== 战车竞技马赛克
+
+这幅精美的大型地砖马赛克生动还原了古罗马竞技场（Circus）内的四马战车比赛。画面细节丰富，展示了赛道的转弯处、裁判以及激烈的竞赛场面，是了解古罗马大众娱乐生活的珍贵窗口。
+
+[#coligny-calendar]
+=== 科利尼日历
+
+作为世界上现存最完整的凯尔特语文献之一，这块青铜日历展示了高卢人在被罗马同化前所使用的复杂历法。它以五年月亮周期为基础，反映了凯尔特文明在天文学和数学上的高度造诣。
+
+[#neptune-statue]
+=== 海神尼普顿铜像
+
+这尊青铜像于19世纪在罗讷河（Rhône）河床中被发现。雕像中的海神尼普顿神态威严，其肌肉线条和湿润质感的头发刻画得极其细腻，体现了公元3世纪高超的铸造工艺。
+
+[#geometric-swastika-mosaic]
+=== 斯瓦斯蒂卡几何马赛克
+
+这片区域允许游客直接步行其上，近距离感受古罗马豪宅的装饰艺术。这种被称为“万字纹”的几何图案在当时象征着吉祥与永恒，其色彩搭配至今依然鲜艳。
+
+[#amazon-head-sculpture]
+=== 阿玛宗战士首级像
+
+这尊雕塑是古希腊杰作的罗马复制品。它保留了部分原始的色彩痕迹，提醒着现代观众，古代世界的雕塑并非今日所见的纯白，而是充满色彩生命力的。
+
+[#religious-altars]
+=== 祭坛铭文与宗教雕塑
+
+博物馆中轴线附近集中展示了大量祭坛，反映了当时“三高卢”地区（Three Gauls）对罗马皇帝及本土神祇的崇拜。这些石刻上的拉丁铭文是研究古代社会阶层和信仰融合的关键依据。
+
+[#theater-viewpoint]
+=== 古罗马剧场实景窗
+
+这虽非移动文物，却是博物馆最重要的“展品”。在参观坡道的转折处，巨大的全景落地窗将外部的古罗马大剧场和奥德翁剧场（Odéon）框入视野。建议在此驻足，将馆内的出土文物与窗外的遗址实景进行对比观察。
+
+[#practical-information]
+== 参观实用信息
+
+* *开放时间：* 周二至周五 11:00-18:00；周末 10:00-18:00（周一闭馆）。
+* *票价：* 全价约 4-7 欧元，持有 [Lyon City Card](https://www.lyoncitycard.com) 可免费进入。
+* *外部遗址：* 博物馆外的古罗马剧场遗址区全天免费开放，夏季常有戏剧和音乐节表演。
