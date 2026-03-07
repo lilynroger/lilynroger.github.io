@@ -1,5 +1,5 @@
 = 里昂美术馆 (Musée des beaux-arts de Lyon) - “小卢浮宫”攻略 (2026)
-:page-modified_time: 2025-11-08 18:00:00 +0800
+:page-date_modified: 2025-11-08 18:00:00 +0800
 :page-date: 2026-02-11 10:00:00 +0100
 :page-tags: [2026-Alps-Lofoten, 欧洲, 西欧. 法国, 里昂, 博物馆, 艺术]
 :page-categories: posts

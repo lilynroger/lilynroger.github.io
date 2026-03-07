@@ -1,6 +1,6 @@
 = 霞慕尼 (Chamonix) 冬季不滑雪攻略
 :page-subtitle: Chamonix in Winter for Non-skiers
-:page-modified_time: 2025-11-08 18:00:00 +0800
+:page-date_modified: 2025-11-08 18:00:00 +0800
 :page-date: 2026-02-14 12:00:00 +0100
 :page-tags: [2026-Alps-Lofoten, 欧洲, 西欧. 北欧, 斯堪的纳维亚, 法国, 挪威, 勃朗峰, 罗弗敦, 里昂, 特隆赫姆, 徒步, 行程]
 :page-categories: posts
