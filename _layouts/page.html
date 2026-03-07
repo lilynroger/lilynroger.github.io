@@ -32,7 +32,7 @@ layout: default
       <div class="hero-wrapper">
 
         <hgroup class="text-white hero-text">
-          <h1 class="text-shadow-3">{{ page.title | escape }}</h1>
+          <h1 class="text-shadow-3">{{ page.title_display | default: page.title | escape }}</h1>
           <p class="lead text-shadow-2 dek">{{ page.tagline }}</p>
         </hgroup>
 
