@@ -1,6 +1,6 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/lyon-f2-funicular-at-vieux-lyon-station-4x3-1200.avif
+  src: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/lyon-public-transport/lyon-f2-funicular-at-vieux-lyon-station-4x3-1200.avif
   alt: 里昂著名的红色复古缆车 F2 线，正停在里昂老城 (Vieux-Lyon) 站台准备出发前往富维耶山 (Fourvière) 站。
   width: 1200
   height: 900

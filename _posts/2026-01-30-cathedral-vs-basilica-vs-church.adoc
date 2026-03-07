@@ -1,6 +1,6 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/cathedral-vs-basilica-vs-church/interior-of-dome-of-st-peters-basilica-4x3-1200.avif
+  src: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/cathedral-vs-basilica-vs-church/interior-of-dome-of-st-peters-basilica-4x3-1200.avif
   alt: "位于梵蒂冈的圣彼得大教堂 (Basilica of Saint Peter) 圆顶的内部由米开朗基罗 (Michelangelo) 设计"
   width: 1200
   height: 900

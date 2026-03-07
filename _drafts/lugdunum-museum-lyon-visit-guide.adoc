@@ -1,6 +1,6 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/marche-bastille-paris-fresh-oyster-stall-vendor-tourists-4x3-1200.avif
+  src: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/paris-bastille-market/marche-bastille-paris-fresh-oyster-stall-vendor-tourists-4x3-1200.avif
   alt: "巴黎巴士地市场 (Marché Bastille) 忙碌的生蚝摊主正在开壳，背景中游客正尽情享用新鲜海鲜。"
   width: 1200
   height: 900

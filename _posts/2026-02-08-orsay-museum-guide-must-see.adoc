@@ -1,6 +1,6 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/musee-d-orsay-glass-clock-paris-4x3-1200.avif
+  src: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/orsay-museum/musee-d-orsay-glass-clock-paris-4x3-1200.avif
   alt: "在塞纳河的卡鲁索桥 (Pont du Carrousel) 上眺望上游夕阳下的皇家桥 (Pont Royal) 和位于左岸的奥赛博物馆 (Musée d'Orsay)"
   width: 1200
   height: 900
