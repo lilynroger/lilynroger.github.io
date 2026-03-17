@@ -33,9 +33,14 @@ layout: skeleton
             <figure class="figure mx-auto">
               <div class="content">
                 <picture>
-                  <source media="(min-width: 768px)" srcset="{{ page.image.srcset }}" sizes="{{ page.image.sizes }}">
+                  {%- if page.image.sources -%}
+                  {%- for source in page.image.sources -%}
+                  <source {% if source.media %} media="{{ source.media }}" {% endif %} {% if source.sizes %}
+                    sizes="{{ source.sizes }}" {% endif %} srcset="{{ source.srcset }}" />
+                  {%- endfor -%}
+                  {%- endif -%}
                   <img src="{{ page.image.path }}" class="figure-img img-fluid" alt="{{ page.image.alt }}"
-                    width="{{ page.image.width }}" height="{{ page.image.height }}">
+                    width="{{ page.image.width }}" height="{{ page.image.height }}" />
                 </picture>
               </div>
               <figcaption class="title figure-caption">{{page.image.alt}}</figcaption>
