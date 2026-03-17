@@ -1,6 +1,6 @@
 ---
 image:
-  src: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/trains-in-france/ter-train-at-epernay-station-4x3-1200.avif
+  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/trains-in-france/ter-train-at-epernay-station-4x3-1200.avif
   alt: "由 Grand Est 运营的在两个香槟区核心城市 Épernay 和 Reims 之间 SNCF 的 TER 省际列车。"
   width: 1200
   height: 900

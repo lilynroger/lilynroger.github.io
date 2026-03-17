@@ -1,6 +1,6 @@
 ---
 image:
-  src: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/gare-aeroport-charles-de-gaulle-2-rer-4x3-1200.avif
+  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/gare-aeroport-charles-de-gaulle-2-rer-4x3-1200.avif
   alt: "巴黎戴高乐机场 2 号航站楼火车站 (Gare Aéroport Charles de Gaulle 2) 前往市区的 RER B 线火车的入口。"
   width: 1200
   height: 900
