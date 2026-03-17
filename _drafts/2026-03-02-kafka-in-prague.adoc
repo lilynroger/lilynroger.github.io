@@ -1,0 +1,139 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-jewish-quarter-franz-kafka-bronze-monument-4x3-1200.avif
+  alt: 布拉格犹太区街道上卡夫卡骑在空西装肩上的青铜纪念雕像
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-jewish-quarter-franz-kafka-bronze-monument-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-jewish-quarter-franz-kafka-bronze-monument-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-03-02 07:00:00 +0100
+date_modified: 2025-03-17 21:35:00 +0800
+tags: [2026-Alps-Lofoten, 欧洲, 中欧, 捷克, 布拉格]
+tagline: 卡夫卡就是布拉格，布拉格就是卡夫卡
+description: 打卡布拉格的弗朗茨·卡夫卡出生地和故居，卢浮咖啡馆，黄金巷 22 号，卡夫卡墓地，卡夫卡博物馆，卡夫卡骑在空西装肩膀上的雕像，和卡夫卡旋转头像。
+---
+= 寻踪布拉格的卡夫卡
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/
+
+布拉格作家约翰内斯·乌尔茨迪尔 (Johannes Urzidil) 曾写下“卡夫卡就是布拉格，布拉格就是卡夫卡” cite:[urzidil1966]。如果你是文学爱好者，甚至是弗朗茨·卡夫卡的忠实读者，寻踪布拉格的卡夫卡一定会为你的旅行增色不少。
+
+toc::[]
+
+[[kafka-birthplace]]
+== 老城广场旁的卡夫卡出生地
+
+在 1883 年 7 月 3 日，弗朗茨·卡夫卡出生在老城广场 (Old Town Square) 西侧，圣尼古拉教堂 (St. Nicholas Church) 旁的一栋房子里。当年的建筑在 1897 年的一场大火中几乎化为灰烬，仅剩的一座石质门廊被整合进 1902 年重建的建筑中。在门廊之前，和圣尼古拉教堂之间的小广场被命名为卡夫卡广场 (Náměstí Franze Kafky)。
+
+如今 (2026)，这栋建筑转角处的底商是小天使冰激淋店 (Amorino Gelato)，很容易辨认。在店门一旁的就是被毁的原始建筑的石质门廊。
+
+.位于卡夫卡广场 (Náměstí Franze Kafky) 北侧，卡夫卡出生地原址重建的建筑，转角墙壁上悬挂着卡夫卡的铜质浮雕头像。
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-franz-kafka-birthplace-monument-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-franz-kafka-birthplace-monument-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-franz-kafka-birthplace-monument-4x3-2400.avif 2400w"]
+
+站在卡夫卡广场上，面向北侧的卡夫卡出生地建筑，抬头就能看见转角外墙上悬挂的铜质卡夫卡浮雕头像铭牌。名牌上还镌刻着“弗朗茨·卡夫卡于 1883 年 7 月 3 日在此出生”的字样 (ZDE SE 3. ČERVENCE 1883 NARODIL FRANZ KAFKA)。在浮雕铭牌的右侧，是布拉格标准的红底白字的街道和广场指示牌，上面写着：
+
+* NÁMĚSTÍ FRANZE KAFKY: 卡夫卡广场，其中 Náměstí 在捷克语中意为“广场”。
+* STARÉ MĚSTO: 老城区。
+* PRAHA 1: 布拉格第一区。这是行政区划，代表城市的最中心地带。
+
+还有一块蓝色的牌子，上面的捷克语写到：
+
+[quote]
+弗朗茨·卡夫卡  (1883年7 月 3 日 - 1924 年 6 月 3 日): 布拉格原住民，以德语写作的犹太作家，职业曾为工人意外保险局的律师。他留下了艰深却具有预言性的艺术杰作，如《变形记》等。
+
+.卡夫卡出生地的铜质浮雕头像铭牌细节，右侧是红色的广场标牌和蓝色的人物简介标牌。
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-kafka-birthplace-plaque-detail-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-kafka-birthplace-plaque-detail-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-kafka-birthplace-plaque-detail-4x3-2400.avif 2400w"]
+
+[[house-at-the-minute]]
+== 卡夫卡的童年故居 (Dům U Minuty)
+
+从卡夫卡出生地向南步行不到 200 米的老城广场旁，能看到一栋绘有黑白壁画的醒目建筑。这栋房子和著名的天文钟在同一条街面上，且黑白壁画极具辨识度，不可能错过的。在 1889 年到 1896 年间，卡夫卡随父母搬入此处，他的三个妹妹也相继在这里出生。如今，这座建筑在捷克语中称为 Dům U Minuty (The House at the Minute)，中文大意是“一分钟之屋”。
+
+这栋房子外墙上的黑白壁画是 16 世纪的“刮画” (Sgraffito)，描绘着神话与圣经故事。这是波希米亚文艺复兴时期的典型艺术，是在黑色的灰泥上涂一层白泥，再趁湿刮出图案。
+
+.布拉格老城广场上的卡夫卡童年故居，布满黑白刮画的“一分钟之屋” (Dům U Minuty)
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-house-at-the-minute-sgraffito-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-house-at-the-minute-sgraffito-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-house-at-the-minute-sgraffito-4x3-2400.avif 2400w"]
+
+[[cafe-louvre]]
+== 卢浮咖啡馆 (Café Louvre)
+
+如果要在布拉格找一个能让卡夫卡感到“自在”的社交场所，那一定是位于民族大街 (Národní) 的卢浮咖啡馆。自 1902 年开业起，这间带有法式优雅的咖啡馆就成了布拉格德语知识分子的精神客厅。卡夫卡与他的挚友马克斯·布罗德 (Max Brod) 曾是这里的常客。在 1911年至 1912 年间，爱因斯坦在布拉格工作期间也是卢浮咖啡馆的常客 cite:[clczh]。
+
+.民族大街 (Národní) 上历史悠久的卢浮咖啡馆 (Café Louvre)，卡夫卡和爱因斯坦都曾是这里的常客
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/cafe-louvre-prague-historical-building-facade-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/cafe-louvre-prague-historical-building-facade-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/cafe-louvre-prague-historical-building-facade-4x3-2400.avif 2400w"]
+
+[[golden-lane-22]]
+== 黄金巷 22 号的卡夫卡故居
+
+当你游览布拉格城堡 (Prague Castle)，走进色彩斑斓的黄金巷 (Zlatá ulička / Golden Lane)，穿行在如织的游客中时，很容易在不经意间错过那栋天蓝色的 22 号小屋。在 1916 年至 1917 年间，为了躲避家中嘈杂的访客和琐碎的家事，卡夫卡逃到了妹妹奥特拉 (Ottla) 租下的这间小屋里潜心写作。他在这里写下了短篇小说集《乡村医生》，并为后来的《城堡》埋下了最初的心理伏笔。
+
+如今的 22 号小屋是一间纪念品商店。小屋右侧的窗户一旁镶嵌着一块铭牌，上面写着“弗朗茨·卡夫卡曾经居住在此” (Zde žil Franz Kafka)。
+
+黄金巷非常狭窄，光线不佳。建议在下午或者傍晚前去游览，此时阳光会有一段时间照进小巷，旅游团也会渐渐散去。
+
+.在布拉格城堡 (Prague Castle) 中的黄金巷 (Golden Lane) 22 号蓝色小屋是卡夫卡故居
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-castle-golden-lane-no22-kafka-house-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-castle-golden-lane-no22-kafka-house-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-castle-golden-lane-no22-kafka-house-4x3-2400.avif 2400w"]
+
+[[kafka-grave]]
+== 新犹太公墓中的卡夫卡墓地
+
+卡夫卡于 1924 年 6 月 3 日去世，年仅 40 岁。卡夫卡与父母合葬在新犹太公墓 (New Jewish Cemetery / Nový židovský hřbitov) 中一座简朴的六棱柱方尖碑下 (Franz Kafka Grave / Hrob Franze Kafky)。在墓碑下方，还有一块纪念他三个妹妹的牌匾，她们都没能逃过纳粹大屠杀的噩运。
+
+从市中心乘坐 A 线地铁前往新犹太公墓中的卡夫卡墓地需要 20 分钟左右。注意：男性游客进入公墓可能会被要求佩戴基帕 (Kippah)，也就是那种犹太小圆帽。如果你自己佩戴了棒球帽，或者使用卫衣兜帽盖住头部通常也行。
+
+.新犹太公墓中的卡夫卡墓地。图片: New Jewish Cemetery, prague.eu
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/new-jewish-cemetery-franz-kafka-grave-4x3-1200.avif[]
+
+[[kafka-museum]]
+== 卡夫卡博物馆 (Franz Kafka Museum)
+
+从布拉格老城跨过查理大桥来到伏尔塔瓦河对岸，卡夫卡博物馆就在不远处的河畔边。不过，这里最为人熟知的恐怕不是博物馆内的展品，而是这里博物馆外庭院里的那个极具争议的“撒尿雕塑”。
+
+这个听起来甚至有点“低俗”的雕塑，正式名称叫《小便》，是捷克国宝级，也是最爱搞怪的艺术家大卫·切尼 (David Černý) 于 2004 年的作品。是布拉格出镜率最高、也最让人摸不着头脑的当代艺术作品。
+
+* 这两个青铜假人不是随便乱喷，它们的骨盆是可以左右旋转的，水流方向也可以上下移动。通过电脑控制，它们喷出的水柱会在下方的水池里“写”出捷克文学名著的片段或者游客发去的短信。
+* 从高处俯瞰，那个水池的形状正是捷克共和国的地图。表达了艺术家对当时捷克政治现状的嘲讽：政客们就像这两个假人，在自家的领土上“随心所欲”。
+
+.卡夫卡博物馆入口处的“撒尿雕塑”
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/franz-kafka-museum-piss-sculpture-prague-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/franz-kafka-museum-piss-sculpture-prague-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/franz-kafka-museum-piss-sculpture-prague-4x3-2400.avif 2400w"]
+
+[[rotating-kafka-head-sculpture]]
+== 布拉格市中心旋转的卡夫卡头像雕塑
+
+另一座艺术家大卫·切尼创作的有关卡夫卡的当代艺术装置是布拉格市中心的旋转的卡夫卡头像雕塑 (Franz Kafka - Rotating Head by David Cerny)。
+
+与卢浮咖啡馆相隔仅一个街区，在 Quadrio 购物中心后方，一个由 42 层不锈钢片组成的巨大头像高 11 米、重达 39 吨。每到整点，重达数吨的钢片开始旋转、错位、重组。最终在咬合中回归完整，拼接成一座卡夫卡完整的头像。
+
+大卫·切尼曾表示，卡夫卡的一生都在面对布拉格的官僚体制和自身的多重人格。通过机械动力学，他让这种原本抽象的“心理撕裂”变得肉眼可见且震慑人心。
+
+.布拉格市中心由大卫·切尼设计的旋转的卡夫卡头像雕塑
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/giant-rotating-franz-kafka-head-sculpture-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/giant-rotating-franz-kafka-head-sculpture-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/giant-rotating-franz-kafka-head-sculpture-4x3-2400.avif 2400w"]
+
+[[kafka-monument]]
+== 犹太区骑在空西装肩上的卡夫卡雕像
+
+在犹太区的维兹尼街 (Vězeňská) 上，有一座可能是全城最具有超现实主义色彩、也最能捕捉卡夫卡文学神韵的纪念碑。它由捷克艺术家雅罗斯拉夫·罗纳 (Jaroslav Róna) 于 2003 年创作，灵感直接源自卡夫卡的早期短篇小说《一次斗争的描述》。
+
+一个体型巨大、只有躯壳且没有手脚的空洞西装，肩膀上骑着一个体型较小、神情忧郁的卡夫卡。这尊雕像精准地捕捉到了卡夫卡内心的挣扎：那个在保险局里唯唯诺诺、受困于世俗体制的“社会外壳”，与那个骑在体制肩头、冷峻审视世界的“文学灵魂”。
+
+卡夫卡 20 岁出头时写下《一次斗争的描述》中的怪诞文字：叙述者骑在一个陌生人的肩膀上穿过布拉格的街道。
+
+.布拉格犹太区街道上卡夫卡骑在空西装肩上的青铜纪念雕像
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-jewish-quarter-franz-kafka-bronze-monument-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-jewish-quarter-franz-kafka-bronze-monument-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/kafka-in-prague/prague-jewish-quarter-franz-kafka-bronze-monument-4x3-2400.avif 2400w"]
+
+[[final-thoughts]]
+== 结语
+
+我们并非卡夫卡的忠实读者，即便如此，在布拉格寻踪卡夫卡的途中，在清晨伏尔塔瓦河面上的浓雾漫过查理大桥时，似乎隐隐能够体会到，他为何一生都无法逃离布拉格。这座被他描写的迷人而荒诞的城市，“像是有爪子的小母亲”，紧紧抓住了他。
+
+[bibliography]
+[#resources]
+== 参考资料
+
+bibliography::[]
