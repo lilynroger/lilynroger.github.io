@@ -1,0 +1,38 @@
+{% comment %}
+  Parameters:
+  - target: The page object (trip/destination)
+  - kicker: Optional short punchy lead-in (e.g., "目的地")
+  - icon: Bootstrap icon class
+  - itemprop: SEO property (e.g., "relatedLink")
+  - itemtype: Schema type (defaults to "Article")
+{% endcomment %}
+
+<article class="card h-100 border-0" {% if include.itemprop %}itemscope
+  itemtype="https://schema.org/{{ include.itemtype | default: 'Article' }}" {% endif %}>
+  {%- if include.target.image_base -%}
+  <img src="{{ site.image_path }}{{ include.target.image_base }}-4x3-1200.avif" class="card-img-top"
+    alt="{{ include.target.image_alt }}">
+  {%- endif -%}
+  <div class="card-body">
+
+    <hgroup>
+      {%- if include.kicker -%}
+      <p class="kicker small text-body-secondary mb-0">{{include.kicker}}</p>
+      {%- endif -%}
+      <h3 class="card-title h5 mt-1">
+        <a class="stretched-link text-decoration-none text-reset"
+          href="{{ include.target.url | relative_url }}" 
+          {% if include.itemprop %}itemprop="{{ include.itemprop }}" {% endif %}>
+          <span {% if include.itemprop %}itemprop="name" {% endif %}>
+            {{ include.target.title_display | default: include.target.title | escape }}
+          </span>
+        </a>
+      </h3>
+    </hgroup>
+
+    <p class="card-text text-body-secondary">
+      {{ include.target.tagline | default: include.target.description | escape }}
+    </p>
+
+  </div>
+</article>

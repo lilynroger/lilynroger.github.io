@@ -1,0 +1,33 @@
+{% comment %}
+直接从 site.collections 中查找 tag 存在于当前 page.tags 中的页面
+{% endcomment %}
+
+{% assign linked_trip = site.trips | where_exp: "item", "page.tags contains item.tag" | first %}
+{% assign linked_dest = site.destinations | where_exp: "item", "page.tags contains item.tag" | first %}
+
+{% if linked_trip or linked_dest %}
+<aside class="bg-body-secondary p-3" aria-label="关联的旅行和目的地国家">
+  <div class="row g-3">
+    {% if linked_trip %}
+    <div class="col-12 col-md-6">
+      {% 
+        include card-common.html 
+        target = linked_trip 
+        itemprop = "relatedLink" 
+        kicker = "旅行"
+      %}
+    </div>
+    {% endif %}
+
+    {% if linked_dest %}
+    <div class="col-12 col-md-6">
+      {% 
+        include card-common.html
+        target = linked_dest
+        kicker = "目的地"
+      %}
+    </div>
+    {% endif %}
+  </div>
+</aside>
+{% endif %}
