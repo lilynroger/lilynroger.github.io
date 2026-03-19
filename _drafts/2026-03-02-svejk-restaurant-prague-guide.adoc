@@ -1,0 +1,91 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/svejk-restaurant/svejk-restaurant-prague-4x3-1200.avif
+  alt: 布拉格街巷中的帅克餐厅 (Švejk Restaurant)
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/svejk-restaurant/svejk-restaurant-prague-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/svejk-restaurant/svejk-restaurant-prague-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-03-02 07:00:00 +0100
+date_modified: 2025-03-18 10:30:00 +0800
+tags: [2026-Alps-Lofoten, 欧洲, 中欧, 捷克, 布拉格]
+tagline: 邂逅哈谢克和拉达笔下的好兵帅克，情怀拉满
+description: 邂逅布拉格的帅克餐厅 (Švejk Restaurant) 和圣杯酒馆 (Hostinec U Kalicha)。重温哈谢克 (Jaroslav Hašek) 和拉达 (Josef Lada) 笔下的好兵帅克。
+---
+= 布拉格的帅克餐厅 (Švejk Restaurant)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/svejk-restaurant/
+
+[.lead]
+穿行在布拉格的街巷中，会时不时地看到一个圆脸、憨笑、穿着旧式军装的卡通士兵形象，如果不是唤醒你跨越了几十年的记忆，也一定会引起你的深深的好奇心。他就是捷克家喻户晓的文学人物和卡通形象 - 好兵帅克(Švejk)。以他命名的帅克餐厅 (https://www.svejk.cz/en/home/[Švejk Restaurant]) 是捷克最大的本土餐饮连锁品牌。
+
+toc::[]
+
+[[the-good-soldier-svejk]]
+== 好兵帅克
+
+《好兵帅克》 (_The Good Soldier Švejk_) 是捷克作家雅罗斯拉夫·哈谢克 (Jaroslav Hašek) 的一部长篇讽刺巨著。是捷克历史上被翻译最多次的文学作品，也是捷克最伟大的文学作品之一，堪称捷克版的《唐·吉诃德》。
+
+主人公帅克是捷克的一个市井小民，被送进过疯人院，又阴差阳错地卷入了第一次世界大战，成为奥匈帝的一名士兵。他凭借一张“官方鉴定智障”的证书和满嘴不着边际的冷笑话闯荡军营。他既不是逃兵也不是英雄，而是表现得“过分听话”。长官让他往东，他能绕地球一圈。他用这种极端的服从，把走向末路的奥匈帝国僵化的官僚机器折磨得几近崩溃，对当时社会和军队中所存在腐败、丑恶的现象和天主教教士们的虚伪进行了深刻的讽刺。
+
+《好兵帅克》是小说的缩略标题。捷克语 _Osudy dobrého vojáka Švejka za světové války_ 是小说的原标题，译作《好兵帅克在第一次世界大战中的遭遇》，也常译作《好兵帅克历险记》。
+
+《好兵帅克》几乎是一部“半自传”，作家哈谢克本人的生活和小说中的主人公一样荒诞。实际上，小说的情节很多来自于哈谢克本人的经历，他放荡不羁，做过市井狗贩子，进过精神病院，作为无政府主义者进过监狱，被强征入伍，进过俄军战俘营，还做过“叛徒”成了红军军官。最终，他于 1920 年回到了布拉格。
+
+哈谢克在 1912 年就出版了《好兵帅克》一书，并计划写六部。可惜因为在战争期间染上的肺结核病逝于 1923 年，只活了 39 岁。《好兵帅克》只写到了第四部的开头，成了一部永不完结的不朽之作。
+
+[[visual-icon-lada]]
+== 好兵帅克的漫画形象
+
+和小说文字一样成为不朽的是哈谢克的朋友、捷克国宝级插画师约瑟夫·拉达 (Josef Lada) 为小说创造的好兵帅克的漫画形象。
+
+在拉达的笔下，帅克有着一张永远带着无辜、微胖且略显调皮的圆脸，圆滚滚的身材，穿着略显松垮的奥匈帝国军装，手里永远攥着一根长烟斗。拉达用极简的粗线条勾勒出了一个永远不设防、永远乐天的市井平民形象。
+
+中国在 80 年代引进了好兵帅克的连环画（小人书），成为一代人的童年记忆。
+
+[[svejk-restaurant]]
+== 帅克餐厅
+
+作为连锁品牌，帅克餐厅拥有统一的复古波希米亚酒馆装潢风格。挂着帅克的圆脸做招牌，同时也挂着皮尔森欧克 (Pilsner Urquell) 特许经营的牌子。 
+
+[TIP]
+皮尔森欧克是捷克最有名的酿酒厂，诞生于 1842 年的波希米亚 (Bohemia) 比尔森市 (Plzeň)。它酿造了世界上第一款金色拉格啤酒 (Pale Lager)，是皮尔森这一席卷全球的啤酒风格的正宗鼻祖。布拉格还有一家皮尔森欧克的体验馆 (https://www.pilsnerexperience.com/en[Pilsner Urquell Experience])。
+
+帅克餐厅店内通常布满拉达的插画作品，木质长桌、黄铜灯具和穿着传统背心的服务生，活脱脱一战时期的奥匈帝国的市井酒馆。
+
+帅克餐厅的招牌是捷克传统烤猪肘 (Pečené koleno)，皮脆肉嫩，通常配上辣根酱、芥末和酸黄瓜。两人分食一个刚好。再配上一升皮尔森欧克的生啤，是最经典的打卡体验。
+
+[[hostinec-u-kalicha]]
+== 圣杯酒馆 (Hostinec U Kalicha)
+
+帅克餐厅连锁品牌是上世纪 90 年代创建的。而位于布拉格新城区 (Nové Město) 的圣杯酒馆 (https://ukalicha.cz/en/home/[Hostinec U Kalicha]) 始于 1905 年，是好兵帅克故事的真实起点。
+
+.布拉格新城区 (Nové Město) 的圣杯酒馆 (Hostinec U Kalicha) 是好兵帅克故事的真实起点。
+image::https://assets.lilyroger.com/images/trips/2026/alps-lofoten/svejk-restaurant/hostinec-u-kalicha-prague-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/alps-lofoten/svejk-restaurant/hostinec-u-kalicha-prague-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/svejk-restaurant/hostinec-u-kalicha-prague-4x3-2400.avif 2400w"]
+
+圣杯酒馆作者哈谢克本人常去的酒馆。在小说开头，斐迪南大公在 1914 年遇刺，倒卖杂种狗的帅克因为在酒馆闲聊，被秘密警察以“大不敬罪”逮捕。那句著名的“战后六点在圣杯酒馆见”便源于此。
+
+ * 捷克语 Hostinec 是酒馆客栈的意思；
+ * U 则是捷克语店名的常见结构中的介词；
+ * 而 Kalicha 则是 Kalich 的变型，意思是“圣杯”，也常指酒馆中的大号高脚酒杯。
+ 
+在 15 世纪的捷克胡斯战争中（布拉格老城广场中央那座巨大的雕像正是扬·胡斯），圣杯是胡斯派的核心标志，象征着平民与神职人员平等的权利，即平民也能领受圣杯中的圣酒。因此，在布拉格，圣杯不仅是一个器皿，更是捷克民族反抗精神的图腾。而在酒馆文化中，单词 Kalich 指代大号的酒杯。对于嗜酒如命的捷克人（包括小说作者哈谢克）来说，既是神圣的信仰，也是装满皮尔森啤酒的快乐源泉。
+
+另一个有趣的事情是，圣杯酒馆所在的巷子的名字 Na Bojišti 意思是“在战场上”。这个地名并非虚构。在 12 世纪，波希米亚王位争夺战 (Battle of Loděnice) 的决定性肉搏战就在这一带爆发。战后，这一区域长期被称为“战场”，并最终演变成了今天的街道名。哈谢克将《好兵帅克》的开篇选在这条街，充满了捷克式黑色幽默。
+
+[[svejk-practical-tips]]
+== 好兵帅克打卡提示
+
+在布拉格有好几家帅克餐馆，比如老城区中的几家，还有卡夫卡博物馆附近的一家。不过，这些帅克餐馆口碑都一般，甚至很差。原因有饮食，也有服务，甚至更糟糕的原因。
+
+如果是文化打卡，也许可以去圣杯酒馆。需要注意的是，圣杯酒馆的价格高出其他餐馆不少，更像是一个博物馆。
+
+如果是为了体验传统美食，推荐去不远处新城区的 https://www.kantyna.ambi.cz/en[Kantýna] 餐馆，肉食者和啤酒爱好者的天堂。
+
+最后一点提示是布拉格有小费文化，一般是 10% 的比例。捷克人最习惯的小费方式是向上凑整，直接告诉服务员你想付的总金额。比如账单是 375 捷克克朗，你可以直接递上钱或者信用卡，并说 410 或 420 即可。此外，留意账单是否已包含服务费（通常标着 Servis v ceně / Service included 的字样）。如果已包含，则无需再额外支付小费。
