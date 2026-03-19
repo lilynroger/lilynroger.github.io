@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-03-02 07:00:00 +0100
-date_modified: 2025-03-18 10:30:00 +0800
+date_modified: 2026-03-19 23:59:00 +0800
 tags: [2026-Alps-Lofoten, 欧洲, 中欧, 捷克, 布拉格]
 tagline: 卡夫卡就是布拉格，布拉格就是卡夫卡
 description: 打卡布拉格的弗朗茨·卡夫卡出生地和故居，卢浮咖啡馆，黄金巷 22 号，卡夫卡墓地，卡夫卡博物馆，卡夫卡骑在空西装肩膀上的雕像，和卡夫卡旋转头像。
