@@ -19,7 +19,7 @@ featured: true
 
 slug: alps-lofoten
 title: 阿尔卑斯和罗弗敦的冬季之旅
-tagline: 阿尔卑斯的雪山胜景和罗弗敦群岛的极光之美。
+tagline: 阿尔卑斯的雪山和罗弗敦的极光
 image_base: trips/2026/alps-lofoten/yellow-cabins-sakrisoy-rorbuer-lofoten
 image_alt: "在罗弗敦群岛 (The Lofoten Islands) 的萨克里岛 (Sakrisøy) 上标志性的黄色传统渔屋 (挪威语: Rorbuer)"
 tag: 2026-Alps-Lofoten
