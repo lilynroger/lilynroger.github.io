@@ -16,12 +16,11 @@ date_modified: 2026-03-07 12:00:00 +0800
 title_pinyin: jieke
 
 # 保持 title 为 SEO 服务（长标题）。自定义的 distitle_display 变量定制文章页面的 <h1> 显示
-title_display: 捷克
+title_display: 捷克 (Czechia)
 
 tag: 捷克
-title: 捷克旅游攻略：布拉格景点，美食，旅行指南和游记
+title: 捷克 (Czechia) 旅游攻略：布拉格景点，美食，旅行指南和游记
 description: 这里汇集了我们在捷克布拉格的旅行攻略和指南，从天文钟、老城广场、布拉格城堡，到布拉格国家美术馆，当然还有布拉格的美食和美酒。
-title_english: Czechia
 tagline: 卡夫卡的布拉格
 image_base: destinations/czechia/prague-astronomical-clock-czech
 image_alt: 捷克布拉格老城广场的天文钟，波西米亚旅行的标志性景观。
