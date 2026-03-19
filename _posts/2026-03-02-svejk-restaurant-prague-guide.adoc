@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-03-02 07:00:00 +0100
-date_modified: 2025-03-18 10:30:00 +0800
+date: 2026-03-02 08:00:00 +0100
+date_modified: 2025-03-19 12:00:00 +0800
 tags: [2026-Alps-Lofoten, 欧洲, 中欧, 捷克, 布拉格]
 tagline: 邂逅哈谢克和拉达笔下的好兵帅克，情怀拉满
 description: 邂逅布拉格的帅克餐厅 (Švejk Restaurant) 和圣杯酒馆 (Hostinec U Kalicha)。重温哈谢克 (Jaroslav Hašek) 和拉达 (Josef Lada) 笔下的好兵帅克。
