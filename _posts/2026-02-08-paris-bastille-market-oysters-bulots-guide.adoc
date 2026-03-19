@@ -11,7 +11,7 @@ layout: article
 categories: posts
 date: 2026-02-08 07:00:00 +0100
 date_modified: 2026-02-09 12:00:00 +0100
-tags: [2026-Alps-Lofoten, 欧洲, 西欧. 法国, 巴黎, 美食]
+tags: [2026-Alps-Lofoten, 欧洲, 西欧, 法国, 巴黎, 美食]
 tagline: 畅享生蚝 (Huîtres) 和海螺 (Bulots)
 ---
 = 巴黎巴士底市场 (Marché Bastille): 生蚝自由攻略 (2026)
