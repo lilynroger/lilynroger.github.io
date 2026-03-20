@@ -9,15 +9,18 @@ canonical_url: https://lilyroger.com/destinations/belgium/
 
 # article:date_modified
 # see _includes/head.html
-date_modified: 2026-01-17 08:00:00 +0800
+date_modified: 2026-03-20 12:30:00 +0800
 
 # country name in pinyin for nature sorting
 # see _pages/destinations.md
 title_pinyin: bilishi
 
 tag: 比利时
-title: 比利时
-title_english: Belgium
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title_display: 比利时 (Belgium)
+title: 比利时 (Belgium) 旅游攻略：景点，机场，交通，博物馆，美食
+
 tagline: 布鲁塞尔，根特，布鲁日和安特卫普。
 image_base: destinations/belgium/grote-markt-antwerp-belgium
 image_alt: "安特卫普的 Grote Markt（大广场）是这座城市的历史心脏，以宏伟的文艺复兴风格市政厅、环绕四周的16世纪精美行会建筑以及广场中央标志性的布拉博喷泉（Brabofontein）而闻名。"

@@ -9,15 +9,18 @@ canonical_url: https://lilyroger.com/destinations/denmark/
 
 # article:date_modified
 # see _includes/head.html
-date_modified: 2026-01-17 08:00:00 +0800
+date_modified: 2026-03-20 12:30:00 +0800
 
 # country name in pinyin for nature sorting
 # see _pages/destinations.md
 title_pinyin: danmai
 
 tag: 丹麦
-title: 丹麦
-title_english: Denmark
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title_display: 丹麦 (Denmark)
+title: 丹麦 (Denmark) 旅游攻略：景点，机场，交通，博物馆，美食
+
 tagline: 哥本哈根，奥登赛和法罗群岛。
 image_base: destinations/denmark/hans-andersen-statue-and-tivoli-gardens
 image_alt: "这座著名的安徒生雕像（Hans Christian Andersen Statue）静静伫立在哥本哈根市政厅旁，他正深情凝望街对面那座始建于1843年、曾带给他无限童话灵感的趣伏里公园（Tivoli Gardens），成为了丹麦哥本哈根最经典且必游的文化地标组合。"
