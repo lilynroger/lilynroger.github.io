@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-03-02 10:00:00 +0100
-date_modified: 2025-03-20 08:00:00 +0800
+date_modified: 2025-03-20 14:30:00 +0800
 tags: [2026-Alps-Lofoten, 欧洲, 中欧, 捷克, 布拉格]
 tagline: 重温《鼹鼠的故事》，从布拉格带走一只小鼹鼠。
 description: 重温《鼹鼠的故事》，在布拉格寻找捷克艺术家兹德内克·米勒 (Zdeněk Miler) 创造的捷克国宝小鼹鼠 (Little Mole / Krtek / Krteček)。
