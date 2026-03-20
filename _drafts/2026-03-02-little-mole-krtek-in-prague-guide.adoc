@@ -1,0 +1,58 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/little-mole-krtek/little-mole-krtek-souvenir-4x3-1200.avif
+  alt: 布拉格的捷克国宝小鼹鼠 (Krtek)
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/little-mole-krtek/little-mole-krtek-souvenir-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/little-mole-krtek/little-mole-krtek-souvenir-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-03-02 10:00:00 +0100
+date_modified: 2025-03-20 08:00:00 +0800
+tags: [2026-Alps-Lofoten, 欧洲, 中欧, 捷克, 布拉格]
+tagline: 重温《鼹鼠的故事》，从布拉格带走一只小鼹鼠。
+description: 重温《鼹鼠的故事》，在布拉格寻找捷克艺术家兹德内克·米勒 (Zdeněk Miler) 创造的捷克国宝小鼹鼠 (Little Mole / Krtek / Krteček)。
+---
+= 布拉格的捷克国宝小鼹鼠 (Krtek)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/little-mole-krtek/
+
+[.lead]
+当你穿行在布拉格的街巷，浏览纪念品店的橱窗时，很难不注意到那双圆滚滚的大眼睛。这个只有三根头发、总是咧嘴憨笑的小家伙，可是捷克的国宝级人物 —— 小鼹鼠，捷克动画的巅峰之作，几代人最温馨的童年记忆之一。
+
+toc::[]
+
+[[the-little-mole]]
+== 鼹鼠的故事
+
+《鼹鼠的故事》是捷克著名画家、动画制作人兹德内克·米勒 (Zdeněk Miler) 创作的经典动画系列，被誉为捷克的“国家名片”。
+
+据说，在 1956 年，当时 35 岁的米勒在布拉格西边的树林散步时，被一个由鼹鼠打洞堆起的土丘绊倒，这让他萌生了创作一个动画史上从未出现过的动物形象 —— 小鼹鼠。
+
+在 1957 年，《鼹鼠的故事》的第一部短片《鼹鼠和裤子》问世，并在当年的威尼斯电影节上获得了金狮奖。后续的作品从 1963 年开始陆陆续续被创作出来。至今已经有近 50 部。
+
+在《鼹鼠的故事》第一部作品中，鼹鼠和他的朋友们还有对白。为了跨越国界和语言的障碍，米勒决定让小鼹鼠在后续的动画片中尽量避免语言表达，仅使用简单的感叹词、笑声和肢体动作表达情感。片中那些标志性的咯咯笑声和惊叹，实际上是由米勒的两个女儿配音录制的。这一策略大获成功，让鼹鼠的故事成了全世界几代人共同的童年记忆。
+
+迄今为止，《鼹鼠的故事》已被翻译成 20 多种语言，在 80 多个国家发行，是公认的东欧动画巅峰之作。在上世纪 80 年代，中央电视台引进了《鼹鼠的故事》，是中国电视银幕上最早出现的国外动画片之一，陪伴了几代人的成长。
+
+[[krtek-krtecek]]
+== 鼹鼠的名字
+
+小鼹鼠在英文中被称为 _The Little Mole_。在捷克语中被称为 _Krtek_ 或者 _Krteček_:
+
+* Krtek: 捷克语中的鼹鼠，也是片中的角色的名称。大体读作“克尔-泰克”。
+* Krteček: 捷克语中鼹鼠的爱称，也就是“小鼹鼠”，在纪念品商店中，听到的词多半就是这个。大体读作“克尔-泰-切克”。
+
+[[krtek-plush]]
+== 带走一只小鼹鼠毛绒玩偶
+
+在布拉格随处可见的纪念品商店中，几乎都可以见到小鼹鼠毛绒玩偶。从 10 厘米高的挂件到 50 厘米甚至更大的巨型玩偶都有。如果想带一个回家，可以找 Munabo 品牌的毛绒玩偶。它是捷克最著名的毛绒玩具制造商 MÚ Brno 的品牌，质量会比较有保障。
+
+值得一提的，虽然在布拉格的纪念品商店中见到的差不多都是 Munabo 的小鼹鼠毛绒玩偶，但是不同的售价相差悬殊，有些店甚至标价翻番。建议确定了心仪的尺寸和款式后，在游览时，多看看几家。如果实在没有时间，也可以在布拉格城堡或者游客信息中心的纪念品店买。那里价格肯定不是最便宜的，但通常不会太离谱。
+
+布拉格机场的纪念品店中也可以找到小鼹鼠毛绒玩偶。不过我们发现，机场的价格并不便宜，而且品类还不全。所以，建议尽量在城里的纪念品店里挑选最中意的。
