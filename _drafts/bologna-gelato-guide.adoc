@@ -1,0 +1,62 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-gelato-guide/cremeria-santo-stefano-gelato-cup-4x3-1200.avif
+  alt: 博洛尼亚 Cremeria Santo Stefano 店内盛放在小杯中的手工意式冰淇淋
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-gelato-guide/cremeria-santo-stefano-gelato-cup-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-gelato-guide/cremeria-santo-stefano-gelato-cup-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 12:00:00 +0100
+date_modified: 2026-06-15 12:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
+tagline: 这里不仅有肉酱面，还有顶级的意式冰淇淋
+description: 博洛尼亚 (Bologna) 是是公认的“意式冰淇淋之都” (Città del Gelato)，常年拥有多家权威的《红虾指南》评选的顶级意式冰淇淋店铺。
+---
+= 博洛尼亚 (Bologna) 的意式冰淇淋 (Gelato)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-gelato/
+
+[.lead]
+博洛尼亚 (Bologna) 是意大利的美食之都，甚至还有个外号“胖子城” (La Grassa)。除了博洛尼亚肉酱面 (Ragù alla Bolognese)，莫塔代拉火腿 (Mortadella) 之外，意式冰淇淋 (Gelato) 恐怕“功劳”也不小。
+
+toc::[]
+
+[[what-is-gelato]]
+== 意式冰淇淋
+
+意大利语 Gelato 的字面意思就是“冷冻”，有时也直接音译作“吉拉朵”或者“吉拉多”。不过因为这个音译和吉拉多生蚝 (Gillardeau) 的音译一样了，这里我们还是直接称为意式冰淇淋。在专业领域和美食爱好者眼中，意式冰淇淋与美式冰淇淋 (Ice Cream) 是有区别的：
+
+* 低脂：意式冰淇淋通常有 4% 到 8% 之间的乳脂肪含量，而美式冰淇淋可以高到 15% 的乳脂肪含量。
+* 低空气含量：意式冰淇淋在制作过程中打入的空气很少，因此口感更加扎实、绵密。普通工业生产的美式冰淇淋 (Ice Cream) 为了追求蓬松的口感并降低成本，空气含量更高，甚至会打入相同体积的空气。
+
+意式冰淇淋的前身是源自西西里岛的雪芭 (Sorbetto)。两者的区别在于意式冰淇淋是以牛奶为基底的，而雪芭不含乳制品，主要成分是新鲜果泥、水和砂糖。
+
+[[capital-of-gelato]]
+== 意式冰淇淋之都
+
+博洛尼亚是公认的“意式冰淇淋之都” (Città del Gelato)。
+
+在 1945 年，博洛尼亚的卡比詹尼 (Carpigiani) 兄弟发明了第一台自动冰淇淋机，彻底改变了冰淇淋的储存与制作效率。至今，博洛尼亚仍是全球最大的手工冰淇淋机械生产基地，掌握着行业最核心的设备技术。
+
+如今，博洛尼亚郊外的卡比詹尼冰淇淋大学 (https://carpigiani.com/cn/page/university[Carpigiani Gelato University]) 是全球最权威的作为意式冰淇淋教育机构。这里还拥有全球唯一专注于意式冰淇淋的博物馆 (https://www.gelatomuseum.com/en[Gelato Museum Carpigiani])。
+
+博洛尼亚拥有意大利最密集的顶级冰淇淋店。《红虾指南》(https://www.gamberorosso.it/guide/[Gambero Rosso]) 是意大利美食界最具权威性的代名词，相当于“意大利版米其林”。在《红虾指南》的评价体系中，针对意式冰淇淋店的最高奖项是 “三支冰淇淋” (Tre Coni)。博洛尼亚常年拥有多家获此荣誉的店铺。
+
+得益于本地食客的挑剔，博洛尼亚街头几乎不存在其他旅游城市那种颜色过于鲜艳的游客版量产货，而是往往低调地藏在一排排沉重的不锈钢小桶 (Pozzetti) 里。
+
+
+[[best-gelaterie-in-bologna]]
+== 博洛尼亚最佳的意式冰淇淋店
+
+在这里，我们推荐几家在博洛尼亚最好的意式冰淇淋店。他们都是大红虾 2025 年顶级意式冰淇淋店 (https://www.gamberorosso.it/guide/gelaterie-ditalia/[Gelaterie d'Italia 2025]) 的获奖者。
+
+* https://www.cremeriascirocco.it/[Cremeria Scirocco]: 在博洛尼亚市中心外围，相对较远，以“风味”意式冰淇淋 (Savory Flavors) 闻名，连续九年上榜。
+* https://www.stefino.it/[Stefino Gelato Biologico]: 在博洛尼亚火车站的背后（北侧），追求极致的天然和有机。
+* https://cremeria-santo-stefano.it/[Cremeria Santo Stefano]: 与著名的七教堂广场 (Piazza Santo Stefano) 同在一条街上 (Via Santo Stefano)，从广场出发，全程有拱廊。注意：**周一和周二休息**。
+* https://www.maritozziegelato.it/[Maritozzi e Gelato di Barbara e Renato]: 在圣弗朗西斯科圣殿教堂 (Basilica di San Francesco) 前，特色是用冰淇淋代替鲜奶油填充的 Maritozzo 圆面包。
