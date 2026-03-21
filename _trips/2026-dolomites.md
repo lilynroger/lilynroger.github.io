@@ -20,9 +20,9 @@ featured: false
 slug: dolomites
 title: 多洛米蒂之旅：深度游指南和攻略
 title_display: 多洛米蒂之旅
-tagline: 阿尔卑斯的雪山胜景和罗弗敦群岛的极光之美。
-image_base: trips/2026/dolomites/yellow-cabins-sakrisoy-rorbuer-lofoten
-image_alt: "在罗弗敦群岛 (The Lofoten Islands) 的萨克里岛 (Sakrisøy) 上标志性的黄色传统渔屋 (挪威语: Rorbuer)"
+tagline: 博洛尼亚，维罗纳，多洛米蒂，威尼斯，萨尔茨堡，哈尔施塔特，维也纳
+image_base: trips/2026/dolomites/seceda-in-val-gardena-dolomites
+image_alt: "塞塞达（Seceda）位于意大利多洛米蒂山脉的加尔代纳山谷（Val Gardena）"
 tag: 2026-Dolomites
 year: 2026
 continents:
