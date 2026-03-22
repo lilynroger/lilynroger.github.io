@@ -1,7 +1,15 @@
 ---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/ladinia/ladinia-vila-de-seres-lungiaru-bolzano-4x3-1200.avif
+  alt: 位于多洛米蒂巴迪亚山谷 (Val Badia) 龙贾鲁村 (Longiarù) 的 Seres 拉定农舍群落 (Vila Ladinia)
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/ladinia/ladinia-vila-de-seres-lungiaru-bolzano-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/ladinia/ladinia-vila-de-seres-lungiaru-bolzano-4x3-2400.avif 2400w
+
 layout: article
 categories: posts
-date: 2026-06-15 08:00:00 +0100
+date: 2026-06-24 08:00:00 +0100
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 多洛米蒂]
 tagline: 拉定尼亚，木雕，侏儒国王劳林和玫瑰花园山的传说。
 ---
