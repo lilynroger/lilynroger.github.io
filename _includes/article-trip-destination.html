@@ -6,7 +6,8 @@
 {% assign linked_dest = site.destinations | where_exp: "item", "page.tags contains item.tag" | first %}
 
 {% if linked_trip or linked_dest %}
-<aside class="bg-body-secondary p-3" aria-label="关联的旅行和目的地国家">
+<aside class="bg-body-tertiary p-3 my-5" aria-label="相关的旅行和目的地">
+  <h2 class="my-4">旅行和目的地</h2>
   <div class="row g-3">
     {% if linked_trip %}
     <div class="col-12 col-md-6">
