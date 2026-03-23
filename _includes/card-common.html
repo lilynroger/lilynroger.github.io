@@ -24,14 +24,14 @@
           href="{{ include.target.url | relative_url }}" 
           {% if include.itemprop %}itemprop="{{ include.itemprop }}" {% endif %}>
           <span {% if include.itemprop %}itemprop="name" {% endif %}>
-            {{ include.target.title_display | default: include.target.title | escape }}
+            {{ include.target.title_display | default: include.target.title }}
           </span>
         </a>
       </h3>
     </hgroup>
 
     <p class="card-text text-body-secondary">
-      {{ include.target.tagline | default: include.target.description | escape }}
+      {{ include.target.tagline | default: include.target.description }}
     </p>
 
   </div>

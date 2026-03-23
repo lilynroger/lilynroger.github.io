@@ -4,7 +4,7 @@
 
     <div class="row my-3 py-3">
       <div class="col">
-        <img src="/assets/images/logo-light.svg" alt="{{ site.title | escape }}" width="120">
+        <img src="/assets/images/logo-light.svg" alt="{{ site.title }}" width="120">
       </div>
       <div class="col">
       </div>
@@ -15,14 +15,14 @@
 
         {%- assign p = site.pages | find_exp: "p", "p.path == '_pages/trips.md'" -%}
         <p class="h6 mb-3">
-          <a href="{{ p.url }}">{{ p.title_display | default: p.title | escape }}</a>
+          <a href="{{ p.url }}">{{ p.title_display | default: p.title }}</a>
         </p>
 
         {% assign items = site.trips | reverse %}
         <ul class="list-unstyled small">
           {%- for p in items -%}
           <li>
-            <a href="{{ p.url }}">{{ p.title_display | default: p.title | escape }}</a>
+            <a href="{{ p.url }}">{{ p.title_display | default: p.title }}</a>
           </li>
           {%- endfor -%}
         </ul>
@@ -33,7 +33,7 @@
 
         {%- assign p = site.pages | find_exp: "p", "p.path == '_pages/destinations.md'" -%}
         <p class="h6 mb-3">
-          <a href="{{ p.url }}">{{ p.title_display | default: p.title | escape }}</a>
+          <a href="{{ p.url }}">{{ p.title_display | default: p.title }}</a>
         </p>
 
         {% assign items = site.destinations %}
@@ -42,7 +42,7 @@
           {%- for p in items -%}
           {% if site.tags[p.tag] %}
           <li>
-            <a href="{{ p.url }}">{{ p.title_display | default: p.title | escape }}</a>
+            <a href="{{ p.url }}">{{ p.title_display | default: p.title }}</a>
           </li>
           {% endif %}
           {%- endfor -%}

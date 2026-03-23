@@ -8,9 +8,9 @@ layout: skeleton
       <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
         <header class="post-header">
-          <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+          <h1 class="post-title p-name" itemprop="name headline">{{ page.title }}</h1>
           {%- if page.subtitle -%}
-          <p class="post-subtitle lead text-body-secondary">{{ page.subtitle | escape }}</p>
+          <p class="post-subtitle lead text-body-secondary">{{ page.subtitle }}</p>
           {%- endif -%}
           <p class="post-meta text-body-secondary">
             <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">

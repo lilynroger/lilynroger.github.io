@@ -21,7 +21,7 @@ image_alt: 这座被誉为托斯卡纳地标的 Madonna di Vitaleta Chapel（小
 <div class="py-5" aria-label="Content">  
 
   <section class="container">
-    <p>{{ page.description | escape }}</p>
+    <p>{{ page.description }}</p>
   </section>
 
 </div>

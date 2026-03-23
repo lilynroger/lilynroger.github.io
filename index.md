@@ -84,7 +84,7 @@ canonical_url: https://lilyroger.com
     <hgroup class="text-center">
       <p class="text-body-secondary kicker">{{ site.tagline }}</p>
       <h1 class="mb-5">欢迎来到我们的网站</h1>
-      <p>{{ site.description | escape }}</p>
+      <p>{{ site.description }}</p>
     </hgroup>
   </header>
 

@@ -9,13 +9,13 @@
       <h3 class="card-title h5 mt-1">
         <a class="link-dark link-offset-2-hover link-underline-opacity-0 link-underline-opacity-75-hover"
           href="{{ item.url | relative_url }}">
-          {{ item.title_display | default: item.title | escape }}
+          {{ item.title_display | default: item.title }}
         </a>
       </h3>
     </hgroup>
 
     <p class="card-text">
-      {{ item.tagline | escape }}
+      {{ item.tagline }}
     </p>
 
   </div>

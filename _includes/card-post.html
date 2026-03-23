@@ -2,22 +2,22 @@
   {%- if post.image -%}
   {% if post.image.path %}
   {% comment %} It is an image object with a path and an alt {% endcomment %}
-  <img src="{{ post.image.path | relative_url }}" class="card-img-top" alt="{{ post.image.alt | escape }}">
+  <img src="{{ post.image.path | relative_url }}" class="card-img-top" alt="{{ post.image.alt }}">
   {% else %}
   {% comment %} It is a simple path, use the title as the alt {% endcomment %}
-  <img src="{{ post.image | relative_url }}" class="card-img-top" alt="{{ post.title | escape }}">
+  <img src="{{ post.image | relative_url }}" class="card-img-top" alt="{{ post.title }}">
   {% endif %}
   {%- endif -%}
   <div class="card-body">
     <h3 class="h5 card-title">
       <a class="link-dark link-offset-2-hover link-underline-opacity-0 link-underline-opacity-75-hover"
         href="{{ post.url }}">
-        {{ post.title | escape }}
+        {{ post.title }}
       </a>
     </h3>
     {%- if post.tagline -%}
     <p class="card-text text-body-secondary py-2">
-      {{ post.tagline | escape }}
+      {{ post.tagline }}
     </p>
     {%- elsif site.show_excerpts -%}
     <p class="card-text text-body-secondary py-2">
