@@ -10,8 +10,10 @@
 <article class="card h-100 border-0" {% if include.itemprop %}itemscope
   itemtype="https://schema.org/{{ include.itemtype | default: 'Article' }}" {% endif %}>
   {%- if include.target.image_base -%}
-  <img src="{{ site.image_path }}{{ include.target.image_base }}-4x3-1200.avif" class="card-img-top"
-    alt="{{ include.target.image_alt }}">
+  <div class="hover-zoom-wrapper">
+    <img src="{{ site.image_path }}{{ include.target.image_base }}-4x3-1200.avif" class="card-img-top"
+      alt="{{ include.target.image_alt }}">
+  </div>
   {%- endif -%}
   <div class="card-body">
 

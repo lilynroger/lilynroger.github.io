@@ -154,3 +154,17 @@ blockquote p:last-child {
 .footer-sitemap ul li {
     margin-bottom: 0.5rem;
 }
+
+/* 鼠标悬停缩放（scale）效果 */
+.hover-zoom-wrapper {
+    overflow: hidden; 
+}
+
+.hover-zoom-wrapper img {
+    transition: transform 0.5s ease;
+}
+
+/* 在 Bootstrap 中为 Card 图像添加鼠标悬停缩放（scale）效果 */
+.card:hover .hover-zoom-wrapper img {
+    transform: scale(1.1); 
+}
