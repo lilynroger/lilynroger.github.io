@@ -1,0 +1,47 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/bologna-paolo-atti-figli-tortellini-4x3-1200.avif
+  alt: 博洛尼亚 (Bologna) 百年传统面包坊 Paolo Atti & Figli 橱窗中的小饺子 (Tortellini)
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/bologna-paolo-atti-figli-tortellini-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/bologna-paolo-atti-figli-tortellini-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 12:00:00 +0100
+date_modified: 2026-06-15 12:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
+tagline: 博洛尼亚小饺子 (Tortellini) 和硬面面包
+description: Paolo Atti & Figli 是博洛尼亚 (Bologna) 最古老的传统面包坊，售卖正宗的博洛尼亚小饺子 (Tortellini) 和硬面面包 (Pane bolognese a pasta dura)。
+---
+= Paolo Atti & Figli: 博洛尼亚 (Bologna) 的百年传统面包坊
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/
+
+[.lead]
+https://www.paoloatti.com/[Paolo Atti & Figli] 是博洛尼亚 (Bologna) 最古老的传统面包坊。它的历史可追溯至 1868 年，是意大利官方认证的历史名店。经营正宗的博洛尼亚小饺子 (Tortellini)，博洛尼亚硬面面包 (Pane bolognese a pasta dura)，米蛋糕 (Torta di Riso) 以及其他许多当地传统面食。
+
+[[torta-di-riso]]
+== 米蛋糕
+
+米蛋糕 (Torta di Riso) 是博洛尼亚最著名的传统家常甜点，核心配料是大米，鸡蛋，杏仁。并且带有柠檬和橙子的香气。
+
+它的别名是“装饰节蛋糕” (Torta degli Addobbi)，源于博洛尼亚 13 世纪的一个宗教传统。当时博洛尼亚的教区每十年会举行一次盛大的庆典，居民会在窗户上挂满红金两色的织物做装饰。每家每户都会敞开大门迎接邻居和朝圣者，并奉上这种米蛋糕。
+
+[[pane-bolognese-a-pasta-dura]]
+== 博洛尼亚硬面面包
+
+Paolo Atti & Figli 的博洛尼亚硬面面包是传承百年的传统技艺，含水量极低，质地紧致，有猪油带来的油脂香气。这些面包会被做成不同的造型，每种造型都有名字，比如像花朵一样的“石竹花” (Garofano)，还有最经典的“小十字” (Crocetta) 造型。
+
+博洛尼亚硬面硬面包非常适合搭配现切的莫塔德拉大香肠薄片。因为这种面包够结实，也非常适合用来蘸上盘子里剩余的博洛尼亚肉酱 (Ragù) 来吃。
+
+[[tortellini]]
+== 博洛尼亚小饺子
+
+博洛尼亚小饺子 (Tortellini) 是博洛尼亚和摩德纳 (Modena) 最具代表性的面食。不同于常用乳酪和菠菜做馅的意大利大饺子 (Tortelloni)，博洛尼亚小饺子的馅料以肉类为主，通常包括猪肉，帕尔马火腿和莫塔德拉大香肠 (Mortadella)。博洛尼亚小饺子也是真的非常小，传统甚至要求一个汤勺里能盛下 6-7 个小饺子，大小是考验正宗手工 Tortellini 的金标准之一。
+
+如果你在博洛尼亚住的是有厨房的公寓，一定要去 Paolo Atti & Figli 买一盒复古包装的小饺子，自己下厨煮来尝尝。
