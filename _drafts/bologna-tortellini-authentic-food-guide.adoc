@@ -1,0 +1,97 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tortellini/tortellini-in-brodo-bologna-4x3-1200.avif
+  alt: 博洛尼亚 (Bologna) 的传统小饺子 (Tortellini)，盛在金色的鸡肉清汤中，饺子个头极小
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tortellini/tortellini-in-brodo-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tortellini/tortellini-in-brodo-bologna-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 12:00:00 +0100
+date_modified: 2026-06-15 12:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
+tagline: 维纳斯的肚脐，胖子之城的面食之王
+description: 在意大利美食之都和“胖子之城”博洛尼亚 (Bologna)，人称“维纳斯的肚脐”的小饺子 (Tortellini) 是面食之王。一盘鸡肉清汤中的小饺子是不可错过的传统美食体验。
+---
+= 博洛尼亚 (Bologna) 的小饺子 (Tortellini)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tortellini/
+
+博洛尼亚的小饺子 (Tortellini) 是博洛尼亚 (Bologna) 和摩德纳 (Modena) 最具代表性的面食。不同于其它常用乳酪和菠菜做馅的意大利饺子，博洛尼亚的小饺子馅料以肉类为主，通常包括猪肉，帕尔马火腿和莫塔德拉大香肠 (Mortadella)。在博洛尼亚，这种袖珍小饺子是不可错过的传统美食体验。
+
+[[tortellini]]
+== 博洛尼亚的小饺子
+
+在意大利美食中，“意大利饺子”通常指带馅的面食 (Pasta Ripiena)。它并不是单一的一种食物，而是一个具有明显地域差异的庞大家族。
+
+最普及的意大利饺子品种是 Ravioli 饺子。简单地说，这种 Ravioli 就是用两张面皮中间夹着馅料，压出带有花边的小枕头形状。传统的 Ravioli 通常是方形的。核心馅料基本上都是瑞可塔奶酪 (Ricotta) 和菠菜，也有用其他蔬菜泥的，还有些配方也会添加肉沫。这种 Ravioli 是遍布全世界，包括我们国内的意大利餐厅中最常见的。不过，奶酪加菠菜馅并不适合多数中国人的胃口。
+
+博洛尼亚的小饺子 Tortellini 是博洛尼亚和摩德纳地区的面食之王。正宗的 Tortellini 形状有点像馄饨，只有指甲盖大小，皮薄且筋道。最重要的区别是 Tortellini 的馅以肉类为主，对大多数中国胃来讲更接近真正意义上的美食。
+
+这种小饺子还有一个兄弟：大饺子。它的意大利语名字 Tortelloni 和小饺子的名字 Tortellini 只差一个字母。两者外形上看起来也一样，只是个头相差很多。不过除了形状相似以外，大饺子 Tortelloni 基本上更像是 Ravioli 饺子，典型的馅料是奶酪和菠菜，而且不入汤，煮熟的 Tortelloni 直接淋上酱料吃。
+
+实际上，博洛尼亚的 Tortellini 和 Tortelloni 两者的词根相同，是意大利语中常见的“指小”和“指大”变化。带 i 的后缀表示“小”，带 o 的后缀表示“大”。所以，看菜单时不要搞错了，瘦的 (i) 的才是肉馅的小饺子，胖的 (o) 是菠菜馅的大饺子。
+
+[[registered-recipe]]
+== 官方配方
+
+为了保护传统，博洛尼亚小饺子的“官方配方”由“小饺子学社” (https://www.confraternitadeltortellino.it/en/the-registered-recipe/[La Dotta Confraternita del Tortellino]) 在 1974 年正式在博洛尼亚商会注册备案。馅料的核心食材包括：
+
+* 里脊肉，需先用黄油煎熟
+* 生火腿，通常选用帕尔马火腿
+* 博洛尼亚大红肠 (Mortadella)
+* 帕马森干酪 (Parmigiano Reggiano)
+* 鸡蛋
+* 肉豆蔻
+
+[[the-craft-of-sfogline]]
+== 制作标准
+
+博洛尼亚地道小饺子的面皮是纯手工制作的。意大利语 Sfoglia 就是面皮的意思。而 Sfogline 是指从事手工擀制薄面皮的女性。她们被誉为“面食女神”，是博洛尼亚手工面食文化的灵魂守护者。很多传统店铺有透明的橱窗，可以近距离看她们擀出半透明的面皮，并飞快地捏出一个个袖珍饺子。
+
+博洛尼亚的小饺子对“小”字是有着极致追求的，甚至形成了一个衡量手艺是否地道的黄金标准：一个标准的餐匙里，必须能平稳地盛下六到七个小饺子。
+
+[[tortellini-in-brodo]]
+== 正宗吃法
+
+根据小饺子学社的link:https://www.confraternitadeltortellino.it/en/the-registered-recipe/#the_preparation[“官方说法”]，要品尝地道的小饺子，必须准备上好的高汤。菜单上的 _Tortellini in Brodo_ (高汤小饺子) 就是这种正宗的吃法：
+
+“将农场散养的阉鸡放入水中，并加入公认适合熬汤的牛肉部位（如牛胸肉等）一同炖煮”。
+
+[[historical-origin]]
+== 起源之争
+
+摩德纳 (Modena) 是临近博洛尼亚，同属艾米利亚-罗马涅大区 (Emilia-Romagna) 的另一历史名城，顶级跑车的发源地，意大利香醋的故乡。摩德纳和博洛尼亚之间为了小饺子的起源而争执了数个世纪。这场争论直到 19 世纪末才通过一个充满幽默感的妥协方案在官方层面基本平息。 
+
+由于两座城市互不相让，到了 19 世纪末，诗人朱塞佩·切里 (Giuseppe Ceri) 提出了一个聪明的折中方案：将两城中间的小镇**卡斯泰尔夫兰科艾米利亚** (Castelfranco Emilia) 定为小饺子的发源地。这个选择非常微妙，因为该镇在历史上曾长期属于博洛尼亚，但在 1927 年后被划归摩德纳省，这让两边都能找到心理平衡。
+
+我们将 Tortellini 直接翻译成博洛尼亚的小饺子，多少有些不妥，不过没办法，谁让博洛尼亚是大区首府，又是美食之都。
+
+[[navel-of-venus]]
+== 维纳斯的肚脐
+
+“维纳斯的肚脐” (L'ombelico di Venere) 是意大利面食界最著名、也最浪漫的起源传说。它不仅解释了 Tortellini 的形状和大小，还调和了博洛尼亚和摩德纳两座城市间“发源地之争”。诗人朱塞佩·切里将这个传说正式定型并广为流传：
+
+故事发生在一个叫卡斯特尔佛朗哥的小镇，它恰好位于博洛尼亚和摩德纳的正中间。传说在一次战争期间，爱神维纳斯、战神玛尔斯和酒神巴克斯下凡来到人间。他们在卡斯特尔佛朗哥的一家小旅店里下榻。第二天一早，战神和酒神先行离开。维纳斯醒后发现同伴不见了，便按铃呼叫店主。此时，垂涎维纳斯美色的店主忍不住透过钥匙孔向里窥视。可他只看到了女神的肚脐。回到厨房后，他用金黄的鸡蛋面团模仿女神肚脐的完美形状捏出了第一颗 Tortellini 小饺子。
+
+[[where-to-eat-tortellini]]
+== 去哪里吃
+
+在博洛尼亚，小饺子通常作为第一道菜 (Primi Piatti) 出现，名字是“阉鸡高汤小饺子” (Tortellini in Brodo di Cappone)。同时，它也是博洛尼亚家庭在圣诞节等重大节日必不可少的仪式感食物。
+
+* https://www.osteriabottega.com/[All'Osteria Bottega]: 博洛尼亚的美食名片，在 2026 年获意大利《红虾指南》传统小馆最高荣誉“三只虾”。定位更偏向于“精品餐厅式的小馆”，属于最贵的传统小馆之一。还想吃顶级的冷切和牛排的话，就选这家。
+
+* https://www.trattoriadiviaserra.it/[Trattoria di Via Serra]: 性价比相对可以，口碑极好的传统小馆，曾获意大利《红虾指南》传统小馆最高荣誉“三只虾” (Tre Gamberi)，同时又是米其林必比登 (Bib Gourmand) 推荐餐厅。虽然地处在火车站背后有点偏，但是最好的意式冰淇淋店之一 Stefino Gelato Biologico 就在旁边咫尺之遥，一次可以打卡两家店。
+
+* https://www.sfogliarina.it/en/[Sfoglia Rina]: 博洛尼亚最火的现代面食店，高性价比的选择。位于市中心的双塔旁 (Le due Torri)，名店 Paolo Atti & Figli 和 Tamburini 都在附近。**不接受预定**，不想排队要避开饭点。
+
+如果你在博洛尼亚住的是有厨房的公寓，可以买小饺子，自己下厨煮来尝尝。
+
+* https://www.paoloatti.com/[Paolo Atti & Figli]: 创始于 1868 年的老字号，博洛尼亚最古老的面食店。追求品牌历史，和标志性的复古包装就去这里。博洛尼亚最著名的美食熟食店 Tamburini 就在旁边，有小饺子的汤底，和最好的冷切。
+
+* https://www.lesfogline.it/[Le Sfogline]: 口碑极好的手工面坊。在这里可以近距离欣赏“面食女神”们现场手工制作面食。
