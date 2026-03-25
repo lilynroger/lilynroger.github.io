@@ -1,0 +1,106 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/gambero-rosso/gambero-rosso-4x3-1200.avif
+  alt: 《红虾指南》(Gambero Rosso)：意大利人的米其林
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/gambero-rosso/gambero-rosso-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/gambero-rosso/gambero-rosso-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 12:00:00 +0100
+date_modified: 2026-06-15 12:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 美食]
+tagline: 不只是“三杯”，“三叉”，“三虾”
+description: 在意大利，《红虾指南》(Gambero Rosso) 被公认为本土饮食界的权威，深入涵盖了葡萄酒、餐馆、咖啡、烘焙、橄榄油、甜点及比萨等意大利饮食文化的方方面面。凭借极其细致的分级，和专业的评审，其地位在当地人心中甚至高于《米其林指南》。
+---
+= 《红虾指南》(Gambero Rosso)：意大利人的米其林
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/gambero-rosso/
+
+[.lead]
+在意大利，《红虾指南》(Gambero Rosso) 被公认为本土饮食界的权威，深入涵盖了餐馆、葡萄酒、橄榄油、咖啡、烘焙、甜点及比萨等意大利饮食文化的方方面面。凭借极其细致的分级，和专业的评审，其地位在当地人心中甚至高于《米其林指南》。
+
+toc::[]
+
+在 1986 年，几位志同道合的记者和美食评论家在《宣言报》 (Il Manifesto) 上创办了一个名《红虾》的副刊。其名字取自《木偶奇遇记》中猫和狐狸诱骗匹诺曹吃饭的那家“红虾酒馆”。次年，《意大利葡萄酒指南》正式出版并大获成功。在 1990 年 《红虾指南》正式推出了第一版《意大利餐厅指南》。
+
+《红虾指南》与《米其林指南》有着显著不同。米其林的星级专注精致餐饮 (Fine Dining)，尽管也有米其林必比登推介 (Bibendum) 针对更亲民的餐饮，但是总体上来说，米其林是国际化的高端餐饮综合性评价标准。《红虾指南》则深耕意大利本土化、传统风味及生活方式，有着极度细分的评价体系。
+
+[[gambero-rosso-guides]]
+== 红虾评价体系
+
+针对餐饮的不同领域，《红虾指南》采用多种有趣的符号进行 1-3 级的评定，三级为最高。比如，葡萄酒的荣誉是由 1-3 个高脚酒杯符号表示的，最高荣誉就是“三杯奖” (Tre Bicchieri)。
+
+对于餐厅，《红虾指南》的评价体系首先将精致餐厅和传统小馆分开，分别设立了针对前者的三叉奖 (Tre Forchette)，和后者的三虾奖 (Tre Gamberi)。这种逻辑很清晰：你不能拿一家顶级的法式意餐厅和一间家族世代经营了百年的手工意面店做简单的比较。
+
+随着这种模式的成功，《红虾指南》又陆续推出更有针对性的奖项，涵盖咖啡，烘焙，意式冰激凌，橄榄油等等。
+
+[[wines]]
+== 葡萄酒
+
+红虾的《意大利葡萄酒指南》(https://www.gamberorosso.it/guide/vini-ditalia/[Vini d'Italia]) 是其最早推出的指南，为此而设立的“三杯”奖也是红虾最出名的奖项，奠定了红虾在意大利不可撼动的权威地位。
+
+* 三杯 (Tre Bicchieri): 针对的是单一的葡萄酒款
+
+在旅行中，如果要选购优质的意大利葡萄酒，红虾的的葡萄酒杯标记是最佳的参考。比如来自托斯卡纳的 Brunello di Montalcino Giodo 2020 成为“三杯”奖的获得者之一，并夺得 2026 年度红酒称号。
+
+[[ristoranti]]
+== 餐厅
+
+如今，红虾对餐厅的评价体系已经极度细分（甚至让我们感觉过犹不及了）。《意大利餐厅指南》(https://www.gamberorosso.it/guide/ristoranti-ditalia/[Ristoranti d'Italia]) 最初的奖项包括：
+
+* 三叉 (Tre Forchette):	针对的是正餐餐厅，意大利语称为 Ristorante
+
+* 三虾 (Tre Gamberi):	针对的是传统小馆，意大利语中的 Trattoria 或者 Osteria
+
+“三虾”这是红虾指南中最具本土特色、也是最受意大利人尊重的奖项。它并不追求奢华，它奖励的是“地道”。评审寻找的是那些对地域传统近乎偏执的守护：比如手工揉制的面团、百年的馅料配方等等。对于寻味传统美食体验的游客，那三只小虾标记就是最可靠的保证。
+
+此外，在红虾的餐厅指南中，还陆续推出推出了针对葡萄酒吧 (Wine Bar / Enoteca)，简餐餐厅 (Bistrot) 还有异国风味餐厅 (Etnici) 的奖项。如果想歇歇脚，来一杯靠谱的意大利葡萄酒，认准拥有三个葡萄酒瓶标志 (Tre Bottiglie) 的葡萄酒吧就可以避免踩坑了。
+
+[[bar]]
+== 咖啡馆
+
+在意大利语中的 Bar 一词指的是咖啡馆。红虾的《意大利咖啡馆指南》(https://www.gamberorosso.it/guide/bar-ditalia/[Bar d'Italia]) 针对咖啡馆推出了两个最高奖项：
+
+* 三杯 (Tre Tazzine): 符号是咖啡杯，评价的对象是咖啡馆本身，代表店内的综合环境与服务水平。
+* 三豆 (Tre Chicchi)	符号是咖啡豆，评价的是咖啡制作的品质，如豆子新鲜程度，萃取、奶泡等等。
+
+[[pizzerie]]
+== 披萨店
+
+在意大利，披萨的意义不言而喻。红虾有专门的《意大利披萨店指南》(https://www.gamberorosso.it/guide/pizzerie-ditalia/[Pizzerie d'Italia])，设置了两个奖项：
+
+* 三片 (Tre Spicchi):	符号是扇形的披萨片，针对的是堂食的圆盘披萨 (Pizza al Piatto)，现点现烤。
+* 三把滚轮刀 (Tre Rotelle): 符号是切披萨的滚轮刀 (Rotella)，针对的是外带的烤盘称重披萨 (Pizza al Taglio)，通常是方形的。
+
+[[gelaterie]]
+== 意式冰淇淋店
+
+谁能不爱吉拉多？红虾的《意大利冰淇淋店指南》(https://www.gamberorosso.it/guide/gelaterie-ditalia/[Gelaterie d'Italia]) 为意式冰淇淋 (Gelato) 设置了专门的奖项：
+
+* 三锥 (Tre Coni): 符号是冰淇淋甜筒，针对的是意式冰淇淋店。
+
+{% assign target = site.posts | where: "slug", "bologna-gelato-guide" | first %}
+{% if target %}
+
+博洛尼亚 (Bologna) 号称“冰淇淋之都”，拥有最多的顶级意式冰淇淋店。参考我们的攻略: 
+
+link:{{target.url}}[{{ target.title }}]
+
+{% endif %}
+
+[[others]]
+== 其他
+
+红虾评价体系中还专门为面包，甜点，橄榄油设置了奖项：
+
+* 三个面包 (Tre Pani): 《意大利面包和面包师指南》(https://www.gamberorosso.it/guide/pane-e-panettieri-ditalia[Pane e panettieri d'Italia])
+* 三个蛋糕 (Tre Torte): 《甜点师和甜点店指南》(https://www.gamberorosso.it/guide/pasticceri-e-pasticcerie-ditalia/[Pasticceri e pasticcerie])
+* 三叶 (Tre Foglie): 《意大利橄榄油指南》(https://www.gamberorosso.it/guide/oli-ditalia[Oli d'Italia])
+
+另外还有其他几个奖项。详细的信息可以参考《红虾指南》的官方网站: https://www.gamberorosso.it/guide/[Le Guide di Gambero Rosso]。
