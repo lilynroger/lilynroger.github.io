@@ -1,0 +1,75 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-markets/quadrilatero-bologna-4x3-1200.avif
+  alt: 博洛尼亚老城区的四方区
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-markets/quadrilatero-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-markets/quadrilatero-bologna-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 12:00:00 +0100
+date_modified: 2026-06-15 12:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
+tagline: “胖子之城”的传统市集
+---
+= 博洛尼亚 (Bologna) 最值得一去的市集
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-markets/
+
+[.lead]
+这篇攻略中包含了在“美食之都”博洛尼亚 (Bologna) 的老城区中最值得一去的市集，包括百年老店云集的四方区 (Quadrilatero)，埃尔贝市场 (Mercato delle Erbe) 等等。
+
+[#quadrilatero]
+== 四方区 (Quadrilatero)
+
+位于马焦雷广场 (Piazza Maggiore) 东侧的**四方区**是博洛尼亚市中心最古老、最迷人的中世纪市场区。它的名字 Quadrilatero 字面意思就是“四边形”，由四条街道围合而成：
+
+* Via Rizzoli
+* Via dell'Archiginnasio
+* Via Farini
+* Via Castiglione
+
+这里的街道布局从中世纪起就未曾改变，街道名称至今仍保留着古代行会的痕迹，比如金匠街 (Via degli Orefici) 和老鱼市街 (Via Pescherie Vecchie) 等等。
+
+博洛尼亚许多百年老店都集中在四方区里，比如最古老的酒馆 Osteria del Sole 和最古老的烘焙坊 Paolo Atti e Figli 都在四方区的中心位置。
+
+[[mercato-di-mezzo]]
+== 城中市场 (Mercato di Mezzo)
+
+城中市场 (Mercato di Mezzo) 是位于四角区心脏地带的一座室内美食广场。它的名字中的 Mezzo 就是意大利语“中间”的意思。
+
+从中世纪起，城中市场就是美食汇聚之地了。在 19 世纪中叶的“意大利统一运动”中，博洛尼亚摆脱教皇的统治，加入了新生的意大利王国，并进行了大规模的现代化改造。城中市场就是在此时成为博洛尼亚第一座从露天市场改造成的室内市场。
+
+到了 20 世纪末，城中市场渐渐失去了竞争力，甚至一度废弃。不过，经过 2014 年的转型改造，城中市场重新焕发了生机，重生为一座三层的室内美食广场，汇聚了各种精品美食摊位，小馆和酒吧。
+
+* L'Antica Bottega Bologna: 一楼，注各种传统小吃，冷切。这里有可以边走边吃的炸小饺子。
+
+[#mercato-delle-erbe]
+== 埃尔贝市场 (Mercato delle Erbe)
+
+与现代化的城中市场不同，向西不到一公里的**埃尔贝市场** (Mercato delle Erbe) 是博洛尼亚最大的传统菜市场。它的名字 Erbe 在意大利语中的意思是“草本”或“蔬菜”。
+
+这里非常值得打卡的摊位包括：
+
+* Sfarinà: 专注于**皮亚迪纳** (Piadina) 面饼，一种艾米利亚-罗马涅大区的灵魂街头小吃。这里的面饼现场现烙，夹入新鲜的奶酪和烟熏火腿，是逛累了市场后最扎实的能量补给。
+
+* Formaggeria Barbieri: 始于 1968 年的奶酪老店。这里不仅有堆成山的帕马森干酪 (Parmigiano Reggiano)，还有博洛尼亚本地人吃炸面团 (Crescentine)，烙饼 (Tigella) 和皮亚迪纳时必配的 Squacquerone 软奶酪。
+
+* Banco 32: 这是市场内人气最旺的档口，主打极具性价比的海鲜塔帕斯 (Tapas)。在博洛尼亚这座以肉食闻名的“内陆美食之都”，不妨在这里换换口味。
+
+[#mercato-ritrovato]
+== 重现市集 (Mercato Ritrovato)
+
+**重现市集** (https://mercatoritrovato.it/[Il Mercato Ritrovato]) 是一个情怀拉满的农夫市集 (Farmer's Market)。这个市集的名字 Ritrovato 在意大利语中的意思是“重现”和“寻回”。
+
+这么文艺的名字当然不是“农夫们”想出来的，它和博洛尼亚电影档案馆 (Cineteca di Bologna) 举办的**博洛尼亚重现电影节** (https://ilcinemaritrovato.it/[Il Cinema Ritrovato]) 同名。这个市集正是由博洛尼亚电影档案馆 (Cineteca di Bologna) 和博洛尼亚慢食协会 (Slow Food Bologna) 共同开发的文化项目。
+
+根据项目和市场的指导方针，这个市场的所有摊主都是来自博洛尼亚近郊的农户，保证只提供本地和当季产品。正如**重现电影**是为了找回失落的光影艺术，而**重现市集**则是为了找回失落的美食传统。
+
+如果你在博洛尼亚恰逢周三或者周六，那就可以看看重现市集是否开放。准确的集市开放时间，请参考 https://www.facebook.com/mercatoritrovato/[Mercato Ritrovato 的 Facebook 账号]。
+
