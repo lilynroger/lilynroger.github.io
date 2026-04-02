@@ -1,0 +1,64 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-groceries/tamburini-bologna-4x3-1200.avif
+  alt: 始于 1932 年，位于中世纪市场区 Quadrilatero 的核心位置的 Tamburini 熟食店
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-groceries/tamburini-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-groceries/tamburini-bologna-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 12:00:00 +0100
+date_modified: 2026-06-15 12:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
+tagline: 打卡 Tamburini, Simoni, Gilberto, Pioggia
+description: 意大利语中的 Drogheria 是杂货铺的意思，而 Salumeria 就是熟食店。这篇攻略是我们在博洛尼亚老城区的杂货铺和熟食店的打卡清单。
+---
+= 博洛尼亚 (Bologna) 的熟食店 (Salumeria) 和杂货铺 (Drogheria)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-groceries/
+
+[.lead]
+博洛尼亚是意大利的美食之都，那个响亮的外号“胖子之城”可以证明。博洛尼亚的美味，并不只在餐厅和酒馆里，那些在老城深巷中、世代相传的熟食店 (Salumeria) 和杂货铺 (Drogheria) 更是博洛尼亚人的最爱。
+
+意大利语 _Salumeria_ 的意思是熟食店，而 _Drogheria_ 就是杂货铺。这篇攻略是我们在博洛尼亚老城区的杂货铺和熟食店的打卡清单。
+
+toc::[]
+
+[[tamburini]]
+== 坦布里尼 (Tamburini)
+
+在博洛尼亚老城的四方区 (Quadrilatero) 的心脏位置，布料商街 (Via Drapperie) 和肉铺街 (Via Caprarie) 的街角被称为**马雷拉神父之角** (L'Angolo di Padre Marella)。在上世纪五六十年代，马雷拉神父会坐在凳子上，手里拿着帽子，乞讨食物，好让他收养的众多孤儿吃饱。如今，这里的墙上设立了一块纪念他的浮雕，上面镌刻着“穷人之父”。
+
+在浮雕一旁，就是作为博洛尼亚美食地标之一的**坦布里尼** (https://www.tamburini.com/[Tamburini]) 副食店。副食店招牌上的 Ditta A.F. Tamburini 的大意就是“坦布里尼老号”，其中 Ditta 在意大利语中是“商号”的意思；缩写 A.F. 是创始人的名字的缩写；最后的 Tamburini 则是家族姓氏。坦布里尼家族自 1932 年接手这家始于 1860 年的店铺，一直经营至今。
+
+这家店供应传统的腌制肉类和博洛尼亚特色美食。天花板上挂满了帕尔马火腿，柜台里整齐码放着博洛尼亚标志性的**莫塔代拉** (Mortadella) 巨型香肠，小饺子 (Tortellini) 和号称“意大利火腿之王”的**库拉泰罗** (Culatello) 火腿。店内还设有品酒区和自助餐厅。
+
+有趣的是，博洛尼亚 (Bologna) 最古老的传统面包坊 Paolo Atti & Figli 与 Tamburini 几乎背靠背。它们不仅仅是邻里，还是亲家。两家一起堪称博洛尼亚传统美食最具代表性的店铺了。
+
+[[salumeria-simoni]]
+== 西蒙尼 (Salumeria Simoni)
+
+同样在四方区中心地带的**西蒙尼** (https://salumeriasimoni.it/[Simoni]) 熟食店自 1960 年起就由西蒙尼家族经营，如今已经成为博洛尼亚美食版图上最具标志性的一员。
+
+除了零售的熟食店，从这里拐进老鱼市街上 (Via Pescherie Vecchie) 走出几十米，西蒙尼还经营着一家名叫 Salumeria Simoni Laboratorio 的小酒馆。在这里，你可以坐下来品尝西蒙尼售卖的各类冷切拼盘 (Tagliere di Salumi) 和博洛尼亚的特色面食。推荐点上一杯本地的起泡葡萄酒 (Bollicine)，比如博洛尼亚的皮尼奥莱托 (Pignoletto) 白葡萄酒或者摩德纳的蓝布鲁斯科 (Lambrusco) 红葡萄酒。
+
+[[drogheria-gilberto]]
+== 吉尔伯托 (Drogheria Gilberto)
+
+在西蒙尼熟食店的斜对面，**吉尔伯托杂货店** (https://www.drogheriagilberto.it/en/[Drogheria Gilberto]) 也是一家百年老店，从 1905 年以来，吉尔伯托家就开始在这里经营玲琅满目的当地特产和各类杂货。
+
+吉尔伯托最引以为傲的是精选的传统香醋 (Aceto Balsamico Tradizionale) 收藏。
+
+[[drogheria-della-pioggia]]
+== 雨中杂货铺 (Drogheria della Pioggia)
+
+如果你想探索最古老的杂货铺，**雨中杂货铺** (Drogheria della Pioggia) 就是了。
+
+意大利语 Pioggia 的意思就是“雨”。这个充满诗意的名字源于街角对面的**雨中圣母教堂** (Santa Maria della Pioggia)。相传 16 世纪的一场大旱中，当地人向圣母像祈雨，结果真的迎来了一场救命的及时雨，教堂与周边的街道因此得名。
+
+雨中杂货铺自 1610 年开业至今从未更名，柜台也是几百年未变，每一寸空间都没有浪费，层层叠叠地堆满包罗万象的货品。
