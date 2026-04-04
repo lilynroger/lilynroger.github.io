@@ -1,0 +1,193 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-antipasti/mortadella-tamburini-bologna-4x3-1200.avif
+  alt: 博洛尼亚的老字号 Tamburini 熟食店的 Mortadella 大香肠
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-antipasti/mortadella-tamburini-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-antipasti/mortadella-tamburini-bologna-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 12:00:00 +0100
+date_modified: 2026-06-15 12:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
+tagline: 香肠，火腿，奶酪，面食
+description: 这是一篇关于在意大利城市博洛尼亚 (Bologna) 的餐前菜 (Antipasti) 和木板冷切拼盘 (Tagliere) 中的所包含的香肠，火腿，奶酪和搭配的面食的指南。
+---
+= 博洛尼亚 (Bologna) 的前菜和木板冷切拼盘
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-antipasti/
+
+[.lead]
+在博洛尼亚的餐厅和酒馆中，菜单中的第一部分通常就是前菜 (Antipasti)。而前菜主打的就是香肠，火腿，奶酪的冷盘，多数还会搭配上地方特色的面食。在那些热闹的市集上，熟食店中，甚至杂货店中常见的木板冷切拼盘 (Tagliere) 也是如此。
+
+作为游客，菜单中那些一大长串的意大利语让人头疼。甚至当冷盘摆在眼前了，也不知道究竟要吃的都是什么。
+
+这篇文章是为我们第一次博洛尼亚之行整理的餐前冷盘指南，希望借此可以更从容地享受意大利的餐前美食。
+
+toc::[]
+
+[[antipasti]]
+== 前菜和木板冷切拼盘
+
+意大利语的 Antipasto 是前菜的意思，也称为开胃菜，复数形式 Antipasti 是菜单上见到的词汇。这个词由两部分组成，其中 Anti 表示“在……之前”；而 Pasto 是“正餐”的意思，整体字面意思就是“正餐前的小食”。
+
+在博洛尼亚，虽然前菜偶尔也有热菜，但主要是冷切拼盘。木板冷切拼盘 (Tagliere) 就是最常见的拼盘形式。在厚木板上，摆上各种腌制肉类，比如香肠和火腿等等，此外还有奶酪，通常还会搭配当地特色的面食。
+
+在意大利语菜单上，前菜中的木板冷切拼盘就叫 Tagliere di Salumi e Crescentine 或者类似的名字。至于 Salumi Crescentine 是什么，继续往下看。
+
+[[salumi]]
+== 腌制肉类 (Salumi)
+
+意大利语中的 Salumi 是所有腌制肉类/熟食的总称。无论是由整块肉腌制熟成的火腿 (Prosciutto)，由碎肉灌制风干熟成的萨拉米 (Salami)，还是由肉糜熏蒸熟制的博洛尼亚特产 Mortadella 大香肠，都属于这一类。注意，腌制肉类 Salumi 一词和萨拉米的 Salami 一词只有一个字母之差，不要混淆了。
+
+[[mortadella]]
+=== 莫塔代拉大香肠 (Mortadella)
+
+**莫塔代拉** (Mortadella) 是博洛尼亚冷盘中必不可少的。这种粉红色的**巨型**香肠在博洛尼亚是无处不在的百搭，无论是冷切的薄片、小饺子 (Tortellini) 的馅料、还是切成小块的下酒菜。莫塔代拉与博洛尼亚的联系如此紧密，以至于世界各地的很多地方直接用 Bologna 作为这种香肠的名字。
+
+在博洛尼亚吃莫塔代拉，当然要认准 Mortadella Bologna I.G.P 标志，也就是“受保护地理标志”。只有遵循了数百年前流传下来的严苛配方，并在博洛尼亚及周边规定区域内生产的红肠，才有资格冠以这个名字。
+
+[[salame-rosa]]
+=== 粉红萨拉米 (Salame Rosa)
+
+粉红萨拉米 (Salame Rosa) 是博洛尼亚特有的、最古老、且濒临失传的传统熟肉制品。
+
+虽然名字中包含“萨拉米”，但是 Salame Rosa 并不是萨拉米香肠。粉红萨拉米不是生肉风干制成的，而是低温烘烤的熟肉。它很像莫塔代拉大香肠，不同之处在于不是用肉糜，而是用肉丁制作。所以，粉红萨拉米切开后纹理看起来要比莫塔代拉粗旷一下。
+
+如今只有博洛尼亚极少数几家老牌熟食店，比如著名的 Tamburini 和 Salumeria Simoni 仍在坚持手工制作这种古老的肉食。如果遇见，不妨尝尝看。
+
+[[prosciutto-di-parma]]
+=== 帕尔马火腿 (Prosciutto di Parma)
+
+在博洛尼亚的木板拼盘中，帕尔马火腿 (Prosciutto di Parma DOP) 绝对是主角。
+
+帕尔马火腿是世界顶级的风干熟成火腿之一。意大利语 Prosciutto Crudo 指的就是这类火腿，其中 Crudo 就是“生”的意思。虽然没有经过加热，但一两年的海盐腌制和自然风干已经完全改变了肉质结构，使其可以安全生食。而 Prosciutto Cotto 是指类似三明治里的那种方的熟火腿。在博洛尼亚冷盘里，默认永远是熟成生火腿。
+
+正宗的帕尔马火腿上 (不是包装上) 一定烙有一个王冠标志，王冠里面烙有 PARMA 字样。并要标明 DOP (Denominazione di Origine Protetta)，意大利语“原产地保护”的缩写，对应于英语中的 PDO (Protected Designation of Origin)。这种帕尔马火腿的成分中只允许有优质猪后腿肉和海盐，且必须在帕尔马地区的山风中自然风干至少 12 个月，甚至长达 36 个月。
+
+[[culatello]]
+=== 库拉泰洛 (Culatello)
+
+库拉泰洛 (Culatello) 是意大利最名贵、产量最稀少的熟成火腿。
+
+意大利语 Culatello 的词根 Culo 意思是“臀部”。不同于使用整只猪后腿（保留蹄骨皮）户外风干的帕尔马火腿，库拉泰洛火腿只取猪后腿拆解出来的两块核心肌肉中内侧的那块最厚实、最圆润的瘦肉，塞进猪膀胱，在地窖中风干。
+
+正宗的库拉泰洛，需要有 Culatello di Zibello DOP 原产地保护标记。这种库拉泰洛产自波河平原 (Po Valley) 常年大雾弥漫的 Zibello 等八个小镇。这种极端的湿气使得库拉泰洛历经两三年的熟成也不会干枯变硬。当地地窖中生长的独特的天然霉菌还赋予了库拉泰洛类似森林泥土或陈年红酒的复杂风味。
+
+[[fiocco-di-prosciutto]]
+=== 菲奥科火腿 (Fiocco di Prosciutto)
+
+菲奥科火腿 (Fiocco di Prosciutto) 的制作方式类似于库拉泰洛，区别在于它是使用从猪后腿拆解出来的两块核心肌肉中较小、较瘦的那块制作的。
+
+简单来讲，猪后腿的大块的、带点肥的精华部位拿去做名贵的库拉泰洛；旁边那块剩下的小块瘦肉也不能浪费，拿去做菲奥科。所以，有时菲奥科火腿也被称为**菲奥凯托火腿** (Fiocchetto di prosciutto)，其中的 Fiocchetto 的后缀 _-etto_ 在意大利语表示“小”的意思，呼应它的“大哥”库拉泰洛。
+
+[[salame-felino]]
+=== 费利诺萨拉米 (Salame Felino)
+
+在博洛尼亚的冷切拼盘中，萨拉米也是主角之一。意大利最优雅、最受推崇的萨拉米品种是著名的费利诺萨拉米 (Salame Felino IGP)，被誉为“萨拉米之王”。
+
+费利诺萨拉米产自博洛尼亚附近的帕尔马地区。它的名字来源于帕尔马山脚下的一个名叫 Felino 的小镇。费利诺萨拉米只使用猪后腿肉和肩胛肉制作肉糜，肉糜中还会加入少量的当地白葡萄酒。当地特殊的微气候为萨拉米的自然风干提供了完美的空气湿度，形成了费利诺萨拉米柔软而富有弹性的质地。
+
+[[salame-piccante]]
+=== 辣味萨拉米 (Salame Piccante)
+
+如果你喜欢吃辣的萨拉米，认准意大利语 Piccante （辣味）这个词。
+
+博洛尼亚所在的艾米利亚-罗马涅大区以温润、奶香浓郁的口味著称，莫塔代拉和帕尔马火腿都是如此。辣味多起源于意大利南部。辣味萨拉米 (Salame Piccante) 在制作过程中加入了红辣椒粉。虽然不是本地特产，但在博洛尼亚也很常见。它的辣度通常非常温和，非常适合配合博洛尼亚偏油腻的食物来解腻。
+
+此外，在博洛尼亚地位仅次于玛格丽特 (Margherita) 的恶魔披萨 (Pizza alla Diavola) 上，那种红彤彤的萨拉米片，就是这种辣味萨拉米。
+
+[[coppa]]
+=== 科帕 (Coppa)
+
+虽然有时被误称为“科帕火腿”，但科帕 (Coppa) 实际上是由**猪后颈肉**（而不是后腿肉）制成风干熟成肉。
+
+科帕 (Coppa) 所取用的这块肉在中文中最接近的叫法是“梅花肉”，抹上盐与香料，然后将肉包裹在天然猪皮中捆扎、腌制，在地窖中经历三到六个月自然风干熟成。
+
+[[coppa-di-testa]]
+=== 意式猪头肉 (Coppa di Testa)
+
+博洛尼亚的冷切拼盘中的意式猪头肉 (Coppa di Testa) 是一种切面纹理复杂、带有半透明胶质感的肉冻状切片。
+
+虽然这种肉名字中也有 Coppa 一词，但是和科帕 (Coppa) 风干熟成猪后颈肉完全不同，它是取猪头部的部位煮熟压制而成。它名字中的 Testa 的意思就是“头”。
+
+博洛尼亚版的 Coppa di Testa 它选用猪头部的精华部位，如猪舌、猪耳和猪皮，经过数小时慢火细炖，直到天然胶原蛋白完全析出。在这个过程中，还加入了大量的柠檬皮、橙皮、大蒜和肉桂，赋予其独特的风味。煮熟的肉块经过压制成为巨大的圆柱形肉块。
+
+[[lardo]]
+=== 风干猪油 (Lardo)
+
+当你看到拼盘里有一种半透明、洁白如玉的薄片，那就是风干猪油 (Lardo)，也可以叫意式腌猪背膘。
+
+Lardo 源自古罗马，是意大利北部和中部非常著名的特产。取猪背部最厚实的一层脂肪，经过香料长时间腌渍而成。最顶级的 Lardo 产自托斯卡纳大区的科隆纳塔 (Lardo di Colonnata IGP)。
+
+在博洛尼亚，这种 Lardo 薄片最地道的吃法是塞进刚出锅的当地特色的 Crescentina 炸面饼或 Tigelle 小圆饼。热气会将其融化，让油脂与香料的风味渗入面饼。
+
+[[formaggi]]
+== 奶酪 (Formaggi)
+
+在博洛尼亚的冷切拼盘中，至少应该包含一种硬奶酪和一种软奶酪。
+
+[[parmigiano-reggiano]]
+=== 帕马森干酪 (Parmigiano Reggiano DOP) 
+
+在博洛尼亚的模板冷切拼盘上，肉类可能五花八门，但帕马森干酪永远占据中心位置。
+
+**帕马森**实际上是意大利语 Parmigiano Reggiano 的法语译名 Parmesan 的音译，在国际上常用于泛指意大利风格的硬乳酪。
+
+要品尝被誉为“奶酪之王”的正宗帕马森干酪，要认准 Parmigiano Reggiano DOP 原产地保护标记。只有在博洛尼亚、帕尔马、雷焦艾米利亚等特定区域，使用特定牧草喂养的牛奶，并经过至少十二个月熟成的奶酪，才能叫这个名字。
+
+在博洛尼亚的木板冷切拼盘中，帕马森通常不是整齐的切片，而是被特制的小刀掰成的碎块。你会发现肉眼可见的白色微小晶体，那是熟成过程中产生的**酪氨酸结晶**。在帕马森干酪的碎块上滴上一滴**摩德纳传统香醋** (Aceto Balsamico Tradizionale) 绝对是最地道的吃法。
+
+[[squacquerone]]
+=== 斯夸奎罗内奶酪 (Squacquerone)
+
+这是一种乳白色，质地极软，像稍微融化的冰淇淋的软奶酪。它的意大利语名字 Squacquerone 源自博洛尼亚所在的罗马涅地区的方言，字面意思是“稀烂的”。
+
+正宗的 https://www.squacqueronediromagna.it/en/[Squacquerone di Romagna DOP] 是艾米利亚-罗马涅大区最著名的软奶酪，受原产地保护。由于它水分极高且不经过陈年，保质期非常短（通常只有 4-5 天）。在餐厅看到它，这一定是当地产的。在意大利境外是很难见到的。
+
+地道的吃冷切拼盘配炸面团的方式是，把炸面团趁热用手撕开，把冷切塞进去，抹上清凉的软奶酪吃。
+
+在一些餐馆中，也可能不用炸面团配冷切，而是用一种叫做 Tigella 的圆形烙饼。这种饼需要横向切开，像肉夹馍一样，把冷切肉、软奶酪等等塞进去一起吃。
+
+[[crescentine-tigelle]]
+== 面点配餐 (Crescentine e Tigelle)
+
+博洛尼亚人极少用普通面包配冷盘，这里的特色是炸油饼和小圆烙饼。
+
+[[crescentine]]
+=== 炸油饼 (Crescentine)
+
+这是一种用猪油炸制而成、金黄色、小枕头形状、中间鼓起的油炸面饼，通常是刚出锅，堆放在衬有吸油纸的篮子里。
+
+需要注意的是它的叫法：
+
+* Crescentine: 博洛尼亚的叫法
+* Gnocco Fritto: 隔壁城市摩德纳 (Modena) 的叫法
+
+地道的吃冷切拼盘配 Crescentine 的方式是，把 Crescentine 趁热用手撕开，把冷切塞进去，抹上清凉的软奶酪吃。
+
+[[tigelle]]
+=== 小圆烙饼 (Tigelle)
+
+在一些餐馆中，配冷盘的也可能是一种叫 Tigelle 的表面印有花纹的圆形小烙饼。
+
+这种小圆饼是夹在模具中烘烤而成的。意大利语 Tigelle 其实指的是那种模具。久而久之，人们习惯了直接用 Tigelle 来指代这种烙饼。在博洛尼亚，这种 
+Tigelle 的表面都会烙有六瓣花纹的图案。这是一种非常古老的花纹，称为“生命之花”，意大利语是 _Fiore della Vita_ ，象征繁荣与多产。
+
+吃这种烙饼的时候，需要用刀横向切开，里面抹上软奶酪，然后像肉夹馍一样，把冷切塞进去吃。
+
+[[bologna-menu-ordering-sequence]]
+== 完整的意大利菜单排序
+
+作为参考，这里是在博洛尼亚常见的菜单顺序：
+
+* Antipasti: **前菜**，通常是冷盘、木板拼盘
+* Primi Piatti: **第一道菜**，通常是面，传统包括肉酱面 (Tagliatelle al Ragù)、千层面 (Lasagne alla Bolognese)、小饺子 (Tortellini)
+* Secondi Piatti: **第二道菜**，肉类或鱼类，如博洛尼亚炸肉排 (Cotoletta alla Bolognese)
+* Contorni: **配菜**，通常是单点的烤土豆、沙拉或时蔬
+* Dolci: **甜点**，提拉米苏、冰淇淋等等
