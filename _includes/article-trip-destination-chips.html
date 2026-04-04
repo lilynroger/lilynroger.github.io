@@ -1,0 +1,23 @@
+{% comment %}
+直接从 site.collections 中查找 tag 存在于当前 page.tags 中的页面
+{% endcomment %}
+
+{% assign related_trip = site.trips | where_exp: "item", "page.tags contains item.tag" | first %}
+{% assign related_dest = site.destinations | where_exp: "item", "page.tags contains item.tag" | first %}
+
+{% if related_trip or related_dest %}
+<nav aria-label="旅行和目的地">
+
+  <ol class="list-unstyled d-flex flex-wrap gap-2 mb-3 small">
+    {% if related_trip %}
+    <li><a href="{{ related_trip.url }}" class="rounded text-body-secondary bg-body-tertiary text-decoration-none p-2">{{ related_trip.title_display | default:
+        related_trip.title }}</a></li>
+    {% endif %}
+    {% if related_dest %}
+    <li><a href="{{ related_dest.url }}" class="rounded text-body-secondary bg-body-tertiary text-decoration-none p-2">{{ related_dest.title_display | default:
+        related_dest.title }}</a></li>
+    {% endif %}
+  </ol>
+
+</nav>
+{% endif %}
