@@ -1,0 +1,97 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-wines/colli-bolognesi-pignoletto-stamp-2013-4x3-1200.avif
+  alt: 传统的博洛尼亚 (Tagliatelle al Ragù)，盛在金色的鸡肉清汤中，饺子个头极小
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-wines/colli-bolognesi-pignoletto-stamp-2013-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-wines/colli-bolognesi-pignoletto-stamp-2013-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 13:00:00 +0100
+date_modified: 2026-06-15 13:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
+tagline: 微泡红酒和有着红酒之魂的白葡萄酒
+description: 在博洛尼亚 (Bologna) 喝什么？这里虽没有顶级葡萄酒，但是有极具特色的 Pignoletto, Lambrusco, Sangiovese 和 Albana 葡萄酒。
+---
+= 博洛尼亚 (Bologna) 的葡萄酒
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-wines/
+
+博洛尼亚深受“美食之都”地位的影响，成为了意大利的酒馆 (Osteria) 文化的中心。这里虽然没有世界顶级的葡萄酒，但却不乏深受本地人爱戴，极具特色的葡萄酒。
+
+toc::[]
+
+[[wines-of-bologna]]
+== 博洛尼亚喝什么葡萄酒
+
+[[pignoletto-di-bologna]]
+=== 博洛尼亚的皮尼奥莱托 (Pignoletto di Bologna)
+
+皮尼奥莱托 (Pignoletto) 是博洛尼亚丘陵地带 (Colli Bolognesi) 最著名的白葡萄品种，皮尼奥莱托白葡萄酒被誉为该地区的“葡萄酒之王”。
+
+选择皮尼奥莱托，主要看分级：
+
+* DOCG (Colli Bolognesi Pignoletto): 博洛尼亚丘陵地带优质法定产区级，这是最高级别。如果你在瓶颈看到 DOCG 的封条，说明葡萄来自博洛尼亚西南部的优质丘陵地带。
+
+* DOC (Pignoletto)：这是更大众化的级别。
+
+皮尼奥莱托有多样化的风格，记住酒标上会出现的这几个词，选择适合自己口味的风格：
+
+* Spumante: 起泡型，气泡更充沛，类似普罗塞克 (Prosecco)。
+* Frizzante: 微泡型，这是当地最传统、最受欢迎的风格。
+* Still / Classico: 静止型，没有气泡。这种酒通常酒体更厚实，酒精度略高，甚至有高酒精度的 Superiore 版本。最适合搭配博洛尼亚小饺子 (Tortellini) 或白肉。
+
+皮尼奥莱托虽然有 DOCG 级别，但在白葡萄酒界，它很难与勃艮第的霞多丽或德国的雷司令相比。本质上皮尼奥莱托还是“好喝的餐前酒”。好的一面是，不用花多少钱，就可以喝到本地最好的酒，比如 https://www.gaggiolivini.it/en/[Gaggioli Vini] 酒庄就是是 DOCG 级别的代表，可以放心选择。
+
+[[lambrusco-di-modena]]
+=== 摩德纳的兰布鲁斯科 (Lambrusco di Modena)
+
+博洛尼亚以西就是摩德纳 (Modena)，这里出产意大利最最独特、最具代表性的葡萄酒是**兰布鲁斯科** (Lambrusco) 微泡红葡萄酒。非常值得体验一下。
+
+兰布鲁斯科虽然是红葡萄酒，但是需要冰镇饮用，倒入杯中时会有粉红色的泡沫。这种微泡红酒的高酸度和气泡被认为是博洛尼亚重油美食的最佳伴侣。
+
+兰布鲁斯科曾因为大量出口廉价甜酒导致名声不太好，想品尝到好的，需要认准核心产区，比如 Lambrusco di Sorbara 就是其中之一，以位于 Sorbara 核心地带，已传承四代的 https://cantinapaltrinieri.it/en/home-2/[Cantine Paltrinieri] 酒庄为代表。
+
+[[sangiovese-di-romagna]]
+=== 罗马涅的桑娇维塞 (Sangiovese di Romagna)
+
+博洛尼亚向东则是罗马涅 (Romagna) 地区，这里是意大利种植最广的红葡萄品种**桑娇维塞** (Sangiovese) 的重要产地。
+
+桑娇维塞这一名字来源于拉丁语，字面意思是“众神之王朱庇特之血”。罗马涅的桑娇维塞和托斯卡纳著名的基安蒂 (Chianti)、布鲁奈罗 (Brunello di Montalcino) 的桑娇维塞祖先上是同一品种的葡萄。托斯卡纳人认为他们把桑娇维塞推向了世界巅峰，代表了桑娇维塞；而罗马涅人坚信自己才是桑娇维塞的起源地，连名字都是罗马涅人起的。
+
+挑选罗马涅桑娇维塞时，首先认准包括基础级 (Sangiovese di Romagna DOC)、高级 (Superiore) 和珍藏级 (Riserva) 在内的不同等级。然后是产区，其中普雷达皮奥 (Predappio) 名气最大。
+
+在罗马涅的酒庄中，领头羊 https://www.zerbina.com/[Fattoria Zerbina] 是意大利的顶级名庄之一。庄主 Cristina Geminiani 是意大利最受尊敬的女性酿酒师之一。
+
+[[romagna-albana-docg]]
+=== 罗马涅的阿尔巴纳 (Romagna Albana DOCG)
+
+罗马涅地区葡萄酒的骄傲是**阿尔巴纳**白葡萄酒 (Romagna Albana DOCG)。这款酒有包括传统的微泡 (Frizzante) 等多种形式。不过，**风干甜酒** (Passito) 和珍藏风干甜酒 (Passito Riserva) 才是最高形式，
+
+在 1987 年，罗马涅的阿尔巴纳成为意大利历史上第一个获得最高分级 (DOCG) 的产区白葡萄酒。这打破了当时“只有红葡萄酒才配得上顶级评价”的固有印象。阿尔巴纳的金色葡萄皮极厚且含有远高于其他品种的单宁。所以，罗马涅的阿尔巴纳兼具白葡萄酒的清爽和红葡萄酒的单宁，是唯一的有着红酒之魂的白葡萄酒。
+
+不得不再次提到 Fattoria Zerbina 酒庄，它的风干甜酒被公认为意大利甜葡萄酒的巅峰之作。其 https://www.zerbina.com/en/wines/scacco-matto-romagna-albana-passito-docg/[Scacco Matto] 和 https://www.zerbina.com/en/wines/ar-romagna-albana-passito-riserva-docg/[AR] 都是全球甜酒金字塔顶端的一员。
+
+[[where-to-drink-wines]]
+== 博洛尼亚去哪里喝葡萄酒
+
+这里我们特意在小酒馆 (Osteria)，葡萄酒吧 (Wine Bar) 中各选了一家代表性的凑出了一份打卡清单。
+
+=== Osteria del Sole
+
+https://www.osteriadelsole.it/[Osteria del Sole] 是博洛尼亚最古老的酒馆，可以说是葡萄酒爱好者的朝圣地。自 1465 年起，它就在同一个位置营业，从未间断。不仅如此，这家酒馆还因其独特的传统而闻名：这里只卖酒，谢绝不喝酒的客人；不提供食物，欢迎客人自带食物。
+
+店内保留了几个世纪前的原貌，木质家具陈旧，墙上挂满了老照片和海报，散发着不修边幅的市井气息。
+
+这里不仅是游客的打卡地，也是当地人聚会的热门场所。最地道的体验方式是去附近的 https://www.tamburini.com/[Tamburini] 或者 https://salumeriasimoni.it/[Salumeria Simoni] 买点莫塔德拉香肠、帕马森干酪和圆形烙饼 (Tigella)。走进 Osteria del Sole 酒馆，找个空位坐下，点一杯冰镇的 Pignoletto Frizzante 或 Lambrusco 来喝。
+
+=== Enoteca Storica Faccioli
+
+葡萄酒吧 https://www.enotecastoricafaccioli.it/en/[Enoteca Storica Faccioli] 始于 1924 年，是博洛尼亚历史最悠久的葡萄酒吧之一。现在这家葡萄酒吧以专注自然酒 (Nature Wine) 闻名。喜欢自然酒或者想体验自然酒，这家绝对是不二之选。
+
+如果想尝尝当地顶级的自然酒，可以找找 La Stoppa 酒庄的 Ageno 自然橙酒 (Orange Wine)，是意大利乃至全球“殿堂级”的自然橙酒。如果没有找到，可以看看 Camillo Donati 酒庄的兰布鲁斯科。相比顶级波尔多和勃艮第的价格，自然酒的价位相当亲民。如果恰好有 375ml 的半瓶装，对于游客就更合适了。
