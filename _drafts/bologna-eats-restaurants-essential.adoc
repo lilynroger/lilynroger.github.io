@@ -1,0 +1,141 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-eats-restaurants/tagliatelle-al-ragu-4x3-1200.avif
+  alt: 博洛尼亚 (Bologna) 的肉酱宽面 (Tagliatelle al Ragù)
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-eats-restaurants/tagliatelle-al-ragu-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-eats-restaurants/tagliatelle-al-ragu-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 13:00:00 +0100
+date_modified: 2026-06-15 13:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
+tagline: 冷切拼盘、肉酱宽面、炸肉排
+---
+= 博洛尼亚 (Bologna) 的必吃美食和餐馆
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-eats-restaurants/
+
+我们在博洛尼亚 (Bologna) 的游览时间有限，为了完美打卡这座“胖子之城”，特意准备了这篇实用的博洛尼亚必吃美食和必打卡餐馆的清单。
+
+toc::[]
+
+[[must-eat]]
+== 核心美食
+
+把“冷切拼盘、肉酱宽面、炸肉排”写进你的博洛尼亚必吃美食清单：
+
+* 前菜 (Antipasti): 冷切拼盘配炸油饼 (Tagliere di Salumi e Crescentine)
+* 第一道正餐 (Primi Piatti): 博洛尼亚肉酱宽面 (Tagliatelle al Ragù)
+* 第二道正餐 (Secondi Piatti): 博洛尼亚炸肉排 (Cotoletta alla Bolognese)
+
+[[tagliere-di-salumi-e-crescentine]]
+=== 冷切拼盘配炸油饼 (Tagliere di Salumi e Crescentine)
+
+冷切拼盘配炸油饼是博洛尼亚的“前菜之王”。它通常包括：
+
+* Mortadella Bologna IGP: 切成薄片的博洛尼亚莫塔代拉香肠
+* Prosciutto di Parma: 帕尔马火腿
+* Squacquerone: 一种乳白色、质地极软、带有清爽酸奶味的奶酪，
+* Crescentine: 一篮刚出锅的、小枕头形状、中间鼓起的炸油饼
+
+莫塔代拉是博洛尼亚冷切拼盘中必不可少的。这种粉红色的巨型香肠在博洛尼亚是无处不在的百搭，无论是冷切的薄片、小饺子 (Tortellini) 的馅料、还是切成小块的下酒菜。莫塔代拉与博洛尼亚的联系如此紧密，以至于世界各地的很多地方直接用 Bologna 作为这种香肠的名字。
+
+那种乳白色软奶酪 Squacquerone 的字面意思是“稀烂的”。正宗的 Squacquerone di Romagna 是艾米利亚-罗马涅大区最著名的软奶酪，受原产地保护 (DOP)。由于它水分极高且不经过陈年，保质期非常短（通常只有 4-5 天）。在餐厅看到它，这一定是当地产的。在意大利境外是很难见到的。
+
+地道的吃冷切拼盘配炸油饼的方式是，把炸油饼趁热用手撕开，抹上清凉的软奶酪，把冷切塞进去吃。
+
+在一些餐馆中，也可能不用炸油饼配冷切，而是用一种叫做 Tigella 的表面烙有六瓣花纹的圆形烙饼。这种饼需要横向切开，抹上软奶酪，像肉夹馍一样把冷切肉塞进去一起吃。
+
+此外，博洛尼亚的冷切拼盘中也可能有其它冷切肉：
+
+* Salame Rosa: 一种粉色的博洛尼亚特有的、介于香肠和火腿之间的熟肉
+* Coppa di Testa: 意式猪头肉
+* Pancetta: 意式五花肉
+* Lardo: 意式背膘，风干猪油
+
+[[tagliatelle-al-ragu]]
+=== 博洛尼亚肉酱宽面 (Tagliatelle al Ragù)
+
+博洛尼亚肉酱宽面是博洛尼亚在全球美食界的“名片”。它包含了博洛尼亚两项美食精髓：
+
+* 手工擀制的黄色鸡蛋面皮 (Sfoglia) 切成的宽面 (Tagliatelle)
+* 牛肉和猪五花肉慢火细熬的博洛尼亚肉酱 (Ragù alla Bolognese)
+
+有趣的是，遍布全世界的所谓“博洛尼亚细意面” (Spaghetti alla Bolognese) 就是博洛尼亚肉酱宽面的山寨货。据说是二战期间在意大利的英美士兵爱上了博洛尼亚肉酱宽面，回到家乡后他们用最容易买到的细意面 (Spaghetti) 来搭配，后来竟成了最著名的“意大利菜”之一。
+
+在博洛尼亚人看来，只有手工擀制的宽面才能能完美吸附肉酱，所以 Ragù 肉酱必须搭配 Tagliatelle 手工宽面。
+
+[[cotoletta-alla-bolognese]]
+=== 博洛尼亚炸肉排 (Cotoletta alla Bolognese)
+
+裹着面包粉的小牛肉炸至金黄酥脆，铺上一层薄薄的帕尔马火腿 (Prosciutto di Parma)，堆上切碎的帕玛森奶酪 (Parmigiano Reggiano)，最后用肉汤将奶酪蒸至融化裹住肉排。
+
+博洛尼亚炸肉排是博洛尼亚“硬菜”的代表。一道菜中集齐了该地区最顶级的食材，不论是否适合你的中国胃，都非常值得体验。
+
+博洛尼亚炸肉排的还有个传统名字“佩特罗尼阿娜肉排” (Cotoletta Petroniana)，有时你在菜单上看到的是这个名字。它源自圣佩特罗尼奥 (San Petronio)，公元五世纪时的博洛尼亚主教及首席守护圣人。位于市中心马焦雷广场的圣佩特罗尼奥大教堂也是以他的名字命名的。
+
+[[tortellini-in-brodo]]
+=== 博洛尼亚的小饺子 (Tortellini in Brodo)
+
+除了博洛尼亚肉酱宽面，如果有机会，也不要错过另外两个代表性的博洛尼亚意面。它们都是用博洛尼亚人引以为傲的手工擀制的黄色鸡蛋面皮 (Sfoglia) 制作的。名叫 Tortellini 的小饺子就是其中之一。
+
+不同于常见的用乳酪和菠菜做馅的 Ravioli 意大利饺，博洛尼亚的小饺子馅料以肉类为主，通常包括猪肉，帕尔马火腿和莫塔代拉大香肠。在博洛尼亚，这种小饺子号称“面食之王”。和我们北方的饺子一样，是当地人节庆日必备的美食。
+
+博洛尼亚的小饺子非常袖珍，一个勺子能放下好几个。形状更像馄饨，博洛尼亚称为“维纳斯的肚脐”。盛在用鸡肉和牛肉熬制的清澈见底的高汤里，是小饺子的正宗吃法。
+
+如果你在博洛尼亚住的是有厨房的公寓，可以去老字号的 Paolo Atti & Figli 面点铺子买小饺子，自己下厨煮来当早餐。
+
+博洛尼亚还有另一种饺子，名字只有一个字母之差。
+
+* Tortell**i**ni 是“小”饺子；
+* Tortell**o**ni 是“大”饺子。
+
+两种饺子形状一样，大小相差得多。更重要的是大饺子是菠菜奶酪馅的，和 Raviolli 方饺子类似。
+
+[[lasagna-alla-bolognese]]
+=== 博洛尼亚的绿色千层面 (Lasagne alla Bolognese)
+
+博洛尼亚风味的千层面是在手工擀制的鸡蛋面中，加入菠菜，使得面皮 (Sfoglia) 呈绿色。面皮层层叠加博洛尼亚肉酱 (Ragù)，贝夏梅尔酱 (Béchamel) 和帕玛森奶酪 (Parmigiano Reggiano)，成为博洛尼亚的绿色千层面。
+
+其中贝夏梅尔酱 (Béchamel) 由黄油、面粉和牛奶熬成，通常加入肉豆蔻 (Nutmeg) 调味，俗称白酱，是博洛尼亚的绿色千层面的“灵魂”。
+
+[[trattoria-osteria]]
+== 传统小馆
+
+在博洛尼亚体验最地道的传统美食，不是去那些专注精致餐饮 (Fine Dining) 的米其林餐厅或者现代的简餐餐厅 (Bistrot)，而是要去传统小馆。在街头随处可见传统小馆的两种招牌：
+
+* Trattoria: 通常是家庭经营的小餐馆，主打“奶奶的味道”。
+* Osteria: 历史更悠久，最初它们是只卖酒的地方。
+
+现如今，二者之间的界限已经模糊了。许多 Osteria 也提供简单的冷盘和招牌意面，但整体风格比 Trattoria 更随性、更强调小酌。
+
+=== All'Osteria Bottega
+
+https://www.osteriabottega.com/[All'Osteria Bottega] 是博洛尼亚的美食名片，在 2026 年获意大利《红虾指南》传统小馆最高荣誉“三只虾”。
+
+这家定位更偏向于“精品餐厅式的小馆”，属于最贵的传统小馆之一。想吃肉酱面，小饺子和顶级的炸牛排的话，就选这家。
+
+=== Trattoria di Via Serra
+
+https://www.trattoriadiviaserra.it/[Trattoria di Via Serra] 是一家性价比相对更好，且口碑极好的传统小馆，曾获意大利《红虾指南》传统小馆最高荣誉“三只虾” (Tre Gamberi)，同时又是米其林必比登 (Bib Gourmand) 推荐餐厅。
+
+这家店有包括肉酱面，小饺子，绿色千层面在内的各种意面。他家的冷切拼盘配的是圆形烙饼 (Tigella)。
+
+这家店唯一的缺点是地处火车站背后，稍微有点偏。如果乘火车抵达博洛尼亚，建议直接去打卡，从北侧出站步行五分钟就到了。吃完之后，最好的意式冰淇淋店之一 Stefino Gelato Biologico 就在旁边，一次可以打卡两家店。
+
+=== Trattoria da Me
+
+http://www.trattoriadame.it/[Trattoria da Me] 也是一家颇有历史的传统小馆，创立于 1937 年。除了老店之外，还开了一家新店 (Trattoria Da Me Nella Torre)。
+
+这家店的冷切拼盘配的是炸油饼 (Crescentine)。
+
+=== Sfoglia Rina
+
+https://www.sfogliarina.it/en/[Sfoglia Rina] 是博洛尼亚最火的现代面食店，高性价比的选择。位于市中心的双塔旁 (Le due Torri)，名店 Paolo Atti & Figli 和 Tamburini 都在附近。**不接受预定**，不想排队要避开饭点。
+
