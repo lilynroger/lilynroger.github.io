@@ -1,0 +1,39 @@
+{% comment %}
+Component: _card.html
+Input: include.item (Post/Page object), include.horizontal (Boolean)
+{% endcomment %}
+{% if include.horizontal %}
+<article class="card overflow-hidden">
+  <div class="row g-0 align-items-center">
+    <div class="col-md-5">
+      <div class="ratio ratio-4x3">
+        {% include _card-img.html image=include.item.image %}
+      </div>
+    </div>
+    <div class="col-md-7">
+      <div class="card-body">
+        <h3 class="card-title">
+          <a href="{{ include.item.url | relative_url }}" class="stretched-link text-body text-decoration-none">
+            {{ include.item.title }}
+          </a>
+        </h3>
+        <p class="card-text text-body-secondary">{{ include.item.tagline }}</p>
+      </div>
+    </div>
+  </div>
+</article>
+{% else %}
+<article class="card h-100 overflow-hidden">
+  <div class="ratio ratio-4x3">
+    {% include _card-img.html image=include.item.image %}
+  </div>
+  <div class="card-body">
+    <h3 class="card-title">
+      <a href="{{ include.item.url | relative_url }}" class="stretched-link text-body text-decoration-none">
+        {{ include.item.title }}
+      </a>
+    </h3>
+    <p class="card-text text-body-secondary">{{ include.item.tagline }}</p>
+  </div>
+</article>
+{% endif %}

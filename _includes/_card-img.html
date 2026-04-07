@@ -1,0 +1,13 @@
+{% comment %}
+  Component: _card-img.html
+  Input: include.image (Object) - must contain .path
+  Assumption: image.path is a 1200px wide 4:3 CDN image.
+{% endcomment %}
+<div class="w-100 h-100 overflow-hidden position-absolute top-0 start-0">
+  <img 
+    src="{{ include.image.path }}" 
+    alt="{{ include.image.alt | default: '' }}" 
+    class="object-fit-cover w-100 h-100 card-img-zoom"
+    loading="lazy"
+  >
+</div>

@@ -1,0 +1,48 @@
+{% comment %}
+Component: related-grid.html
+Input: related_items (Array)
+{% endcomment %}
+
+{% assign total_items = related_items.size %}
+
+<aside class="related my-5" aria-label="延伸阅读">
+  {% if total_items == 1 %}
+  {% include _card.html item=related_items.first horizontal=true %}
+  {% else %}
+  <div class="row g-4 justify-content-center">
+    {% for item in related_items %}
+    <div class="col-12 col-md-6">
+      {% include _card.html item=item %}
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+</aside>
+
+<style>
+  aside.related {
+    .card {
+      border-radius: 0;
+    }
+
+    .card-title {
+      font-size: 1em;
+      margin-top: 1em;
+      margin-bottom: 1em;
+      /* $spacer is the default for level 3 */
+    }
+
+    .card-text {
+      font-size: 0.8em;
+    }
+
+    .card-img-zoom {
+      transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+      transform: scale(1);
+    }
+
+    .card:hover .card-img-zoom {
+      transform: scale(1.08);
+    }
+  }
+</style>
