@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-15 12:00:00 +0100
-date_modified: 2026-06-15 12:00:00 +0100
+date: 2026-06-15 07:30:00 +0100
+date_modified: 2026-06-15 07:30:00 +0100
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
 tagline: 打卡 Tamburini, Simoni, Gilberto, Pioggia
 description: 意大利语中的 Drogheria 是杂货铺的意思，而 Salumeria 就是熟食店。这篇攻略是我们在博洛尼亚老城区的杂货铺和熟食店的打卡清单。
@@ -23,7 +23,7 @@ description: 意大利语中的 Drogheria 是杂货铺的意思，而 Salumeria 
 :imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-groceries/
 
 [.lead]
-博洛尼亚是意大利的美食之都，那个响亮的外号“胖子之城”可以证明。博洛尼亚的美味，并不只在餐厅和酒馆里，那些在老城深巷中、世代相传的熟食店 (Salumeria) 和杂货铺 (Drogheria) 更是博洛尼亚人的最爱。
+博洛尼亚是意大利的美食之都，那个响亮的外号“胖子之城”可以证明。博洛尼亚的美味，并不只在餐厅和酒馆里，那些在老城深巷中、世代相传的熟食店和杂货铺更是博洛尼亚人的最爱。
 
 意大利语 _Salumeria_ 的意思是熟食店，而 _Drogheria_ 就是杂货铺。这篇攻略是我们在博洛尼亚老城区的杂货铺和熟食店的打卡清单。
 
