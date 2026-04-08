@@ -1,0 +1,115 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pastries-bakeries/breads-at-paolo-atti-figli-4x3-1200.avif
+  alt: 在博洛尼亚老字号 Paolo Atti & Figli 烘焙坊橱窗中的各色传统面包
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pastries-bakeries/breads-at-paolo-atti-figli-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pastries-bakeries/breads-at-paolo-atti-figli-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 08:50:00 +0100
+date_modified: 2026-06-15 08:50:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
+tagline: 面包，蛋糕，饼干，还有“女巫”
+---
+= 博洛尼亚 (Bologna) 的烘焙面点和烘焙坊
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pastries-bakeries/
+
+[.lead]
+想尝尝当地的特色面包和点心？这篇攻略将带你认识博洛尼亚 (Bologna) 常见的传统烘焙面点，还有必打卡的烘焙坊。
+
+toc::[]
+
+[[pastries]]
+== 面包和点心
+
+首先是博洛尼亚的烘培店里常见的面包和点心，有一些是当地特色，有一些虽然发源于周边地区，但已经完全融入当地的美食文化之中。
+
+[[crescenta-bolognese]]
+=== 博洛尼亚扁面包 (Crescenta Bolognese)
+
+Crescenta 是一种表面金黄、多孔的扁面包，常常切成方块。
+
+因为外形很像意大利常见的佛卡夏 (Focaccia) 面包，所以 Crescenta 有时会被**错误地**称为“博洛尼亚佛卡夏”。实际上 Crescenta 和 Focaccia 有着很重要的不同：
+
+* Focaccia 面里加的是橄榄油，而 Crescenta 则用猪油；
+* Crescenta 里面会嵌入帕尔马火腿丁 (Prosciutto) 或猪油渣 (Ciccioli)。
+
+此外，也不要将 Crescenta 与那种小枕头形状的炸油饼 Crescentine 相混淆。虽然词根相同，字面意思都是指“长大的”。但是在博洛尼亚美食的语境下，前者 (Crescenta) 是烤的，后者 (Crescentine) 是炸的。
+
+可惜 Crescenta 还没有准确的中文名字。音译的话，大体上可以叫“克雷申塔”。在博洛尼亚，如果叫它 Focaccia 的话，也许还会被店员礼貌地纠正。不妨记住 Crescenta 这个“真名”。
+
+[[pane-di-pasta-dura]]
+=== 硬面面包 (Pane di Pasta Dura)
+
+博洛尼亚的硬面面包是传承百年的传统技艺。这种面包含水量极低，质地紧致，有猪油带来的油脂香气。这些面包会被做成不同的造型，每种造型都有名字，比如像花朵一样的“石竹花” (Garofano)，还有最经典的“小十字” (Crocetta) 造型。
+
+博洛尼亚硬面面包非常适合搭配现切的莫塔德拉大香肠薄片。因为这种面包够结实，也非常适合用来蘸上盘子里剩余的博洛尼亚肉酱 (Ragù) 来吃。
+
+[[streghe]]
+=== 女巫薄脆 (Streghe)
+
+这是博洛尼亚特有的咸味薄脆饼，由面片烤制而成，口感酥脆，表面撒有粗盐粒和橄榄油。其意大利语名字 Streghe 的意思就是“女巫”。
+
+据说在烤箱发明之前，面包师为了掌握木柴烤炉的温度，会切下一小块面团，擀得极薄，刷上油盐丢进炉内。如果炉温过高，面片会被烤焦。面包师们将这些烤焦的面片比作历史上被绑在火刑柱上处死的女巫。
+
+原本这些薄脆只是面包师们自己的零食，现在已经是博洛尼亚的标志性面食之一，是全城开胃酒 (Aperitivo) 的标配小吃。
+
+[[coppia-ferrarese]]
+=== 费拉拉扭结面包 (Coppia Ferrarese)
+
+费拉拉扭结面包大概是意大利乃至全世界造型最奇特、最具辨识度的面包之一。这种面包由两个对称的 C 形面团交叉而成，形成四个扭曲的尖角。名字中的 Coppia 在意大利语中意思是“一对”。
+
+费拉拉扭结面包并非博洛尼亚本地特产，而是起源于附近的城市费拉拉 (Ferrara)。在博洛尼亚的传统烘焙店 (Forno) 中，这种面包也极其常见，只是通常不叫这个名字。这是因为费拉拉扭结面包的正式名字 Coppia Ferrarese IGP 享有**地理标志保护**。比如古老的 Paolo Atti & Figli 烘焙坊经典的小十字 (Crocetta) 硬面面包和费拉拉扭结面包本质上是一样的，只是不能叫 Coppia 这个名字。
+
+[[torta-di-riso]]
+=== 大米蛋糕 (Torta di Riso)
+
+大米蛋糕 (Torta di Riso) 是博洛尼亚最著名的传统家常甜点，核心配料是大米，鸡蛋，杏仁。并且带有柠檬和橙子的香气。
+
+它的别名是“装饰节蛋糕” (Torta degli Addobbi)，源于博洛尼亚 13 世纪的一个宗教传统。当时博洛尼亚的教区每十年会举行一次盛大的庆典，居民会在窗户上挂满红金两色的织物做装饰。每家每户都会敞开大门迎接邻居和朝圣者，并奉上这种米蛋糕。
+
+[[raviole-di-san-giuseppe]]
+=== 博洛尼亚饼干 (Raviole Bolognesi)
+
+博洛尼亚饼干 (Raviole Bolognesi) 是一种半月形的饼干，内部填满了黑色的博洛尼亚特产芥末果酱 (Mostarda Bolognese)。因为这种饼干是春季的圣朱塞佩节 (Festa di San Giuseppe) 的节庆点心，所以也叫圣朱塞佩饼干 (Raviole di San Giuseppe)。
+
+需要注意的是，博洛尼亚饼干的名字 Raviole 和意大利饺的名字 Ravioli 只有最后一个字母不同，不要混淆。而且，这也不是巧合，而是源自二者之间的一个相似点：意大利饺是面皮中间夹上馅；博洛尼亚饼干也是在圆形的面饼，中间放上一勺李子酱，然后像饺子一样从中间折起来而成。
+
+博洛尼亚饼干是当地最经典的早餐搭档，非常适合蘸着意式浓缩咖啡食用。还有一种更传统、更具仪式感的吃法：蘸着本地的红酒吃。
+
+[[torta-di-tagliatelle]]
+=== 宽面蛋糕 (Torta di Tagliatelle)
+
+这是博洛尼亚最独特的创意之一。在甜味饼底上真的铺了一层 Tagliatelle 宽鸡蛋面。面条在烘烤后变得酥脆，配上杏仁碎，极具视觉冲击力。
+
+[[bakeries]]
+== 烘焙店
+
+我们在博洛尼亚选择了一新一老两家店体验烘焙。
+
+[[paolo-atti-figli]]
+=== Paolo Atti & Figli
+
+Paolo Atti & Figli 博洛尼亚 (Bologna) 最古老的传统面包坊。它的历史可追溯至 1868 年，是意大利官方认证的历史名店。哪怕不买，也值得进去感受一下 19 世纪的烘焙店氛围。
+
+++++
+{% related slugs="bologna-paolo-atti-figli-bakery-tradition" %}
+++++
+
+[[forno-brisa]]
+=== Forno Brisa 
+
+Forno Brisa 是博洛尼亚新派烘焙的代表。他们的天然酵母面包 (Sourdough) 和精品咖啡受到美食家的肯定和当地人，特别是年轻人的热捧。连续多年获得意大利《红虾指南》的多项最高荣誉。
+
+Forno Brisa 的明星产品有：
+
+* Pizza in Teglia: 方块切片称重披萨
+* Pistachio Croissant: 开心果牛角包
+* Jikawa Papua Nuova Guinea: 在 2026 年《红虾指南》中首次夺得“三个磨豆机”最高奖项的单品咖啡豆。
