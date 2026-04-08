@@ -1,295 +1,358 @@
+$orange: #FFA500;
 $paragraph-margin-bottom: 1.5rem;
 $line-height-base: 1.7;
 
 .post-content {
 
-    h1>a.anchor,
-    h2>a.anchor,
-    h3>a.anchor,
-    h4>a.anchor,
-    h5>a.anchor,
-    h6>a.anchor {
-        position: absolute;
-        z-index: 1001;
-        width: 1.5ex;
-        margin-left: -1.5ex;
-        display: block;
-        text-decoration: none !important;
-        visibility: hidden;
-        text-align: center;
-        font-weight: 400;
-    }
+  h1>a.anchor,
+  h2>a.anchor,
+  h3>a.anchor,
+  h4>a.anchor,
+  h5>a.anchor,
+  h6>a.anchor {
+    position: absolute;
+    z-index: 1001;
+    width: 1.5ex;
+    margin-left: -1.5ex;
+    display: block;
+    text-decoration: none !important;
+    visibility: hidden;
+    text-align: center;
+    font-weight: 400;
+  }
 
-    h1>a.anchor::before,
-    h2>a.anchor::before,
-    h3>a.anchor::before,
-    h4>a.anchor::before,
-    h5>a.anchor::before,
-    h6>a.anchor::before {
-        content: "\00A7";
-        font-size: 0.85em;
-        display: block;
-        padding-top: 0.1em;
-    }
+  h1>a.anchor::before,
+  h2>a.anchor::before,
+  h3>a.anchor::before,
+  h4>a.anchor::before,
+  h5>a.anchor::before,
+  h6>a.anchor::before {
+    content: "\00A7";
+    font-size: 0.85em;
+    display: block;
+    padding-top: 0.1em;
+  }
 
-    h1:hover>a.anchor,
-    h1>a.anchor:hover,
-    h2:hover>a.anchor,
-    h2>a.anchor:hover,
-    h3:hover>a.anchor,
-    h3>a.anchor:hover,
-    h4:hover>a.anchor,
-    h4>a.anchor:hover,
-    h5:hover>a.anchor,
-    h5>a.anchor:hover,
-    h6:hover>a.anchor,
-    h6>a.anchor:hover {
-        visibility: visible;
-    }
+  h1:hover>a.anchor,
+  h1>a.anchor:hover,
+  h2:hover>a.anchor,
+  h2>a.anchor:hover,
+  h3:hover>a.anchor,
+  h3>a.anchor:hover,
+  h4:hover>a.anchor,
+  h4>a.anchor:hover,
+  h5:hover>a.anchor,
+  h5>a.anchor:hover,
+  h6:hover>a.anchor,
+  h6>a.anchor:hover {
+    visibility: visible;
+  }
 }
 
 .paragraph,
 .ulist {
-    margin-bottom: 1em;
+  margin-bottom: 1em;
 }
 
 span.icon>.fa {
-    cursor: default;
+  cursor: default;
 }
 
 .admonitionblock {
 
-    td {
-        background-color: #F9F8E8;
-        border-width: 0;
-    }
+  td {
+    background-color: #F9F8E8;
+    border-width: 0;
+  }
 
-    td.content {
-        padding: 1.5em 1em 1.5em 0;
-    }
+  td.content {
+    padding: 1.5em 1em 1.5em 0;
+  }
 
-    td.content .title {
-        font-weight: 400;
-        margin-bottom: var(--spacer-paragraph);
-    }
+  td.content .title {
+    font-weight: 400;
+    margin-bottom: var(--spacer-paragraph);
+  }
 
-    td.icon {
-        vertical-align: top;
-        text-align: center;
-        width: 1em;
-        padding: 1.5em 1em;
-    }
+  td.icon {
+    vertical-align: top;
+    text-align: center;
+    width: 1em;
+    padding: 1.5em 1em;
+  }
 
-    td.icon [class^="fa icon-"] {
-        font-size: 1em;
-        cursor: default;
-    }
+  td.icon [class^="fa icon-"] {
+    font-size: 1em;
+    cursor: default;
+  }
 
-    td.icon .icon-note:before {
-        content: "\f05a";
-        color: #19407c;
-    }
+  td.icon .icon-note:before {
+    content: "\f05a";
+    color: #19407c;
+  }
 
-    td.icon .icon-tip:before {
-        content: "\f0eb";
-        color: #43b929;
-    }
+  td.icon .icon-tip:before {
+    content: "\f0eb";
+    color: #43b929;
+  }
 
-    td.icon .icon-warning:before {
-        content: "\f071";
-        color: #bf6900;
-    }
+  td.icon .icon-warning:before {
+    content: "\f071";
+    color: #bf6900;
+  }
 
-    td.icon .icon-caution:before {
-        content: "\f06d";
-        color: #bf3400;
-    }
+  td.icon .icon-caution:before {
+    content: "\f06d";
+    color: #bf3400;
+  }
 
-    td.icon .icon-important:before {
-        content: "\f06a";
-        color: #bf0000;
-    }
+  td.icon .icon-important:before {
+    content: "\f06a";
+    color: #bf0000;
+  }
 }
 
 .toc {
-    #toctitle {
-        font-weight: bold;
-        line-height: 2em;
-    }
+  #toctitle {
+    font-weight: bold;
+    line-height: 2em;
+  }
 
-    ul {
-        list-style: none;
-    }
+  ul {
+    list-style: none;
+  }
 
-    ul.sectlevel1 {
-        padding-left: 0;
-    }
+  ul.sectlevel1 {
+    padding-left: 0;
+  }
 
-    ul.sectlevel2 {
-        padding-left: 1.5em;
-    }
+  ul.sectlevel2 {
+    padding-left: 1.5em;
+  }
 }
 
 .dlist dd {
-    margin: 0.5em 0.5em 0.5em 1.5em;
+  margin: 0.5em 0.5em 0.5em 1.5em;
 }
 
 p.tableblock {
-    margin: 0;
+  margin: 0;
 }
 
 .tableblock .paragraph:last-of-type {
-    margin-bottom: 0;
-}
-
-.quoteblock {
-    border-left: solid 5px #FFC107;
-    background-color: #F5F5F5;
-    font-style: italic;
+  margin-bottom: 0;
 }
 
 article,
 .article {
 
-    --spacer-paragraph: 1.5rem;
+  --spacer-paragraph: 1.5rem;
 
-    .article-header {
-        margin-bottom: 2.5rem;
+  .article-header {
+    margin-bottom: 2.5rem;
+  }
+
+  .article-body {
+    font-size: 1.125rem;
+    line-height: 1.75;
+
+    // 增加段落呼吸感和提升长文易读性
+    :where(p, ul, ol) {
+      margin-bottom: var(--spacer-paragraph);
     }
 
-    .article-body {
-        font-size: 1.125rem;
-        line-height: 1.75;
-
-        // 增加段落呼吸感和提升长文易读性
-        :where(p, ul, ol) {
-            margin-bottom: var(--spacer-paragraph);
-        }
-
-        :where(li>ul) {
-            // 取消嵌套列表的底部边距
-            margin-bottom: 0;
-        }
-
-        /* 标题边距：上大下小原则 */
-        :where(h2, h3) {
-            margin-top: calc(var(--spacer-paragraph) * 1.5);
-            margin-bottom: var(--spacer-paragraph);
-            font-weight: 500;
-        }
-
-        /* 如果标题紧跟在另一个标题后面（取消重复的大间距） */
-        :where(h2+h3) {
-            margin-top: 1.25rem;
-        }
-
-        :where(a) {
-            text-decoration: none;
-        }
-
-        :where(a:hover) {
-            text-decoration: underline;
-            text-decoration-color: #FFC107;
-            text-decoration-thickness: 2px;
-            text-underline-offset: 2px;
-        }
+    :where(li>ul) {
+      // 取消嵌套列表的底部边距
+      margin-bottom: 0;
     }
 
-    /* 优化 Asciidoctor TOC */
-    .toc .title {
-        margin-bottom: 1rem;
+    /* 标题边距：上大下小原则 */
+    :where(h2, h3) {
+      margin-top: calc(var(--spacer-paragraph) * 1.5);
+      margin-bottom: var(--spacer-paragraph);
+      font-weight: 500;
     }
 
-    td p:last-child {
-        margin-bottom: 0;
+    /* 如果标题紧跟在另一个标题后面（取消重复的大间距） */
+    :where(h2+h3) {
+      margin-top: 1.25rem;
     }
 
-    /* 水平居中 */
-    th.halign-center,
-    td.halign-center {
-        text-align: center;
+    :where(a) {
+      text-decoration: none;
     }
 
-    /* 垂直居中 */
-    th.valign-middle,
-    td.valign-middle {
-        vertical-align: middle;
+    :where(a:hover) {
+      text-decoration: underline;
+      text-decoration-color: #FFC107;
+      text-decoration-thickness: 2px;
+      text-underline-offset: 2px;
     }
+  }
 
-    /* 底部对齐 (对应 . 符号) */
-    th.valign-bottom,
-    td.valign-bottom {
-        vertical-align: bottom;
-    }
+  /* 优化 Asciidoctor TOC */
+  .toc .title {
+    margin-bottom: 1rem;
+  }
 
-    .imageblock,
-    .admonitionblock {
-        /* 图片块和警告块的上下边距比段落间距大 */
-        margin-top: calc(var(--spacer-paragraph) * 1.5);
-        margin-bottom: calc(var(--spacer-paragraph) * 1.5);
-    }
+  td p:last-child {
+    margin-bottom: 0;
+  }
 
-    .figure {
-        /* 覆盖 Bootstrap 默认的 inline-block 定义 */
-        display: block;
+  /* 水平居中 */
+  th.halign-center,
+  td.halign-center {
+    text-align: center;
+  }
 
-        /* 与段落间距保持一致 */
-        margin-bottom: var(--spacer-paragraph);
-    }
+  /* 垂直居中 */
+  th.valign-middle,
+  td.valign-middle {
+    vertical-align: middle;
+  }
 
-    .figure .content {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-    }
+  /* 底部对齐 (对应 . 符号) */
+  th.valign-bottom,
+  td.valign-bottom {
+    vertical-align: bottom;
+  }
 
-    .figure-img {
-        max-width: 100%;
-        height: auto;
-    }
+  .imageblock,
+  .admonitionblock {
+    /* 图片块和警告块的上下边距比段落间距大 */
+    margin-top: calc(var(--spacer-paragraph) * 1.5);
+    margin-bottom: calc(var(--spacer-paragraph) * 1.5);
+  }
 
-    .figure-caption {
-        padding: 0 0 0 1em;
-        border-left: 3px solid #FFC107;
-    }
+  .figure {
+    /* 覆盖 Bootstrap 默认的 inline-block 定义 */
+    display: block;
 
-    .icon img {
-        display: inline-block;
-        height: 1em; // 高度等于当前字体大小 
-        width: auto; // 宽度自动缩放
-        vertical-align: -0.125em; // 微调图标文字对齐
-        fill: currentColor; // 图标颜色继承文本颜色
-    }
+    /* 与段落间距保持一致 */
+    margin-bottom: var(--spacer-paragraph);
+  }
 
-    span.image img {
-        vertical-align: text-bottom;
-    }
+  .figure .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
 
-    strong {
-        font-weight: 700; // 和 Bootstrap 的 <dt> 的权重一致
-    }
+  .figure-img {
+    max-width: 100%;
+    height: auto;
+  }
 
-    .nav-card {
-        transition: all 0.2s ease-in-out;
-    }
+  .figure-caption {
+    padding: 0 0 0 1em;
+    border-left: 3px solid #FFC107;
+  }
 
-    .nav-card:hover {
-        transform: translateY(-2px);
-    }
+  .icon img {
+    display: inline-block;
+    height: 1em; // 高度等于当前字体大小 
+    width: auto; // 宽度自动缩放
+    vertical-align: -0.125em; // 微调图标文字对齐
+    fill: currentColor; // 图标颜色继承文本颜色
+  }
+
+  span.image img {
+    vertical-align: text-bottom;
+  }
+
+  strong {
+    font-weight: 700; // 和 Bootstrap 的 <dt> 的权重一致
+  }
+
+  .nav-card {
+    transition: all 0.2s ease-in-out;
+  }
+
+  .nav-card:hover {
+    transform: translateY(-2px);
+  }
 
 }
 
 
 .post {
-    .halign-right {
-        text-align: right;
-    }
+  .halign-right {
+    text-align: right;
+  }
 }
 
 .citation {
-    vertical-align: super;
-    font-size: 0.75em;
-    color: var(--bs-primary);
-    text-decoration: none;
+  vertical-align: super;
+  font-size: 0.75em;
+  color: var(--bs-primary);
+  text-decoration: none;
+}
+
+aside.related {
+  .card {
+    border-radius: 0;
+  }
+
+  .card-title {
+    font-size: 1em;
+    margin-top: var(--spacer-paragraph);
+    margin-bottom: var(--spacer-paragraph);
+    /* $spacer is the default for level 3 */
+  }
+
+  .card-text {
+    font-size: 0.8em;
+  }
+
+  .card-img-zoom {
+    transition: transform 0.6s cubic-bezier(0.165, 0.84, 0.44, 1);
+    transform: scale(1);
+  }
+
+  .card:hover .card-img-zoom {
+    transform: scale(1.08);
+  }
+}
+
+article {
+  .quoteblock {
+    position: relative;
+    padding: calc(var(--spacer-paragraph) * 1) calc(var(--spacer-paragraph) * 2.5);
+    margin: var(--spacer-paragraph) 0;
+    background: var(--bs-tertiary-bg);
+    overflow: hidden;
+  }
+
+  .quoteblock::before {
+    content: "\201C";
+    position: absolute;
+    left: calc(var(--spacer-paragraph) / 2);
+    top: calc(var(--spacer-paragraph) / 2);
+    font-size: 6em;
+    color: $orange;
+    font-family: Georgia, serif; // 衬线体引号通常更好看
+    line-height: 1;
+    z-index: 0; // Layering: Put it behind the text
+    opacity: 0.25;
+  }
+
+  .quoteblock blockquote {
+    margin: 0;
+    padding: 0;
+    color: var(--bs-body-color);
+    position: relative;  // Ensure the text stays on top of the quote
+    z-index: 1;
+  }
+
+  .quoteblock .attribution {
+    font-style: normal;
+    text-align: right;
+    color: #666;
+  }
+
+  .quoteblock .attribution cite {
+    display: block;
+    font-size: 0.9em;
+  }
 }
