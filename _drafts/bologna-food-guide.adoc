@@ -1,0 +1,154 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-food-guide/sfogline-making-tortellini-bologna-4x3-1200.avif
+  alt: 博洛尼亚的传统面食店中，面食女神们 (Sfogline) 正在手工制作小饺子 (Tortellini)
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-food-guide/sfogline-making-tortellini-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-food-guide/sfogline-making-tortellini-bologna-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 10:00:00 +0100
+date_modified: 2026-06-15 10:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
+tagline: “美食之都”和“胖子之城”
+description: 在博洛尼亚 (Bologna) 吃什么，喝什么，去哪吃？在这座美食之都的餐厅，酒馆，杂货店和市集中，寻找有肉酱面，香肠，小饺子，面包，冰淇淋，巧克力和葡萄酒。
+---
+= 博洛尼亚 (Bologna) 美食完全攻略 (2026)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-food-guide/
+
+[.lead]
+博洛尼亚 (Bologna) 从中世纪开始就被称为“胖子之城” (La Grassa) 不是没有原因的。这篇攻略包含最实用的博洛尼亚美食指南，全方位地涵盖核心美食，以及面包、甜点、冰淇淋、巧克力、葡萄酒等等，还有最值得一去的传统小馆，甚至还有杂货铺和市集。
+
+这篇攻略的篇幅越来越大，所以我们把它变成一份“索引”，方便在游览期间查看和对照。更多深度阅读内容，请点击相关链接。
+
+[quote,博洛尼亚人]
+博洛尼亚人很容易认，看他们的肚子。
+
+toc::[]
+
+[[culinary-capital]]
+== 美食之都
+
+博洛尼亚是的艾米利亚-罗马涅 (Emilia-Romagna) 大区的首府。艾米利亚-罗马涅大区在意大利被称为国家的“美食谷” (https://emiliaromagnaturismo.it/en/food-valley[Food Valley])。这里是全世界拥有最集中的**原产地名称保护** (Denominazione di Origine Protetta, DOP) 和**地理标志保护** (Indicazione Geografica Protetta, IGP) 产品的地区之一。许多享誉全球的意大利特产都诞生于此，比如：
+
+* 博洛尼亚的莫塔代拉香肠 (Mortadella)
+* 摩德纳和雷吉奥·艾米利亚的传统香醋 (Aceto Balsamico Tradizionale di Modena e di Reggio Emilia)
+* 帕玛森奶酪 (Parmigiano Reggiano)
+* 帕尔马火腿 (Prosciutto di Parma)
+
+博洛尼亚它位于大区的中心，坐拥优越的地理位置和周边丰饶的资源，是公认的意大利美食之都。
+
+[[food-restaurants-essential]]
+== 核心美食和传统小馆
+
+如果在博洛尼亚的时间有限，那就把“冷切拼盘、肉酱宽面、炸肉排”写进你的博洛尼亚必吃美食清单：
+
+* 前菜 (Antipasti): 炸面包冷切拼盘 (Tagliere di Salumi e Crescentine)
+* 第一道正餐 (Primi Piatti): 博洛尼亚肉酱宽面 (Tagliatelle al Ragù)
+* 第二道正餐 (Secondi Piatti): 博洛尼亚炸肉排 (Cotoletta alla Bolognese)
+
+在博洛尼亚体验最地道的传统美食，不是去那些专注精致餐饮 (Fine Dining) 的米其林餐厅或者现代的简餐餐厅 (Bistrot)，而是要去传统小馆 (Trattoria / Osteria)。
+
+++++
+{% related slugs="bologna-food-restaurants-essential" %}
+++++
+
+[[wines-of-bologna]]
+== 葡萄酒和酒馆
+
+博洛尼亚深受“美食之都”地位的影响，成为了意大利的酒馆 (Osteria) 文化的中心。这里虽然没有世界顶级的葡萄酒，但却不乏深受本地人爱戴，极具特色的葡萄酒。
+
+* 博洛尼亚的皮尼奥莱托 (Pignoletto di Bologna)
+* 摩德纳的蓝布鲁斯科 (Lambrusco di Modena)
+* 罗马涅的桑娇维塞 (Sangiovese di Romagna)
+* 罗马涅的阿尔巴纳 (Albana di Romagna)
+
+这里我们特意在小酒馆 (Osteria)，葡萄酒吧 (Wine Bar) 中各选了一家代表性的凑出了一份打卡清单。
+
+* Osteria del Sole
+* Enoteca Storica Faccioli
+
+++++
+{% related slugs="bologna-wines" %}
+++++
+
+[[pastries-bakeries]]
+== 烘焙面点和烘焙坊
+
+我们在博洛尼亚住的是有厨房的公寓，当然要去烘焙坊买面包和甜点。
+
+++++
+{% related slugs="bologna-pastries-bakeries" %}
+++++
+
+[[gelato-gelaterie]]
+== 意式冰淇淋
+
+博洛尼亚 (Bologna) 成为“胖子之城”，意式冰淇淋 (Gelato) 恐怕“功劳”也不小。它是公认的“意式冰淇淋之都” (Città del Gelato)，拥有意大利最密集的顶级冰淇淋店。
+
+这里是冰淇淋店的打卡清单：
+
+* Cremeria Scirocco
+* Stefino Gelato Biologico
+* Cremeria Santo Stefano
+* Maritozzi e Gelato di Barbara e Renato
+
+++++
+{% related slugs="bologna-gelato-guide" %}
+++++
+
+[[street-food]]
+== 街头小吃
+
+如果你在博洛尼亚寻找一种可以边走边吃、价格亲民的午餐，罗马涅地区 (Romagna) 的特色**皮亚迪纳**饼 (Piadina) 是首选。这种烫面薄饼的吃法是对折起来包上馅料吃。经典的馅料是帕尔马火腿 (Prosciutto di Parma) 和芝麻菜 (Rucola)，加上乳白色的 Squacquerone 软奶酪。
+
+下面是几家用户评价不错，且比较容易去的 Piadina 店，路过某一个的时候不妨顺便尝尝。
+
+* La Tua Piadina: 靠近必打卡的人称“七教堂”的圣斯特凡诺圣殿 (Basilica Santuario Santo Stefano)。
+* Piadineria la Piadeina: 在必打卡的四方区 (Quadrilatero) 内。
+* Sfarinà: 在著名的香草市场 (Mercato delle Erbe) 内。
+
+[[majani-chocolate]]
+== 马亚尼巧克力
+
+博洛尼亚的**马亚尼** (https://majani.com/[Majani 1796]) 是意大利最古老的巧克力制造商。在意大利，博洛尼亚与都灵齐名，都是巧克力爱好者的朝圣地。
+
+Majani 最著名的巧克力产品是**菲亚特夹心巧克力** (Fiat Cremino)。
+
+Cremino 是意大利最具代表性的夹心巧克力之一。经典的 Cremino 是三层的。外面两层是由巧克力和榛子酱混合而成，叫做 Gianduja 的一种意大利特产；夹心层是榛子酱、杏仁膏、咖啡或柠檬等不同风味的奶油层。虽然 Cremino 起源于都灵，但 Majani 在 1911 年为菲亚特汽车创作的联名款巧克力 Fiat Cremino 是其中的传奇。这款独特的巧克力由四层交替的 Gianduja 和杏仁膏组成，是博洛尼亚最著名的特产之一。
+
+Majani 还推出了外形酷似博洛尼亚的小饺子的 Chocolate Tortellino 巧克力。外壳比较硬，内馅则是绵密的巧克力奶油。
+
+要购买 Majani 的巧克力，一定要去它位于 Via de' Carbonesi 街的老店 (Majani 1796 Cioccolato: Negozio Storico)。从 1830 年起，这家老店就在此经营。始终保持着那个时代的优雅陈设。
+
+[[groceries]]
+== 熟食店和杂货铺
+
+博洛尼亚的美味，并不只在餐厅和酒馆里，那些在老城深巷中、世代相传的熟食店和杂货铺更是博洛尼亚人的最爱。错过它们，博洛尼亚的美食之旅就是不完整的。我们的打卡清单里有：
+
+* 坦布里尼 (Tamburini)
+* 西蒙尼 (Salumeria Simoni)
+* 吉尔伯托 (Drogheria Gilberto)
+* 雨中杂货铺 (Drogheria della Pioggia)
+
+前面三家都在四方区的核心位置，咫尺之遥，非常方便打卡。雨中杂货铺稍远一点。
+
+++++
+{% related slugs="bologna-groceries-guide" %}
+++++
+
+[[markets]]
+== 市集
+
+在旅行中，我们一向喜欢体验一个城市的市场，特别是农夫市集 (Farmer's Market)。博洛尼亚的市集，更是其美食文化的完美缩影。我的打卡清单中有百年老店云集的四方区 (Quadrilatero)，最大的传统菜市场香草市场 (Mercato delle Erbe) 和情怀拉满的重现市集 (Mercato Ritrovato)。
+
+++++
+{% related slugs="bologna-markets-guide" %}
+++++
+
