@@ -9,26 +9,26 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-15 13:00:00 +0100
-date_modified: 2026-06-15 13:00:00 +0100
+date: 2026-06-15 09:30:00 +0100
+date_modified: 2026-06-15 09:30:00 +0100
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
-tagline: 冷切拼盘、肉酱宽面、炸肉排
+tagline: 冷切拼盘、肉酱宽面、炸肉排、小饺子
 ---
-= 博洛尼亚 (Bologna) 的必吃美食和餐馆
+= 博洛尼亚 (Bologna) 的必吃美食和传统小馆
 :page-liquid: true
 :toc: macro
 :toclevels: 2
 :sectnums:
-:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-eats-restaurants/
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-food-restaurants/
 
-我们在博洛尼亚 (Bologna) 的游览时间有限，为了完美打卡这座“胖子之城”，特意准备了这篇实用的博洛尼亚必吃美食和必打卡餐馆的清单。
+我们在博洛尼亚 (Bologna) 的游览时间有限，为了完美打卡这座“胖子之城”，特意准备了这篇实用的博洛尼亚必吃美食和必打卡传统小馆的清单。
 
 toc::[]
 
 [[must-eat]]
-== 核心美食
+== 必吃美食
 
-把“冷切拼盘、肉酱宽面、炸肉排”写进你的博洛尼亚必吃美食清单：
+在我们的博洛尼亚必吃美食清单中有“冷切拼盘、肉酱宽面、炸肉排”：
 
 * 前菜 (Antipasti): 冷切拼盘配炸油饼 (Tagliere di Salumi e Crescentine)
 * 第一道正餐 (Primi Piatti): 博洛尼亚肉酱宽面 (Tagliatelle al Ragù)
@@ -58,6 +58,10 @@ toc::[]
 * Coppa di Testa: 意式猪头肉
 * Pancetta: 意式五花肉
 * Lardo: 意式背膘，风干猪油
+
+++++
+{% related slugs="bologna-antipasti-tagliere-salumi-formaggi" %}
+++++
 
 [[tagliatelle-al-ragu]]
 === 博洛尼亚肉酱宽面 (Tagliatelle al Ragù)
@@ -97,6 +101,10 @@ toc::[]
 * Tortell**o**ni 是“大”饺子。
 
 两种饺子形状一样，大小相差得多。更重要的是大饺子是菠菜奶酪馅的，和 Raviolli 方饺子类似。
+
+++++
+{% related slugs="bologna-tortellini-authentic-food-guide,bologna-paolo-atti-figli-bakery-tradition" %}
+++++
 
 [[lasagna-alla-bolognese]]
 === 博洛尼亚的绿色千层面 (Lasagne alla Bolognese)
