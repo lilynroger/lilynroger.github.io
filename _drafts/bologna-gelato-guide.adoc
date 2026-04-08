@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-15 12:00:00 +0100
-date_modified: 2026-06-15 12:00:00 +0100
+date: 2026-06-15 08:00:00 +0100
+date_modified: 2026-06-15 08:00:00 +0100
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
 tagline: 这里不仅有肉酱面，还有顶级的意式冰淇淋
 description: 博洛尼亚 (Bologna) 是是公认的“意式冰淇淋之都” (Città del Gelato)，常年拥有多家权威的《红虾指南》评选的顶级意式冰淇淋店铺。

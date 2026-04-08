@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-15 12:00:00 +0100
-date_modified: 2026-06-15 12:00:00 +0100
+date: 2026-06-15 05:00:00 +0100
+date_modified: 2026-06-15 05:00:00 +0100
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
 tagline: 香肠，火腿，奶酪，面食
 description: 这是一篇关于在意大利城市博洛尼亚 (Bologna) 的餐前菜 (Antipasti) 和木板冷切拼盘 (Tagliere) 中的所包含的香肠，火腿，奶酪和搭配的面食的指南。

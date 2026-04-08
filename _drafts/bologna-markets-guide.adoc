@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-15 12:00:00 +0100
-date_modified: 2026-06-15 12:00:00 +0100
+date: 2026-06-15 07:00:00 +0100
+date_modified: 2026-06-15 07:00:00 +0100
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
 tagline: “胖子之城”的传统市集
 ---
@@ -22,7 +22,7 @@ tagline: “胖子之城”的传统市集
 :imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-markets/
 
 [.lead]
-这篇攻略中包含了在“美食之都”博洛尼亚 (Bologna) 的老城区中最值得一去的市集，包括百年老店云集的四方区 (Quadrilatero)，埃尔贝市场 (Mercato delle Erbe) 等等。
+这篇攻略中包含了在“美食之都”博洛尼亚 (Bologna) 的老城区中最值得一去的市集，包括百年老店云集的四方区 (Quadrilatero)，香草市场 (Mercato delle Erbe) 等等。
 
 [#quadrilatero]
 == 四方区 (Quadrilatero)
@@ -50,9 +50,9 @@ tagline: “胖子之城”的传统市集
 * L'Antica Bottega Bologna: 一楼，注各种传统小吃，冷切。这里有可以边走边吃的炸小饺子。
 
 [#mercato-delle-erbe]
-== 埃尔贝市场 (Mercato delle Erbe)
+== 香草市场 (Mercato delle Erbe)
 
-与现代化的城中市场不同，向西不到一公里的**埃尔贝市场** (Mercato delle Erbe) 是博洛尼亚最大的传统菜市场。它的名字 Erbe 在意大利语中的意思是“草本”或“蔬菜”。
+与现代化的城中市场不同，向西不到一公里的**香草市场** (Mercato delle Erbe) 是博洛尼亚最大的传统菜市场。它的名字 Erbe 在意大利语中的意思是“香草”或“蔬菜”。
 
 这里非常值得打卡的摊位包括：
 

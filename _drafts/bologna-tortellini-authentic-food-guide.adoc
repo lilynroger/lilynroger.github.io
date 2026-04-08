@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-15 12:00:00 +0100
-date_modified: 2026-06-15 12:00:00 +0100
+date: 2026-06-15 06:30:00 +0100
+date_modified: 2026-06-15 06:30:00 +0100
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
 tagline: 维纳斯的肚脐，胖子之城的面食之王
 description: 在意大利美食之都和“胖子之城”博洛尼亚 (Bologna)，人称“维纳斯的肚脐”的小饺子 (Tortellini) 是面食之王。一盘鸡肉清汤中的小饺子是不可错过的传统美食体验。
@@ -95,3 +95,7 @@ description: 在意大利美食之都和“胖子之城”博洛尼亚 (Bologna)
 * https://www.paoloatti.com/[Paolo Atti & Figli]: 创始于 1868 年的老字号，博洛尼亚最古老的面食店。追求品牌历史，和标志性的复古包装就去这里。博洛尼亚最著名的美食熟食店 Tamburini 就在旁边，有小饺子的汤底，和最好的冷切。
 
 * https://www.lesfogline.it/[Le Sfogline]: 口碑极好的手工面坊。在这里可以近距离欣赏“面食女神”们现场手工制作面食。
+
+++++
+{% related slugs="bologna-paolo-atti-figli-bakery-tradition" %}
+++++

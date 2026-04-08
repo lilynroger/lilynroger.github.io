@@ -9,13 +9,13 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-15 13:00:00 +0100
-date_modified: 2026-06-15 13:00:00 +0100
+date: 2026-06-15 09:00:00 +0100
+date_modified: 2026-06-15 09:00:00 +0100
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
 tagline: 微泡红酒和有着红酒之魂的白葡萄酒
 description: 在博洛尼亚 (Bologna) 喝什么？这里虽没有顶级葡萄酒，但是有极具特色的 Pignoletto, Lambrusco, Sangiovese 和 Albana 葡萄酒。
 ---
-= 博洛尼亚 (Bologna) 的葡萄酒
+= 博洛尼亚 (Bologna) 的葡萄酒和酒馆
 :page-liquid: true
 :toc: macro
 :toclevels: 2
