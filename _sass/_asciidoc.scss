@@ -318,7 +318,7 @@ aside.related {
 article {
   .quoteblock {
     position: relative;
-    padding: calc(var(--spacer-paragraph) * 1) calc(var(--spacer-paragraph) * 2.5);
+    padding: calc(var(--spacer-paragraph) * 1) 3em;
     margin: var(--spacer-paragraph) 0;
     background: var(--bs-tertiary-bg);
     overflow: hidden;
