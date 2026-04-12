@@ -8,31 +8,7 @@ layout: skeleton
       <article class="article" itemscope itemtype="http://schema.org/BlogPosting">
 
         <header class="article-header">
-
-          {% include article-trip-destination-chips.html %}
-
-          <h1 itemprop="name headline">{{ page.title }}</h1>
-          <div class="text-body-secondary small article-metadata">
-            {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
-            <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-              {{ page.date | date: date_format }}
-            </time>
-            {%- if page.date_modified -%}
-            <span class="fst-italic">
-              <span>更新: </span>
-              <time class="dt-modified" datetime="{{ page.date_modified | date_to_xmlschema }}" itemprop="dateModified">
-                {{ page.date_modified | date: date_format }}
-              </time>
-            </span>
-            {%- endif -%}
-            {%- if page.author -%}
-            <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-              <span itemprop="name">{{page.author}}</span>
-            </span>
-            {%- endif -%}
-          </div>
-
-          <div class="imageblock">
+          <div class="article-image mb-5">
             <figure class="figure mx-auto">
               <div class="content">
                 <picture>
@@ -49,6 +25,36 @@ layout: skeleton
               <figcaption class="title figure-caption">{{page.image.alt}}</figcaption>
             </figure>
           </div>
+
+          <div class="article-title my-5">
+
+            {% include article-trip-destination-chips.html %}
+
+            <h1 itemprop="name headline">
+              {{ page.title }}
+            </h1>
+            <div class="text-body-secondary small article-metadata">
+              {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%}
+              <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                {{ page.date | date: date_format }}
+              </time>
+              {%- if page.date_modified -%}
+              <span class="fst-italic">
+                <span>更新: </span>
+                <time class="dt-modified" datetime="{{ page.date_modified | date_to_xmlschema }}"
+                  itemprop="dateModified">
+                  {{ page.date_modified | date: date_format }}
+                </time>
+              </span>
+              {%- endif -%}
+              {%- if page.author -%}
+              <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+                <span itemprop="name">{{page.author}}</span>
+              </span>
+              {%- endif -%}
+            </div>
+          </div>
+
         </header>
 
         <div class="article-body" itemprop="articleBody">
