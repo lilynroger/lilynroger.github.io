@@ -1,0 +1,100 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/bologna-basilica-di-san-petronio-4x3-1200.avif
+  alt: "坐落于博洛尼亚 (Bologna) 马焦雷广场 (Piazza Maggiore) 之上的圣彼得罗尼奥大教堂 (Basilica di San Petronio) 拥有未能完工的半大理石半红砖的外立面。图片: basilicadisanpetronio.org"
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/bologna-basilica-di-san-petronio-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/bologna-basilica-di-san-petronio-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 10:30:00 +0100
+date_modified: 2026-06-15 10:30:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
+tagline: 半大理石半红砖的外立面
+---
+= 博洛尼亚 (Bologna) 的城市名片：圣彼得罗尼奥大教堂 (Basilica di San Petronio)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/
+
+[.lead]
+博洛尼亚 (Bologna) 的**圣彼得罗尼奥大教堂** (https://www.basilicadisanpetronio.org/en/[Basilica di San Petronio])，也译作**圣白托略大殿**，坐落于老城中心的**马焦雷广场** (link:{% post_url 2026-06-15-bologna-piazza-maggiore %}[Piazza Maggiore]) 南面。教堂建于 1390-1663 年间，是世界上最大的哥特式砖砌教堂。以其未能完工的半大理石、半红砖的外立面成为博洛尼亚最具标志性的景点。
+
+圣彼得罗尼奥 (San Petronio) 曾是博洛尼亚的主教，公元 431-450 年在位，后来成为博洛尼亚的主保圣人。他常被塑造成“手托博洛尼亚城模型”的形象，象征着他是这座城市的建筑者和保护者。在圣彼得罗尼奥大门上方，就有这样一座雕像。他的遗骨如今就被供奉在圣彼得罗尼奥大教堂的**圣彼得罗尼奥礼拜堂** (Cappella di San Petronio) 中。
+
+toc::[]
+
+[[must-see-hilights]]
+== 核心看点
+
+圣彼得罗尼奥大教堂规模宏大，里面有二十多座礼拜堂，还有一个小博物馆。这里是不可错过的几处核心看点。
+
+[[the-unfinished-facade]]
+=== 未完工的正门外立面
+
+在十四世纪初，圣彼得罗尼奥大教堂开始了一个雄心勃勃的扩建计划，目标是超越当时正在罗马兴建的圣彼得大教堂的规模。为了维护圣彼得大教堂的地位和教廷的权威，教皇庇护四世 (Pope Pius IV) 出面干预。他下令在紧邻圣彼得罗尼奥教堂的位置强行动工兴建**阿奇吉纳西奥宫** (Palazzo dell'Archiginnasio)，将其作为博洛尼亚大学的统一总部。此举直接挤占了大教堂继续扩建的空间，大教堂的扩建因此被迫收尾。
+
+加之与大多数由教会出资的教堂不同，圣彼得罗尼奥大教堂是由博洛尼亚地方议会和市民集资兴建的。原本计划铺满大理石的外立面，也因为扩建计划的流产和后续资金的匮乏，进行了一半就被迫停止了。
+
+历史上，博洛尼亚人也曾多次试图完成外立面。可是他们一直无法在延续哥特风格，还是改用文艺复兴风格，乃至后来的巴洛克风格之间达成一致。最终定格在了我们今天看到的半大理石、半红砖的状态，成为历史的见证。并且以其独特的美感成为这座城市的名片。
+
+[[portals]]
+=== 大门
+
+圣彼得罗尼奥大教堂的大门是意大利文艺复兴早期雕塑艺术的巅峰之作，被认为是中世纪风格向文艺复兴风格过渡的里程碑。
+
+正门是由雕塑大师**雅各布·德拉·奎尔恰** (Jacopo della Quercia) 在 1425 年至 1438 年间创作的杰作。正门两侧的立柱上，是描绘《创世纪》故事的浮雕，包括《创造亚当》、《逐出伊甸园》等等。米开朗基罗曾两次访问博洛尼亚，专门研究这扇门上的雕塑。你会发现正门立柱上的浮雕，与后来西斯廷礼拜堂的天顶画有惊人的相似之处。
+
+正门上方的半圆龛中的雕塑也是他的作品。左侧是圣安布罗斯 (Sant'Ambrogio)，中间是圣母和圣子，右侧就是手捧博洛尼亚城市模型的的主保圣人圣彼得罗尼奥。
+
+[quote,艺术史学家瓦萨里 (Vasari)]
+如果说多纳泰罗赋予了雕塑灵魂，那么奎尔恰赋予了它肌肉，而米开朗基罗则将两者推向了神圣。
+
+在左右两个侧门上，值得注意的是左门上半圆龛中 Alfonso Lombardi 的作品《基督复活》和右门上的 Amico Aspertini 等人的《耶稣下十字架》。
+
+此外，值得一提的是文艺复兴时期唯一的杰出女性雕塑家、博洛尼亚人**普罗佩齐亚·德·罗西** (Properzia de' Rossi) 也参与了大门的装饰。她的杰作《约瑟与波提乏的妻子》就是侧门上的浮雕，如今被移到了教堂内的小博物馆加以保护。可惜的是由于受到男性同行的嫉妒和排挤，特别是刚刚提到的 Amico Aspertini 性格阴暗，利用其地位极力打压。这位女艺术最终家因穷困潦倒而英年早逝。
+
+[[cassini-meridian-line]]
+=== 卡西尼子午线
+
+在圣彼得罗尼奥大教堂内的地板上，你会发现**卡西尼子午线** (Cassini Meridian Line)，也被通俗地称为**卡西尼日晷** (Sundial)。它由天文学家乔瓦尼·多梅尼科·卡西尼 (Gian Domenico Cassini) 于 1655 年设计，全长 67 米，是世界上现存最长的室内子午线。
+
+它利用了小孔成像原理。在教堂左侧穹顶约 27 米高处有一个直径约 27 毫米的小孔。每天正午时，阳光穿过小孔，在子午线上会投射出一个椭圆形的太阳光斑。由于太阳高度角在一年中不断变化，光斑在子午线上的位置也会移动。冬至时太阳位置最低，光斑落在子午线靠近大门的最远端；夏至时则在另一端。
+
+参观卡西尼子午线的最佳时间是**晴天**的正午时分。
+
+[[chapel-of-re-magi]]
+=== 博洛尼尼礼拜堂
+
+在圣彼得罗尼奥大教堂的众多礼拜堂中，**博洛尼尼礼拜堂** (Bolognini Chapel) 因其中最震撼、也最具争议的壁画而闻名于世。
+
+博洛尼尼礼拜堂是由博洛尼亚的富有丝绸商人巴托洛梅奥·博洛尼尼 (Bartolomeo Bolognini) 在十五世纪初捐资设立的。根据他的遗嘱，画家乔瓦尼·达·莫德纳 (Giovanni da Modena) 受聘请来装饰礼拜堂的墙壁。
+
+礼拜堂的右侧墙壁上的壁画完整地描绘了**三王来朝** (The Journey and Adoration of the Magi) 的故事。所以，这个礼拜堂也叫**三王礼拜堂** (Chapel of the Magi)。
+
+真正让这座礼拜堂出名的是左侧墙壁上的关于最后审判的壁画，特别是有关炼狱的下半部分。这个诡异的画面是根据但丁的《神曲》描绘的：画面中心是一个巨大的蓝黑色撒旦，正在吞噬罪人。
+
+.博洛尼亚圣彼得罗尼奥大教堂，博洛尼尼礼拜堂（三王礼拜堂）地狱壁画，由乔瓦尼·达·莫德纳创作。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/giovanni-da-modena-inferno-fresco-bolognini-chapel-san-petronio-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/giovanni-da-modena-inferno-fresco-bolognini-chapel-san-petronio-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/giovanni-da-modena-inferno-fresco-bolognini-chapel-san-petronio-bologna-4x3-2400.avif 2400w"]
+
+这幅壁画因为中世纪（具有时代局限性的）对伊斯兰教先知的描述，而引起巨大争议，数次面临安全威胁。这也是为什么圣彼得罗尼奥大教堂拥有最严格的安保的原因。
+
+进入博洛尼尼礼拜堂内是收费的，而且礼拜堂内**不准拍照**。因为这个区域安保威胁的特殊性，建议不要在这里挑战规则。
+
+[[organ]]
+=== 仍在使用的最古老管风琴
+
+圣彼得罗尼奥大教堂还拥有世界上最古老且仍可正常演奏的管风琴，而且有两座。
+
+堪称圣彼得罗尼奥大教堂镇馆之宝的是**洛伦佐·达·普拉托管风琴** (Lorenzo da Prato Organ)。它建于 1471 年至 1475 年之间，保留了文艺复兴时期的音律，被公认为世界上最古老的、保持原貌且仍能工作的管风琴。另一座稍微年轻点的管风琴是**马拉米尼管风琴** (Baldassarre Malamini Organ)，与第一座相对，建于 1596 年。博洛尼亚在十六和十七世纪间是欧洲的音乐之都，这两座管风琴参与并见证了这段辉煌。
+
+如果你恰逢周日去参观，在**弥撒期间**有机会可以听到管风琴的演奏。
+
+[[visit]]
+== 参观信息
+
+圣彼得罗尼奥大教堂每日开放参观，**午后 1:30 到 3:00 会关闭一会**。参观大教堂是免费的，无需预约。但是参观三王礼拜堂和另外两个礼拜堂收费 €5 (2026)。现场支付，无需预约。具体的信息可以参考官网: https://www.basilicadisanpetronio.org/en/info-and-opening-hours[Info and opening hours]。
