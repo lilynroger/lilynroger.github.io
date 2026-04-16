@@ -1,0 +1,67 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-welcome-city-card/bologna-welcome-city-card-4x3-1200.avif
+  alt: 博洛尼亚的城市卡 (Bologna Welcome Card)
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-welcome-city-card/bologna-welcome-city-card-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-welcome-city-card/bologna-welcome-city-card-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-17 10:30:00 +0100
+date_modified: 2026-06-17 10:30:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
+tagline: 博洛尼亚的城市卡值得买吗？
+description: 博洛尼亚的城市卡 (Bologna Welcome Card) 值得买吗？
+---
+= 博洛尼亚的城市卡: Bologna Welcome Card
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-welcome-city-card/
+
+博洛尼亚的城市卡 (https://www.bolognawelcome.com/zh/information-zh/bologna-welcome-card-zh[Bologna Welcome Card]) 值得买吗？答案是：**对大多数人，特别是两天以上的行程来讲值得**。
+
+toc::[]
+
+[[duration]]
+== 博洛尼亚城市卡的有效期是多久？
+
+不同于许多其他城市卡按照有效期（比如 24/48/72 小时）定价的方式，博洛尼亚的城市卡只分为 Easy 和 Plus 两种，有效期都是 15 天，从首次使用后开始算起。
+
+[[worth]]
+== 博洛尼亚城市卡值得买吗？
+
+定价为 **€35** 博洛尼亚城市卡的 Easy 版本包含的博洛尼亚核心景点包括：
+
+* 登顶时钟塔 (Torre dell'Orologio): 俯瞰马焦雷广场的最佳方式，价值 https://www.bolognawelcome.com/en/experiences/300685/Visit-to-the-Clock-Tower--Torre-dell-Orologio--and-to-the-Municipal-Art-Collections[**€10**]。
+
+* 博洛尼亚国家美术馆 (Pinacoteca Nazionale di Bologna): 意大利最顶尖的美术馆之一，价值 https://www.bolognawelcome.com/en/places/museums-and-private-collections/pinacoteca-nazionale-di-bologna-national-gallery[**€12**]。
+
+* 参观生命圣母教堂 (Chiesa di Santa Maria della Vita) 中的《哀悼死去的基督》 (Compianto sul Cristo Morto): 被誉为“石头的呐喊”，文艺复兴时期最重要的陶土雕塑，价值 https://www.bolognawelcome.com/en/places/religious-buildings/church-of-santa-maria-della-vita[**€8**]。
+
+可见，仅以上三项，就接近城市卡的价值了。此外城市卡中还包括价值 https://www.bolognawelcome.com/en/experiences/328761/City-bike-rental[**€15**] 的四小时的自行车租赁，或者五折的电动自行车租赁。当然，也包含其他一些博物馆的门票，比如考古，历史，艺术博物馆等等。所以，如果你喜欢逛博物馆，或者想租自行车的话，博洛尼亚城市卡还是值得的。
+
+定价为 **€55** 博洛尼亚城市卡的 Plus 版本中增加下面两项：
+
+* 圣彼得罗尼奥大教堂 (Basilica di San Petronio) 的博洛尼尼礼拜堂 (Bolognini Chapel): 参观极具争议的中世纪炼狱壁画，价值 https://www.basilicadisanpetronio.org/en/visits/[**€5**]。
+
+* 城市观光巴士 (City Red Bus) 和圣卢卡观光小火车 (San Luca Express): 随上随下市观光巴士，以及前往圣卢卡圣母朝圣教堂 (Santuario della Madonna di San Luca) 和拱廊 (Portico) 的观光小火车，价值 https://cityredbus.com/en/shop/biglietti-san-luca-express/[**€13-€24**]。
+
+所以，除非城市观光巴士和圣卢卡观光小火车你都要坐，否则可以不买 Plus 版本。
+
+++++
+{% related slugs="bologna-top-attractions" %}
+++++
+
+[[notes]]
+== 博洛尼亚城市卡有哪些注意事项？
+
+即使购买了城市卡，登顶时钟塔和城市自行车租赁都需要**提前预约**。预约信息参考：
+
+* https://www.bolognawelcome.com/en/experiences/300685/Visit-to-the-Clock-Tower--Torre-dell-Orologio--and-to-the-Municipal-Art-Collections[登顶时钟塔]
+* https://www.bolognawelcome.com/en/experiences/328761/City-bike-rental[租赁城市自行车]
+
+此外，每逢每月的第一个星期天，是意大利全国性的**博物馆周日** (Domenica al Museo)，意大利的国立博物馆对所有人免费开放，比如博洛尼亚国家美术馆 (Pinacoteca Nazionale di Bologna) 就是如此。如果恰逢博物馆周日，那博洛尼亚城市卡就可能不值了。
