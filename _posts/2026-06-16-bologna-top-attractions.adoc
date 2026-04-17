@@ -1,0 +1,239 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-top-attractions/basilica-of-san-petronio-piazza-maggiore-bologna-4x3-1200.avif
+  alt: 博洛尼亚 (Bologna) 马焦雷广场 (Piazza Maggiore) 之上的圣彼得罗尼奥大教堂 (Basilica di San Petronio) 是世界最大的砖砌哥特式教堂，以其未能完工的半大理石、半红砖的外立面成为博洛尼亚的城市名片。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-top-attractions/basilica-of-san-petronio-piazza-maggiore-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-top-attractions/basilica-of-san-petronio-piazza-maggiore-bologna-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-16 08:00:00 +0100
+date_modified: 2026-06-16 08:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
+tagline: 广场，教堂，塔楼，美术馆
+---
+= 博洛尼亚 (Bologna) 的 10 个最佳景点
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-top-attractions/
+
+博洛尼亚 (Bologna) 有哪些不容错过的景点？在这篇攻略中，我们精选了适合一两天的行程的十个博洛尼亚的最佳景点。如果你在博洛尼亚有更多的时间，攻略的最后也列出了一些其它你可能有兴趣的去处。
+
+toc::[]
+
+[[piazza-maggiore]]
+== 马焦雷广场 (Piazza Maggiore)
+
+**马焦雷广场** (Piazza Maggiore) 始建于 1200 年，是博洛尼亚 (Bologna) 最重要的广场。意大利语 Maggiore 就是主要的意思。
+
+广场的中央是略高于地面的方形平台，四周则由重要的历史建筑环绕：
+
+* **圣彼得罗尼奥大教堂** (Basilica di San Petronio)，博洛尼亚最大的教堂，以其半大理石、半红砖的外立面成为博洛尼亚最具标志性的景点，也是博洛尼亚的必访景点之一。
+
+* **阿库西奥宫** (Palazzo d'Accursio)，也称**市政宫** (Palazzo Comunale)，其上的**时钟塔** (Torre dell'Orologio) 是俯瞰马焦雷广场的最佳方式，**市政艺术收藏馆** (Collezioni Comunali d'Arte) 也在这座建筑中，和时钟塔一起需要购买联票。
+
+* **波德斯塔宫** (Palazzo del Podestà)，著名的回声廊 (Voltone del Podestà) 就在这座宫殿的之上的**阿伦戈塔** (Torre dell'Arengo) 的正下方。
+
+* **班基宫** (Palazzo dei Banchi) 也叫**银行宫**，班基宫的外立面下方有两个巨大的拱门入口，通往著名的**四方区** (Quadrilatero)。
+
+++++
+{% related slugs="bologna-piazza-maggiore" %}
+++++
+
+[[basilica-di-san-petronio]]
+== 圣彼得罗尼奥大教堂 (Basilica di San Petronio)
+
+**圣彼得罗尼奥大教堂** (Basilica di San Petronio)，也译作**圣白托略大殿**，以博洛尼亚的主保圣人圣彼得罗尼奥 (San Petronio) 命名。教堂坐落于**马焦雷广场** (Piazza Maggiore) 南面。教堂建于 1390-1663 年间，是世界上最大的哥特式砖砌教堂。以其未能完工的半大理石、半红砖的外立面成为博洛尼亚的城市名片。
+
+除了外立面，圣彼得罗尼奥大教堂的看点还有：被誉为意大利文艺复兴早期雕塑艺术的巅峰之作的大门；教堂内世界最古老且仍在使用的管风琴；世界最长的室内子午线**卡西尼子午线** (Cassini Meridian Line)；以及**博洛尼尼礼拜堂** (Bolognini Chapel) 中极具争议的中世纪炼狱壁画。
+
+++++
+{% related slugs="bologna-basilica-di-san-petronio" %}
+++++
+
+[piazza-del-nettuno]
+== 海神广场 (Piazza del Nettuno)
+
+**海神广场** (Piazza del Nettuno) 紧邻马焦雷广场，就在北面的波德斯塔宫旁边。这座广场上最醒目的标志就是著名的**海神喷泉** (Fontana del Nettuno)。
+
+海神喷泉是在 1563 年，由当时的教皇庇护四世 (Pius IV) 下令建造。喷泉顶端是罗马神话中的海神尼普顿 (Neptune) 的巨大青铜像，手持三叉戟，姿态威严。总部就位于博洛尼亚的豪车品牌玛萨拉蒂，其三叉戟标志就来源于这座海神雕像。
+
+据说负责雕刻海神像的艺术家**詹博洛尼亚** (Giambologna) 将海神的男性特征塑造得相当“写实”，以至于教皇担心有失体统，下令艺术家将其改小。詹博洛尼亚“阳奉阴违”，服从的同时也调整了海神左手拇指的角度和位置。当你站在喷泉的右侧后方，或是站在广场上一块被称为“羞耻之石”的黑石处（位于萨拉博萨图书馆入口楼梯下）仰望时，海神伸出的拇指会恰好与身体重叠，在视觉上还原了被删减的部分。
+
+海神广场上的另一个看点是**萨拉博萨图书馆** (Salaborsa)。它是博洛尼亚的主图书馆，面向公众免费开放，其中的玻璃地板下是古罗马的考古遗迹。
+
+[[quadrilatero]]
+== 四方区 (Quadrilatero)
+
+四方区 (Quadrilatero) 是博洛尼亚市中心最古老、最迷人的中世纪市场区。从马焦雷广场 (Piazza Maggiore) 向东穿过班基宫 (Palazzo dei Banchi) 下的拱门，就是四条街道围合而成的四方区。它的名字 Quadrilatero 字面意思就是“四边形”。
+
+四方区的街道布局从中世纪起就未曾改变。街道名称至今仍保留着古代行会的痕迹，比如金匠街 (Via degli Orefici) 和老鱼市街 (Via Pescherie Vecchie) 等等。
+
+博洛尼亚许多老字号都集中在四方区里，比如：
+
+* Osteria del Sole: 最古老的酒馆
+* Paolo Atti e Figli: 和最古老的烘焙坊
+* Tamburini: 老号熟食店
+* Salumeria Simoni: 熟食店和酒馆
+* Drogheria Gilberto: 百年杂货店
+
+生命圣母教堂 (Chiesa di Santa Maria della Vita) 也在四方区的心脏位置。
+
+++++
+{% related slugs="bologna-markets-guide,bologna-food-guide" %}
+++++
+
+[[santuario-della-madonna-di-san-luca]]
+== 圣卢卡圣母朝圣教堂 (Santuario della Madonna di San Luca) 和拱廊 (Portico)
+
+**圣卢卡圣母朝圣教堂** (Santuario della Madonna di San Luca) 坐落于博洛尼亚老城西南约 300 米高的**瓜尔迪亚山** (Colle della Guardia) 上，是博洛尼亚最重要的宗教朝圣地，同时因为拥有通往教堂的世界最长的**圣卢卡拱廊** (Portico di San Luca) 而成为最热门的景点之一。
+
+教堂内珍藏着一幅圣母与圣子的圣像 (Icon)，供奉于主祭坛上方。传统宗教说法是《路加福音》的作者圣路加本人绘制，实际上是一幅十二世纪的拜占庭作品。传说在 600 年前，城市遭遇了持续暴雨，眼看庄稼即将绝收，绝望的人们将圣像从山上请进城中乞求怜悯。结果圣像穿过萨拉戈扎门 (Porta Saragozza) 进入城市的那一刻，暴雨真的停止了。为纪念这一神迹，博洛尼亚每年都要重现**圣卢卡圣母下山**仪式，圣像从山上教堂被迎接到市中心的圣彼得大教堂 (Cattedrale di San Pietro) 供奉一周左右。这一仪式是博洛尼亚最重要的宗教仪式和城市庆典，通常在五月下旬举办，延续几百年以来，仅中断过两次。
+
+从萨拉戈扎门开始，有一条长达 3.8 公里、由 666 个拱门组成的世界最长的拱廊，一直通往山上的圣卢卡圣母朝圣教堂。这条拱廊建于 1674-1793 年间，最初是为了在圣母下山游行中保护珍贵的圣母圣像免受风雨侵蚀。如今，沿着拱廊上山，成为了一种独特的朝圣和旅行体验。拱廊尽头有一座著名的梅隆切洛拱门 (Arco del Meloncello)，是上山路段的起点。
+
+由于拱廊很长，而且教堂早上 7:00 就开放，我们把它安排成了晨跑路线。你也可以在马焦雷广场和海神广场乘坐 San Luca Express 观光小火车前往，票价是 €13 (2026)。
+
+[[basilica-di-santo-stefano-sette-chiese]]
+== 圣斯特凡诺大教堂 / 七教堂 (Basilica di Santo Stefano / Sette Chiese)
+
+博洛尼亚的**圣斯特凡诺大教堂** (https://www.santostefanobologna.it[Basilica di Santo Stefano]) 在当地更广为人知的名字是**七教堂** (Sette Chiese)。它并非一座单一的教堂，而是一个由不同历史时期的教堂、庭院和博物馆组成的宗教建筑群。因其核心建筑仿建耶路撒冷的圣墓教堂，被誉为博洛尼亚的“小耶路撒冷”。
+
+关于它的起源众说纷纭，一种说法是博洛尼亚的主保圣人圣彼得罗尼奥在前往耶路撒冷朝圣之后，萌生了复制耶路撒冷的圣墓教堂的想法，决定在博洛尼亚建设一处由七座教堂组成的建筑群。而圣斯特凡诺大教堂这个名字，可能源于其中已经不复存在的一座教堂。
+
+虽然名字叫做“七教堂”，但实际上整个建筑群如今主要包括四座教堂和一个庭院，按照参观路线分别是：
+
+* **十字架教堂** (Chiesa del Crocifisso): 建筑群的入口，教堂中悬挂着一件十四世纪的木质十字架，出自博洛尼亚画家西蒙·德·克罗西菲奇 (Simone dei Crocifissi) 之手。这位画家名字中的 dei Crocifissi 的字面意思就是“十字架”，因为其非常擅长这一主题而得名。
+
+* **圣墓教堂** (Basilica del Santo Sepolcro): 核心建筑，呈八角形，复制了耶路撒冷的圣墓教堂。这里曾一直保存着圣彼得罗尼奥的遗体，后来才移至如今的圣彼得罗尼奥大教堂中。
+
+* **圣维塔莱和圣阿格里科拉教堂** (Chiesa di Vitale e Agricola): 最古老的教堂，建于四世纪，主体呈长方形。这里存放着博洛尼亚的两位本土殉道者 San Vitale 和 San Agricola 的石棺。
+
+* **彼拉多庭院** (Cortile di Pilato): 连接着圣墓教堂和三位一体教堂。得名于罗马犹太行省总督本丢·彼拉多 (Pontius Pilate)，即主持审判耶稣的历史人物。
+
+* **三位一体教堂** (Chiesa della Trinità): 位置最深处的教堂，也称殉道者教堂 (Chiesa del Martyrium)。它象征了整个耶路撒冷建筑群的终点。内部珍藏着被认为是世界上最古老的立体雕塑耶稣降生群像之一，同样出自西蒙·德·克罗西菲奇 (Simone dei Crocifissi) 之手。
+
+此外，从三位一体教堂出来之后，是建于十一世纪到十二世纪前后的本笃会修道院 (Monastero Benedettino) 的双层罗马式回廊 (Chiostro)，以及圣斯特凡诺博物馆。
+
+[[chiesa-di-santa-maria-della-vita]]
+== 生命圣母教堂 (Chiesa di Santa Maria della Vita)
+
+生命圣母教堂 (Chiesa di Santa Maria della Vita) 建筑群位于博洛尼亚老城区著名的四方区 (Quadrilatero) 的心脏地带，是博洛尼亚巴洛克艺术的巅峰之作，藏有文艺复兴时期最重要的陶土雕塑杰作《哀悼死去的基督》 (Compianto sul Cristo Morto)。
+
+这件陶土雕塑群像是由雕塑家尼科洛·德尔·阿尔卡 (Niccolò dell'Arca) 创作于十五世纪下半叶。作品由七尊真人大小的陶土雕像组成，围绕在逝去的基督周围。每位人物的悲伤、痛苦与绝望被刻画得淋漓尽致，尤其是抹大拉的马利亚，其呐喊般的表情震撼人心，因此被意大利诗人加布里埃尔·邓南遮 (Gabriele d'Annunzio) 誉为“石头的呐喊” (Scream of Stone / Urlo di pietra)。
+
+* the Madonna and the Three Marys, St John the Apostle and Joseph of Arimathea
+
+* 尼哥底母 (Nicodemus)，也可能是亚利马太的约瑟 (Joseph of Arimathea): 手握锤子，呆立在一旁。
+* 马利亚·撒罗米 (Mary Salome): 在痛苦中紧抓着大腿。
+* 耶稣之母马利亚 (Virgin Mary): 双手交握在一起，心碎地哭泣。
+* 施洗者圣约翰 (John the Baptist): 单手托腮，僵直地挺立着。
+* 革罗帕的马利亚 (Mary of Cleophas): 惊恐地举起双手。
+* 抹大拉的马利亚 (Mary Magdalene): 她张着嘴发出永恒的尖叫，长袍如火焰般扭动。
+
+有趣的是，手握锤子的男性究竟是谁没有定论。但是传统上认为锤子可能是安葬工具，也很可能暗示着尼科洛·德尔·阿尔卡将自己的面容永远留在了这件杰作之中，锤子是雕塑家的工具。
+
+生命圣母教堂的另一件珍宝是《圣母升天》 (Transito della Vergine) 雕塑群像，出自从费拉拉来到博洛尼亚的雕塑家**阿方索·隆巴尔迪** (Alfonso Lombardi) 之手。乔尔乔·瓦萨里 (Giorgio Vasari) 在他的《名人传》中为此专门写了一整章。
+
+参观生命圣母教堂主体是免费的，但是参观其中的《哀悼死去的基督》和《圣母升天》等核心艺术珍品需要购票。全价票是 €8 (2026)。
+
+[[pinacoteca-nazionale-di-bologna]]
+== 博洛尼亚国家美术馆 (Pinacoteca Nazionale di Bologna)
+
+博洛尼亚国家美术馆 (https://pinacotecabologna.cultura.gov.it[Pinacoteca Nazionale di Bologna]) 是意大利最顶尖的美术馆之一，收藏了十三世纪到十八世纪期间，跨越中世纪，文艺复兴，巴洛克等多个时期不同画派的作品。
+
+博洛尼亚国家美术馆的重要藏品包括：
+
+* 维塔莱·达·博洛尼亚《圣乔治与龙》(Vitale da Bologna, _St. George and the Dragon_): 十四世纪博洛尼亚画派的代表人物的巅峰杰作。
+* 拉斐尔《圣塞西莉亚的狂喜》 (Raphael, _The Ecstasy of St. Cecilia_): 绝对的镇馆之宝，拉斐尔晚期的代表作。
+* 乔托《画屏》 (Giotto, _Polyptych of Bologna_): 乔托现存极少数有他亲笔签名的板面油画之一，全世界仅存三幅。
+
+此外，博洛尼亚国家美术馆是全世界收藏巴洛克艺术奠基者**卡拉奇三兄弟** (Carracci) 作品最丰富的美术馆，其中代表作有：
+
+* 卢多维科·卡拉奇《巴尔杰利尼圣母》 (Ludovico Carracci, _Madonna Bargellini_)
+* 安尼巴莱·卡拉奇《圣母升天》 (Annibale Carracci, _Assumption of the Virgin_)
+
+博洛尼亚国家美术馆**周一闭馆**，建议预留两个小时左右的参观时间，门票 €6 (2026)。
+
+[[basilica-di-san-domenico]]
+== 圣多米尼克大教堂 (Basilica di San Domenico)
+
+**圣多米尼克大教堂** (Basilica di San Domenico)，又译**圣多明我大殿**是一座融合了中世纪罗马式外观与巴洛克式内饰的教堂，由道明会 (Dominican Order) 为安放创立者圣多米尼克的遗骸而建。这里的核心看点是由多位艺术大师接力完成的圣多米尼克圣龛 (Arca di San Domenico)，其中包括米开朗基罗的早期作品。
+
+圣多米尼克圣龛就安放在圣多米尼克礼拜堂中，参与雕刻圣龛的著名艺术家包括**尼古拉·皮萨诺** (Nicola Pisano)，**普利亚的尼科洛** (Niccolò da Puglia)，**米开朗基罗** (Michelangelo)，**阿方索·隆巴迪** (Alfonso Lombardi)。
+
+其中普利亚的尼科洛主要负责装饰圣龛顶部的雕像和两位持烛台的天使，顶部的天父雕像就是其中的代表作。并因为这一作品而名声大噪，从此以后就被称为**尼科洛·德尔·阿尔卡** (Niccolò dell'Arca)，字面意思就是“圣龛的尼科洛”。在生命圣母教堂中被誉为“石头的呐喊”的《哀悼死去的基督》陶土雕塑群像也是其杰作。
+
+尼科洛去世前未能完成全部合同规定的任务。在 1494 年，当时只有 19 岁的米开朗基罗接手补遗，完成了剩余的三尊雕像，包括右侧持烛台天使，圣彼得罗尼奥像 (San Petronio) 和圣普罗科洛像 (San Procolo)。特别是右侧持烛台天使，你可以将它和左侧那尊尼科洛的天使像对比。
+
+圣多米尼克大教堂另一件珍宝是**伯加莫的达米亚诺修士** (Fra' Damiano da Bergamo) 制作的木制唱诗班座席 (Choir Stalls)。这座宏伟的作品包含 104 个座席，是文艺复兴彩木镶嵌工艺 (intarsia) 的杰作，被同时代的人誉为“世界第八大奇迹”。
+
+在教堂门前，由柱子支撑、带有石头小亭子的独特建筑是十三世纪的石棺墓 (Arca)，也是中世纪的博洛尼亚的一项独特传统，有时被称为**博士之墓** (Tomba dei Dottori)。在那个时期，高级神职人员和传统封建贵族大多选择葬在教堂内，而其他地位显赫的的杰出公民，尤其博洛尼亚引以为傲的法学家和医学家，则被以这种形式安葬在户外，作为一项至高荣誉，彰显和纪念他们对这座城市的贡献。
+
+[[due-torri]]
+== 双塔：阿西内利塔和加里森达塔 (Due Torri)
+
+博洛尼亚的双塔 (Due Torri / Two Towers) 是老城区的地标建筑。它由一高一矮的两座中世纪斜塔组成，其中较高的**阿西内利塔** (Torre degli Asinelli) 是世界上最高的中世纪斜塔；较矮的**加里森达塔** (Garisenda) 的倾斜程度甚至超过了比萨斜塔。双塔矗立在四方区 (Quadrilatero) 东北角的波塔·拉维尼亚纳广场 (Piazza di Porta Ravegnana) 之上，从马焦雷广场向东步行五分钟的距离。
+
+中世纪的博洛尼亚，为了抵御入侵，当然也为彰显权势地位，当时的贵族家族曾一度竞相建设塔楼。在最鼎盛的十三世纪，博洛尼亚有超过 180 座塔楼，是名副其实的塔城。如今只剩下大约 10 座古塔，其中双塔是最有名的。
+
+* 阿西内利塔：由阿西内利家族建于 1109-1119 年间。塔身高 97.20 米，倾斜角度 1.3 度，塔内有 498 级台阶。登上阿西内利塔，俯瞰博洛尼亚老城是不可错过的体验。不过，目前 (2026) 阿西内利塔因该地区的工程而**暂时关闭**，直至另行通知。
+
+* 加里森达塔：由加里森达家族在同时期建成。塔身高 48 米，令人注目的是其倾斜角度达 4.0 度。博洛尼亚两大家族阿西内利与加里森达以建塔竞争领导权。但加里森达塔建设过程中因为地基不牢固而倾斜，十四世纪时不得不被削短以防倒塌。该塔甚至在但丁《神曲》的《地狱篇》中被提及。加里森达塔因为存在倒塌风险，目前正处于一项旷日持久的封闭修复工程中。
+
+矗立在双塔前的雕像是博洛尼亚的主保圣人**圣彼得罗尼奥** (San Petronio) 的雕像。
+
+有关博洛尼亚双塔的详细信息，当然特别是有关阿西内利塔开放的最新信息，请关注官方网站: https://www.duetorribologna.com/cn/[双塔]。
+
+[[other-attractions]]
+== 其他景点
+
+如果你有更多的时间，或者上面的景点并非你喜欢的类型，这里还有另外五处你可能喜欢的景点。
+
+[[Archiginnasio]]
+=== 阿奇吉纳西欧宫 (Archiginnasio)
+
+**阿奇吉纳西欧宫** (Archiginnasio) 是博洛尼亚最具历史意义的建筑之一，曾是世界上第一所大学 - **博洛尼亚大学**的主校区，如今则是阿奇吉纳西欧市立图书馆的所在地。
+
+阿奇吉纳西欧宫建于 1562-1563 年间，由教皇庇护四世 (Pius IV) 下令建造。一方面是为了将博洛尼亚大学分散的法律和医学等学院集中起来，更主要的政治动机是阻止圣彼得罗尼奥大教堂 (Basilica of San Petronio) 扩建超过圣彼得大教堂的规模。正是由于这个紧迫原因，阿奇吉纳西欧宫仅用了一年半的时间就在圣彼得罗尼奥大教堂旁建成并投入使用，并阻隔了大教堂继续扩建的空间。
+
+阿奇吉纳西欧宫的核心看点是墙上装饰着的数千枚来自世界各地学生的家族纹章和签名，记录了从十六世纪至今在此求学的学生们的历史。而且，这些纹章集中在建筑入口、一楼回廊、中央庭院和楼梯墙壁。这些区域完全免费，无需预约就可以参观，只是要注意**周日闭馆**。
+
+阿奇吉纳西欧宫中有两个区域是需要购票参观的，包括**斯塔巴特圣母大厅** (Stabat Mater) **解剖教室** (Teatro Anatomico)。而图书馆是研究性质的，不对游客开放。
+
+[[finestrella-di-via-piella]]
+=== 小威尼斯之窗 (Finestrella di Via Piella)
+
+**小威尼斯之窗**是一处非常隐秘的网红打卡地。它其实是一面墙上开凿的一个小方窗，透过它，你可以窥见莫利纳运河 (Canale delle Moline) 的景色。
+
+博洛尼亚曾经运河密布，但为了城市发展和卫生原因，从十九世纪开始，大部分运河河道都被覆盖、填埋或改入地下暗渠，上面建成了道路或房屋。像小威尼斯之窗这样还能直接从街边、从地面以上看到露天河道的地方，已经非常稀少了。如果恰巧路过附近，不妨也去打个卡。
+
+小威尼斯之窗在一个小巷子里，具体地址是 Via Piella 16/a - 18/a 。这里是公共街道，所以全年全天免费开放，但是近来变得特别火，最好一大早去，避开排队拍照打卡的人群。
+
+[[chiesa-di-san-michele-in-bosco]]
+=== 林中的圣米凯莱教堂 (Chiesa di San Michele in Bosco)
+
+博洛尼亚的**林中的圣米凯莱教堂** (Chiesa di San Michele in Bosco) 也译作**林中的米歇尔教堂**。它位于俯瞰城市的山丘上。其本身并非最大的亮点，但从其前方的广场可以欣赏到博洛尼亚最经典、最壮丽的城市全景。许多经典的明信片照片都拍摄于此，将双塔、红顶、远处的波河平原 (Pianura Padana)、甚至极远处的阿尔卑斯山脉尽收眼底。
+
+[[palazzo-fava]]
+=== 法瓦宫 (Palazzo Fava)
+
+如果你喜欢文艺复兴湿壁画，那么法瓦宫 (Palazzo Fava) 中**卡拉奇兄弟** (Carracci) 的湿壁画也非常值得一看。
+
+卡拉奇三兄弟是意大利文艺复兴后期到巴洛克初期最重要的艺术家团体之一。在 1584 年，卡拉奇兄弟受法瓦家族委托，在宫殿的主层大厅创作了精美的湿壁画。壁画描绘了希腊神话中“伊阿宋和美狄亚”以及“埃涅阿斯”的故事，是卡拉奇兄弟三人首次合作的杰作。壁画中美狄亚在月光下施法的场景，被艺术史家罗伯托·隆吉评价为“艺术史上第一个现代裸体形象”。
+
+从马焦雷广场向东北步行几分钟就可以到达法瓦宫。因为这座建筑如今的定位是举办高水平的艺术特展，所以这里也叫**展览宫** (Palazzo delle Esposizioni)。如果恰逢有价值的特展，那就更值得一去了。
+
+[[torre-prendiparte]]
+=== 普雷迪帕尔特塔 (Torre Prendiparte)
+
+普雷迪帕尔特塔 (Torre Prendiparte)，也称科罗纳塔 (Torre Coronata)，是博洛尼亚第二高的中世纪塔楼，塔高 60 米，仅次于著名的阿西内利塔。
+
+有趣的是，普雷迪帕尔特塔还是一间独一无二的 B&B 套房。也就是说，可以包下整座塔，包括顶层的观景露台。由于全塔仅此一间套房，极为抢手，要提前很久预订，而且价格不菲 (800€, 2026)。参考预定官网: https://prendiparte.it/[Stay in a Medieval Tower in Bologna]。
+
+因为阿西内利塔暂时关闭，而马焦雷广场上的时钟塔主要是看广场，普雷迪帕尔特塔就成了目前老城内登顶俯瞰城市的最佳选择了。
+
