@@ -1,0 +1,107 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-porticoes/bologna-portico-di-via-farini-4x3-1200.avif
+  alt: 在博洛尼亚 (Bologna) 的 Via Farini 大街的拱廊
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-porticoes/bologna-portico-di-via-farini-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-porticoes/bologna-portico-di-via-farini-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-16 05:00:00 +0100
+date_modified: 2026-06-16 05:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
+tagline: 拱廊之城，世界遗产
+description: 博洛尼亚的拱廊 (Porticoes of Bologna) 是这座城市的名片，城内的 12 处最具代表性的拱廊及其周边建筑被一通列入了联合国教科文组织世界遗产名录。
+---
+= 博洛尼亚 (Bologna) 的拱廊 (Portico)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-porticoes/
+
+博洛尼亚 (Bologna) 的拱廊 (Portico) 是这座城市的名片。在十三世纪末时，博洛尼亚甚至颁布法令要求城内的房屋都要建造拱廊，塑造了这座城市独特的风貌。在 2021 年城内的十二处最具代表性的拱廊被一同列入了联合国教科文组织世界遗产名录。
+
+toc::[]
+
+[[history]]
+== 一点历史
+
+在中世纪，博洛尼亚的居民们为了扩大居住空间，将二楼的外墙向外延伸，并用木柱在下方支撑。这种私搭乱建虽然不合法，但是却慢慢被市民接受。
+
+到了十三世纪末，人们认识到拱廊既能遮风挡雨、提供公共阴凉，又能为商铺和手工艺人提供绝佳的经营场所。因此，在 1288 年，博洛尼亚市颁布法令，规定所有新建的建筑都必须建造拱廊。在随后的几个世纪，拱廊不断扩展延伸，形成了如今博洛尼亚独一无二的城市景观。
+
+[[numbers]]
+== 一组数字
+
+* 如今，博洛尼亚有 *42* 公里的拱廊。如果算上二十世纪扩建的，一共有超过 *60* 公里的拱廊。“世界上没有其他城市拥有如此多的拱廊”。
+
+* 圣卢卡拱廊 (Portico di San Luca) 全长 *3.8* 公里，是世界上最有名的拱廊，也是最长的拱廊。
+
+* 共有 *12* 座拱廊一同纳入世界遗产名录。
+
+[[itinerary]]
+== 一个行程
+
+如果行程的时间有限，这里是推荐重点体验的几处拱廊。其中圣卢卡拱廊最远，在老城之外，建议作为晨跑或者散步路线单独体验；其他几处拱廊集中在老城中心，可以串联起来连同附近的核心景点一并游览。
+
+[[pavaglione-banchi-e-piazza-maggiore]]
+=== 帕瓦廖内、班基和马焦雷广场 (Pavaglione, Banchi e Piazza Maggiore)
+
+这段的核心是帕瓦廖内 (Pavaglione) 拱廊，从**马焦雷广场**东侧的**班基宫（银行宫）**向南一直到**阿奇吉纳西欧宫** (Archiginnasio)，是老城区中最长的连续拱廊。地处老城绝对的中心，不可能错过。
+
+[[cavour-farini-e-minghetti]]
+=== 加富尔、法里尼和明盖蒂 (Cavour, Farini e Minghetti)
+
+该部分包括围绕**加富尔广场** (Piazza Cavour) 和**明盖蒂广场** (Piazza Minghetti) 的拱廊，以及两座广场间的**法里尼街** (Via Farini) 的拱廊。从**帕瓦廖内拱廊**南端就连着法里尼街，这条街连同这里的**加富尔购物长廊** (Galleria Cavour) 是博洛尼亚最著名的奢侈品购物场所，而**法里尼拱廊**是博洛尼亚最优雅的拱廊之一，不应该错过。
+
+[[santo-stefano-e-mercanzia]]
+=== 圣斯特凡诺和商贸宫 (Santo Stefano e Mercanzia)
+
+这部分的拱廊包括**圣斯特凡诺大教堂** (Basilica di Santo Stefano) 和**商贸宫** (Palazzo della Mercanzia) 周围的拱廊。圣斯特凡诺大教堂也叫**七教堂** (Sette Chiese)，人称“小耶路撒冷”，是博洛尼亚必去的景点之一，拱廊自然也不会错过。
+
+[[strada-maggiore]]
+=== 马焦雷大街 (Strada Maggiore)
+
+**马焦雷大街**自罗马时期就已经是这座城市的交通要道。在这条大街的拱廊中，最值得一去的是**伊索拉尼之家** (Casa Isolani) 的拱廊。它的历史可追溯到十三世纪，是欧洲现存最古老的中世纪**木质拱廊**。三支神秘的中世纪箭头仍然插在拱廊顶部的横梁上，为这座古老的拱廊增添了不少神秘色彩。不少人会饶有兴趣地仰头寻找这三支箭头。如果寻访拱廊是你行程的一部分，伊索拉尼之家拱廊绝对是不可错过的拱廊之一。
+
+此外，马焦雷大街继续向东，在**圣母忠仆圣殿** (Santa Maria dei Servi) 前的**忠仆拱廊** (Portico dei Servi) 宽度接近六米，被称为**最宽的拱廊**。自所以有四条拱廊合围，是因为另一端街角原有的教堂建筑已经不复存在，只留下了拱廊。如果时间充裕，不妨多走几步路过去看看。
+
+=== 圣卢卡 (San Luca)
+
+**圣卢卡拱廊** (Portico di San Luca) 从老城西南角的**萨拉戈扎城门** (Porta Saragozza) 继续向西南出发，前半段是平坦的城市街道。经过**梅隆切洛拱门** (Arco del Meloncello) 之后，是沿着山势蜿蜒向上的后半段。终点在**圣卢卡圣母朝圣教堂** (Santuario della Madonna di San Luca)。
+
+圣卢卡拱廊全长 *3.8* 公里，沿途有 666 个拱门，是世界上最长的拱廊，也是名气最大的拱廊。加上圣卢卡圣母朝圣教堂是博洛尼亚最重要的宗教朝圣地，圣卢卡拱廊是博洛尼亚必须要去的核心景点之一。
+
+推荐把圣卢卡拱廊作为晨跑或者散步路线；也可以在马焦雷广场和海神广场乘坐 San Luca Express 观光小火车前往。萨拉戈扎城门旁还有**圣卡特琳娜拱廊和萨拉戈扎拱廊** (Santa Caterina and Saragozza)，顺路也可以看看。
+
+++++
+{% related slugs="bologna-top-attractions" %}
+++++
+
+[[series]]
+== 一个清单
+
+联合国教科文组织世界遗产名录中收录了博洛尼亚十二处拱廊，包括：
+
+* *Santa Caterina and Saragozza*
+* *Santo Stefano and Mercanzia*: 
+* Galliera
+* Baraccano
+* *Pavaglione, Banchi and Piazza Maggiore*
+* *San Luca*
+* University and Academy
+* Certosa
+* *Cavour, Farini and Minghetti*
+* *Strada Maggiore*
+* Boat Train
+* MAMbo
+
+详细的信息参考：
+
+* https://portici.comune.bologna.it/en[The Porticoes of Bologna - A World Heritage Property]: 博洛尼亚拱廊世纪遗产的官方网站
+* https://www.bolognawelcome.com/en/information/unesco-porticoes-of-bologna-en[UNESCO Porticoes of Bologna]: 博洛尼亚旅游的局官方网站
+* https://www.bolognawelcome.com/en/information/under-the-banner-of-unesco-arcades-[In the shade of UNESCO Porticoes]: 博洛尼亚旅游的局官方网站的博客专栏
+
