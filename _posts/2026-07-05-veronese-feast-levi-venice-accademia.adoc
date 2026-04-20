@@ -1,0 +1,111 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-feast-levi/feast-in-the-house-of-levi-by-veronese-detail-4x3-1200.avif
+  alt: 威尼斯学院美术馆 (Gallerie dell'Accademia) 收藏的保罗·委罗内塞 (Paolo Veronese) 的《利未家的宴会》(The Feast in the House of Levi, 1573) 中的细节。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-feast-levi/feast-in-the-house-of-levi-by-veronese-detail-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-feast-levi/feast-in-the-house-of-levi-by-veronese-detail-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-07-05 07:00:00 +0100
+date_modified: 2026-07-05 07:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 威尼斯，艺术]
+tagline: 艺术自由对垒宗教审查。
+keywords: "委罗内塞, Paolo Veronese, 利未家的宴会, Feast in the House of Levi, 威尼斯学院美术馆, Gallerie dell'Accademia"
+---
+= 委罗内塞 (Veronese) 的《利未家的宴会》 (Feast in the House of Levi)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-feast-levi/
+
+在威尼斯**学院美术馆** (Gallerie dell'Accademia) 众多馆藏中，**保罗·委罗内塞** (Paolo Veronese) 的**《利未家的宴会》** (Feast in the House of Levi, 1573) 不仅是**威尼斯画派**色彩艺术的典范，更记录了一段创作自由与宗教审查的著名历史。
+
+toc::[]
+
+[[paolo-veronese]]
+== 保罗·委罗内塞 (Paolo Veronese)
+
+**保罗·委罗内塞 (Paolo Veronese) **原名**保罗·卡利亚里** (Paolo Caliari)，是意大利文艺复兴时代的画家。他出生于维罗纳，后来移居威尼斯并在那里成名，与**提香** (Titian)、**丁托列托** (Tintoretto) 并称威尼斯画派三杰。威尼斯学院美术馆馆藏的《利未家的宴会》和卢浮宫馆藏的《加纳的婚礼》 (The Marriage at Cana, 1563) 是委罗内塞的代表作。
+
+[[the-feast-in-the-house-of-levi]]
+== 利未家的宴会 (The Feast in the House of Levi, 1573)
+
+威尼斯学院美术馆 (Gallerie dell'Accademia) 是世界上最重要的威尼斯画派艺术收藏地。虽然**达·芬奇**的素描名作《维特鲁威人》(Vitruvian Man) 无疑是该馆的镇馆之宝，但是原稿由于脆弱极少展出。委罗内塞《利未家的宴会》凭借其宏大的尺度和传奇的背景故事成为该馆的明星。
+
+.威尼斯学院美术馆 (Gallerie dell'Accademia) 收藏的保罗·委罗内塞 (Paolo Veronese) 的《利未家的宴会》(The Feast in the House of Levi, 1573)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-feast-levi/feast-in-the-house-of-levi-by-veronese-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-feast-levi/feast-in-the-house-of-levi-by-veronese-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-feast-levi/feast-in-the-house-of-levi-by-veronese-2400.avif 2400w"]
+
+这幅画是委罗内塞为威尼斯的**圣约翰及圣保罗大教堂** (Basilica dei Santi Giovanni e Paolo) 所属的修道院餐厅创作的。原本在那里挂着的提香的《最后的晚餐》，但那幅画在 1571 年的一场大火中被焚毁。委罗内塞接受委托创作了一副新的《最后的晚餐》以替换毁掉的那幅画。
+
+正是这幅画引发了艺术史上“艺术创作自由”与“宗教审查”最著名的对垒。
+
+[[artistic-license-vs-church-censorship]]
+== 对垒：艺术自由和宗教审查
+
+委罗内塞在《最后的晚餐》这个神圣主题下，塞进了不少“不同寻常”的世俗元素，引得宗教裁判所大为光火，并传唤了委罗内塞。审判官对画作中的细节有针对性提出了指控：
+
+* 流鼻血的仆人：左侧拱门的石阶上，低着头，手里攥着白色手帕的黄衣男人。被认为“及其不雅”。
+* 剔牙的门徒：左侧拱门旁，拿着叉子剔牙的人。被认为“缺乏庄重”。
+* 拿鹦鹉的小丑：左侧拱门旁，穿着戏服，拿着鹦鹉的小丑。被认为是“对信仰的嘲弄”。
+* 切羊肉的圣彼得：中央区域，耶稣右手边正忙着切肉的圣彼得。判官认为门徒应该专注。
+* 德国士兵：右侧拱门的石阶上，两个身着德国士兵服装，手握长矛人。当时的德国人几乎等同于“新教异端”。
+
+.保罗·委罗内塞 (Paolo Veronese) 的《利未家的宴会》(The Feast in the House of Levi, 1573) 中的细节。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-feast-levi/feast-in-the-house-of-levi-by-veronese-detail-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-feast-levi/feast-in-the-house-of-levi-by-veronese-detail-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-feast-levi/feast-in-the-house-of-levi-by-veronese-detail-4x3-2400.avif 2400w"]
+
+委罗内塞在自辩中，留下了那句艺术史上永恒的名言：
+
+[quote,保罗·委罗内塞,面对宗教裁判所传唤时的辩词]
+____
+我们画家所享有的自由，与诗人和疯子所享有的并无二致。
+____
+
+除了这句“艺术创作自由”的宣言之外，委罗内塞对提问和指控的回答也十分有趣。这里摘录一些：
+
+**问：**在那张桌子旁，那些穿着德国服装、手里拿着长矛的士兵是干什么的？ +
+**答：**在我看来，这房子的主人，据说有钱有势，理应有这样的随从。
+
+**问：**那个打扮成小丑、拳头上停着一只鹦鹉的人，在画面里是为了什么？ +
+**答：**为了装饰，就像这类作品通常的做法一样。
+
+**问：**那个流着鼻血的人意味着什么？ +
+**答：**我画的是一个仆人，因为某种意外，他的鼻子流了血。
+
+**问：**那个在桌子底下、对着猫的狗又是为了表达什么？ +
+**答：**那是一只狗，在那儿等它的骨头。
+
+**问：**在圣餐桌旁……画上那些侏儒、醉汉、德国人、流鼻血的仆人以及类似的低俗之物，你认为合适吗？ +
+**答：**不，大人……但我只把他们画在晚餐的空间之外。如果画面里有空余的地方，我会用我的想象力来填充。
+
+**问：**是谁指使你画这些狗、德国人和胡闹之举的？ +
+**答：**我在罗马的教皇礼拜堂（西斯廷礼拜堂）里，看到米开朗基罗画了我们的主和那么多的裸体人物……而且缺乏敬意（在某些人看来） +
+
+[TIP]
+这里的背景是，米开朗基罗的《末日审判》在当时也饱受“裸体过多”的争议。委罗内塞的潜台词是：“既然艺术殿堂能忍受裸体，为什么要揪着我的几个人物不放？”
+
+审判官当然也不笨，驳斥道：“你难道不知道在那个末日审判中，是不存在衣服这种东西的吗？那里难道不全都是灵魂吗？”
+
+最后，审判官不再听委罗内塞辩解，直接下达了三个月内限期自费修改的最后通牒。
+
+[[last-supper-feast-levi]]
+== 改名：最后的晚餐变利未家的宴会
+
+委罗内塞极为机智。既然审判核心在于世俗场面不符合《最后的晚餐》的神圣性，他灵机一动，将这幅画的主题改为了《利未家的宴会》。根据《路加福音》描述，税吏利未（即后来的门徒马太）曾为耶稣举办过一场盛大的宴会，圣经原文明确提到席间有“大批税吏和罪人”。结果这一改名，原本画中的不和谐元素变成了符合圣经描述的真实场景。
+
+他几乎没有改动画面上的任何一个人物形象。为了让这个改名具有法律效力，他还在特意在画面左侧楼梯的栏杆上（小丑右手所指的方向）和对称的右侧栏杆刻下了两行醒目的拉丁文：
+
+* _FECIT D. COVI. MAGNV. LEVI_: 利未为我主举办了一场盛大的宴会。
+* _LUCAE CAP. V_: （见）《路加福音》第五章。
+
+当时的威尼斯非常开放且重视商业利益。威尼斯政府虽然不想为了一个画家和教廷闹僵，但也不想让这种严苛的审查毁掉威尼斯艺术的繁荣。委罗内塞的案子最后竟然真的通过改名而草草收场。
+
+[[luvre-accademia]]
+== 辗转：从卢浮宫到学院美术馆
+
+这幅画的传奇没有结束。
+
+在 1797 年，拿破仑的军队攻占威尼斯后，这幅巨作作为战利品被运往巴黎，在卢浮宫展出了近二十年。在 1815 年拿破仑帝国覆灭后，画作被归还给威尼斯。但它没有被送回原处的修道院食堂，而是被安置在了威尼斯学院美术馆，并保存至今。
