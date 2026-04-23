@@ -1,0 +1,174 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-marriage-cana-detail-4x3-1200.avif
+  alt: 保罗·委罗内塞 (Paolo Verone) 在《加纳的婚礼》 (The Wedding Feast at Cana) 中将包括自己在内的威尼斯画派三杰融入了宴会场景中，描绘成琴手。他身着白色长袍在左；提香 (Titian) 身着红色长袍在右；丁托列托 (Tintoretto) 身着绿色长袍在委罗内塞身后。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-marriage-cana-detail-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-marriage-cana-detail-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-07-06 13:00:00 +0100
+date_modified: 2026-07-06 13:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳，威尼斯，艺术]
+tagline: 我们画家所享有的自由，与诗人和疯子所享有的并无二致。
+---
+= 保罗·委罗内塞 (Paolo Veronese): 从维罗纳到威尼斯
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/
+
+**保罗·委罗内塞 (Paolo Veronese) **原名**保罗·卡利亚里** (Paolo Caliari)，是意大利文艺复兴时代的画家。他出生于维罗纳，后来移居威尼斯并在那里成名，与提香 (Titian)、丁托列托 (Tintoretto) 并称威尼斯画派三杰。
+
+我们在此次link:{% link _trips/2026-dolomites.md %}[多洛米蒂之旅]中，也游览了维罗纳和威尼斯，刚好可以寻踪画家的足迹和作品。这篇文章就是行前的笔记整理而成。
+
+[quote,保罗·委罗内塞,面对宗教裁判所传唤时的辩词]
+____
+我们画家所享有的自由，与诗人和疯子所享有的并无二致。
+____
+
+toc::[]
+
+[[verona]]
+== 委罗内塞在维罗纳 (Verona)
+
+保罗·委罗内塞 (1528-1588) 的家乡是维罗纳，但是在 25 岁时就离开了维罗纳定居在威尼斯，在维罗纳的作品并不多。如今有两幅收藏在博物馆中；还有两幅仍然在两座教堂的原址保存。
+
+如果你时间有限，只能选择一件，那就去**圣乔治大教堂**看《圣乔治殉难》，这是委罗内塞最重要的作品之一。圣乔治大教堂还可以顺便看**丁托列托**的《耶稣受洗》。
+
+[[san-giorgio-in-braida]]
+=== 圣乔治大教堂 (San Giorgio in Braida)
+
+维罗纳的**圣乔治教堂** (San Giorgio in Braida) 收藏着委罗内塞的《圣乔治殉难》 (Martyrdom of St. George) ，是委罗内塞最著名的杰作之一。
+
+委罗内塞在约 1564-1566 年间回到家乡成婚，迎娶他的老师**安东尼奥·巴迪莱** (Antonio Badile) 的女儿**埃琳娜** (Elena)。在此期间，他接受家乡委托，为圣乔治教堂创作了这幅巨型油画，至今仍保留在主祭坛中心。在画面中，圣乔治跪在中央，上方是圣母子与圣徒，下方则是拥挤而充满张力的行刑场面。
+
+附加看点：教堂内还藏有**丁托列托** (Tintoretto) 的《耶稣受洗》。
+
+[[san-paolo-in-campo-marzio]]
+=== 圣保罗教堂 (San Paolo in Campo Marzio)
+
+保罗·委罗内塞在维罗纳教堂中仅存的另一件真迹是位于圣保罗堂 (Church of San Paolo in Campo Marzio) 的《马罗尼亚祭坛画》 (Pala Marogna) 。这幅画由维罗纳显赫的马罗尼亚家族委托。画面描绘了圣母怀抱圣子，周围环绕着圣安东尼、圣保罗以及委任人马罗尼亚家族的成员。
+
+[[museo-di-castelvecchio]]
+=== 老城堡博物馆 (Museo di Castelvecchio)
+
+**老城堡博物馆** (Museo di Castelvecchio) ，也音译作**卡斯特维乔博物馆**。这里收藏了不少维罗纳本地画派和威尼斯画派的大师作品，包括委罗内塞的两幅作品：
+
+* Bevilacqua-Lazise Altarpiece, 1548: 《贝维拉夸-拉齐塞祭坛画》
+* Lamentation over the Dead Christ, 1548: 《哀悼死去的基督》
+
+贝维拉夸-拉齐塞祭坛画是目前**已知最早**的委罗内塞的独立作品。这幅画是由贝维拉夸-拉齐塞家族为他们位于维罗纳**圣费尔莫马焦雷教堂** (San Fermo Maggiore) 内的家族礼拜堂出资订制的，后来移到老城堡博物馆收藏。画作的主题是宝座上的圣母与圣子、施洗者圣约翰、图卢兹的圣路易和出资人 (Madonna Enthroned with Child, St John the Baptist, St Louis of Toulouse and Donors)。在画面的下方左右两个角落，还能看到两位正在祈祷的出资人家族成员肖像。
+
+在 1548 这一年，委罗内塞在接到《贝维拉夸-拉齐塞祭坛画》委托的同时，也同时接受了另一个委托创作了《哀悼死去的基督》。这幅画描绘的是基督受难后，其遗体从十字架上被取下、亲友哀悼的场景。
+
+[[basilica-di-santa-anastasia]]
+=== 圣安娜斯塔西亚大教堂 (Basilica di Santa Anastasia)
+
+**圣安娜斯塔西亚大教堂** (Basilica di Santa Anastasia) 是维罗纳最大的哥特式教堂。这里的核心看点是文艺复兴早期巨匠**皮萨内洛** (Pisanello) 的湿壁画《圣乔治与公主》 (_Saint George and the Princess_) 。它是国际哥特式风格在意大利最重要的代表作。如果你有机会游览这里，也不要错过它与委罗内塞家族的渊源。
+
+委罗内塞的父亲**老加布里埃尔·卡利亚里** (Gabriele Caliari) 是一名石匠。在圣安娜斯塔西亚大教堂中，进门后左右有两座著名的驼背人 (I Gobbi) 圣水池像。左边那个背负着圣水盆、表情痛苦的的驼背人根据考证就出自老加布里埃尔·卡利亚里之手。右边那个晚了一个世纪，是后来为了对称补上的。
+
+.**圣安娜斯塔西亚大教堂** (Basilica di Santa Anastasia) 的驼背人圣水池像之一出自**保罗·委罗内塞** (Paolo Veronese) 的父亲**老加布里埃尔·卡利亚里** (Gabriele Caliari) 之手。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/verona-basilica-di-santa-anastasia-stoup-gabriele-caliari-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/verona-basilica-di-santa-anastasia-stoup-gabriele-caliari-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/verona-basilica-di-santa-anastasia-stoup-gabriele-caliari-4x3-2400.avif 2400w"]
+
+[[venice]]
+== 委罗内塞在威尼斯 (Venice)
+
+委罗内塞在 1553 年迎来了职业生涯的里程碑。他被征召前往威尼斯**总督宫** (Palazzo Ducale)，参与十人委员会厅 (Sala dei Dieci) 的装饰。当时已经是老一辈的画坛领袖**提香**公开赞扬了这个来自维罗纳的年轻人。他从此定居威尼斯，开启了职业生涯的巅峰期。
+
+因为委罗内塞来自维罗纳，在威尼斯成名后，威尼斯人称他为 _Il Veronese_ ，意思是“那个维罗纳人”。于是才有了保罗·委罗内塞 (Paolo Veronese) 这个名字。
+
+如果在威尼斯只选一件作品，那无疑是**学院美术馆** (Gallerie dell'Accademia) 中收藏的《利未家的宴会》(The Feast in the House of Levi, 1573) 最有影响力。这幅画和收藏于**卢浮宫**的《加纳的婚礼》 (The Marriage at Cana, 1563) 是委罗内塞的代表作。
+
+其次不能错过的是**圣塞巴斯蒂亚诺教堂** (Chiesa di San Sebastiano)。教堂的整个天顶画和墙壁都由委罗内塞创作，展现了《以斯帖记》的故事。大师本人也安葬于此。
+
+[[gallerie-dell-accademia]]
+=== 学院美术馆 (Gallerie dell'Accademia)
+
+威尼斯学院美术馆是世界上最重要的威尼斯画派艺术收藏地。虽然**达·芬奇**的素描名作《维特鲁威人》(Vitruvian Man) 无疑是该馆的镇馆之宝，但是原稿由于脆弱极少展出。委罗内塞《利未家的宴会》凭借其宏大的尺度和传奇的背景故事成为该馆的明星。
+
+.威尼斯学院美术馆 (Gallerie dell'Accademia) 收藏的保罗·委罗内塞 (Paolo Veronese) 的《利未家的宴会》(The Feast in the House of Levi, 1573)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-feast-levi-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-feast-levi-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-feast-levi-2400.avif 2400w"]
+
+这幅画的主题原为《最后的晚餐》，委罗内塞在这个神圣主题下，塞进了不少“不同寻常”的世俗元素。有流鼻血的仆人，切羊肉的圣彼得，剔牙的门徒，士兵，小丑，甚至还有等待投食的猫狗。这幅作品令宗教裁判所大为光火，并为此传唤了委罗内塞，引发了艺术史上最著名艺术创作自由和宗教审查的对垒。庭审记录中的对答也充满了看点，委罗内塞甚至还把米开朗基罗也拖下水。最后，审判官还是判令委罗内塞三个月内限期自费修改。
+
+++++
+{% related slugs="veronese-feast-levi-venice-accademia" %}
+++++
+
+委罗内塞极为机智。他几乎没有改动画面上的人物形象，而是将这幅画的主题改为了《利未家的宴会》。根据圣经原文，税吏**利未**（即后来的门徒**马太**）曾为耶稣举办过一场盛大的宴会，席间有“大批税吏和罪人”。这一改名，原本画中的世俗元素变成了符合圣经描述的真实场景。这场宗教审查不得不草草收场。
+
+除了《利未家的宴会》这绝对的主角，学院美术馆中委罗内塞的其它看点还有很多，比如：
+
+* The Annunciation: 《圣母领报》，也叫《天使报喜》，大天使加百列 (Gabriel) 奉上帝之命，向玛利亚告知她将受圣灵感孕，生下上帝之子耶稣的时刻。
+* Assumption of the Virgin: 《圣母升天》，圣母玛利亚在生命终结时，身体与灵魂一同被天使护送升入天堂的场景。
+* Crucifixion: 《基督受难》，耶稣在十字架上的痛苦瞬间。
+
+[[chiesa-di-san-sebastiano]]
+=== 圣塞巴斯蒂亚诺教堂 (Chiesa di San Sebastiano)
+
+从 1555 年到 1570 年代，委罗内塞在圣塞巴斯蒂亚诺教堂断断续续工作了近二十年，几乎装饰了这里的每一寸空间。这里也是他的安息之地。
+
+在圣塞巴斯蒂亚诺教堂的核心看点是《以斯帖的故事》(Stories of Esther) 天顶画。这是委罗内塞在威尼斯一举成名的关键作品，描绘的是《圣经·旧约》《以斯帖记》中的故事：犹太孤女**以斯帖**成为波斯王后之后，在民族面临灭顶之灾时，冒死向国王揭露宰相哈曼的阴谋，最终拯救了犹太人。
+
+委罗内塞于 1588 年因肺炎去世后就安葬在圣塞巴斯蒂亚诺教堂。他的墓就在管风琴附近，墙上有他的半身雕像，地上有一块简单的墓碑，上面写着他的本名 Paolo Caliari 。
+
+[[palazzo-ducale]]
+=== 总督宫 (Palazzo Ducale)
+
+在威尼斯的**总督宫** (Palazzo Ducale) 是委罗内塞作品最集中的地方，这里既是他在威尼斯的艺术生涯的起点，也是成为威尼斯共和国国家画师之后的最高峰。其中，有三件委罗内塞的作品最值得关注：
+
+* 二楼：十人委员会厅 (Sala del Consiglio dei Dieci)
+** **《天后朱诺向威尼斯洒下礼物》** (Giunone versa i suoi doni su Venezia, 1553-1555): **初出茅庐的成名作**。
+** 《宙斯降下雷霆惩罚邪恶》 (Giove che fulmina i Vizi, 1553-1555): 此为摹本，原件在卢浮宫。
+** 《带着少女的老年东方人》 (Incontro tra un vecchio orientale e una giovane donna, 1553-1555)
+
+* 三楼：前厅 (Anticollegio)
+** 《威尼斯接收正义与和平的供奉》 (Venezia riceve l'omaggio della Pace e della Giustizia, 1575-1577): 天花板
+** **《欧罗巴的劫掠》** (Il Ratto di Europa, 1578-1580): **神话题材的代表作**。
+
+* 三楼：学院厅 (Sala del Collegio)
+** 《温顺》 (Mansuetudine)、《希望》 (Speranza) 等天顶美德系列寓意画 (1575-1577)
+** 《威尼斯在勒班陀战役后的感恩》 (Venezia ringrazia per la vittoria di Lepanto, 1578): 宝座上方
+
+* 三楼：大议会厅 (Sala del Maggior Consiglio)
+** **《威尼斯的胜利》** (Trionfo di Venezia, 1582-1585): **晚期的巅峰巨作**。
+
+委罗内塞在 25 岁左右的时候，以助手的身份参与了十人委员会厅的天花板装饰。《天后朱诺向威尼斯洒下礼物》就是其中的作品之一，描绘了罗马神话中的天后朱诺倾倒金币和珠宝，象征着上天对威尼斯共和国繁荣与财富的眷顾。这幅画展示了委罗内塞标志性的仰角透视 (di sotto in su) 和明亮色调，使他从一众画家中脱颖而出，获得了之后装饰圣塞巴斯蒂亚诺教堂等重要机会。
+
+.威尼斯总督宫 (Palazzo Ducale) 中的保罗·委罗内塞 (Paolo Veronese) 的《天后朱诺向威尼斯洒下礼物》天顶画（左）。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-giunone-doni-venezia-palazzo-ducale-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-giunone-doni-venezia-palazzo-ducale-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-giunone-doni-venezia-palazzo-ducale-4x3-2400.avif 2400w"]
+
+在总督宫的前厅，委罗内塞的《欧罗巴的劫掠》是另一件绝对不能错过的镇馆之宝。这幅画展现了独特的“连环画”构图，在同一张画布上，从左向右描绘了故事的三个阶段： 
+
+* 前景：众神之王朱庇特（宙斯）爱上了腓尼基公主欧罗巴，于是化身为一头白牛。欧罗巴被这头美丽的公牛吸引，骑上它的后背。侍女们正在帮她整理裙摆。
+* 中景：欧罗巴坐在白牛背上正缓缓走向海边，小爱神 (Cupid) 在前方领路。
+* 远景：白牛载着欧罗巴跃入海中，她劫走，最终带到了克里特岛。 
+
+值得一提的是，如果搜索委罗内塞的《欧罗巴的劫掠》，你会发现不止一副类似的作品。罗马**卡比托利尼博物馆** (Musei Capitolini) 收藏了另一幅极为相似的作品，创作于约 1581-1584 年。伦敦国家美术馆 (The National Gallery) 也收藏了一幅较小的版本，可能是委罗内塞在动工大画之前的草稿或缩减版。
+
+.威尼斯总督宫 (Palazzo Ducale) 中的保罗·委罗内塞 (Paolo Veronese) 的《欧罗巴的劫掠》。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-ratto-europa-palazzo-ducale-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-ratto-europa-palazzo-ducale-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-ratto-europa-palazzo-ducale-4x3-2400.avif 2400w"]
+
+委罗内塞在总督宫内最伟大的成就无疑是《威尼斯的胜利》，位置在大议会厅的天花板中央。画中象征威尼斯共和国的威尼斯女神身着华服坐在云端，正在接受胜利女神授予的桂冠。
+
+.威尼斯总督宫 (Palazzo Ducale) 中的保罗·委罗内塞 (Paolo Veronese) 的《威尼斯的胜利》。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-trionfo-di-venezia-palazzo-ducale-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-trionfo-di-venezia-palazzo-ducale-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/veronese-verona-venice/veronese-trionfo-di-venezia-palazzo-ducale-2400.avif 2400w"]
+
+[[libreria-marciana]]
+=== 马尔恰纳图书馆 (Biblioteca Nazionale Marciana)
+
+在 1556 年，威尼斯政府邀请了七位当时最优秀的年轻画家，为图书馆大厅的天花板创作 21 幅圆画 (Tondi)。因为在总督宫的十人委员会厅的工作中表现出色，委罗内塞赢得了参与其中的机会。他创作了其中的三幅（相邻的 16-18 号圆画）：
+
+* 《音乐》(La Musica): 描绘了美丽的女性正在演奏弦乐器。
+* 《荣誉》(Onore): 描绘了一个坐在宝座上的男性形象，周围环绕着美德的化身。如果看不懂，不要紧，艺术史家**瓦萨里**在 1568 年参观时就已表示无法完全解读这个画面。
+* 《几何与算术》 (L'Aritmetica e la Geometria): 代表算术的女性正在看着一本书，而代表几何的女性则呈跪姿，背对观众。
+
+评委会邀请了早已功成名就的提香担任评审，而提香将代表最佳画家荣誉的**金项链**授予了委罗内塞。委罗内塞可谓一战成名。
+
+值得一提的。在进入圣马尔谷图书馆大厅时，入口两侧绘制了两位古希腊哲学巨匠的肖像 (1560) 也出自委罗内塞之手。左侧是亚里士多德；右侧是柏拉图。
+
