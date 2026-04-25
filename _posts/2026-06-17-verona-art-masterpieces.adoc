@@ -1,0 +1,89 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/verona-mantegna-san-zeno-altarpiece-4x3-1200.avif
+  alt: 安德烈亚·曼特尼亚 (Andrea Mantegna) 的《圣泽诺祭坛画》(San Zeno Altarpiece, 1459)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/verona-mantegna-san-zeno-altarpiece-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/verona-mantegna-san-zeno-altarpiece-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-19 12:00:00 +0100
+date_modified: 2026-06-19 12:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
+tagline: 中世纪和文艺复兴的艺术瑰宝。
+---
+= 维罗纳 (Verona) 的艺术：五件不可错过的杰作
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/
+
+在维罗纳 (Verona) 有哪些不容错过的艺术瑰宝？“爱之城”不仅仅有“朱丽叶的阳台”，这里也有皮萨内洛、曼特尼亚、提香、丁托列托和委罗内塞的大师杰作。
+
+toc::[]
+
+[[basilica-di-san-zeno]]
+== 圣泽诺大教堂 (Basilica di San Zeno Maggiore)
+
+如果只能选择一件艺术品代表维罗纳，那就是珍藏在圣泽诺大教堂中，安德烈亚·曼特尼亚 (Andrea Mantegna) 创作的《圣泽诺祭坛画》 (San Zeno Altarpiece, 1459) 。
+
+**圣泽诺** (San Zeno) 也译作**圣柴诺**，是公元四世纪时的维罗纳主教，也是维罗纳的主保圣人。圣泽诺大教堂正是为纪念圣泽诺而建，他的遗骨一直安葬在这里。
+
+现存的圣泽诺大教堂建筑主体建于十二世纪，是罗曼式建筑的典范。教堂正门装饰有 48 块十一和十二世纪的青铜浮雕板，描绘了圣经故事和圣泽诺的生平。正门上方的玫瑰花窗 (Rosone) 也是十二世纪的，被称为**命运之轮** (Ruota della Fortuna)。教堂的地穴因为是莎士比亚的《罗密欧与朱丽叶》中劳伦斯神父为这对恋人秘密证婚的场景，成为热门的打卡地。
+
+安德烈亚·曼特尼亚是**意大利北部文艺复兴**的奠基人，以极致的透视法和对考古的痴迷闻名。他最大的贡献之一是在曼图亚公爵宫的婚礼堂 (Camera degli Sposi) 中，绘制了文艺复兴时期第一幅**仰角透视** (Sotto in Sù) 的幻觉装饰天顶画，深刻影响了后世五百年的西方艺术。安德烈亚后来娶了威尼斯画派的奠基人**乔瓦尼·贝利尼** (Giovanni Bellini) 的妹妹，两位艺术奠基人结成了姻亲。
+
+圣泽诺大教堂中的《圣母子与圣徒》祭坛画是曼特尼亚早期职业生涯的杰作。在此前，传统哥特式祭坛画的多联画屏 (Polyptych) 的每块画板都是独立的空间；而在《圣泽诺祭坛画》中，在四根真实的分隔柱之后，画家还画上一组柱子，将三块画板从视觉上统一成了一个整体空间。画中的人物也不再被框架隔开，而是共同出现在一个有深度的空间中，这种新的形式艺术史上被称为 “神圣对话” (Sacra Conversazione) 。
+
+.安德烈亚·曼特尼亚 (Andrea Mantegna) 的《圣泽诺祭坛画》(San Zeno Altarpiece, 1459) 中的细节。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/verona-mantegna-san-zeno-altarpiece-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/verona-mantegna-san-zeno-altarpiece-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/verona-mantegna-san-zeno-altarpiece-4x3-2400.avif 2400w"]
+
+这幅《圣泽诺祭坛画》在 1459 年 7 月 31 日被正式安置在圣泽诺大教堂的祭坛上，曼特尼亚本人也出席了仪式。这是意大利北部第一幅完全体现文艺复兴风格的祭坛画，其严谨的透视和对古典建筑的刻画极具革命性。这一天在艺术史上被视为维罗纳和意大利北部文艺复兴的正式开端。
+
+此外，这幅祭坛画的经历也颇为传奇。在 1798 年拿破仑入侵时，它曾遭拆解劫掠到了法国。虽然主画最终归还，但下方的三幅木板画至今仍分别收藏在巴黎卢浮宫和图尔美术馆 (Musée des Beaux-Arts de Tours)，如今在圣泽诺大教堂祭坛上的三幅小画是复制品。
+
+[[museo-di-castelvecchio]]
+== 老城堡博物馆 (Museo di Castelvecchio)
+
+莎士比亚笔下的朱丽叶是维罗纳这座“爱之城”最具代表性的人物，而历史上的**坎格兰德一世** (Cangrande I della Scala, 1291-1329) 作为维罗纳黄金时代的缔造者和城市之父同样是维罗纳的象征。珍藏在**老城堡博物馆** (Museo di Castelvecchio) 的坎格兰德一世的骑马雕像是维罗纳最重要的艺术瑰宝之一。
+
+**斯卡拉**家族 (della Scala) ，有时也从拉丁语译作**斯卡利杰里**家族 (Scaligeri) ，是十三至十四世纪维罗纳的统治家族。坎格兰德一世以其卓越的军事成就和对文学艺术的庇护成为其家族中最伟大的领主。当时被佛罗伦萨流放中的但丁受其慷慨资助，将整部《神曲·天堂篇》献给他，并预言了坎格兰德一世的伟大。薄伽丘也在《十日谈》中称他为“仅次于腓特烈二世的慷慨伟大的领主”。可惜，坎格兰德一世英年早逝，据说是“喝了被污染的泉水”。在 2004 年的开棺研究中，揭示出这位领主是被毒杀的。
+
+目前在老城堡博物馆珍藏的坎格兰德一世的骑马雕像是创作于其死后不久的原作，是中世纪晚期最动人的雕塑之一。雕像最独特之处在于他脸上神秘的咧嘴微笑，这在当时的墓葬雕像中极为罕见。
+
+有趣的是，雕像中坎格兰德一世背上身披战甲的狗也格外醒目。狗的形象在斯卡拉家族中极为重要。事实上，坎格兰德 (Cangrande) 这一名字在意大利语中的字面意思就是**大狗**。坎格兰德的叔叔，家族奠基人**马斯蒂诺一世** (Mastino I) 和坎格兰德的继任者 (也被疑为其凶手) **马斯蒂诺二世** (Mastino II)，名字的字面含义就是“獒”。
+
+老城堡博物馆还收藏有皮萨内洛 (Pisanello) 的《圣母与鹌鹑》 (Madonna della Quaglia) 木板蛋彩画，极具辨识度，是国际哥特式风格的巅峰之作。此外还有曼特尼亚，乔瓦尼·贝利尼 (Giovanni Bellini)，提香，委罗内塞等大师的作品。
+
+[[basilica-di-santa-anastasia]]
+== 圣安娜斯塔西亚大教堂 (Basilica di Santa Anastasia)
+
+**圣安娜斯塔西亚大教堂** (Basilica di Santa Anastasia) 是维罗纳最大的哥特式教堂。这里的核心看点是文艺复兴早期巨匠**皮萨内洛** (Pisanello) 的湿壁画《圣乔治与公主》 (_Saint George and the Princess_) 。它是国际哥特式风格在意大利最重要的代表作，也标志着艺术向文艺复兴自然主义转型的关键时刻。
+
+.维罗纳圣安娜斯塔西亚大教堂 (Basilica di Santa Anastasia) 中皮萨内洛 (Pisanello) 的《圣乔治与公主》(_Saint George and the Princess_) 湿壁画。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/st-george-and-the-princess-by-pisanello-santa-anastasia-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/st-george-and-the-princess-by-pisanello-santa-anastasia-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/st-george-and-the-princess-by-pisanello-santa-anastasia-4x3-2400.avif 2400w"]
+
+皮萨内洛在这幅壁画中，捕捉的不是圣乔治斗恶龙的激烈瞬间，而是公主目送圣乔治出发的宁静时刻。圣乔治身着板甲，正踩着马蹬准备上马；公主则身着华丽的长袍，静静地站在右侧。作为当时最伟大的动物画家，皮萨内洛画中的战马的细节表现出了极致的写实主义。他为这幅画中的动物准备了极其详尽的素描稿，这些手稿现在大部分珍藏在卢浮宫。
+
+此外，这幅名作中值得留意和玩味的细节还有左侧中景中聚集的人群，其中有几位明显是东方人，特别是最左侧的鞑靼人（蒙古人）。在画面左上方的远景，还有两个吊在绞刑架上的死尸。
+
+在这幅画中，公主标志性的高发际线和奢华的披风所代表的宫廷时尚，圣乔治所代表的理想化的骑士精神，这些都是意大利国际哥特式的巅峰和绝响。同时，画中对透视的探索，对动物细节的刻画，又体现出明显的**文艺复兴自然主义**倾向。
+
+值得一提的是，皮萨内洛在艺术史上还有一个无可争议的头衔：**现代肖像纪念章之父**。他将古希腊罗马的钱币艺术转化为一种独立的艺术形式，在 1438 年制作了纪念拜占庭皇帝**约翰八世** (John VIII Palaeologus) 访问意大利的青铜纪念章，正面是皇帝写实的侧面像，背面是他骑马的形象。这种对“个人荣誉”和“写实肖像”的追求，是文艺复兴人文主义精神的核心。
+
+[[san-giorgio-in-braida]]
+== 圣乔治教堂 (Chiesa di San Giorgio in Braida)
+
+**圣乔治教堂**曾是一座本笃会修道院。我们今天看到的教堂主体是十六世纪文艺复兴时期的杰作，宏伟的穹顶是教堂最醒目的标志。这里汇集了包括**丁托列托** (Tintoretto) 和**保罗·委罗内塞** (Paolo Veronese) 在内的不少大师的杰作，尤其是委罗内塞的**《圣乔治殉难》** (Martirio di San Giorgio) 最为重要，是画家的巅峰杰作之一，也是画家保存在家乡最珍贵的艺术瑰宝。
+
+委罗内塞在约 1564-1566 年间回到家乡维罗纳成婚，迎娶他的老师 (Antonio Badile) 的女儿 (Elena)。在此期间，他接受家乡委托，为圣乔治教堂创作了这幅巨型油画，至今仍保留在主祭坛中心。在画面中，圣乔治跪在中央，上方是圣母子、圣保罗、圣彼得、和代表信、望、爱三超德 (Faith, Hope, Charity) 的女性形象，下方则是拥挤而充满张力的行刑场面。
+
+[[duomo-di-verona]]
+== 维罗纳主教座堂 (Duomo di Verona)
+
+维罗纳主教座堂的正式名称是**圣玛利亚马蒂科拉雷主教座堂** (Cattedrale di Santa Maria Matricolare)。在这里左侧第一个礼拜堂，卡尔托拉里-尼凯索拉礼拜堂 (Cappella Cartolari-Nichesola) 中，收藏着提香 (Titian / Tiziano Vecellio) 的《圣母升天》(Assunta / Assumption of the Virgin, 1535)。
+
+由于提香 1518 年的的成名作，威尼斯版的《圣母升天》被誉为“威尼斯画派第一杰作”，且在艺术史上引发了轰动效应，维罗纳的这幅“简约版”《圣母升天》长期处于“姊妹篇”的从属地位。但作为是画家在维罗纳的唯一真迹，而且就收藏在主教座堂中，当然也不容错过。
