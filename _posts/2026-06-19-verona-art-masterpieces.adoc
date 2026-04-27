@@ -77,9 +77,14 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-maste
 [[san-giorgio-in-braida]]
 == 圣乔治教堂 (Chiesa di San Giorgio in Braida)
 
-**圣乔治教堂**曾是一座本笃会修道院。我们今天看到的教堂主体是十六世纪文艺复兴时期的杰作，宏伟的穹顶是教堂最醒目的标志。这里汇集了包括**丁托列托** (Tintoretto) 和**保罗·委罗内塞** (Paolo Veronese) 在内的不少大师的杰作，尤其是委罗内塞的**《圣乔治殉难》** (Martirio di San Giorgio) 最为重要，是画家的巅峰杰作之一，也是画家保存在家乡最珍贵的艺术瑰宝。
+**圣乔治教堂**曾是一座本笃会修道院。我们今天看到的教堂主体是十六世纪文艺复兴时期的杰作，宏伟的穹顶是教堂最醒目的标志。这里汇集了包括**丁托列托** (Tintoretto) 和**保罗·委罗内塞** (Paolo Veronese) 在内的不少大师的杰作，尤其是委罗内塞的**《圣乔治殉道》** (Martirio di San Giorgio / The Martyrdom of Saint George) 最为重要，是画家的巅峰杰作之一，也是画家保存在家乡最珍贵的艺术瑰宝。
 
-委罗内塞在约 1564-1566 年间回到家乡维罗纳成婚，迎娶他的老师 (Antonio Badile) 的女儿 (Elena)。在此期间，他接受家乡委托，为圣乔治教堂创作了这幅巨型油画，至今仍保留在主祭坛中心。在画面中，圣乔治跪在中央，上方是圣母子、圣保罗、圣彼得、和代表信、望、爱三超德 (Faith, Hope, Charity) 的女性形象，下方则是拥挤而充满张力的行刑场面。
+委罗内塞在约 1564-1566 年间回到家乡维罗纳成婚，迎娶他的老师 (Antonio Badile) 的女儿 (Elena)。在此期间，他接受家乡委托，为圣乔治教堂创作了这幅巨型油画，至今仍保留在主祭坛中心。
+
+.珍藏在维罗纳的圣乔治教堂 (Chiesa di San Giorgio in Braida) 中的《圣乔治殉道》 (The Martyrdom of Saint George) 是保罗·委罗内塞 (Paolo Veronese) 的巅峰杰作之一。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/veronese-martyrdom-st-george-martyrdom-verona-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/veronese-martyrdom-st-george-martyrdom-verona-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-art-masterpieces/veronese-martyrdom-st-george-martyrdom-verona-2400.avif 2400w"]
+
+在画面下方，圣乔治跪在中央，被剥去了盔甲，周围是拥挤而充满张力的行刑场面；画面上方则是在云端的圣母子、圣保罗（左）、圣彼得（右）、和代表信（左）、望（右）、爱（中）神学三美德 (Theological Virtues - Faith, Hope, Charity) 的女性，正在迎接他的灵魂。
 
 [[duomo-di-verona]]
 == 维罗纳主教座堂 (Duomo di Verona)
