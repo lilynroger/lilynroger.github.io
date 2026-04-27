@@ -1,0 +1,112 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/raphael-st-george-dragon-national-gallery-of-art-washington-4x3-1200.avif
+  alt: 拉斐尔《圣乔治与龙》，华盛顿国家美术馆
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/raphael-st-george-dragon-national-gallery-of-art-washington-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/raphael-st-george-dragon-national-gallery-of-art-washington-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-19 13:00:00 +0100
+date_modified: 2026-06-19 13:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 艺术, 欧洲艺术经典题材, 圣乔治]
+tagline: 骑士和黄金传奇
+---
+= 欧洲艺术经典题材：圣乔治 (Saint George) 与龙
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/
+
+圣乔治 (Saint George) 与龙和圣乔治殉道是欧洲艺术中极富戏剧性的经典题材。这篇短文是**欧洲艺术经典题材**系列短文中的一篇，关于圣乔治其人、其事，和这一主题的大师杰作。
+
+toc::[]
+
+[[st-george]]
+== 圣乔治其人
+
+历史学家普遍认为**圣乔治**是一位真实存在过的历史人物，来自今土耳其地区的**卡帕多西亚** (Cappadocia)，生活在罗马帝国**四帝共治**时期，是皇帝**戴克里先** (Diocletian) 的禁卫军军官。
+
+公元 303 年，罗马帝国开始最后一次也是最严重的一次对基督徒的镇压。圣乔治因拒绝放弃基督教信仰而被判处死刑，在 4 月 23 日被斩首，成为基督教殉道者，后被封为圣人。
+
+圣乔治是基督教中最受尊崇的英雄、殉道者和圣人之一。他是英格兰、格鲁吉亚等国家，和世界各地众多城市的主保圣人。格鲁吉亚的英文名 Georgia 就来源于圣乔治。他尤其被尊为军事圣人，是士兵，甚至童子军的主保圣人。每年的 4 月 23 日被定为圣乔治日以纪念他。白底红色正十字符号也被称为**圣乔治十字** (St George's Cross)，其中白底象征纯洁、和平，红色象征殉道者的鲜血，十字形状象征基督教信仰。
+
+[[st-george-and-the-dragon]]
+== 圣乔治与龙
+
+**圣乔治与龙**的故事并不是出自圣经，而源于民间传说。在十二世纪十字军东征时，将在东方接触到的这个故事带回了欧洲。十三世纪中叶，雅各·德·佛拉金 (Jacobus de Voragine) 在他的圣人传记《金色传奇》 (_The Golden Legend_) 一书中将故事细节定型。由于该书在中世纪的流行程度仅次于《圣经》，这个版本成为了我们今天熟知的“标准版”：
+
+圣乔治在游历时来到一座异教徒的城市。这座城市城附近有一片巨大的沼泽，盘踞着一只剧毒的恶龙。为了防止恶龙进城带来瘟疫和死亡，居民每天向其献祭两只羊。当羊群吃完后，居民被迫开始抽签决定年轻人作为牺牲品献祭。
+
+有一天，抽签落到了国王美丽的女儿身上。国王虽然哀求百姓赦免他的女儿，甚至提出奉献金银，但愤怒的民众坚持法律的公正。于是，公主穿上盛装，悲伤地前往沼泽地等待死亡。
+
+年轻的骑士圣乔治圣正好骑马路过。他询问哭泣的公主缘由后，承诺会以耶稣基督之名帮助她。当恶龙从沼泽中冲出时，圣乔治在胸前划了一个十字，骑马冲锋，用长矛将恶龙重创并钉在地上。
+
+圣乔治并没有立刻杀死恶龙，而是让公主用自己的腰带系在龙的脖子上。恶龙像被驯服的小狗一样，被牵着进了城。城中百姓惊恐万分，圣乔治宣告：“如果你们愿意接受洗礼成为基督徒，我便为你们除掉此祸。”
+
+国王和全城随即接受了洗礼。圣乔治随后拔剑斩下龙头，尸体由四辆牛车才拉出城外。国王为此建立了一座圣母与圣乔治教堂，相传教堂内的泉水能治愈百病。
+
+[[st-george-masterpieces]]
+== 大师杰作
+
+欧洲艺术中围绕圣乔治这一题材诞生了很多大师杰作。这里我们选择其中的三件，既有油画，也有雕塑，聚焦圣乔治殉道、圣乔治与龙等不同的叙事视角。
+
+* 拉斐尔《圣乔治屠龙》（华盛顿，国家美术馆）
+* 委罗内塞《圣乔治殉道》（维罗纳，圣乔治教堂）
+* 多纳太罗《圣乔治》 (佛罗伦萨，巴尔杰洛国家博物馆)
+
+[[raphael-st-george-dragon]]
+=== 拉斐尔《圣乔治与龙》
+
+**拉斐尔·桑西** (Raffaello Sanzio da Urbino, 1483-1520) 生于**乌尔比诺** (Urbino)，后前往佛罗伦萨和罗马，与达·芬奇、米开朗基罗并称为“文艺复兴三杰”。
+
+拉斐尔有两幅以《圣乔治与龙》为主题的小型木板油画，一副 (_Saint George and the Dragon_, c. 1506) 收藏在华盛顿**国家美术馆** (https://www.nga.gov/artworks/28-saint-george-and-dragon[National Gallery of Art])，另一幅 (https://collections.louvre.fr/en/ark:/53355/cl010060772[_Saint Georges luttant avec le dragon_]) 则在巴黎卢浮宫。其中华盛顿的版本是《圣乔治与龙》这一题材理想化完美的巅峰。
+
+.拉斐尔《圣乔治与龙》，华盛顿国家美术馆
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/raphael-st-george-dragon-national-gallery-of-art-washington-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/raphael-st-george-dragon-national-gallery-of-art-washington-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/raphael-st-george-dragon-national-gallery-of-art-washington-2400.avif 2400w"]
+
+乌尔比诺公爵**圭多巴尔多·达·蒙特费尔特罗** (Guidobaldo da Montefeltro) 在 1504 年被英格兰国王亨利七世授予骑士称号。为表感谢，公爵委托年轻的拉斐尔创作了这幅画。
+
+在画面中，圣乔治身着闪亮铠甲，持长矛刺中恶龙的咽喉；胯下白马充满动感并压制着恶龙。公主则跪在画面右侧后方，身着长袍，双手合十安静地祈祷。
+
+仔细看这幅画，会发现马的胸带上有铭文 _RAPHELLO / .V._ ，意思是“乌尔比诺的拉斐尔”。另一个细节是圣乔治腿上的蓝色袜带，上面有金色铭文 _HONI_ ,正是英国**嘉德骑士团** (Garter) 格言 _Honi soit qui mal y pense_ （心怀邪念者，当以此蒙羞）的开头几个字母。圣乔治是骑士团的主保圣人。
+
+这幅画历经**英王查理一世**收藏，后由俄国女皇**叶卡捷琳娜二世**购入，在冬宫悬挂一个半世纪，是沙皇收藏中最受欢迎的画作之一。斯大林在 1931 年将其秘密出售给美国金融家、时任财政部长的**梅隆**以换取现金，后者将其捐赠给华盛顿国家美术馆。
+
+这幅自带签名和外交背景、经历跌宕起伏的拉斐尔杰作，是《圣乔治与龙》这一经典主题的最佳代表。
+
+[[veronese-martyrdom-st-george-martyrdom]]
+=== 保罗·委罗内塞《圣乔治殉道》
+
+**保罗·委罗内塞** (Paolo Veronese, 1528-1588) 原名**保罗·卡利亚里** (Paolo Caliari)，是意大利文艺复兴时代的画家。他出生于维罗纳，后来移居威尼斯并在那里成名，与提香 (Titian)、丁托列托 (Tintoretto) 并称**威尼斯画派三杰**。
+
+依然珍藏在维罗纳**圣乔治教堂** (San Giorgio in Braida) 主祭坛原位的布面油画《圣乔治殉道》 (Martirio di San Giorgio / The Martyrdom of Saint George, 1566) 是委罗内塞巅峰时期的杰作，是画家保存在家乡最珍贵的艺术瑰宝。这幅恢宏的《圣乔治殉道》也是这一题材的巅峰代表。
+
+.保罗·委罗内塞《圣乔治殉道》，维罗纳圣乔治教堂
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/veronese-martyrdom-st-george-martyrdom-verona-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/veronese-martyrdom-st-george-martyrdom-verona-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/veronese-martyrdom-st-george-martyrdom-verona-2400.avif 2400w"]
+
+在画面下方，圣乔治跪在中央，被剥去了盔甲，周围是拥挤而充满张力的行刑场面。在画面上方的云端，圣母子坐在最高处，身旁是站着手持钥匙的圣彼得与紧握宝剑和书册的圣保罗，还有代表信、望、爱**神学三美德**的女性，正在迎接圣乔治的灵魂。
+
+[TIP]
+**神学三美德** (Theological Virtues): *信* (Faith) 的标志是圣杯，十字架或者圣经；**望** (Hope) 经常双手合十，标志有时是船锚；**爱** (Charity) 经常在中间，标记是婴孩或者火焰。
+
+++++
+{% related slugs="verona-art-masterpieces" %}
+++++
+
+[[donatello-st-george]]
+=== 多纳太罗《圣乔治》
+
+多纳泰罗 (Donatello, 1386-1466) 生于佛罗伦萨，是意大利文艺复兴早期最伟大的雕塑家，文艺复兴写实主义的开创者之一。
+
+多纳泰罗的早期杰作《圣乔治》(Saint George) 很可能是这一题材的雕塑中名气最大的一个。这座披挂盔甲、生气勃勃的圣乔治雕像收藏在佛罗伦萨的**巴尔杰洛国家博物馆** (Museo Nazionale del Bargello) ，安放在多纳泰罗厅 (Donatello Hall) 内壁上重建的一座壁龛当中。艺术史之父**瓦萨里** (Giorgio Vasari) 评价这件作品“生命本身似乎就在石头中有力地搅动”。
+
+.多纳泰罗《圣乔治》，佛罗伦萨巴尔杰洛国家博物馆
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/donatello-st-george-bargello-florence-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/donatello-st-george-bargello-florence-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/european-art-classics-st-george/donatello-st-george-bargello-florence-2400.avif 2400w"]
+
+这尊雕像是由佛罗伦萨**盔甲与剑匠行会** (Arte dei Corazzai e Spadai) 委托制作的，用于装饰佛罗伦萨**圣弥额尔教堂** (Orsanmichele) 的外部壁龛。这座教堂在功能上是佛罗伦萨行会共同的展示场所，每个行会出资为自己的主保圣人建造雕像，并安放在壁龛中。圣乔治是武器工匠的主保圣人，所以《圣乔治》身上精致的盔甲不仅仅是艺术表现，也是一种“行业广告”。原作于 1892 年迁入巴尔杰洛博物馆加以保护，现在原址的壁龛里放置的是一座复制品。
+
+在欣赏这件作品时，不要只盯着主雕像本身。在雕像下方壁龛基座上，是大理石浮雕《圣乔治屠龙》，表现了恶龙冲出洞穴，乔治骑马屠龙、公主在旁祈祷的瞬间。这是西方雕塑史上最具里程碑意义的一块浮雕。多纳泰罗在这里创造了一种全新的在西方艺术史上被单独命名的浮雕技法：**极浅浮雕** (rilievo schiacciato)。他在不到一寸厚的石板上，运用了中心点线性透视，通过极细微的高低起伏和光影错觉，营造出深远的空间感和战斗场景。
