@@ -1,0 +1,100 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-red-ammonites/verona-red-ammonites-4x3-1200.avif
+  alt: 维罗纳红大理石 (Red Verona Marble / Rosso Ammonitico) 中来自侏罗纪的菊石 (Ammonites) 化石。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-red-ammonites/verona-red-ammonites-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-red-ammonites/verona-red-ammonites-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-17 15:00:00 +0100
+date_modified: 2026-06-17 15:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
+tagline: 爱之城和小耶路撒冷
+description: 在维罗纳哪里可以找到藏在红大理石 (Red Verona Marble / Rosso Ammonitico) 中的来自侏罗纪的菊石 (Ammonites) 化石。
+---
+= 维罗纳红大理石：寻找侏罗纪的菊石化石
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-red-ammonites/
+
+在维罗纳的圆形竞技场中，大教堂里，甚至人行道上，你都会看到一种粉红色的大理石。他们就是著名的**维罗纳红大理石** (Red Verona Marble / Rosso Ammonitico)。稍加留意，你还会发现其中有许多大小不一的螺旋状的古生物化石，他们是来自侏罗纪的菊石 (Ammonites) 化石。
+
+toc::[]
+
+[[ammonites]]
+== 菊石
+
+菊石是一种已经灭绝的海生无脊椎动物，和现在的章鱼、乌贼是远亲，但长着类似鹦鹉螺的外壳。它们在地球上生存了几亿年，直到侏罗纪与恐龙同时灭绝。菊石化石表面的纹理像菊花瓣一样复杂，这也是其中文名的来源。
+
+.维罗纳的粉色菊石化石 (Ammonite)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-red-ammonites/red-ammonite-verona.avif[]
+
+菊石的英文名 Ammonite 和 意大利语名字 Ammonitico 来源于古埃及主神**阿蒙** (Amun)。古埃及的神好多都是人身动物头，主神阿蒙神就是人身公羊头。到了古希腊和古罗马时期，阿蒙神又与宙斯结合成了**宙斯阿蒙**神 (Ammon-Zeus) ，其形象通常被为一个男性的头上长着一对向后弯曲、呈螺旋状的羊角。
+
+.罗马巴拉科古雕塑博物馆 (Museo di Scultura Antica Giovanni Barracco) 的宙斯阿蒙神 (Zeus-Ammon) 头像。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-red-ammonites/zeus-ammon-museo-barracco-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-red-ammonites/zeus-ammon-museo-barracco-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-red-ammonites/zeus-ammon-museo-barracco-4x3-2400.avif 2400w"]
+
+在公元一世纪，古罗马著名的博学家老普林尼 (Pliny the Elder) 在其巨著《博物志》中，首次提到了这种螺旋形的化石，并称之为“阿蒙之角”。
+
+[verona-red-marbles]
+== 维罗纳红大理石
+
+侏罗纪时期，维罗纳所在的位置曾是一片海洋，海底沉积了厚厚的泥沙和贝壳。后来，地球板块碰撞，形成了数座山脉，其中包括维罗纳北部的**巴尔多山** (Monte Baldo) 和**莱西尼山脉** (Lessinia) 。维罗纳随处可见的粉色和红色大理石就来自于这些地区。
+
+严格来说，维罗纳红大理石从地质学上讲其实是石灰岩。不过维罗纳的大理石工匠不这么认为，他们坚持称之为大理石。
+
+维罗纳许多地方和建筑都使用了红色大理石，几乎无处不在。老城区街道上、**香草广场** (Piazza delle Erbe) 和**布拉广场** (Piazza Bra) 旁的人行道上铺的粉红色石板就是维罗纳红大理石。圆形竞技场 (Arena) 、香草广场和领主广场 (Piazza dei Signori) 之间的理性阶梯 (Scala della Ragione)、圣泽诺教堂 (San Zeno Church) 的地板和门口的狮子雕像也都是。
+
+[[hunting-ammonites]]
+== 寻找菊石化石
+
+在维罗纳哪里可以找到又大又漂亮的菊石呢？
+
+[[arena-di-verona]]
+=== 圆形竞技场 (Arena di Verona)
+
+建于公元一世纪的**维罗纳圆形竞技场**无疑是这座城市的标志。它比罗马斗兽场更古老，是世界第三大古罗马竞技场。在进入竞技场的拱门石块和看台台阶上，可以找到很多的菊石化石。
+
+[[via-giuseppe-mazzini]]
+=== 马齐尼大道 (Via Giuseppe Mazzini)
+
+**马齐尼大道**是连接**香草广场** (Piazza delle Erbe) 和**布拉广场** (Piazza Bra)的狭长步行街，是维罗纳首屈一指的购物街。这里的粉色大理石地砖是全城抛光度最高的，最清晰的巨型菊石位于街道南端，靠近圆形竞技场的一侧。下雨后或是清晨街道刚清洗过时，大理石的颜色最鲜艳，非常适合拍摄。
+
+[[scala-della-ragione]]
+=== 理性阶梯 (Scala della Ragione)
+
+理性阶梯由维罗纳红大理石建成，台阶和扶手中有大量密集的菊石化石。
+
+[[complesso-del-duomo-di-verona]]
+=== 维罗纳大教堂 (Complesso del Duomo di Verona)
+
+大教堂正门两侧的红色大理石圆柱。经过数百年的风吹雨打和人为触摸，大理石的表面被自然抛光得非常光滑。你可以看到非常大的、造型完整的菊石，有些甚至呈现出半透明的质感。
+
+在通往世界最古老的维罗纳大教堂图书馆 (Biblioteca Capitolare) 的石阶立面上能看到横截面非常完整的大菊石化石。
+
+在大教堂后方的圣约翰洗礼堂 (San Giovanni in Fonte) 中心有一个巨大的八角形洗礼盆，由整块维罗纳红大理石雕凿而成，上面刻有极为精美的《基督的一生》浮雕。当然也有菊石化石。
+
+[[ponte-di-castelvecchio]]
+=== 老城堡桥 (Ponte di Castelvecchio)
+
+老城堡桥的桥墩与台阶上的装饰都是维罗纳红大理石，这里的石块未经精细打磨，化石呈现出一种粗犷的立体感。你可以清晰地看到菊石在岩石内部的深度嵌套关系，而不仅仅是一个平面。
+
+[[basilica-di-san-zeno-maggiore]]
+=== 圣泽诺大教堂 (Basilica di San Zeno Maggiore)
+
+目标是圣泽诺大教堂大门外的台阶和狮子雕像基座。这里的红色大理石年代久远，色泽深沉（呈砖红色），其中的菊石化石由于含铁量不同，颜色往往比周围岩石更深，对比度非常高，清晰度极佳。
+
+[[basilica-di-santa-anastasia]]
+=== 圣安那斯塔西亚教堂 (Basilica di Santa Anastasia)
+
+进入圣安那斯塔西亚教堂后，注意支撑洗礼盆的红色大理石基座（由著名的“驼背”雕像托起）。在基座的侧面和洗礼盆的边缘，你可以看到直径超过 2 厘米 的巨型菊石，螺旋纹路非常深邃，由于处于室内且受到保护，保存状态极佳。
+
+[[ponte-pietra]]
+=== 彼得拉桥 (Ponte Pietra)
+
+维罗纳最古老的彼得拉桥 (Ponte Pietra)，本身就是一座“化石博物馆”。桥面铺设的巨大石块，桥砖常年被行人踩踏和雨水冲刷，许多巨大菊石化石的截面被自然打磨出来，在阳光下呈现出鲜艳的肉粉色。
