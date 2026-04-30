@@ -1,0 +1,110 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-detail-4x3-1200.avif
+  alt: 维罗纳 (Verona) 理性宫 (Palazzo della Ragione) 外墙上的一个用于秘密举报的“狮子之口” (Bocche di Leone / Lions' Mouths) 信箱。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-detail-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-detail-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-17 15:00:00 +0100
+date_modified: 2026-06-17 15:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
+tagline: 威尼斯共和国的“耳目”
+description: 在维罗纳 (Verona) 也有类似威尼斯 (Venice) 的、被称为“狮子之口” (Bocche di Leone / Lions' Mouths) 的秘密举报信箱。有两个就在理性宫 (Palazzo della Ragione) 的外墙上。
+---
+= 维罗纳 (Verona) 的“狮子之口” (Bocche di Leone / Lions' Mouths): 秘密举报信箱
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/
+
+在维罗纳 (Verona)，你也能找到类似威尼斯 (Venice) 那样的秘密举报信箱，被称为“狮子之口” (Bocche Di Leone / Lions' Mouths)。保存最好的两个就在历史中心的领主广场 (Piazza dei Signori) 旁，理性宫 (Palazzo della Ragione) 的外墙上。
+
+[[history]]
+== 狮子之口的历史背景
+
+维罗纳的狮子之口和威尼斯的一样，是威尼斯共和国时期建立起来的一套严密且超前的司法实践系统。
+
+公元 1310 年，在挫败了一场差一点就成功的贵族政变之后，威尼斯政府意识到，传统的公开法庭无法察觉贵族私下的阴谋。为此，政府迅速成立了十人委员会 (Consiglio dei Dieci)，一个拥有绝对权力的秘密情报与司法机构。“狮子之口”正是这个机构延伸到民间和外地（包括维罗纳）的“共和国耳目”。
+
+“狮子之口”的初衷当然不是鼓励人们相互告密，主要目标其实是当权者和贵族，而非普通百姓。目的是为了防止精英篡权、打击经济犯罪和维护社会秩序。
+
+[[system]]
+== 狮子之口的司法制度
+
+“狮子之口”的背后是一个信箱，石刻面板上设有一个投信口，供公民**秘密举报**。所以，其官方名称为**秘密举报之口** (Bocche delle Denunzie Secrete)。其中铭文中常见的 _Denunzie Secrete_ 是早期意大利书面语的拼写，意思就是“秘密举报”。
+
+秘密举报的内容可以针对各种犯罪行为，高利贷、逃税、走私、间谍、腐败、叛国，还有非法行医、公共卫生违规（瘟疫无小事）等等。
+
+信箱通常配有**三把不同的钥匙**，分别由三位不同的官员保管。必须三人在场才能开启信箱，这有效地防止了官员私自销毁针对自己或亲信的检举信。
+
+如果是匿名的举报信，除非涉及极其严重的叛国罪，否则通常会被当众烧毁。合法的举报必须包含签名，并提供证据和至少**三名证人**的信息。
+
+如果调查发现举报纯属捏造，举报者将被**反坐**，面临被举报罪名同等的刑罚，甚至更重。
+
+[[visual-design]]
+== 狮子之口的视觉形象
+
+虽然官方文件称其为秘密举报之口，但民众都叫它“狮子之口”。一方面，**圣马可之狮** (Leone di San Marco) 是威尼斯共和国的象征。民众认为这些信箱是“国家的耳目”，向信箱投信就等同于直接向“威尼斯狮子”告发，因此得名。另一方面，早期的举报箱确实被雕刻成完整的狮子头形状，暗示举报者的声音会通过狮子的嘴传达到最高统治者耳中。
+
+[TIP]
+圣马可之狮源于基督教《圣经》中《启示录》的四活物之一。在基督教艺术中，四位福音书作者都有对应的象征物，其中圣马可 (San Marco) 的象征就是长翅膀的狮子。传说公元 828 年，两名威尼斯商人将圣马可的遗骸从埃及亚历山大港偷运回威尼斯。从此，圣马可成为威尼斯的守护神，有翼的狮子也成了国家的图腾。
+
+随着时间的推移，为了管理不同类别的犯罪，政府开始在信箱旁加注详细的说明文字（铭文），并开始有了不同的形象和风格，比如怪诞的人脸和面具。
+
+在 1797 年，拿破仑军队占领威尼斯共和国时，由于狮子是威尼斯政权的象征，多数狮子形象的信箱被毁掉了。
+
+[[bocche-di-leone-a-verona]]
+== 维罗纳的狮子之口
+
+维罗纳目前有两个著名的“狮子之口”保存最完好。它们是十八世纪设立的，都在历史中心的**理性宫** (Palazzo della Ragione) 的外墙之上。设在这里是因为理性宫是当时的法院。这两个“狮子之口”都不是狮子形象，而是怪诞的人脸形象或者拟人的面具。
+
+找到它们很容易，先找到**领主广场** (Piazza dei Signori) 上的**但丁雕像** (Statua di Dante Alighieri)。但丁直面的小巷就是**但丁路** (Via Dante Alighieri)；理性宫也在这个方向，在但丁路的右侧。两个“狮子之口”在理性宫靠近但丁路和领主广场的这个角附近，一个面向广场，另一个在巷子里。
+
+理性宫的外墙还曾设有针对其它罪名的信箱，如针对官员贪腐、公共卫生违规等，但都在在拿破仑占领期间被铲平了。在这些缺失的遗址处，你有时能看到墙面上留下的矩形石框痕迹或修补后的石砖。
+
+[[usurai]]
+=== 针对高利贷的举报之口
+
+这个狮子之口的具体位置是**理性宫**面向**领主广场**，靠近**但丁路**的外墙上。就在街角餐厅 (Impero Pizza) 的门旁。
+
+.维罗纳 (Verona) 理性宫 (Palazzo della Ragione) 外墙上的一个用于秘密举报高利贷的“狮子之口” (Bocche di Leone / Lions' Mouths) 信箱。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-usurai-piazza-signori-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-usurai-piazza-signori-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-usurai-piazza-signori-4x3-2400.avif 2400w"]
+
+这个“狮子之口”与当时的财政官办公室相连，专门用于接收针对高利贷者的举报。平民的债务问题可能引发暴乱，所以当时高利贷被视为破坏社会稳定的重罪，等同于叛国。政府通过收集这些“秘密举报”，维持社会的信贷平衡。
+
+石板上的铭文是：
+
+[quote]
+____
+_DENUNZIE SECRETE CONTRO USURARJ E CONTRATTI USURARJ DI QUALUNQUE SORTE_
+
+受理秘密举报：针对高利贷者，以及任何形式的高利贷契约。
+____
+
+[[contrabbando]]
+=== 针对丝绸走私的举报之口
+
+这个狮子之口的具体位置是**理性宫**在**但丁路**一侧的外墙上，靠近**领主广场**的一端。
+
+.维罗纳 (Verona) 理性宫 (Palazzo della Ragione) 外墙上的一个用于秘密举报丝绸走私的“狮子之口” (Bocche di Leone / Lions' Mouths) 信箱。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-4x3-2400.avif 2400w"]
+
+当时丝绸是威尼斯共和国（包括维罗纳）最赚钱的支柱产业。政府对丝绸的生产、加工和贸易实行极严格的垄断和高税收。如果有人私设黑作坊，走私丝绸，甚至试图将丝绸相关技术传授给外国人，这些行为在当时被视为“动摇国本”。
+
+.维罗纳 (Verona) 理性宫 (Palazzo della Ragione) 外墙上的一个用于秘密举报丝绸走私的“狮子之口” (Bocche di Leone / Lions' Mouths) 信箱细节。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-detail-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-detail-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-detail-4x3-2400.avif 2400w"]
+
+石板上的铭文是：
+
+[quote]
+____
+_DENONCIE SECRETE CONTRO CONTRABANDIERI DI SEDE E CHI TENISSE CAVALERI O FORNELLI DA TIRAR SEDA SENZA BOLLETA_
+
+受理秘密举报：针对丝绸走私者，以及任何未经许可、私自养蚕或私设炉灶抽丝的行为。
+____
+
