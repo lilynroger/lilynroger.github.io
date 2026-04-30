@@ -12,8 +12,8 @@ categories: posts
 date: 2026-06-17 15:00:00 +0100
 date_modified: 2026-06-17 15:00:00 +0100
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
-tagline: 爱之城和小耶路撒冷
-description: 在维罗纳哪里可以找到藏在红大理石 (Red Verona Marble / Rosso Ammonitico) 中的来自侏罗纪的菊石 (Ammonites) 化石。
+tagline: 走在亿万年前的“阿蒙之角”上
+description: 在维罗纳 (Verona) 哪里可以找到藏在红大理石 (Red Verona Marble / Rosso Ammonitico) 中的来自侏罗纪的菊石 (Ammonites) 化石。
 ---
 = 维罗纳红大理石：寻找侏罗纪的菊石化石
 :page-liquid: true
