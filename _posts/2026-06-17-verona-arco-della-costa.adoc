@@ -1,0 +1,45 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-arco-della-costa/verona-arco-della-costa-4x3-1200.avif
+  alt: 维罗纳 (Verona) 的隐藏小众打卡点之一：肋骨拱门 (Arco della Costa)
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-arco-della-costa/verona-arco-della-costa-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-arco-della-costa/verona-arco-della-costa-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-17 15:00:00 +0100
+date_modified: 2026-06-17 15:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
+tagline: 挂了二百年的鲸鱼肋骨
+description: 维罗纳 (Verona) 的“肋骨拱门” (Arco della Costa) 也译作“科斯塔拱门”，是在百草广场与领主广场之间的一座拱形连廊。一根巨大的鲸鱼肋骨自 18 世纪开始就悬挂在拱门下方。
+---
+= 肋骨拱门 (Arco della Costa): 维罗纳的隐藏小众打卡点
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-arco-della-costa/
+
+维罗纳的**肋骨拱门** (Arco della Costa) 也译作**科斯塔拱门**，是在著名的**百草广场** (Piazza delle Erbe) 与**领主广场** (Piazza dei Signori) 之间的一座历史悠久的拱形连廊。一根巨大的鲸鱼肋骨自十八世纪开始就悬挂在拱门下方。
+
+肋骨拱门建于中世纪，上方的连廊连接着**新府邸** (Domus Nova) 和**理性宫** (Palazzo della Ragione) 两座建筑，分别是当时的法官住所和法院。在威尼斯共和国统治维罗纳期间，肋骨拱门连廊是为了让法官和政务官无需经过地面拥挤的街道，即可往返于住所和法庭。这能有效防止他们在途中被寻求报复的人袭击，或被行贿者纠缠。
+
+[TIP]
+理性宫也常翻译成**理智宫**，但从历史法律背景来看，翻译成**法理宫**或许更能体现其作为中世纪法院的庄严属性。
+
+虽然拱门更古老，但是根据现存的历史版画记载，那根标志性的肋骨大约是在十八世纪中叶被悬挂上去的。经过确认，这根巨大的骨头是鲸鱼肋骨。
+
+关于它的由来，有不同的说法，甚至还有离奇的传说。其中有两种推测比较靠谱：
+
+* **药剂师的广告**：这是目前比较主流的学术推测。十八世纪时，鲸鱼骨粉被认为具有神奇的疗效。这根肋骨可能是周围的药剂店为了吸引顾客而挂在那里的广告。根据早期的法律和城市档案，理性宫拱门的维护甚至那根肋骨的所有权长期属于拱门下方的一家药剂店。这使得“商业广告说”更有说服力。
+
+* **勒班陀海战的战利品**：这是一个民间传说。鲸鱼肋骨是在 1571 年著名的**勒班陀海战** (Battle of Lepanto) 后，维罗纳人带回来的战利品。当时的奥斯曼帝国战船常在船头装饰鲸鱼肋骨，维罗纳人作为击败土耳其人的神圣同盟一方，将缴获的鲸鱼肋骨挂在市中心的拱门上作为纪念。维罗纳人还有“证据”：维罗纳主教座堂 (Duomo di Verona) 中也有类似的鲸鱼肋骨，说明教堂也将鲸鱼肋骨作为对抗“异教徒”胜利的象征。不过这一说法的有些牵强，毕竟这根鲸鱼肋骨挂在这里的时间比勒班陀海战的时间晚了近二百年。
+
+围绕这根鲸鱼肋骨还有一个传说很有意思：
+
+[quote]
+当一个从未说过谎的的人从它下面经过时，鲸鱼肋骨就会掉下来。
+
+这根肋骨就这样稳稳地挂了二百年。
