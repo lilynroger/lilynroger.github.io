@@ -1,0 +1,78 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-card/verona-card-4x3-1200.avif
+  alt: 维罗纳的城市旅游卡 (Verona Card)
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-card/verona-card-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-card/verona-card-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-19 13:00:00 +0100
+date_modified: 2026-06-19 13:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
+tagline: 维罗纳的城市旅游卡值得买吗？
+---
+= 维罗纳的城市旅游卡 (Verona Card)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-card/
+
+维罗纳的城市旅游卡，即 **维罗纳卡** (https://www.veronacard.it[Verona Card]) 值得买吗？答案是：**对大多数人，特别是一两天的行程来讲非常值得**。
+
+toc::[]
+
+[[duration]]
+== 维罗纳卡的有效期是多久？
+
+有两个版本的维罗纳卡，其中 **24 小时卡** 需要 27 欧元，而 **48 小时卡** 则需要 32 欧元。从首次使用后开始计时，包括博物馆和公交车。
+
+[[value]]
+== 维罗纳卡值得买吗？
+
+维罗纳卡包含的核心景点有：
+
+* 朱丽叶故居 (Juliet's House): 含**朱丽叶的阳台**，价值 https://verona.midaticket.it/Event/1/Dates/[*12*] 欧元。
+
+* 维罗纳竞技场 (Verona Arena): 含**快速通道**，价值 https://museomaffeiano.comune.verona.it/nqcontent.cfm?a_id=69387[*12*] 欧元。
+
+* 朗贝尔蒂塔 (Torre dei Lamberti): 俯瞰全城的最佳方式，价值 https://www.torredeilamberti.it/en/ticket-office/[**€6**]。
+
+* 老城堡博物馆 (Castelvecchio Museum): 维罗纳最重要的美术馆，价值 https://museodicastelvecchio.comune.verona.it/nqcontent.cfm?a_id=42561[*9*] 欧元。
+
+* 四教堂套票 (4 Churches Route): 涵盖四座维罗纳标志性教堂，价值 https://www.chieseverona.it/en/visits[*8*] 欧元。
+
+可见，仅以上核心景点，就已经超过维罗纳卡的价值了。这还没有计算其它小景点的门票。
+
+此外，维罗纳卡可以免费无限次搭乘维罗纳的 ATV 城市巴士系统（只限维罗纳市中心区域线路，不含往返维拉弗兰卡机场的穿梭巴士）。单程票价值 https://www.atv.verona.it/tickets/verona[*1.5*] 欧元起，而日票价值 5 欧元。
+
+++++
+{% related slugs="verona-top-attractions" %}
+++++
+
+[[where-to-buy-verona-card]]
+== 去哪里买维罗纳卡
+
+Verona Card 的官方权威信息发布在**维罗纳旅游局官网** (https://turismo.comune.verona.it/[Comune di Verona - Turismo]): https://turismo.comune.verona.it/nqcontent.cfm?a_id=38678&lang=en[VeronaCard]。
+
+互联网上有很多看起来像官网的网站，比如 veronacard.net 等等，实际上它们都是第三方的商业网站。
+
+购买维罗纳卡的最佳方式是**在火车站内的外币兑换处直接购买**。买完后立刻可以在站前的公交站刷卡登车，免费搭乘 ATV 公交车（如 11、12、13 路等）前往市中心的**布拉广场** (Piazza Bra)。
+
+如果外币兑换处人员较多，你也可以前往火车站广场上的 ATV 巴士售票处 (Biglietteria ATV)。
+
+如果是在线购买的维罗纳卡，需要前往位于市中心 布拉广场 的旅游信息办公室 (Via Leoncino, 61) 或部分市立博物馆进行兑换。这意味着你需要先自费买公交票前往市中心。
+
+[[notes]]
+== 维罗纳卡有哪些注意事项？
+
+即使购买了维罗纳卡，参观**朱丽叶之家**和朱丽叶的阳台也需要在线预约参观时段。预约的途径和方式和正常购票预约基本一样，有专门的维罗纳卡免费购票预约选项可选，
+
+++++
+{% related slugs="verona-juliets-house-guide" %}
+++++
+
+此外，在每年的十一月到三月，每月的第一个星期天，维罗纳市立博物馆的门票都降至 1 欧元。如果恰逢博物馆周日，那维罗纳卡就可能不值了。
