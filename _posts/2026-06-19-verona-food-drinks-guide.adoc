@@ -1,0 +1,96 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pandoro-verona-4x3-1200.avif
+  alt: 八角星形的维罗纳黄金面包 (Pandoro di Verona) 是意大利最著名的圣诞节传统甜点之一。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pandoro-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pandoro-verona-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-19 11:00:00 +0100
+date_modified: 2026-06-19 11:00:00 +0100
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 美食]
+tagline: 黄金面包、阿玛罗尼红酒和马肉料理
+---
+= 维罗纳 (Verona) 的美食和美酒指南
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/
+
+在维罗纳 (Verona) 吃什么？在这篇攻略中，我们将分享在维罗纳一定要品尝的当地美酒和经典美食，从瓦尔波利切拉 (Valpolicella) 红酒、阿玛罗尼烩饭 (Risotto all'Amarone) 到潘多罗黄金面包 (Pandoro)。
+
+toc::[]
+
+[[valpolicella-amarone]]
+== 瓦尔波利切拉红酒 (Valpolicella) 
+
+坐落在维罗纳北部的 **瓦尔波利切拉** (Valpolicella) 是意大利东北部威尼托 (Veneto) 大区最负盛名的红葡萄酒法定产区，顶级红酒 **阿玛罗尼** (Amarone) 就是出自这个产区。
+
+主要的几款瓦尔波利切拉产区的葡萄酒包括：
+
+* **瓦尔波利切拉** (Valpolicella DOC): 基础款，带有标志性的樱桃风味.
+* **里帕索** (Valpolicella Ripasso DOC): 号称“小阿玛罗尼”，在基础款中加入阿玛罗尼剩下的葡萄皮渣二次发酵而成。
+* **阿玛罗尼** (Amarone della Valpolicella DOCG): 产区之王，风干葡萄酿造的独特工艺，强劲饱满的口感、高酒精度 (15-16%) 。
+* **雷乔托** (Recioto della Valpolicella DOCG): 奢华的甜红葡萄酒，同样风干葡萄酿造，只是提早终止发酵，保留残糖。适合搭配甜点和陈年奶酪。
+
+瓦尔波利切拉的字面意思常常被解读为“有着许多酒窖的山谷”，实至名归。
+
+[[risotto-all-amarone]]
+== 阿玛罗尼红酒炖饭 (Risotto all'Amarone)
+
+**阿玛罗尼红酒炖饭** (Risotto all'Amarone) 是维罗纳的绝对招牌美食。使用世界级的阿玛罗尼红酒和当地特产的意大利顶级烩饭大米 (Vialone Nano) 在牛骨高汤中慢火烹制，最后加上 Monte Veronese 芝士。色泽深红，口感丝滑浓郁。
+
+推荐去维罗纳市中心的百年老店 Trattoria al Pompiere 的品尝阿玛罗尼红酒炖饭（这家的提拉米苏也极为出名）。
+
+[[pastissada-de-caval]]
+== 红酒慢炖马肉 (Pastissada de Caval)
+
+红酒慢炖马肉 (Pastissada de Caval) 是维罗纳最具标志性的硬核传统美食。这道菜肴名字中的 _Pastissada_ 是维罗纳的方言，字面意思是大杂烩，或者乱炖。通常是将马肉浸泡在当地的瓦尔波利切拉红酒 (Valpolicella) 中甚至是奢侈的的阿玛罗尼 (Amarone) 红酒中，加入香料腌制一到两天，然后经数小时的慢炖至肉质极度酥烂、入口即化。红酒慢炖马肉的传统吃法是配上奶油玉米粥 (Polenta) 一起享用。
+
+红酒慢炖马肉这道菜肴还有一个历史典故：据说在公元 489 年，东哥特国王提奥多里克 (Theodoric) 在维罗纳与敌军展开了一场惨烈的决战。战争结束后，战场上留下了数千匹战死的战马。当时城内正遭遇饥荒，为了果腹并防止肉质腐烂，足智多谋的当地居民获准将马肉收集起来，用大量的当地红酒和香料长时间腌制、慢炖，以掩盖异味并软化坚硬的肉质。这无意间成就了一道流传千年的传统美食。
+
+作为当地特色，有很多地方可以品尝到红酒慢炖马肉，比如：
+
+* Osteria al Duca: 维罗纳最古老也最具传奇色彩的传统酒馆之一。
+* La Taverna di Via Stella: 常年爆满的高分餐厅。
+
+如果你想尝试马肉又担心吃不惯整盘的红酒慢炖马肉，可以试试搭配 **红酒慢炖马肉酱** 的 <<圣泽诺土豆团子 (Gnocchi di San Zeno)>> 或者 **马肉酱粗意面** (Bigoli al Ragù di Cavallo) ，维罗纳的经典头盘之一（不过搭配粗意面更有名的是鸭肉酱）。
+
+[[bigoli-con-ragu-d-anatra]]
+== 鸭肉酱粗意面 (Bigoli con Ragù d'Anatra)
+
+粗意面 Bigoli 是来自威尼托地区的手工新鲜面条。它的名字来源于威尼斯方言中的“毛毛虫”，非常形象地说明了这种意面粗壮、且表面粗糙的外形。正是这种独特的外形使其非常容易吸附酱汁，而维罗纳人最爱的经典酱汁是慢熬的野味鸭肉酱。
+
+[[bollito-con-la-peara]]
+== 黑胡椒面包酱炖肉 (Bollito con la Pearà)
+
+**黑胡椒面包酱炖肉** (Bollito con la Pearà) 是维罗纳人周日家庭聚餐或冬日节庆的经典硬菜。特别是在圣诞节期间，其地位相当于火鸡之于感恩节。这道菜概括为大锅炖肉加上灵魂酱汁：
+
+* Bollito Misto: 在大锅中慢炖出来的各种肉类。其中 _Bollito_ 一词的字面意思就是“煮出来的东西”。
+* La Pearà: 维罗纳独有的标志性酱汁**黑胡椒骨髓面包酱**。用炖肉剩下的高汤、陈年面包屑、牛骨髓以及现磨黑胡椒慢熬而成的酱汁。其中 _Pearà_ 一词在维罗纳方言中的意思是“加了胡椒的东西”。
+
+[[gnocchi-di-san-zeno]]
+== 圣泽诺土豆团子 (Gnocchi di San Zeno)
+
+如果你打算在复活节之前的一月到三月间前往维罗纳，也许可以赶上维罗纳狂欢节。**圣泽诺土豆团子** (Gnocchi di San Zeno) 是维罗纳狂欢节的特色菜。这道菜以维罗纳的主保圣人 **圣泽诺** (San Zeno) 命名；而 _Gnocchi_ 一词在中文中常译为土豆团子或者面疙瘩。作为意大利饮食文化中历史最悠久、最受欢迎的面食之一，最初的团子是面疙瘩，如今的主流是以土豆泥为主料 (Gnocchi di Patate) 的团子。
+
+圣泽诺土豆团子的经典搭配是 **红酒慢炖马肉酱** (Pastissada de Caval)。
+
+实际上，维罗纳狂欢节的官方名字就是**团子狂欢节** (Bacanàl del Gnoco) 。其中 _Bacanàl_ 源自古罗马时期的 **酒神节**。在古罗马神话中，酒神 (Bacchus) 也是狂欢之神。而 Gnoco 的意思就是 **团子**。每年的狂欢节最后一个星期五，被称为 **团子星期五** (Venerdì Gnocolar) ，全维罗纳市会举行盛大游行。游行的核心领袖是一个由全城投票选出的“狂欢节国王”，被称为 **团子老爹** (Papà del Gnoco) 。这位老爹手持“权杖”，一把巨大的叉子，上面插着一个硕大的团子。游行队伍最终会浩浩荡荡地挤满圣泽诺广场 (Piazza San Zeno) ，在那里架起巨大的炉灶，吃团子、喝红酒。
+
+[[pandoro-di-verona]]
+== 维罗纳黄金面包 (Pandoro di Verona)
+
+**维罗纳黄金面包** (Pandoro di Verona) 是意大利最著名的圣诞节传统甜点之一，起源可以追溯到中世纪。它的名字 _Pandoro_ 也可以音译为 **潘多罗**，源自威尼斯方言 _Pan d'Oro_ ，字面意思就是黄金面包，取自其由蛋黄和黄油带来的金黄色泽。
+
+八角星形是 Pandoro 最著名的特征，据说这种设计模仿了维罗纳附近阿尔卑斯山的轮廓，横向切开时，每一块都像一颗漂亮的星星。每盒 Pandoro 都会附带一包香草糖粉，吃前撒在面包上，不仅增加了甜味，还使其看起来像积雪覆盖的山峰。
+
+这里是几家推荐的 Pandoro 品牌：
+
+* Melegatti: **美莱加蒂**，始祖品牌，历史最为悠久。该品牌的创始人 Domenico Melegatti 首次在意大利用标志性的八角星形模具烘焙并注册了 Pandoro 的专利。
+* Bauli: **宝利**，国民度最高的平价霸主，此外经典品牌 Paluani 现在也在 Bauli 旗下。
+* Loison: **洛伊森**，顶级手工作坊的匠心出品。
