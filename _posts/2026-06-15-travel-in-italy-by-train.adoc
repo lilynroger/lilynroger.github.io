@@ -1,0 +1,107 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/travel-in-italy-by-train/frecciarossa-trenitalia-4x3-1200.avif
+  alt: 意大利国营意铁 (Trenitalia) 的红箭高铁 (Frecciarossa)
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/travel-in-italy-by-train/frecciarossa-trenitalia-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/travel-in-italy-by-train/frecciarossa-trenitalia-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 02:00:00 +0200
+date_modified: 2026-06-15 02:00:00 +0200
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 交通]
+tagline: 红箭高铁和法拉利高铁
+---
+= 如何在意大利坐火车旅行
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/travel-in-italy-by-train/
+
+[.lead]
+在意大利坐火车既方便又高效。国有的**意铁** (Trenitalia) 运营**红箭** (Frecciarossa) 等高铁线路和区域列车 (Regionale) ；还有私营的**法拉利红高铁** (Italo) 。这篇指南包含如何选择火车，如何购买火车票等实用信息。
+
+toc::[]
+
+[[trains-in-italy]]
+== 在意大利乘火车有哪些选择
+
+在意大利，火车网络主要由国营的意铁 Trenitalia 和私营铁路公司 Italo 两大巨头运营。
+
+[[trenitalia]]
+=== 意铁 (Trenitalia)
+
+大多数意大利的火车都是由国有的 **意铁公司** (https://www.trenitalia.com/en.html[Trenitalia]) 运营。意铁的火车根据速度、路线和舒适度，主要分为以下三大类：
+
+* 高铁 (Alta Velocità / AV): 意铁的旗舰车型是 **红箭高铁** (Frecciarossa)，连接核心大型城市，红色车身，时速 300 公里，最快，最舒适。此外还有 **银箭高铁** (Frecciargento) 和 **白箭高铁** (Frecciabianca)，速度略慢，主要连接红箭高铁无法到达的次级城市和沿海地区。意大利的高铁实行动态定价，**越临近出发时间价格越贵**。需要预定，且对号入座。
+
+* 城际快车 (Intercity / IC): 连接中大型城市的火车，速度比高铁慢，停靠站点比高铁多，但价格比高铁便宜，同样需要对号入座。城际快车还有配备卧铺车厢的长途夜间车 (Intercity Notte / ICN) ，适合跨南北大区的长途旅行。
+
+* 区域列车 (Regionale / R / RV): 连接大城市和周边的小镇、村庄。虽然车速最慢，但是票价非常便宜且常年固定价格。无需预定，也没有固定座位。除了普通的区域列车之外，还有一种区域快速列车 (Regionale Veloce / RV) ，途中停靠的站点少一点。
+
+[[italo]]
+=== 法拉利高铁 (Italo)
+
+Italo 是意大利唯一的私营高铁公司，打破了国营铁路的垄断。因为其车身采用标志性的法拉利红，而且且其母公司的主要投资人和前董事长是法拉利的前主席卢卡·迪·蒙特泽莫罗 (Luca di Montezemolo) ，所以常被称为 **法拉利高铁** (Ferrari Train) 。
+
+法拉利高铁的速度极快，高达 300-360 公里，只经停大城市的核心车站。由于是私营企业，法拉利高铁经常推出促销活动和早鸟票，价格通常比红箭高铁更具竞争力。
+
+[[service-classes-of-high-speed-trains]]
+== 意大利高铁的服务等级有哪些？
+
+类似国内高铁的一等座、二等座和商务座，意大利的高铁也设置了不同的服务等级。这里我们重点介绍意大利的**红箭高铁**和**法拉利高铁**的服务等级。
+
+[[frecciarossa-service-levels]]
+=== 红箭高铁
+
+包括红箭高铁在内的意铁 **箭系列高铁** (https://www.trenitalia.com/en/frecce.html[Frecce]) 的服务等级 (Service Levels) 有四级：
+
+* Standard: **标准舱**，相当于国内的二等座，每排 2+2 的四座布局、没有免费零食。
+* Premium: **高级舱**，相当于升级版的二等座，座椅布局不变，但更舒适，并送小零食。
+* Business: **商务舱**，相当于国内的一等座，每排 2+1 的三座布局，空间宽敞，送饮料小吃。
+* Executive: **行政舱**，相当于国内的商务座，每排 1+1 的两座布局，空间极大，座椅可以大角度调节和旋转，甚至提供高档正餐和免费酒精饮料。
+
+[[italo-travel-classes]]
+=== 法拉利高铁
+
+法拉利高铁的旅行等级 (https://www.italotreno.com/en/the-train/travel-ambiences[Travel Classes]) 也有四级：
+
+* Smart / Economy class: **经济舱**，座位为 2+2 布局，带免费 Wi-Fi 和插座。
+* Prima Business / Business class: **商务舱**，座位为 2+1 布局。提供免费迎宾饮品和小吃。
+* Club Executive / Executive class: **行政舱**，座位更少。可以使用主要车站的 Italo Lounge 贵宾室，提供精致餐饮服务。
+* Club Salotto / Lounge Executive class: **私密包厢**，位于 Club 车厢内，是可容纳 4 人的独立私密包厢，适合家庭或商务会议。
+
+[[how-to-buy-train-tickets]]
+== 在意大利如何购买火车票?
+
+在各个火车站的**售票处** (Biglietteria) 或者**售票大厅** (Salone Biglietti) 中都可以购买火车票。也可以在火车站的多语言自动售票机上自助购买火车票。建议使用 Trenitalia 和 Italo 官网或官方 App 购票。高铁票建议提前 1-2 个月购买以获取折扣。区域列车车票无需提前购买。
+
+[[trenitalia-ticketing]]
+=== 意铁
+
+意铁的主官网是 https://www.trenitalia.com/en.html[Trenitalia]。在线查询和购买车票，登录用户专区时，会自动跳转到意铁的官方购票/查票系统网站 https://www.lefrecce.it[LeFrecce]。
+
+意铁还支持 https://www.trenitalia.com/en/information/trenitalia-app.html[Apple 和 Google 的手机应用]。但是，**中国大陆的 Apple 手机应用商店暂时还没有 Trenitalia 应用**。
+
+好在意铁为中国用户专门推出了link:https://www.trenitalia.com/it/html/trenitalia/cinese.html[红箭高铁官方小程序]，支持中文，非常贴心。
+
+此外，值得一提的事互联网上有很多看起来像官网的网站其实都是**第三方分销商代售平台**，比如 ItaliaRail 就是其中之一。建议避免在此类网站购票，以免改签，退票的过程中遇到不必要的麻烦。
+
+[[italo-ticketing]]
+=== 法拉利高铁
+
+法拉利高铁 (Italo) 的官网是 https://www.italotreno.com/en[Italotreno]，支持在线查询、预定和管理法拉利高铁的火车票。
+
+法拉利高铁也完全支持 https://www.italotreno.com/en/App[Apple 和 Google 的手机应用]。
+
+[[omio]]
+=== Omio 网站和应用
+
+https://www.omio.com/[Omio] 是一家旅行票务网站。如果你在欧洲多地旅行，不想使用数十个不同国家、不同服务提供商的专属网站和应用，推荐使用 Omio 的网站和手机应用统一预定和管理火车，巴士，轮渡甚至机票。特别值得一提的是它还支持 https://www.omio.cn[Omio 中文版]。
+
+多数情况下，通过 Omio 预定会被收取一定的小额服务费。所以，你会发现通过的 Omio 预定的车票会比官网的贵上 1 欧元或者 2 欧元左右。但是，因为 Omio 的各种促销活动，也常常会比官网预定更便宜一点。
+
+更重要的是，在 Omio 上可以查询到多种选项进行对比，在不熟悉的国家旅行时，可以很大程度上避免花了冤枉钱。比如，查询意大利的高铁车票时，可以非常直观的对比 Trenitalia 和 Italo 的票价。我们在从巴黎前往里昂的时候，在 Omio 上查询才知道，原来在法国也可以乘坐意铁的红箭高铁，而且票价对比法铁的 TGV 便宜了一半。
