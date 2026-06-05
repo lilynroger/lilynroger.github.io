@@ -1,0 +1,25 @@
+{% assign segment = include.segment %}
+{% assign step_enums = site.data.journeys.enums.segment_steps %}
+
+<li class="journey-segment journey-transfer">
+    <div class="journey-segment-content">
+        <div class="journey-segment-content__start">
+        </div>
+        {% include journey-timeline/_segment-connector.html segment=segment %}
+        <div class="journey-segment-content__end">
+            {% if segment.steps %}
+            {% include journey-timeline/_segment-duration.html segment=segment %}
+            <div class="journey-segment__steps journey-text-secondary">
+                {% for step in segment.steps %}
+                <div class="journey-segment__step">
+                    {% assign type = step.type %}
+                    {% assign duration = step.duration %}
+                    <span>{{ step_enums[type].name }}</span>
+                    <span>{{ duration | to_chinese_duration }}</span>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </div>
+    </div>
+</li>

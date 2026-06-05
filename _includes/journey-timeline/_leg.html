@@ -1,0 +1,84 @@
+{% assign segment=include.segment %}
+{% assign route_type_enums = site.data.journeys.enums.route_types %}
+
+{% assign time_fmt = "%H:%M" %}
+
+<li class="journey-segment journey-leg">
+    <div class="journey-leg-stop journey-leg-stop--departure">
+        <div class="journey-leg-stop__time">
+            {{ segment.departure.datetime | date: time_fmt }}
+        </div>
+        <div class="journey-leg-stop__marker" style="background-color: #{{segment.route.color}};"></div>
+        <div class="journey-leg-stop__name">
+            {{ segment.departure.name }}
+        </div>
+    </div>
+
+    <div class="journey-segment-content">
+        <div class="journey-segment-content__start">
+        </div>
+
+        {% include journey-timeline/_segment-connector.html segment=segment %}
+
+        <div class="journey-segment-content__end">
+            <div class="journey-leg-route">
+                <div class="journey-leg-route__basic">
+                    <span class="journey-leg-route__type">
+                        {{ route_type_enums[segment.route.type].name }}
+                    </span>
+                    {% if segment.route.authority %}
+                    <span class="journey-leg-route__authority-name">
+                        {{ segment.route.authority.name }}
+                    </span>
+                    {% endif %}
+                    <span class="journey-leg-route__name" style="background-color: #{{segment.route.color}};">
+                        {{ segment.route.name }}
+                    </span>
+                </div>
+
+                {% include journey-timeline/_segment-duration.html segment=segment %}
+
+                {% if segment.route.operator %}
+                <div class="journey-leg-route__operator">
+                    <span>承运</span>
+                    <span class="journey-leg-route__operator-name">{{ segment.route.operator.name }}</span>
+                </div>
+                {% endif %}
+
+                {% if segment.route.headsign %}
+                <div class="journey-leg-route__headsign">
+                    <span>方向</span>
+                    <span class="journey-leg-route__headsign-text">{{ segment.route.headsign }}</span>
+                </div>
+                {% endif %}
+            </div>
+
+            {% if segment.fare %}
+            <div class="journey-leg-fare">
+                <span>票价</span>
+                <span class="journey-leg-fare__currency">
+                    {{ segment.fare.currency }}
+                </span>
+                <span class="journey-leg-fare__amount">
+                    {{ segment.fare.amount }}
+                </span>
+                {% if segment.fare.product %}
+                <span class="journey-leg-fare__product-name">
+                    {{ segment.fare.product.name }}
+                </span>
+                {% endif %}
+            </div>
+            {% endif %}
+        </div>
+    </div>
+
+    <div class="journey-leg-stop journey-leg-stop--arrival">
+        <div class="journey-leg-stop__time">
+            {{ segment.arrival.datetime | date: time_fmt }}
+        </div>
+        <div class="journey-leg-stop__marker" style="background-color: #{{segment.route.color}};"></div>
+        <div class="journey-leg-stop__name">
+            {{ segment.arrival.name }}
+        </div>
+    </div>
+</li>

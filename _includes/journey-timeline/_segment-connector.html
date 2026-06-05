@@ -1,0 +1,13 @@
+{% assign segment=include.segment %}
+
+{% assign style = "" %}
+
+{% if segment.type == "leg" and segment.route.color %}
+{% capture style %}
+style="border-color: #{{segment.route.color}};"
+{% endcapture %}
+{% endif %}
+
+<div class="journey-segment__connector">
+    <div class="journey-segment__connector-bar" {{style}}></div>
+</div>

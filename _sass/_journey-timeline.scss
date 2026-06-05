@@ -1,82 +1,122 @@
+$segment-content-start-width: 5em;
+
 .journey-timeline {
-    margin: 2rem auto;
-    width: 50rem;
+    margin: 2em auto;
     font-size: 1em;
     line-height: 1.5em;
+}
 
-    ul.legs {
-        padding: 0;
-        list-style-type: none;
-
-        li.leg {
-
-            .leg-stop {
-                display: flex;
-
-                .leg-stop-separator {
-                    width: 1rem;
-                    height: 1rem;
-                    margin: auto 1rem;
-                    border-radius: 50%;
-                    background-color: #f44336;
-                }
-
-                .leg-stop-datatime {
-                    width: 15rem;
-                    font-weight: bold;
-                    text-align: right;
-                }
-
-                .leg-stop-name {
-                    font-weight: bold;
-                }
-            }
-
-            .leg-content {
-                display: flex;
-                margin: 0.25rem 0;
-
-                .leg-content-separator {
-                    width: 1rem;
-                    margin: 0 1rem;
-                    display: flex;
-
-                    .vertical-bar {
-                        margin: 0 auto;
-                        width: 3px;
-                        border-left: 3px dotted #f44336;
-                    }
-                }
-
-                .leg-content-left {
-                    width: 15rem;
-                    text-align: right;
-                    padding: 1rem 0;
-
-                    .leg-duration {
-                        color: #9e9e9e;
-                        font-style: italic;
-                    }
-                }
-
-                .leg-content-right {
-                    padding: 1rem 0;
-
-                    .route-agency-name {
-                        font-weight: bold;                        
-                    }
-
-                    .route-name {
-                        font-weight: bold;
-                        color: #ffffff;
-                        background-color: #f44336;
-                        border-radius: 3px;
-                        padding: 0.25rem 1rem;
-                    }
-                }
-            }
-
-
-        }
+// 小屏幕时字体减小 20%
+@media (max-width: 768px) {
+    .journey-timeline {
+        font-size: 80%; // 相对于父元素缩小 20%
     }
+}
+
+.journey-segments {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+li.journey-segment {
+    margin: 0;
+    padding: 0;
+}
+
+.journey-segment-content {
+    display: flex;
+    margin: 0.25em 0;
+}
+
+.journey-segment-content__start {
+    width: $segment-content-start-width;
+    text-align: right;
+    padding: 1em 0;
+}
+
+.journey-segment-content__end {
+    padding: 1em 0;
+}
+
+.journey-leg-stop {
+    display: flex;
+}
+
+.journey-leg-stop__time {
+    width: $segment-content-start-width;
+    font-weight: bold;
+    text-align: right;
+}
+
+.journey-leg-stop__marker {
+    width: 1em;
+    height: 1em;
+    margin: auto 0.5em;
+    border-radius: 50%;
+    background-color: #f44336;
+}
+
+.journey-leg-stop__name {
+    font-weight: bold;
+}
+
+.journey-segment__connector {
+    width: 1em;
+    margin: 0 0.5em;
+    display: flex;
+}
+
+.journey-segment__connector-bar {
+    margin: 0 auto;
+    width: 3px;
+    border-left-width: 3px;
+    border-left-color: #808080;
+    border-left-style: solid;
+}
+
+
+.journey-transfer .journey-segment__connector-bar {
+    border-left-style: dotted;
+}
+
+.journey-leg-route {
+    margin-bottom: 1.5em;
+}
+
+.journey-leg-route__name {
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #f44336;
+    border-radius: 0.25em;
+    padding: 0.25em 0.5em;
+}
+
+.journey-leg-route__authority-name {
+    font-weight: bold;
+}
+
+.journey-leg-route__operator-name {
+    font-weight: bold;
+}
+
+.journey-leg-route__headsign-text {
+    font-weight: bold;
+}
+
+.journey-leg-fare__currency {
+    font-weight: bold;
+}
+
+.journey-leg-fare__amount {
+    font-weight: bold;
+}
+
+.journey-text-secondary {
+    color: color-mix(in srgb, currentColor 50%, transparent);
+}
+
+.journey-text-tertiary {
+    color: color-mix(in srgb, currentColor 50%, transparent);
+    font-size: 80%;
 }

@@ -1,0 +1,7 @@
+{% assign segment=include.segment %}
+
+{% if segment.duration %}
+<div class="journey-segment__duration">
+    <span>{{ segment.duration | to_chinese_duration }}</span>
+</div>
+{% endif %}
