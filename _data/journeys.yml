@@ -65,6 +65,52 @@ trips:
 
   2026-Dolomites:
     journeys:
+      Cortina - Tre Cima (DolomitiBus):
+        name: 科尔蒂纳 (Cortina) - 三峰山 (Tre Cima) 的巴士 (DolomitiBus)
+        segments:
+          - type: leg
+            route:
+              type: bus
+              name: 51
+              operator:
+                name: DolomitiBus
+              color: 00a651
+              headsign: Misurina Genzianella
+            duration: 35m
+            departure:                  
+              name: Cortina d'Ampezzo, Scuole
+              datetime: 2026-07-01T08:00:00+0200
+            arrival:
+              name: Misurina Genzianella
+              datetime: 2026-07-01T08:35:00+0200
+            fare:
+              currency: EUR
+              amount: 3.00
+              product:
+                name: Single Ticket
+          - type: transfer
+            duration: 5m
+          - type: leg
+            route:
+              type: bus
+              name: 50
+              operator:
+                name: DolomitiBus
+              color: 00aeef
+              headsign: Tre Cime Rifugio Auronzo
+            duration: 25m
+            departure:                  
+              name: Misurina Genzianella
+              datetime: 2026-07-01T08:40:00+0200
+            arrival:
+              name: Tre Cime Rifugio Auronzo
+              datetime: 2026-07-01T09:05:00+0200
+            fare:
+              currency: EUR
+              amount: 10.00
+              product:
+                name: Round-trip
+      
       Cortina - Tre Cima (Südtirolmobil):
         name: 科尔蒂纳 (Cortina) - 三峰山 (Tre Cima) 的巴士 (Südtirolmobil)
         segments:
