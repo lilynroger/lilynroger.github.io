@@ -7,8 +7,8 @@
         </div>
         {% include journey-timeline/_segment-connector.html segment=segment %}
         <div class="journey-segment-content__end">
-            {% if segment.steps %}
             {% include journey-timeline/_segment-duration.html segment=segment %}
+            {% if segment.steps %}
             <div class="journey-segment__steps journey-text-secondary">
                 {% for step in segment.steps %}
                 <div class="journey-segment__step">
