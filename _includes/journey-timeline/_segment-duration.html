@@ -1,7 +1,13 @@
 {% assign segment=include.segment %}
 
 {% if segment.duration %}
-<div class="journey-segment__duration">
+<div class="journey-segment__duration journey-text-secondary">
+    <span>
+        {% case segment.type %}
+        {% when "leg" %} 旅行时间
+        {% when "transfer" %} 中转时间
+        {% endcase %}
+    </span>
     <span>{{ segment.duration | to_chinese_duration }}</span>
 </div>
 {% endif %}

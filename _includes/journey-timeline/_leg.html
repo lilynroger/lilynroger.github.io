@@ -26,35 +26,39 @@
                     <span class="journey-leg-route__type">
                         {{ route_type_enums[segment.route.type].name }}
                     </span>
-                    {% if segment.route.authority %}
-                    <span class="journey-leg-route__authority-name">
-                        {{ segment.route.authority.name }}
-                    </span>
-                    {% endif %}
                     <span class="journey-leg-route__name" style="background-color: #{{segment.route.color}};">
                         {{ segment.route.name }}
                     </span>
                 </div>
 
+                {% if segment.route.headsign %}
+                <div class="journey-leg-route__headsign journey-text-secondary">
+                    <span>方向</span>
+                    <span class="journey-leg-route__headsign-text">{{ segment.route.headsign }}</span>
+                </div>
+                {% endif %}
+
                 {% include journey-timeline/_segment-duration.html segment=segment %}
 
                 {% if segment.route.operator %}
-                <div class="journey-leg-route__operator">
+                <div class="journey-leg-route__operator journey-text-secondary">
                     <span>承运</span>
                     <span class="journey-leg-route__operator-name">{{ segment.route.operator.name }}</span>
                 </div>
                 {% endif %}
 
-                {% if segment.route.headsign %}
-                <div class="journey-leg-route__headsign">
-                    <span>方向</span>
-                    <span class="journey-leg-route__headsign-text">{{ segment.route.headsign }}</span>
+                {% if segment.route.authority %}
+                <div class="journey-leg-route__authority journey-text-secondary">
+                    <span>管理机构</span>
+                    <span class="journey-leg-route__authority-name">
+                        {{ segment.route.authority.name }}
+                    </span>
                 </div>
                 {% endif %}
             </div>
 
             {% if segment.fare %}
-            <div class="journey-leg-fare">
+            <div class="journey-leg-fare journey-text-secondary">
                 <span>票价</span>
                 <span class="journey-leg-fare__currency">
                     {{ segment.fare.currency }}
