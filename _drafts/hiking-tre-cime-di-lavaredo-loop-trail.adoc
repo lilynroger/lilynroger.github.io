@@ -1,0 +1,193 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail/tre-cime-di-lavaredo-4x3-1200.avif
+  alt: 多洛米蒂 (Dolomites) 的三峰山 (Tre Cime di Lavaredo)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail/tre-cime-di-lavaredo-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail/tre-cime-di-lavaredo-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-30 07:00:00 +0200
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 多洛米蒂]
+tagline: 多洛米蒂的“上帝之手“。
+description: 拉瓦雷多三尖峰 (Tre Cime di Lavaredo / Drei Zinnen) ，通常简称为“三峰山”，是意大利多洛米蒂山脉 (Dolomites) 中最具标志性的自然景观，也是全球无数风光摄影师、徒步爱好者和攀岩者的终极朝圣地。
+---
+= 徒步多洛米蒂的三峰山环线 (Tre Cime di Lavaredo Loop Trail)
+:page-liquid: true
+:toc:
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail
+
+**三峰山**在意大利语中全称 _Tre Cime di Lavaredo_ ，字面意思是“拉瓦雷多的三座尖峰”，通常简称“三峰山”。因为历史上这里曾属于奥匈帝国，所以这里至今通用意大利语和德语。它的另一个名字 _Drei Zinnen_ 就是德语名字，字面意思也是“三座山峰”。三峰山是意大利东北部多洛米蒂山脉 (Dolomites) 中最具标志性的自然景观，也是全球无数风光摄影师、徒步爱好者和攀岩者的终极朝圣地。
+
+[[tre-cime-di-lavaredo]]
+== 三峰山
+
+三峰山地处**三峰山自然公园** (Parco Naturale Tre Cime / Naturpark Drei Zinnen) 内。由三座从贫瘠的碎石高原上拔地而起的巨大白云岩 (Dolomite) 石柱组成，由于外形神似几根伸向天空的巨型手指，也被称为“上帝之手”。
+
+自西向东，三峰山并排而立的三大主峰分别是：
+
+* **西峰** (Cima Ovest): 2973 米，第二高，有着黄色的岩壁。
+* **大峰** (Cima Grande): 2999 米，居中的最高峰。其北侧巨大的垂直岩壁是阿尔卑斯**六大北壁**之一。
+* **小峰** (Cima Piccola): 2857 米，东侧三座一体相连、呈阶梯状排列的岩石尖塔中，靠着大峰的最高的那座尖塔。另两座尖塔也有名字，中间的是**弗里达尖峰** (Punta di Frida)；最边上、最矮的是**极小峰** (Cima Piccolissima)。
+
+三峰山最经典的徒步路线是环三峰山的步道。
+
+[[trail-stats]]
+== 步道核心数据
+
+* 全长： 约 10 公里（环线）
+* 难度： 中等。基本为非技术性步道，路况良好，但多为碎石路且有几段较陡的爬升。
+* 累计爬升： 约 350 至 450 米
+* 耗时： 3.5 到 5 小时
+* 最佳季节： 6 月中旬至 9 月下旬
+
+[[trail-details]]
+== 徒步路线指南
+
+大多数徒步者会选择逆时针方向（先后沿 101 和 105 号步道前进），因为这样可以由远及近、最震撼地欣赏到三峰山著名的北壁全景。此外，环线中唯一的陡峭碎石坡在拉瓦雷多山口 (Forcella Lavaredo)。逆时针是上坡，虽然喘但不容易滑倒；如果顺时针走，这里就是下坡，在松散碎石上极易崴脚或滑倒。
+
+沿逆时针方向，环三峰山徒步将依次经过下面的这几个点：
+
+* Rifugio Auronzo: 奥龙佐山屋，起点。
+* Rifugio Lavaredo: 拉瓦雷多山屋。
+* Forcella Lavaredo: 拉瓦雷多山口。
+* Rifugio Locatelli: 洛卡特利山屋。
+* Malga Langalm: 兰加姆牧场。
+* Rifugio Auronzo: 奥龙佐山屋，终点。
+
+=== Rifugio Auronzo - Rifugio Lavaredo
+
+这一段距离约 2.2 公里，用时约 40 分钟。
+
+在奥龙佐山屋前有一个开阔的平台。在平台的左侧就是宽阔的 101 号步道，这里有步道指示标记。步道右手边视野开阔，俯瞰峡谷。
+
+途中大约 1 公里，就会经过一座无名的小高山礼拜堂 (Cappella degli Alpini)。
+
+经过礼拜堂后，这里有一个小岔路，步道指示标记是 101a 号步道。岔道向下通往一个叫 Mirante do Vale dos Tres Picos de Lavaredo 的观景点。那里有两两座小纪念碑，有着不错的视角可以回望三峰山。如果走这条岔道，往返会增加大约 650 米距离。
+
+回到 101 号步道，从小礼拜堂经过 10 分钟左右的轻松徒步，就可以到达**拉瓦雷多山屋**。这里有卫生间，也有食物和饮料出售。
+
+=== Rifugio Lavaredo - Forcella Lavaredo
+
+这一段距离约 1 公里，用时约 20 分钟。
+
+**拉瓦雷多山屋**这里，有上下两条步道通往前往前方的**拉瓦雷多山口**。上面的步道距离稍短，开始一段是陡峭的上坡，之后就比较平缓；下面的步道距离长一些，前面平缓，最后一段陡峭。
+
+上下两条步道主要是视角不同。上面的步道的前半段，有更好的面向拉瓦雷多山屋，并以人称“摩多之塔” (Towers of Mordor) 的 Cadini di Misurina 群峰为背景的视角；下面的步道的后半段，则有更好的面向拉瓦雷多山屋和三峰山的视角。如果精力充沛，不妨先走一段上面的步道，之后回到下面的步道前往拉瓦雷多山口。
+
+拉瓦雷多山口是整条环线的最高点，海拔约 2454 米。这里有着相当不错的三峰山视角。
+
+=== Forcella Lavaredo - Rifugio Locatelli
+
+这一段距离约 2.2 公里，用时约 40 分钟。
+
+在拉瓦雷多山口之上远眺，就可以看到前方远处著名的**洛卡特利山屋**。步道基本上是在右侧的**帕特诺山** (Monte Paterno) 脚下向前延伸。在走近山屋前，会经过 101 号步道和 105 号步道的汇合点。向上通往洛卡特利山屋；向下则可以跳过洛卡特利山屋，直接前往下一个点。当然，你不能错过这座全多洛米蒂山脉中名气最大、位置最无敌的山屋。
+
+洛卡特利山屋这座山屋的意大利语名字，以一战时期的意大利王牌飞行员**安东尼奥·洛卡特利** (Antonio Locatelli) 命名。山屋的德语名字 Dreizinnenhütte 则要直白的多，字面意思就是**三峰山山屋**。
+
+与这座山屋有着深厚渊源的另一个传奇人物是**塞普·因内克夫勒** (Sepp Innerkofler)。山屋前的一堵矮墙上悬挂着他的浮雕像和铭牌以示纪念。他是在这里（南蒂罗尔）土生土长的奥地利传奇高山向导，是这座山屋最早的建造者和经营者。在一战中，塞普带领奥地利山地民兵攻打由意大利高山军把守的帕特诺山山顶时，被意大利士兵**皮耶罗·德·卢卡** (Piero de Luca) 击中牺牲。如今，帕特诺山经典的铁索攀岩 (Via Ferrata) 路线 De Luca-Innerkofler 就是以敌对阵营的这两人共同命名的。
+
+洛卡特利山屋背后还静静伫立着另一座无名的小高山礼拜堂，与山屋一起构成了极佳的布景。走过小礼拜堂，可以看到山坡上清晰的步道通往半山腰的一个山洞。那里就是著名的**三峰山之洞** (Grotta delle Tre Cime) 网红机位。洞口边缘可以作为天然画框，将三峰山的北壁完美地呈现在画面中央。
+
+=== Rifugio Locatelli - Malga Langalm
+
+这一段距离约 3.6 公里，用时约 90 分钟。
+
+离开洛卡特利山屋，经过小礼拜堂，沿步道向下来到山屋的正下方，回到之前上山去往山屋的步道岔路口，右转进入 105 号步道。这段路是全线最吃体力的路段：先急剧下降到乱石谷底，穿过山谷，然后再爬上对面的山坡。
+
+经过山坡的最高处不远就到了**兰加姆牧场**。这里是三峰山环线上的最后一座高山补给站。它海拔 2,283 米，坐落在三峰山北壁的下方。相比喧闹的洛卡特利山屋，这里有着更纯粹、更宁静的阿尔卑斯传统牧场风光。
+
+作为一座真正的夏季牧场，夏季你会看到挂着牛铃的奶牛在山坡草地上悠闲地吃草。在牧场小屋旁边有几个由浅浅的高山泉水汇集而成的小湖泊。这里是拍摄三峰山北壁倒影的绝佳机位。
+
+=== Malga Langalm - Rifugio Auronzo
+
+这一段距离约 2.6 公里，用时约 45 分钟。
+
+这段路主要是相对平缓、起伏较小的宽阔碎石路。途中会绕过**西峰** (Cima Ovest) 的山脚，经过几个高山小海子，最终回到起点停车场。
+
+[[getting-to-trail-start]]
+== 如何前往三峰山环线步道起点
+
+这里我们重点介绍如何从从**科尔蒂纳丹佩佐** (Cortina d'Ampezzo) 前往三峰山环线步道起点所在的**奥龙佐山屋** (Rifugio Auronzo)。这段路自驾的话，距离大约只有 22 公里。主要的交通方式包括公交、自驾和包车三种。
+
+在夏季旺季之外，由于上山的那条私有收费公路会完全封闭，任何车辆都无法通过，只能徒步上山，或者在滑雪季乘坐雪地摩托上山。
+
+[[public-transport]]
+=== 公共交通
+
+这是性价比最高的出行方式，主要有两条巴士线路可选。
+
+[[dolomitibus-route]]
+==== 推荐线路: DolomitiBus
+
+通常在每年的六月初到十月初这段期间内，由 https://tourism.dolomitibus.it/en/[DolomitiBus] 运营的季节性 51 路巴士和 50 路摆渡车会开放。从科尔蒂纳丹佩佐出发，在米苏里纳经过一次换乘，就可以到达三峰山。
+
+* 从科尔蒂纳的学校站 (Cortina Scuole) 乘坐 51 路巴士前往米苏里纳站 (Misurina Genzianella)，车程约 35 分钟。单程票价约 3 欧元。
+
+* 在米苏里纳湖同站换乘专门往返三峰山的 50 路摆渡车，直达步道起点奥龙佐山屋 (Rifugio Auronzo)，车程约 25 分钟。车票有效期是一天，票价 10 欧元，往返都可以，没有单程票。
+
+乘坐 Dolomitibus 的巴士和摆渡车的优势是**无需预约**，排队上车，上车后刷信用卡就可以购票（**车上不支持现金**）。还可以在 DolomitiBus 官方手机应用中购票。如果确实需要使用现金，米苏里纳站有自助售票机可以使用。
+
+使用信用卡在车上刷卡购票时，可以选择乘车人数，用同一张信用卡为多人购票。系统在当天结束计费时，会统一按照每名乘客 10 欧元的价格从信用卡扣费。
+
+如果在手机应用中购买了车票，上车时向司机出示电子码激活即可。
+
+更多详细的信息可以参考官方网站的相关信息: https://tourism.dolomitibus.it/en/servizio-navetta-tre-cime-di-lavaredo/[Tre Cime shuttle service]。
+
+根据 2026 年夏季时刻表，从科尔蒂纳出发前往米苏里纳的 51 路首班车是 *08:00* 发车；而从米苏里纳返回科尔蒂纳的末班车是 *18:20* 发车。换乘适当时间的 50 路摆渡车。作为参考，下面是坐首班车前往三峰山的行程信息：
+
+{% assign journey = site.data.journeys.trips["2026-Dolomites"].journeys["Cortina - Tre Cima (DolomitiBus)"] %}
+++++
+{% include journey-timeline.html journey=journey %}
+++++
+
+一定要确认出行当天的时刻表，特别是首班车和末班车的时间。官网最新的时刻表在: https://dolomitibus.it/it/l/orario-dolomiti/index[Orario]。其中 51 路巴士和 50 路摆渡车都属于**季节性线路** (Linee Stagionali)。季节性线路 2026 年夏季时刻表在: https://dolomitibus.it/it/linee-stagionali-estivo-2026[Linee stagionali (Orari estivi 2026)]。
+
+[[sudtirolmobil-route]]
+==== 备选线路: Südtirolmobil
+
+另一个备选的线路是乘坐 https://www.suedtirolmobil.info/en/[Südtirolmobil] 的巴士。这个线路的核心是在六月初到十月中旬期间运营的在 Dobbiaco/Toblach 和 Rifugio Auronzo 之间的 444 路季节性摆渡巴士。这个备选线路的缺点是必须提前在线预订 444 路的车票，无法灵活安排行程（应对天气变化）。
+
+* 从科尔蒂纳丹佩佐的学校站 (Cortina d'Ampezzo, Scuole) 乘坐前往 Toblach/Dobbiaco 的 445 路巴士，途中在 Dürrensee/Lago di Landro 站下车。车程约 26 分钟，单程票价通常在 4 欧元（线上购票）至 6.50 欧元（车上购票），支持现金和信用卡，持有**南蒂罗尔旅客卡** (Südtirol Guest Pass) 免费。
+
+* 在 Dürrensee/Lago di Landro 的对向车站换乘专门往返 Dobbiaco - Tre Cime / Rifugio Auronzo 之间的 444 路摆渡巴士，直达步道起点。车程约 34 分钟，单程票价 16 欧元，往返 22 欧元，**必须提前在线预订车票**。
+
+利用 Südtirolmobil 官方网站上行程规划工具 (https://www.suedtirolmobil.info/en/#/[Journey planner])，可以查询从科尔蒂纳到三峰山的换乘车次和时间。作为参考，下面是 2026 年夏季的首班车的换乘信息：
+
+{% assign journey = site.data.journeys.trips["2026-Dolomites"].journeys["Cortina - Tre Cima (Südtirolmobil)"] %}
+++++
+{% include journey-timeline.html journey=journey %}
+++++
+
+要了解最新的完整时刻表信息，可以参考官网上的 https://www.suedtirolmobil.info/en/my-journey/timetables[Timetables] 页面。
+
+查询和预订 444 路摆渡巴士，参见: https://www.drei-zinnen.bz/en/ticket[Ticket booking: Bus Shuttle 444]。
+
+[[self-driving]]
+=== 租车自驾
+
+自驾是最自由的方式，但受限于山顶车位数量和高昂的过路和停车费。
+
+从科尔蒂纳丹佩佐出发的的具体线路是沿 SR48 大区级公路和 SP49 省级公路 (Strada Provinciale) 公路行驶，经过米苏里纳湖后驶入前往奥龙佐山屋的专线山路 (Strada di Tre Cime)，全程约 45 分钟。
+
+从米苏里纳 (Misurina) 上山的专线山路设有收费闸口。旺季车流管制，必须提前在官方网站 (https://auronzo.info/en/parking-tre-cime-di-lavaredo/[Tre Cime di Lavaredo Car Park]) 上预订停车位。费用不菲，包括了上山的收费公路和停车费。在 2026 年，普通车的单日票价为 40 欧元，有效时间最长为 12 小时。
+
+在夏季高峰期，收费站通常在上午 8:00 - 9:00 前就会因山顶车位满员而关闭。建议提前几周在官网预定车位，且在清晨 7:00 前就出发，以免在收费站排长队。
+
+[[taxi-service]]
+=== 出租车包车
+
+如果预算充足、希望灵活掌控时间或免去排队买票困扰，也可以选择出租车包车。
+
+根据当地专车公司 https://www.taxicortinasci.com/[Taxi Cortina Sci] 官方的最新信息 (https://www.taxicortinasci.com/excursions-cortina/cortina-to-misurina-and-cortina-to-tre-cime-di-lavaredo-or-vice-versa/[Cortina to Misurina and Cortina to Tre Cime di Lavaredo, or vice versa])，从科尔蒂纳丹佩佐到三峰山，包含 1-2 名乘客的单程包车费用是 160 欧元，往返接送就是 320 欧元了。
+
+如果追求**效率和费用的平衡**，也可以考虑去程包车，确保提早赶到徒步的起点。回程则选择搭乘 Dolomiti Bus 的 50 路摆渡车从三峰山到米苏里纳，然后换乘 51 路公交车回到科尔蒂纳。只是一定要留意末班车时间，其中 51 路末班车通常在 18:00 之后不久。
+
+[[final-thoughts]]
+== 后记
+
+如果你在完成三峰山徒步后仍觉意犹未尽，不妨前往不远处的 Cadini di Misurina 观景点。这里常被称为“魔戒之路”和“魔多山”。起点也在奥龙佐山屋 (Rifugio Auronzo)，沿 CAI 117 号步道向南就可以抵达观景点。原路折返全程约 2 公里，累计爬升约 150 米，耗时约 1 - 1.5 小时。
