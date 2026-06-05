@@ -47,7 +47,7 @@ trips:
               type: rail
               name: Frecciarossa 6645
               url: https://www.trenitalia.com/
-              authority:
+              operator:
                 name: Trenitalia
               color: f44336
             duration: 2h9m
