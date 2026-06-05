@@ -31,6 +31,7 @@ li.journey-segment {
 
 .journey-segment-content__start {
     width: $segment-content-start-width;
+    flex-shrink: 0;
     text-align: right;
     padding: 1em 0;
 }
@@ -62,9 +63,10 @@ li.journey-segment {
 }
 
 .journey-segment__connector {
-    width: 1em;
-    margin: 0 0.5em;
     display: flex;
+    width: 1em;
+    flex-shrink: 0;
+    margin: 0 0.5em;
 }
 
 .journey-segment__connector-bar {
@@ -81,6 +83,10 @@ li.journey-segment {
 }
 
 .journey-leg-route {
+    margin-bottom: 1.5em;
+}
+
+.journey-leg-route__basic {
     margin-bottom: 1.5em;
 }
 
@@ -114,9 +120,10 @@ li.journey-segment {
 
 .journey-text-secondary {
     color: color-mix(in srgb, currentColor 50%, transparent);
+    font-size: 87.5%;
 }
 
 .journey-text-tertiary {
     color: color-mix(in srgb, currentColor 50%, transparent);
-    font-size: 80%;
+    font-size: 75%;
 }
