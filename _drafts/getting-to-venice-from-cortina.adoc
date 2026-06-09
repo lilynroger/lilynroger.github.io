@@ -1,0 +1,85 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/getting-to-venice-from-cortina/autobus-cortina-express-4x3-1200.avif
+  alt: Cortina Express 的长途大巴。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/getting-to-venice-from-cortina/autobus-cortina-express-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/getting-to-venice-from-cortina/autobus-cortina-express-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-07-03 11:00:00 +0200
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 多洛米蒂, 科尔蒂纳丹佩佐, 威尼斯, 帕多瓦, 交通]
+tagline: 经湿壁画之城，从山到海。
+description: 如何从多洛米蒂 (Dolomites) 的科尔蒂纳丹佩佐 (Cortina d'Ampezzo) 前往威尼斯 (Venice)？这篇攻略包括 Cortina Express / FlixBus / ATVO / Busitalia 的长途大巴选项，还有湿壁画之城帕多瓦 (Padova) 中转的信息。
+---
+= 从科尔蒂纳丹佩佐到威尼斯的巴士攻略
+:page-liquid: true
+:toc:
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/getting-to-venice-from-cortina
+
+我们在多洛米蒂 (Dolomites) 的最后一站是科尔蒂纳丹佩佐 (Cortina d'Ampezzo)，下一站是威尼斯。科尔蒂纳深没有火车站，所以最方便、最主流的公共交通方式是长途巴士。这篇巴士攻略由我们的笔记整理而成，介绍 Cortina Express / FlixBus / ATVO / Busitalia 的巴士。特别值得一提的是，我们有意从**帕多瓦** (Padova) 中转，顺路打卡了这座湿壁画之城。
+
+[[terminals]]
+== 起点和终点
+
+从科尔蒂纳到威尼斯的长途巴士起点都在科尔蒂纳汽车站 (Cortina d'Ampezzo Piazza Roma)。终点则有：
+
+* 威尼斯马可波罗机场 (Venezia Aeroporto): 直达机场航站楼。
+* 梅斯特雷火车站 (Venezia Mestre): 位于威尼斯大陆部分，适合换乘意大利高铁去往佛罗伦萨、罗马等。
+* 主岛上的罗马广场 (Venezia Piazzale Roma): 适合去威尼斯主岛住宿或者游玩，下车后即可步行或换乘水上巴士。
+
+购票时，特别是在线购票时，尽管官方网站或者你的手机应用有可能支持英文甚至中文界面，但是始发站和终到站的站名通常是意大利语的。可以参考上面的站名。
+
+其中，到威尼斯机场的巴士最多，用时约 2.5 小时，价格 15-27 欧元。
+
+[[bus-operators]]
+== 巴士公司
+
+有好几家巴士公司运营从科尔蒂纳到威尼斯的长途巴士，包括：
+
+* https://www.cortinaexpress.it/en/[Cortina Express]: 科尔蒂纳规模最大、最专业的本地私营巴士品牌。
+
+* https://global.flixbus.com/[FlixBus]: 跨国长途巴士巨头。
+
+* https://www.atvo.it/en[ATVO]: 威尼斯本地国营客运，提供从 Cortina 直达威尼斯主岛和 Mestre 火车站的特快班车。
+
+预订车票时，我们发现无论使用 Google Maps 查询，还是使用包括 Omio 和 Busbud 在内的应用，都没能给出所有的选项。所以，有必要时，可以直接在各个巴士公司自己的官网上查询。
+
+[[cortina-express]]
+=== Cortina Express
+
+Cortina Express 和另一家当地的巴士公司 DolomitiBus 是伙伴关系。科尔蒂纳和威尼斯之间的线路的时刻表和巴士班次实际上是整合共享的。所以在 Cortina Express 的官网上可以预定的巴士，实际上包括 Cortina Express 运营的巴士，以及由 Dolomiti Bus 运营的 72 路巴士。
+
+以 2026 年夏季到 2027 年夏季的时刻表为例 (https://www.cortinaexpress.it/en/timetable/cortina-treviso-venice-hours-june-19-2026-to-june-9-2027/[Cortina - Treviso - Venezia])，其中 Cortina Express 运营的车次经威尼斯机场以火车站为终点站，而 DolomitiBus 的车次则经机场和火车站以罗马广场为终点站。
+
+对于早上在科尔蒂纳退房，下午入住威尼斯的行程，时间上最合适的是 11:30 - 14:00 到威尼斯梅斯特雷火车站的车次，适合住在主岛外的情况，需要换乘一次短途火车或者巴士才能去主岛。
+
+值得一提的是在 Cortina Express 官网或者 App 上的预定的车票，可以**提前 24 小时免费退票**，不妨早订。
+
+[[flixbus]]
+=== FlixBus
+
+FlixBus 运营从科尔蒂纳到威尼斯机场，梅斯特雷火车站和主岛边缘 Venezia Tronchetto 的巴士，但是班次很少，只有早晚两班。可以作为 Cortina Express 的替代方案。
+
+[[atvo]]
+=== ATVO
+
+ATVO 运营的 29 路巴士有两班下午从科尔蒂纳到威尼斯的车次，停靠机场，梅斯特雷火车站和主岛上的罗马广场。需要注意的是，有的车次在机场需要（免费）换乘接驳的 10 路巴士到罗马广场，司机会在机场引导全员换乘。
+
+[[cortina-padova-venice]]
+== 我们的行程：科尔蒂纳 - 帕多瓦 - 威尼斯
+
+我们的行程是上午在科尔蒂纳退房，下午在威尼斯主岛上入住。期间的车次只有 Cortina Express 有一班，而且是到威尼斯在大陆上的梅斯特雷火车站，需要换乘一次才能上主岛，并不是非常理想。
+
+意外的是，我们发现意铁 Trenitalia 旗下的 https://www.fsbusitalia.it/eng.html[Busitalia] 运营着一条科尔蒂纳到帕多瓦的巴士专线 (https://www.fsbusitalia.it/eng/link/padova-cortina-link.html[Padova - Cortina Link])。其中，有一班 11:15 分从科尔蒂纳出发，下午 14:00 到帕多瓦的巴士。而从帕多瓦到威尼斯主岛上的圣卢西亚车站 (Venezia Santa Lucia) 的火车只需要不到半小时，车次极多，非常方便。
+
+帕多瓦是极其理想的中转站。它被称为“湿壁画之城”，拥有列入联合国教科文组织世界遗产名录的**十四世纪壁画群**。其中最耀眼的明星，正是**乔托** (Giotto) 在斯克洛维尼礼拜堂 (Cappella degli Scrovegni) 绘制的 38 幅连环壁画，被公认为西方艺术的开端，文艺复兴的第一道光。
+
+科尔蒂纳到帕多瓦的巴士车票可以在官方票务网站 https://busitaliashop.it/en[busitaliashop.it] 预订。
+
+.在 Busitalia 官方票务网站预订科尔蒂纳到帕多瓦的巴士车票
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/getting-to-venice-from-cortina/cortina-padova-busitaliashop-2400.avif[width=“2400”, height=“1050”]
