@@ -74,4 +74,13 @@ toc::[]
 
 门票分为**庭院票**和**全票**两种。庭院票仅限新剧院和庭院（包括朱丽叶铜像），票价 5 欧元；全票还允许进入室内的博物馆，并且登上朱丽叶的阳台拍照，票价 12 欧元。
 
-注意：朱丽叶之家现场没有售票处，**只能在线购票并预约参观时段**。官方唯一在线购票和预约渠道是**维罗纳博物馆官方票务平台** https://verona.midaticket.it/Event/1/Dates/[MidaTicket] ，允许预约一个月以内的参观时段。如果有**维罗纳旅游卡** (Verona Card) 的话，朱丽叶之家是包含在内的，不过仍然需要通过相同的购票渠道在线预约参观时段。预约时，有专门的 Verona Card 选项，无需另外付费。
+注意：朱丽叶之家现场没有售票处，**只能在线购票并预约参观时段**。官方唯一在线购票和预约渠道是**维罗纳博物馆官方票务平台** https://verona.midaticket.it/Events/Wizard[MidaTicket]。如果有**维罗纳旅游卡** (Verona Card) 的话，朱丽叶之家是包含在内的，不过仍然需要通过相同的购票渠道在线预约参观时段。预约时，有专门的 Verona Card 选项，无需另外付费。
+
+.在维罗纳博物馆官方票务平台 MidaTicket 上预订朱丽叶之家和阳台的参观时段
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/screenshot-booking-verona-juliets-house-4x3-2400.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/screenshot-booking-verona-juliets-house-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/screenshot-booking-verona-juliets-house-4x3-2400.avif 2400w"]
+
+虽然这个票务平台有英文版，不过参观选项都是意大利语。上面屏幕截图中的最后一项 Omaggio Verona Card-Teatro+Cortile+Casa Giulietta 就是维罗纳卡的免费参观选项，其中的 _Omaggio Verona Card_ 字面意思是“维罗纳卡的赠品”。
+
+++++
+{% related slugs="verona-card" %}
+++++
