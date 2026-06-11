@@ -1,0 +1,62 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/dolomites-lake-carezza/dolomites-lake-carezza-4x3-1200.avif
+  alt: 多洛米蒂 (Dolomites) 的卡雷扎湖 (Lake Carezza)，远处是拉特马尔山 (Latemar)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/dolomites-lake-carezza/dolomites-lake-carezza-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/dolomites-lake-carezza/dolomites-lake-carezza-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-22 08:00:00 +0200
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 多洛米蒂, 博尔扎诺, 徒步]
+tagline: 多洛米蒂的彩虹湖
+---
+= 多洛米蒂的卡雷扎湖 (Lake Carezza, Dolomites)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums: false
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/dolomites-lake-carezza
+
+卡雷扎湖 (Lake Carezza) 是多洛米蒂 (Dolomites) 西部最著名的高山湖泊，以其梦幻的翠绿湖水和**拉特马尔山** (Latemar) 的绝美倒影而闻名于世。在阳光下，湖水能折射出蓝、绿、黄等多种如宝石般的色彩，被当地的拉定 (Ladin) 族人称之为“彩虹湖” (The Rainbow Lake)。
+
+卡雷扎湖坐落在西多洛米蒂 (Western Dolomites) 的**埃加山谷** (Val d'Ega) 中。从多洛米蒂西部门户**博尔扎诺** (Bolzano) 向东驾车沿 SS241 国道，穿过峡谷隧道，只需要 10 几分钟就进入豁然开朗的埃加山谷谷地。由于当地历史上德语人口占主导，所以山谷的德语名字**艾根塔尔山谷** (Eggental) 可能更多见。
+
+埃加山谷的东北侧是著名的**玫瑰花园山脉** (Rosengarten)；东南侧是险峻的**拉特马尔群峰** (Latemar Group)。卡雷扎湖就镶嵌在埃加山谷东部两座山脉交汇的谷底。
+
+卡雷扎湖的意大利语名字 Lago di Carezza 和德语名字 Karersee 同源，都是当地的一种苔草植物的名字（其中 Lago 和 See 分别是意大利语和德语中的“湖”）。有趣的是，卡雷扎湖背景中的拉特马尔山的名字 Latemar 是意大利语和德语的通用名，源自土著的拉定语，字面的意思就是“湖上的山”。
+
+[[rainbow-lake]]
+== 彩虹湖 (Rainbow Lake)
+
+多洛米蒂的原住民拉定人有着悠久的古老文化，许多著名的自然风光都有相关的民间传说，卡雷扎湖也不例外：
+
+传说湖中曾住着一位美丽的水中仙子，经常在湖面上现身，坐在岸边梳理她那如瀑布般的长发，并用天籁般的歌声向群山吟唱。
+
+住在附近拉特马尔山的一位巫师偶然听到了她的歌声，并窥见了她的容貌，坠入了爱河。可每当巫师靠近时，胆小而警惕的水中仙子就会立刻潜入深深的湖底，消失得无影无踪。
+
+为了能够掳走仙子，巫师在天空扯起了一道美丽的彩虹，吸引仙子再次现身。可最终还是被识破，仙子再次潜入湖底，再也没人见过她。
+
+愤怒的巫师扯下彩虹撕碎，连同他准备用来求婚的所有奇珍异宝，一股脑全扔进了卡雷扎湖中。从此湖水便有了彩虹般的魔幻色彩。
+
+在今天卡雷扎湖的木栈道观景台旁，为了纪念这个传说，湖中还立有一尊水中仙子的青铜雕像。
+
+[[best-visit-time]]
+== 最佳观赏时间
+
+卡雷扎湖的最佳观赏季节是春夏季的五月到七月间。此时正值冰川融水期，湖泊水位最高，也是折射彩虹光芒和拍摄雪山倒影最完美的季节。
+
+* 明镜倒影：在清晨，湖面无风，拉特马尔山群和山脚下翠绿的冷杉林会完美倒映在湖水中。
+
+* 日照金山：夕阳西下时，落日的余晖会洒在拉特马尔山裸露的岩壁上，将它们染成一片耀眼的粉红色、橙色或金黄色。这就是当地称为 Enrosadira 的日落金山。
+
+[[how-to-get-there]]
+== 如何前往
+
+卡雷扎湖的交通在多洛米蒂的众多景点中算是极其便利的，自驾或者乘坐公共车前往都很轻松：
+
+* 自驾：在博尔扎诺火车站旁的公交车站 (Bolzano, Autostazione) 乘坐 180 路巴士到卡雷扎大酒店站 (Grand Hotel Carezza) 下车，步行一小段距离即可到达。通常每半小时到一小时一班，车程约 50 分钟。当地酒店有赠送**南蒂罗尔访客交通卡** (Südtirol Guest Pass)，可**免费**搭乘此公交车。
+
+* 公交：从博尔扎诺出发，沿 SS241 国道自驾约 40 分钟就可到达卡雷扎湖停车场 (Parking Lake Carezza)。
