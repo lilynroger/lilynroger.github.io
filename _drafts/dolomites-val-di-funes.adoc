@@ -1,0 +1,77 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/dolomites-val-di-funes/dolomites-val-di-funes-santa-maddalena-4x3-1200.avif
+  alt: 多洛米蒂 (Dolomites) 的富内斯山谷 (Val di Funes)。坐落在绿茵草坡上的是圣玛格达莱纳教堂 (Chiesa di Santa Maddalena)，远处是盖斯勒群峰 (Odle / Geisler Group)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/dolomites-val-di-funes/dolomites-val-di-funes-santa-maddalena-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/dolomites-val-di-funes/dolomites-val-di-funes-santa-maddalena-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-19 17:00:00 +0200
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 多洛米蒂, 博尔扎诺, 富内斯山谷, 徒步]
+tagline: 南蒂罗尔的珍珠，上帝的后花园。
+---
+= 多洛米蒂的富内斯山谷 (Val di Funes, Dolomites)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/dolomites-val-di-funes
+
+富内斯山谷 (Val di Funes) 拥有多洛米蒂最具标志性的阿尔卑斯风光，常被称为“南蒂罗尔的珍珠”，“上帝的后花园”。这里有童话般的**圣玛格达莱纳教堂** (Chiesa di Santa Maddalena) 和**圣约翰礼拜堂** (Chiesetta di San Giovanni in Ranui)，还有着盖斯勒群峰 (Odle / Geisler) 脚下的**阿道夫·迈恩克步道** (Adolf Munkel Trail)。
+
+toc::[]
+
+[[val-di-funes]]
+== 富内斯山谷地理 (Val di Funes)
+
+富内斯山谷是多洛米蒂最有名的山谷，位于博尔扎诺-上阿迪杰自治省 (Bolzano - South Tyrol)。在西多洛米蒂核心山谷加尔代纳山谷 (Val di Gardena) 的正北方，与其背靠背，中间隔着盖斯勒群峰。山谷整体上走向是东西延伸、向西敞开的，东部的尽头就是屏障一般的盖斯勒群峰。
+
+富内斯山谷中有几个村庄，联合起来组成了一个行政市镇，以山谷的名字命名为**富内斯市镇** (Comune di Funes)。其中有三个核心的村庄：
+
+* 蒂索 (Teis / Tiso): 位于山谷的最西端，是进入富内斯山谷的门户。村子里最著名的是矿物地质博物馆，里面展览着当地特有的水晶和地质奇石**蒂索球** (Teiser Kugeln / Geodi di Tiso)。
+
+* 圣彼得 (St. Peter / San Pietro): 位于山谷的中部，海拔约 1150 米，是富内斯的首府和最大镇子。山谷的市政厅、核心超市、加油站、文化中心以及药店都集中在这里。镇上的地标是拥有 65 米高洋葱头钟楼的**圣彼得教区主教堂** (Chiesa Parrocchiale di San Pietro in Funes)。
+
+* 圣玛格达莱纳 (St. Magdalena / Santa Maddalena): 位于山谷的最东端谷底，海拔约 1339 米，直接依偎在盖斯勒群峰脚下。风靡全球的圣玛格达莱纳教堂和圣约翰教堂就在这里。
+
+博尔扎诺历史上曾属于奥匈帝国，实行意大利语和德语双语制，富内斯山谷的绝大多数当地居民讲的是母语德语。
+
+[[santa-maddalena]]
+== 圣玛格达莱纳教堂 (Chiesa di Santa Maddalena)
+
+**圣玛格达莱纳教堂**是整个富内斯山谷历史最悠久、景观地位最核心的标志性圣地。
+
+圣玛格达莱纳观景台是拍摄富内斯山谷标志性“山谷红屋顶教堂+刀锋山”明信片全景的绝佳机位。站在这里向东南方向远眺，圣玛格达莱纳教堂刚好完美地嵌在错落有致的绿色山坡中央，而背景则是垂直拔地而起、极具压迫感的盖斯勒巨型断崖。
+
+该观景台所在的半山路 (Magdalenaweg) 属于严格的 ZTL 限行区，只有当地农夫和居民的车辆可以驶入，需要徒步前往观景台：
+
+* 将车停在山谷下方的**普埃兹-盖斯勒自然公园停车场**( Parkplatz Naturparkhaus Puez-Geisler)。停好车后，先去自动缴费机购买停车票，并把打印出来的纸质车票面朝上放在车内挡风玻璃下以备检查。
+
+* 沿着名为 Magdalenaweg 的柏油斜坡路一路徒步上山约 1 公里，即可到达拍摄点位。周围全是当地农夫赖以生存的私人牧草场。步道旁设有公共木椅，拍照时请务必站在公共步道或木椅区域内，千万不要跨越木围栏进入草丛中。
+
+每年六月下旬是一年之中草最绿、野花开得最好的时候，该机位在日落前会非常热门。虽然这个季节真正的日落金山要到 20:30-21:00 才会出现，但建议在 18:00 前就到达观景台选好机位、支好三脚架。
+
+[[st-johann-in-ranui]]
+== 圣约翰礼拜堂 (Chiesetta di San Giovanni in Ranui)
+
+圣约翰礼拜堂孤零零地伫立在一整片宽阔的绿色草甸中央，背后是高耸入云的盖斯勒群峰的断崖。标志性的洋葱头钟楼、小巧的身形以及林海的衬托，让它成为多洛米蒂最具童话色彩的名片。
+
+这座教堂于 1744 年由私人出资修建，并不是一座面向公众的普通教堂，而是一座私人家庭礼拜堂。它的主人就是紧邻的**拉努伊庄园** (Ranuihof)，如今是一家口碑不错的农场民宿 (https://www.ranuihof.com/en/[Ranui Hof lodge])。拉努伊庄园的主人，同时也是阿道夫·迈恩克步道终点、那个有木质躺椅的网红山顶小屋 Geisleralm 的经营者。
+
+拉努伊庄园一般只对住客开放，好在与之紧邻的 Ranuimüllerhof 乡村餐厅对公众开放。那里提供极佳的南蒂罗尔高山菜肴，且同样拥有直面盖斯勒群峰的景观露台。
+
+[[adolf-munkel-trail]]
+== 阿道夫·迈恩克步道 (Via Adolf Munkel)
+
+阿道夫·迈恩克步道被公认为整个多洛米蒂山脉西北部最壮丽、最具视觉震撼力的徒步路线。阿道夫·迈恩克步道的经典的走法是由西向东的顺时针大环线：
+
+* 从富内斯山谷尽头的 Zanser 停车场出发，沿 6 号步道进山，沿着一条清澈的高山溪流，在凉爽的松树林荫中缓缓向上。
+
+* 右转切入 35 号步道，这才是真正的阿道夫·迈恩克步道 (Adolf Munkel Weg)。一路向前，直到与 36 号步道交汇。
+
+* 顺着指引向下走就是著名的盖斯勒山屋 (https://www.geisleralm.com/en/[Geisler Alm / Rifugio Odle])。
+
+* 顺着宽阔平缓的 36 号林业土路一路下坡，即可极其轻松地荡回 Zannes 停车场，完成闭环。
