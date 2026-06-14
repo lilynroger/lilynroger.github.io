@@ -5,7 +5,7 @@ permalink: /trips/2026/dolomites/
 
 # Documents in a collection are sorted by their date attribute
 # see: https://jekyllrb.com/docs/collections/#custom-sorting-of-documents
-date: 2026-06-15 08:00:00 +0800
+date_modified: 2026-06-14 08:00:00 +0800
 
 # jekyll-seo-tag
 # see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
