@@ -1,30 +1,8 @@
-<article class="card h-100 border-0">
-  {%- if item.image_base -%}
-  <img src="{{ site.image_path }}{{ item.image_base }}-4x3-1200.avif" class="card-img-top" alt="{{ page.image_alt }}">
-  {%- endif -%}
-  <div class="card-body">
 
-    <hgroup>
-      <p class="small text-body-secondary kicker mb-0">{{item.title_english}}</p>
-      <h3 class="card-title h5 mt-1">
-        <a class="link-dark link-offset-2-hover link-underline-opacity-0 link-underline-opacity-75-hover"
-          href="{{ item.url | relative_url }}">
-          {{ item.title }}
-        </a>
-      </h3>
-    </hgroup>
-
-    <p class="card-text">
-      {{ item.tagline }}
-    </p>
-
-    {%- assign date_format = "%Y 年 %m 月" -%}
-    <p class="card-text">
-      <small>
-        <date class="text-body-secondary">
-          {{ item.date | date: date_format }}
-        </date>
-      </small>
-    </p>
-  </div>
-</article>
+{% assign trip_date = item.date | date: "%Y 年 %m 月" %}
+{% 
+  include card-common.html 
+  target = item 
+  itemprop = "relatedLink" 
+  kicker = trip_date
+%}
