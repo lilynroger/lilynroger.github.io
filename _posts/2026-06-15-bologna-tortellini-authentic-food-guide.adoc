@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-15 06:30:00 +0100
-date_modified: 2026-06-15 06:30:00 +0100
+date: 2026-06-15 06:30:00 +0200
+date_modified: 2026-06-15 06:30:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
 tagline: 维纳斯的肚脐，胖子之城的面食之王
 description: 在意大利美食之都和“胖子之城”博洛尼亚 (Bologna)，人称“维纳斯的肚脐”的小饺子 (Tortellini) 是面食之王。一盘鸡肉清汤中的小饺子是不可错过的传统美食体验。

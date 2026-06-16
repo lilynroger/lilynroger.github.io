@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-15 10:00:00 +0100
-date_modified: 2026-06-15 10:00:00 +0100
+date: 2026-06-15 10:00:00 +0200
+date_modified: 2026-06-15 10:00:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
 tagline: “美食之都”和“胖子之城”
 description: 在博洛尼亚 (Bologna) 吃什么，喝什么，去哪吃？在这座美食之都的餐厅，酒馆，杂货店和市集中，寻找有肉酱面，香肠，小饺子，面包，冰淇淋，巧克力和葡萄酒。

@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-15 07:30:00 +0100
-date_modified: 2026-06-15 07:30:00 +0100
+date: 2026-06-15 07:30:00 +0200
+date_modified: 2026-06-15 07:30:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
 tagline: 打卡 Tamburini, Simoni, Gilberto, Pioggia
 description: 意大利语中的 Drogheria 是杂货铺的意思，而 Salumeria 就是熟食店。这篇攻略是我们在博洛尼亚老城区的杂货铺和熟食店的打卡清单。

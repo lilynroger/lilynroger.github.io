@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-16 05:00:00 +0100
-date_modified: 2026-06-16 05:00:00 +0100
+date: 2026-06-16 05:00:00 +0200
+date_modified: 2026-06-16 05:00:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
 tagline: 拱廊之城，世界遗产
 description: 博洛尼亚的拱廊 (Porticoes of Bologna) 是这座城市的名片，城内的 12 处最具代表性的拱廊及其周边建筑被一通列入了联合国教科文组织世界遗产名录。
