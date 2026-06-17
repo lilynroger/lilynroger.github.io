@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-17 15:00:00 +0100
-date_modified: 2026-06-17 15:00:00 +0100
+date: 2026-06-17 15:45:00 +0200
+date_modified: 2026-06-17 15:45:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
 tagline: 威尼斯共和国的“耳目”
 description: 在维罗纳 (Verona) 也有类似威尼斯 (Venice) 的、被称为“狮子之口” (Bocche di Leone / Lions' Mouths) 的秘密举报信箱。有两个就在理性宫 (Palazzo della Ragione) 的外墙上。

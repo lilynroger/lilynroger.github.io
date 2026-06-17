@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-17 15:00:00 +0100
-date_modified: 2026-06-17 15:00:00 +0100
+date: 2026-06-17 15:30:00 +0200
+date_modified: 2026-06-17 15:30:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
 tagline: 挂了二百年的鲸鱼肋骨
 description: 维罗纳 (Verona) 的“肋骨拱门” (Arco della Costa) 也译作“科斯塔拱门”，是在百草广场与领主广场之间的一座拱形连廊。一根巨大的鲸鱼肋骨自 18 世纪开始就悬挂在拱门下方。
