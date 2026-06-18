@@ -9,9 +9,9 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-19 12:00:00 +0100
-date_modified: 2026-06-19 12:00:00 +0100
-tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
+date: 2026-06-17 12:00:00 +0200
+date_modified: 2026-06-17 12:00:00 +0200
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 艺术]
 tagline: 中世纪和文艺复兴的艺术瑰宝。
 ---
 = 维罗纳 (Verona) 的艺术：五件不可错过的杰作
