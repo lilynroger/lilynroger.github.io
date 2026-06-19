@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-19 13:00:00 +0100
-date_modified: 2026-06-19 13:00:00 +0100
+date: 2026-06-19 07:00:00 +0200
+date_modified: 2026-06-19 07:00:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 艺术, 欧洲艺术经典题材, 圣乔治]
 tagline: 骑士和黄金传奇
 ---
