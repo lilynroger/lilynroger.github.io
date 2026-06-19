@@ -9,7 +9,7 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-19 17:00:00 +0200
+date: 2026-06-19 07:00:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 多洛米蒂, 博尔扎诺, 富内斯山谷, 徒步]
 tagline: 南蒂罗尔的珍珠，上帝的后花园。
 ---
