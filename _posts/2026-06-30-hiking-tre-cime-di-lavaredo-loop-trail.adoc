@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-30 07:00:00 +0200
-tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 多洛米蒂]
+date: 2026-06-30 06:00:00 +0200
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 多洛米蒂, 徒步]
 tagline: 多洛米蒂的“上帝之手“。
 description: 拉瓦雷多三尖峰 (Tre Cime di Lavaredo / Drei Zinnen) ，通常简称为“三峰山”，是意大利多洛米蒂山脉 (Dolomites) 中最具标志性的自然景观，也是全球无数风光摄影师、徒步爱好者和攀岩者的终极朝圣地。
 ---
