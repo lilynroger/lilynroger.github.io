@@ -1,11 +1,11 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail/tre-cime-di-lavaredo-4x3-1200.avif
-  alt: 多洛米蒂 (Dolomites) 的三峰山 (Tre Cime di Lavaredo)。
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail/tre-cime-rifugio-locatelli-4x3-1200.avif
+  alt: 多洛米蒂 (Dolomites) 的三峰山 (Tre Cime)。前景中的山屋是著名的洛卡特利山屋 (Rifugio Locatelli)；远景右侧就是三峰山。
   width: 1200
   height: 900
   sources:
-    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail/tre-cime-di-lavaredo-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail/tre-cime-di-lavaredo-4x3-2400.avif 2400w
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail/tre-cime-rifugio-locatelli-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail/tre-cime-rifugio-locatelli-4x3-2400.avif 2400w
 
 layout: article
 categories: posts
