@@ -10,6 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-30 06:00:00 +0200
+date_modified: 2026-07-01 22:00:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 多洛米蒂, 徒步]
 tagline: 多洛米蒂的“上帝之手“。
 description: 拉瓦雷多三尖峰 (Tre Cime / Drei Zinnen) ，通常简称为“三峰山”，是意大利多洛米蒂山脉 (Dolomites) 中最具标志性的景观，与洛卡泰利山屋 (Rifugio Locatelli) 相辅相成，成为全球无数风光摄影师、徒步爱好者和攀岩者的朝圣地。
@@ -97,7 +98,7 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-
 .前往拉瓦雷多山口 (Forcella Lavaredo) 途中，在低处的步道上回望拉瓦雷多山屋 (Rifugio Lavaredo) 和卡迪尼群峰 (Cadini di Misurina)。
 image::https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail/rifugio-lavaredo-and-cadini-di-misurina-from-forcella-lavaredo-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail/rifugio-lavaredo-and-cadini-di-misurina-from-forcella-lavaredo-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-di-lavaredo-loop-trail/rifugio-lavaredo-and-cadini-di-misurina-from-forcella-lavaredo-4x3-2400.avif 2400w"]
 
-拉瓦雷多山口是整条环线的最高点，海拔约 2454 米。这里有三峰山的侧面视角，由远及近，分别是小峰，大峰和西峰。
+拉瓦雷多山口是整条环线的最高点，海拔约 2454 米。这里有三峰山的侧面视角，由近及远，分别是小峰，大峰和西峰。
 
 === Forcella Lavaredo - Rifugio Locatelli
 
@@ -240,4 +241,4 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-
 [[final-thoughts]]
 == 后记
 
-如果你在完成三峰山徒步后仍觉意犹未尽，不妨前往不远处的 Cadini di Misurina 观景点。这里常被称为“魔戒之路”和“魔多山”。起点也在奥龙佐山屋 (Rifugio Auronzo)，沿 CAI 117 号步道向南就可以抵达观景点。原路折返全程约 2 公里，累计爬升约 150 米，耗时约 1 - 1.5 小时。
+如果你在完成三峰山徒步后仍觉意犹未尽，不妨前往不远处的 Cadini di Misurina 观景点。这里常被称为“魔戒之路”，“魔多山”，“魔多之塔”。起点也在奥龙佐山屋 (Rifugio Auronzo)，沿 117 号步道向南就可以抵达观景点。原路折返全程约 3.5 公里，累计爬升约 200 米，徒步耗时约 1 小时，不过排队拍照时间可能超过 1 小时。
