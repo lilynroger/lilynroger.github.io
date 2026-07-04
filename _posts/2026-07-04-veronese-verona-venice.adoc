@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-07-06 13:00:00 +0100
-date_modified: 2026-07-06 13:00:00 +0100
+date: 2026-07-04 07:15:00 +0200
+date_modified: 2026-07-04 07:15:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳，威尼斯，艺术]
 tagline: 我们画家所享有的自由，与诗人和疯子所享有的并无二致。
 ---
