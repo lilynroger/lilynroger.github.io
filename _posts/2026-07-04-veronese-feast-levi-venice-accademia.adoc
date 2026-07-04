@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-07-05 07:00:00 +0100
-date_modified: 2026-07-05 07:00:00 +0100
+date: 2026-07-04 07:00:00 +0200
+date_modified: 2026-07-04 07:00:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 威尼斯，艺术]
 tagline: 艺术自由对垒宗教审查。
 ---
