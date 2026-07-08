@@ -1,4 +1,4 @@
-= 徒步路线的类型 - 环形 (Loop), 往返 (Out-and-Back), 点对点 (Point-to-Point)
+= 徒步路线的类型 - 环形, 往返, 点对点
 :page-date: 2025-08-28 08:00:00 +0800
 :page-date_modified: 2025-11-11 08:00:00 +0800
 :page-subtitle: Hiking Trail Route Types

@@ -7,7 +7,7 @@ image:
   sources:
     - srcset: https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/gare-aeroport-charles-de-gaulle-2-rer-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/alps-lofoten/airport-cdg/gare-aeroport-charles-de-gaulle-2-rer-4x3-1200.avif 2400w
 ---
-= 巴黎夏尔·戴高乐机场 (Paris-Charles de Gaulle airport, CDG) 指南 (2026)
+= 巴黎戴高乐机场指南 (2026)
 :page-layout: article
 :page-categories: posts
 :page-date_modified: 2026-02-08 06:00:00 +0100
