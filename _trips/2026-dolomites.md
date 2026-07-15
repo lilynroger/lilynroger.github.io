@@ -5,7 +5,7 @@ permalink: /trips/2026/dolomites/
 
 # Documents in a collection are sorted by their date attribute
 # see: https://jekyllrb.com/docs/collections/#custom-sorting-of-documents
-date_modified: 2026-06-14 08:00:00 +0800
+date: 2026-06-14 08:00:00 +0800
 
 # jekyll-seo-tag
 # see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
@@ -13,14 +13,14 @@ canonical_url: https://lilyroger.com/trips/2026/dolomites/
 
 # article:date_modified
 # see _includes/head.html
-date_modified: 2026-06-14 08:00:00 +0800
+date_modified: 2026-07-15 15:00:00 +0800
 
 featured: true
 
 slug: dolomites
 title: 多洛米蒂之旅：深度游指南和攻略
 title_display: 多洛米蒂之旅
-tagline: 意大利多洛米蒂深度游
+tagline: 意大利阿尔卑斯深度游
 # image_base: trips/2026/dolomites/seceda-in-val-gardena-dolomites
 # image_base: trips/2026/dolomites/seceda-dolomites
 # image_alt: 塞塞达 (Seceda) 位于意大利多洛米蒂山脉的加尔代纳山谷 (Val Gardena)
@@ -32,15 +32,23 @@ continents:
     - 欧洲
 countries:
     - 意大利
-    - 瑞士
-    - 挪威
-    - 捷克
+    - 奥地利
 regions:
     - 南欧
+    - 中欧
 cities:
     - 罗马
-    - 佛罗伦萨
+    - 博洛尼亚
     - 维罗纳
+    - 博尔扎诺
+    - 卡纳泽伊
+    - 奥蒂塞伊
+    - 科尔蒂纳丹佩佐
+    - 帕多瓦
+    - 威尼斯
+    - 萨尔茨堡
+    - 哈尔斯塔特
+    - 维也纳
 ---
 
-一场多洛米蒂 (Dolomites) 的夏季之旅，一次游遍富内斯山谷 (Funes)，刀锋山 (Seceda)，布莱耶斯湖 (Braies)，三峰山 (Tre Cima)，五塔山 (Cinque Torri)，休斯高原 (Alpe di Siusi)。
+一场多洛米蒂 (Dolomites) 的夏季之旅，一次游遍富内斯山谷 (Funes)，刀锋山 (Seceda)，休斯高原 (Alpe di Siusi)，布莱耶斯湖 (Braies)，三峰山 (Tre Cima)，五塔山 (Cinque Torri)。
