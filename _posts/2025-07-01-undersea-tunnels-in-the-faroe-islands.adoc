@@ -1,7 +1,7 @@
 = 法罗群岛的海底隧道
 :page-layout: post
 :page-subtitle: Undersea Tunnels in the Faroe Islands
-:page-image: assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/undersea-tunnels-map.webp
+:page-image: /assets/images/2025/lofoten-faroe/undersea-tunnels-in-the-faroe-islands/undersea-tunnels-map.webp
 :page-categories: posts
 :page-date: 2025-07-01 01:00:00 +0100
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 交通]

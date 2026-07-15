@@ -2,7 +2,7 @@
 :page-layout: post
 :page-categories: posts
 :page-date: 2025-06-29 08:00:00 +0100
-:page-image: assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/sandavagur.webp
+:page-image: /assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/sandavagur.webp
 :page-subtitle: One Day Road Trip on Vágar Island
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 运动, 徒步, 自驾]
 :page-liquid:

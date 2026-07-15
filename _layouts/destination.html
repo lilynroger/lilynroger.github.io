@@ -31,7 +31,7 @@ layout: page
     <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
       {%- for post in posts -%}
       <li class="col">
-        {% include card-post.html post = post %}
+        {% include card-post.html target = post %}
       </li>
       {%- endfor -%}
     </ul>

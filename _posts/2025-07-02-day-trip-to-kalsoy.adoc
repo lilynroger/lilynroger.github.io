@@ -1,6 +1,6 @@
 = 卡尔索伊岛一日游及徒步卡鲁尔灯塔
 :page-subtitle: Day Trip to Kalsoy | Hiking Kallur Lighthouse
-:page-image: assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/kallur-lighthouse.webp
+:page-image: /assets/images/2025/lofoten-faroe/day-trip-to-kalsoy/kallur-lighthouse.webp
 :page-date: 2025-07-02 07:00:00 +0100
 :page-layout: post
 :page-categories: posts

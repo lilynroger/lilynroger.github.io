@@ -1,6 +1,6 @@
 = 挪威的徒步步道分级
 :page-subtitle: Grading of Trails in Norway
-:page-image: assets/images/2025/lofoten-faroe/grading-of-trails-in-norway/kjerag.webp
+:page-image: /assets/images/2025/lofoten-faroe/grading-of-trails-in-norway/kjerag.webp
 :page-date: 2025-10-18 08:00:00 +0800
 :page-date_modified: 2025-11-26 08:00:00 +0800
 :page-categories: posts

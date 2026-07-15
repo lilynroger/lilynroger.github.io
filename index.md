@@ -98,7 +98,7 @@ canonical_url: https://lilyroger.com
       <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4">
         {%- for post in site.posts limit:4 -%}
         <li class="col">
-          {% include card-article.html article = post %}
+          {% include card-post.html target = post %}
         </li>
         {%- endfor -%}
       </ul>
@@ -122,7 +122,7 @@ canonical_url: https://lilyroger.com
       <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4">
         {%- for post in posts limit:4 -%}
         <li class="col">
-          {% include card-article.html article = post %}
+          {% include card-post.html target = post %}
         </li>
         {%- endfor -%}
       </ul>
