@@ -38,7 +38,7 @@ image_alt: 这座被誉为托斯卡纳地标的 Madonna di Vitaleta Chapel（小
       {% assign items = site.destinations %}
       {%- for item in items -%}
       <li class="col">
-        {% include card-destination.html item = item %}
+        {% include card-common.html target = item %}
       </li>
       {%- endfor -%}
     </ul>
