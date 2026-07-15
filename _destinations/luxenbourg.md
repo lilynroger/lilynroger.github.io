@@ -16,8 +16,11 @@ date_modified: 2026-01-17 08:00:00 +0800
 title_pinyin: lusenbao
 
 tag: 卢森堡
-title: 卢森堡
-title_english: Luxembourg
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title: 卢森堡 (Luxenbourg) 旅游攻略；景点、机场、交通、艺术、美食、徒步
+title_display: 卢森堡 (Luxenbourg)
+
 tagline: 漫步“欧洲最美阳台”。
 image_base: destinations/luxenbourg/luxembourg-city-grund-view
 image_alt: "从“欧洲最美阳台”（Chemin de la Corniche）俯瞰，卢森堡市（Luxembourg City）老城核心的格伦德区（Grund）静卧于阿尔泽特河谷，历史建筑与河流交相辉映，是卢森堡旅游必打卡的经典机位。"

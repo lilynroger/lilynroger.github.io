@@ -21,9 +21,12 @@ title_pinyin: putaoya
 title_display: 葡萄牙
 
 tag: 葡萄牙
-title: 葡萄牙旅游攻略：里斯本景点，美食，旅行指南和游记
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title: 葡萄牙 (Portugal) 旅游攻略；里斯本景点，美食，旅行指南和游记
+title_display: 葡萄牙 (Portugal)
 description: 这里汇集了我们在葡萄牙里斯本的旅行攻略和指南，从宏伟的热罗尼莫斯大修道院到贝伦区的正宗蛋挞，分享最地道的沙丁鱼美食与波尔图美酒体验。
-title_english: Portugal
+
 tagline: 电车的光影，蛋挞的香气，沙丁鱼的烟火和波特酒的回味
 image_base: destinations/portugal/lisbon-yellow-tram-28-portugal
 image_alt: 穿行在里斯本老城阿尔法玛区的经典28路黄色有轨电车，葡萄牙旅行的标志性景观。

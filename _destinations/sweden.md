@@ -16,8 +16,11 @@ date_modified: 2026-01-17 08:00:00 +0800
 title_pinyin: ruidian
 
 tag: 瑞典
-title: 瑞典
-title_english: Sweden
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title: 瑞典 (Sweden) 旅游攻略；景点、机场、交通、艺术、美食、徒步
+title_display: 瑞典 (Sweden)
+
 tagline: 斯德哥尔摩老城和地铁站。
 image_base: destinations/sweden/stortorget-stockholms-old-town
 image_alt: "斯德哥尔摩老城（Gamla Stan）核心的斯德哥尔摩大广场（Stortorget）拥有城市最古老的历史建筑和著名的诺贝尔奖博物馆，是瑞典旅游必去的历史地标。"

@@ -16,8 +16,11 @@ date_modified: 2026-01-17 08:00:00 +0800
 title_pinyin: helan
 
 tag: 荷兰
-title: 荷兰
-title_english: Netherlands
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title: 荷兰 (Netherlands) 旅游攻略；景点、机场、交通、艺术、美食、徒步
+title_display: 荷兰 (Netherlands)
+
 tagline: 阿姆斯特丹，桑斯安斯风车村，海牙和哈勒姆。
 image_base: destinations/netherlands/zaanse-schans-windmills-netherlands
 image_alt: "荷兰的桑斯安斯风车村的标志性景观是沿河排列的历史风车、传统的绿色木屋建筑和静谧的河畔风光，这些元素共同描绘出荷兰 18 至 19 世纪的工业和生活画卷。"

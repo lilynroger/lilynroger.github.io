@@ -16,8 +16,11 @@ date_modified: 2026-01-18 08:00:00 +0800
 title_pinyin: alabolianheqiuzhangguo
 
 tag: 阿拉伯联合酋长国
-title: 阿拉伯联合酋长国
-title_english: United Arab Emirates
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title: 阿拉伯联合酋长国 (United Arab Emirates) 旅游攻略；景点、机场、交通
+title_display: 阿拉伯联合酋长国 (United Arab Emirates)
+
 tagline: 迪拜，阿布扎比, 谢赫扎耶德大清真寺。
 image_base: destinations/united-arab-emirates/sheikh-zayed-grand-mosque-abu-dhabi
 image_alt: "阿拉伯联合酋长国 (UAE) 阿布扎比的谢赫扎耶德大清真寺 (Sheikh Zayed Grand Mosque) 是一座以纯白色大理石外墙、宏伟圆顶和高耸宣礼塔为特色的著名建筑奇观。"

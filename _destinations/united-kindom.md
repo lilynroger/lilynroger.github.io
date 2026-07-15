@@ -16,8 +16,11 @@ date_modified: 2026-01-17 08:00:00 +0800
 title_pinyin: yingguo
 
 tag: 英国
-title: 英国
-title_english: United Kingdom
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title: 英国 (United Kingdom) 旅游攻略；景点、机场、交通、艺术、美食、徒步
+title_display: 英国 (United Kingdom)
+
 tagline: 伦敦，剑桥和白崖。
 image_base: destinations/united-kingdom/seven-sisters-cliffs-england
 image_alt: "英国南部著名的七姊妹悬崖 (Seven Sisters Cliffs)，这是一片壮观的白色白垩悬崖海岸线，位于英吉利海峡沿岸。"

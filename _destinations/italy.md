@@ -16,9 +16,12 @@ date_modified: 2026-01-17 08:00:00 +0800
 title_pinyin: yidali
 
 tag: 意大利
-title: 意大利
-title_english: Italy
-tagline: 罗马，佛罗伦萨，托斯卡纳和阿马尔菲海岸。
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title: 意大利 (Italy) 旅游攻略；景点、机场、交通、艺术、美食、徒步
+title_display: 意大利 (Italy)
+
+tagline: 罗马，佛罗伦萨，托斯卡纳，阿马尔菲，多洛米蒂。
 image_base: destinations/italy/roman-forum
 image_alt: "图片中的景点是意大利罗马（Rome, Italy）的核心历史遗迹，名为古罗马广场（Roman Forum）。"
 ---

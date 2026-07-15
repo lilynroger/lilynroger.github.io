@@ -16,8 +16,12 @@ date_modified: 2026-01-17 08:00:00 +0800
 title_pinyin: fandigang
 
 tag: 梵蒂冈
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title: 梵蒂冈 (Vatican City) 旅游攻略；圣彼得广场和梵蒂冈博物馆
+title_display: 梵蒂冈 (Vatican City)
+
 title: 梵蒂冈
-title_english: Vatican City
 tagline: 圣彼得广场和梵蒂冈博物馆。
 image_base: destinations/vatican-city/st-peters-basilica-vatican-city
 image_alt: "梵蒂冈城国 (Vatican City State），世界上最小的主权国家，画面中央的建筑正是其标志性的圣彼得大教堂 (St. Peter's Basilica) 和前面的圣彼得广场。"

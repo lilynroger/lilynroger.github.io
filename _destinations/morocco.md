@@ -16,8 +16,11 @@ date_modified: 2026-01-17 08:00:00 +0800
 title_pinyin: moluoge
 
 tag: 摩洛哥
-title: 摩洛哥
-title_english: Morocco
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title: 摩洛哥 (Morocco) 旅游攻略；景点、机场、交通、艺术、美食、徒步
+title_display: 摩洛哥 (Morocco)
+
 tagline: 从蓝色山城到撒哈拉沙海。
 image_base: destinations/morocco/chefchaouen-blue-city-morocco
 image_alt: "摩洛哥著名的“蓝色之城” - 舍夫沙万 （Chefchaouen) 一栋涂满鲜艳蓝色涂料的传统建筑入口，该建筑上挂着 Clock Cross-Cultural Cafe 的招牌。"

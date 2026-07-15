@@ -16,8 +16,11 @@ date_modified: 2026-01-17 08:00:00 +0800
 title_pinyin: ruishi
 
 tag: 瑞士
-title: 瑞士
-title_english: Switzerland
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title: 瑞士 (Switzerland) 旅游攻略；景点、机场、交通、艺术、美食、徒步
+title_display: 瑞士 (Switzerland)
+
 tagline: 从日内瓦湖畔到莱茵河畔。
 image_base: destinations/switzerland/basel-switzerland-rathaus-town-hall
 image_alt: "瑞士巴塞尔市政厅：一座装饰华丽的红色砂岩建筑，位于集市广场，拥有独特的塔楼和壁画，是该市的标志性历史地标。"

@@ -16,8 +16,11 @@ date_modified: 2026-01-18 08:00:00 +0800
 title_pinyin: monage
 
 tag: 摩纳哥
-title: 摩纳哥
-title_english: Monaco
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title: 摩纳哥 (Monaco) 旅游攻略；景点、机场、交通、艺术、美食、徒步
+title_display: 摩纳哥 (Monaco)
+
 tagline: 地中海沿岸极致奢华的微型城邦。
 image_base: destinations/monaco/monaco-fontvieille-port
 image_alt: "摩纳哥著名的丰维耶港区 (Port of Fontvieille)，以停泊在码头的各类游艇、沿海湾而建的豪华高层住宅建筑，以及远处的蔚蓝地中海景色为特色。"

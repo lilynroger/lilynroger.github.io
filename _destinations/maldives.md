@@ -16,8 +16,11 @@ date_modified: 2026-01-17 08:00:00 +0800
 title_pinyin: maerdaifu
 
 tag: 马尔代夫
-title: 马尔代夫
-title_english: Maldives
+
+# 保持 title 为 SEO 服务（长标题）。自定义的 title_display 变量定制文章页面的 <h1> 显示
+title: 马尔代夫 (Maldives) 旅游攻略；景点、机场、交通、艺术、美食、徒步
+title_display: 马尔代夫 (Maldives)
+
 tagline: Kani 岛地中海俱乐部。
 image_base: destinations/maldives/maldives-kani-island-clubmed-overwater-bungalows
 image_alt: "马尔代夫 Kani 岛地中海俱乐部（Club Med Kani）度假村的水上别墅，建在清澈碧绿的浅海泻湖上，蓝天白云下白色沙滩延伸至画面前景。"
