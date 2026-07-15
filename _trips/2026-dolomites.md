@@ -15,14 +15,17 @@ canonical_url: https://lilyroger.com/trips/2026/dolomites/
 # see _includes/head.html
 date_modified: 2026-06-14 08:00:00 +0800
 
-featured: false
+featured: true
 
 slug: dolomites
 title: 多洛米蒂之旅：深度游指南和攻略
 title_display: 多洛米蒂之旅
 tagline: 意大利多洛米蒂深度游
-image_base: trips/2026/dolomites/seceda-in-val-gardena-dolomites
-image_alt: 塞塞达 (Seceda) 位于意大利多洛米蒂山脉的加尔代纳山谷 (Val Gardena)
+# image_base: trips/2026/dolomites/seceda-in-val-gardena-dolomites
+# image_base: trips/2026/dolomites/seceda-dolomites
+# image_alt: 塞塞达 (Seceda) 位于意大利多洛米蒂山脉的加尔代纳山谷 (Val Gardena)
+image_base: trips/2026/dolomites/witch-alps-gnome-wichtel-dolomites
+image_alt: 多洛米蒂随处可见的阿尔卑斯山怪布偶 (Alps Gnomo)，有时还结合了女巫的形象，带着扫帚，可以叫女巫山怪 (Witch Gnome)。
 tag: 2026-Dolomites
 year: 2026
 continents:

@@ -17,7 +17,7 @@ canonical_url: https://lilyroger.com/trips/2025/lofoten-faroe/
 # see _includes/head.html
 date_modified: 2026-01-14 20:00:00 +0800
 
-featured: true
+featured: false
 
 slug: lofoten-faroe
 title: 罗弗敦群岛和法罗群岛之旅

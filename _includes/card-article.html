@@ -1,0 +1,8 @@
+
+{% assign article_date = include.article.date | date: "%Y 年 %m 月 %d 日" %}
+{% 
+  include card-common.html 
+  target = include.article
+  itemprop = "relatedLink" 
+  kicker = article_date
+%}

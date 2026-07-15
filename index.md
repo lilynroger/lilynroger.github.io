@@ -51,7 +51,7 @@ canonical_url: https://lilyroger.com
 
       <hgroup class="text-white hero-text">
         <p class="small kicker">最新的旅行故事</p>
-        <h2 class="mt-0 mb-3">{{ trip.title }}</h2>
+        <h2 class="mt-0 mb-3">{{ trip.title_display | default: trip.title }}</h2>
         <p class="dek">{{ trip.tagline }}</p>
       </hgroup>
 
@@ -98,7 +98,7 @@ canonical_url: https://lilyroger.com
       <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4">
         {%- for post in site.posts limit:4 -%}
         <li class="col">
-          {% include card-post.html post = post %}
+          {% include card-article.html article = post %}
         </li>
         {%- endfor -%}
       </ul>
@@ -122,7 +122,7 @@ canonical_url: https://lilyroger.com
       <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4">
         {%- for post in posts limit:4 -%}
         <li class="col">
-          {% include card-post.html post = post %}
+          {% include card-article.html article = post %}
         </li>
         {%- endfor -%}
       </ul>

@@ -15,7 +15,7 @@ canonical_url: https://lilyroger.com/trips/2026/alps-lofoten/
 # see _includes/head.html
 date_modified: 2026-01-14 20:00:00 +0800
 
-featured: true
+featured: false
 
 slug: alps-lofoten
 title: 阿尔卑斯和罗弗敦的冬季之旅
