@@ -14,7 +14,7 @@ date_modified: 2026-06-15 10:30:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
 tagline: 半大理石半红砖的外立面
 ---
-= 博洛尼亚 (Bologna) 的城市名片：圣彼得罗尼奥大教堂 (Basilica di San Petronio)
+= 博洛尼亚的名片：圣彼得罗尼奥大教堂 (Basilica di San Petronio)
 :page-liquid: true
 :toc: macro
 :toclevels: 2
