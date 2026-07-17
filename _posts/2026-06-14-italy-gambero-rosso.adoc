@@ -1,26 +1,26 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/dolomites/gambero-rosso/gambero-rosso-4x3-1200.avif
-  alt: 《红虾指南》(Gambero Rosso)：意大利人的米其林
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/italy-gambero-rosso/gambero-rosso-tre-coni-gelaterie-italia-4x3-1200.avif
+  alt: 这家博洛尼亚的冰激凌店屡次获得《红虾指南》(Gambero Rosso) 最高荣誉三锥奖 (Tre Coni)，不容错过。
   width: 1200
   height: 900
   sources:
-    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/gambero-rosso/gambero-rosso-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/gambero-rosso/gambero-rosso-4x3-2400.avif 2400w
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/italy-gambero-rosso/gambero-rosso-tre-coni-gelaterie-italia-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italy-gambero-rosso/gambero-rosso-tre-coni-gelaterie-italia-4x3-2400.avif 2400w
 
 layout: article
 categories: posts
 date: 2026-06-14 10:00:00 +0800
-date_modified: 2026-06-14 10:00:00 +0800
+date_modified: 2026-07-17 20:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 美食]
-tagline: 三杯，三叉，三虾
-description: 在意大利，《红虾指南》(Gambero Rosso) 被公认为本土饮食界的权威，深入涵盖了葡萄酒、餐馆、咖啡、烘焙、橄榄油、甜点及比萨等意大利饮食文化的方方面面。凭借极其细致的分级，和专业的评审，其地位在当地人心中甚至高于《米其林指南》。
+tagline: 三虾，三杯，三叉，等等，等等 
+description: 在意大利，《红虾指南》(Gambero Rosso) 被公认为本土饮食界的权威，涵盖葡萄酒、餐馆、咖啡、烘焙、橄榄油、甜点及比萨等意大利饮食文化的方方面面。凭借细致的分级，专业的评审，其地位在当地人心中甚至高于《米其林指南》。
 ---
 = 红虾指南 (Gambero Rosso)：意大利人的米其林
 :page-liquid: true
 :toc: macro
 :toclevels: 2
 :sectnums:
-:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/gambero-rosso/
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/italy-gambero-rosso/
 
 [.lead]
 在意大利，《红虾指南》(Gambero Rosso) 被公认为本土饮食界的权威，深入涵盖了餐馆、葡萄酒、橄榄油、咖啡、烘焙、甜点及比萨等意大利饮食文化的方方面面。凭借极其细致的分级，和专业的评审，其地位在当地人心中甚至高于《米其林指南》。
