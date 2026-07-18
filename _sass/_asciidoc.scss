@@ -239,7 +239,14 @@ article,
     justify-content: center;
   }
 
+  figure picture {
+    // 确保 picture 宽度充满容器，从而确保正确设置其中的 img 宽度
+    display: block;
+    width: 100%;
+  }
+
   .figure-img {
+    width: 100%;
     max-width: 100%;
     height: auto;
   }
