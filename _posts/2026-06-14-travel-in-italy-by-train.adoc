@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-14 11:00:00 +0800
-date_modified: 2026-06-14 11:00:00 +0800
+date_modified: 2026-07-18 09:30:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 交通]
 tagline: 红箭高铁和法拉利高铁
 ---
@@ -36,7 +36,7 @@ toc::[]
 
 大多数意大利的火车都是由国有的 **意铁公司** (https://www.trenitalia.com/en.html[Trenitalia]) 运营。意铁的火车根据速度、路线和舒适度，主要分为以下三大类：
 
-* 高铁 (Alta Velocità / AV): 意铁的旗舰车型是 **红箭高铁** (Frecciarossa)，连接核心大型城市，红色车身，时速 300 公里，最快，最舒适。此外还有 **银箭高铁** (Frecciargento) 和 **白箭高铁** (Frecciabianca)，速度略慢，主要连接红箭高铁无法到达的次级城市和沿海地区。意大利的高铁实行动态定价，**越临近出发时间价格越贵**。需要预定，且对号入座。
+* 高铁 (Alta Velocità / AV): 意铁的旗舰车型是 **红箭高铁** (Frecciarossa)，连接核心大型城市，红色车身，时速 300 公里，最快，最舒适。此外还有 **银箭高铁** (Frecciargento) 和 **白箭高铁** (Frecciabianca)，速度略慢，主要连接红箭高铁无法到达的次级城市和沿海地区。意大利的高铁实行动态定价，**越临近出发时间价格越贵**。需要预订，且对号入座。
 
 * 城际快车 (Intercity / IC): 连接中大型城市的火车，速度比高铁慢，停靠站点比高铁多，但价格比高铁便宜，同样需要对号入座。城际快车还有配备卧铺车厢的长途夜间车 (Intercity Notte / ICN) ，适合跨南北大区的长途旅行。
 
@@ -46,6 +46,9 @@ toc::[]
 === 法拉利高铁 (Italo)
 
 Italo 是意大利唯一的私营高铁公司，打破了国营铁路的垄断。因为其车身采用标志性的法拉利红，而且且其母公司的主要投资人和前董事长是法拉利的前主席卢卡·迪·蒙特泽莫罗 (Luca di Montezemolo) ，所以常被称为 **法拉利高铁** (Ferrari Train) 。
+
+.法拉利高铁 (Italo) 的列车
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/travel-in-italy-by-train/italo-italy-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/travel-in-italy-by-train/italo-italy-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/travel-in-italy-by-train/italo-italy-4x3-2400.avif 2400w"]
 
 法拉利高铁的速度极快，高达 300-360 公里，只经停大城市的核心车站。由于是私营企业，法拉利高铁经常推出促销活动和早鸟票，价格通常比红箭高铁更具竞争力。
 
