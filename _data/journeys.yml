@@ -65,6 +65,30 @@ trips:
 
   2026-Dolomites:
     journeys:
+      Roma - Bologna:
+        name: 罗马 - 博洛尼亚
+        segments:
+          - type: leg
+            route:
+              type: train
+              name: 9982
+              operator:
+                name: Italo
+              color: c41608
+              headsign: Milano Centrale
+            duration: 2h3m
+            departure:                  
+              name: Roma Termini
+              datetime: 2026-06-15T13:05:00+0200
+            arrival:
+              name: Bologna Centrale
+              datetime: 2026-06-15T15:08:00+0200
+            fare:
+              currency: EUR
+              amount: 34.40
+              product:
+                name: Smart
+
       Cortina - Tre Cima (DolomitiBus):
         name: 科尔蒂纳 (Cortina) - 三峰山 (Tre Cima) 的巴士 (DolomitiBus)
         segments:

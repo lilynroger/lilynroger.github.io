@@ -1,0 +1,173 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/michelangelo-moses-san-pietro-in-vincoli-rome-4x3-1200.avif
+  alt: 在罗马的圣彼得锁链大教堂中，藏有米开朗基罗的《摩西像》。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/michelangelo-moses-san-pietro-in-vincoli-rome-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/michelangelo-moses-san-pietro-in-vincoli-rome-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 08:00:00 +0200
+date_modified: 2026-07-21 17:45:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 交通, 艺术]
+tagline: 米开朗基罗的《摩西像》和贝尼尼的《圣特雷莎的狂喜》
+description: 在罗马等火车的间隙，我们打卡了特米尼车站附近，圣彼得锁链教堂中的米开朗基罗的《摩西》和胜利圣母教堂中的贝尼尼的《圣特雷莎的狂喜》，还顺路参观了四大特级圣殿之一的圣母大殿。
+---
+= 在罗马中转：乘火车前往博洛尼亚之前
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/
+
+[.lead]
+我们的多洛米蒂之旅落地罗马，首站是博洛尼亚。在罗马等待火车的中转间隙，我们再次打卡了位于**特米尼**车站附近，**圣彼得锁链大教堂**中**米开朗基罗**的《摩西像》和**胜利圣母教堂**中**贝尼尼**的《圣特雷莎的狂喜》，还顺路参观了天主教四大特级圣殿的圣母宗座圣殿。
+
+toc::[]
+
+在进入此行的主要目的地多洛米蒂山区之前，我们选择顺路打卡两座城市，博洛尼亚和维罗纳。意大利的高铁票提前预定优惠力度很大，甚至可以低于五折，所以，我们早早就买好了罗马到博洛尼亚的高铁票。
+
+为了防止航班晚点或者入境遇阻，我们为罗马落地中转预留了五个多小时的时间，反正博洛尼亚入住的时间也要到下午三点。提前到的话背着背包也玩不好。
+
+结果是航班正点，入境过程虽然有点混乱，但也算十分顺利。不到一个小时，我们已经来到了机场的火车站。
+
+[[transport-airport-city-center-rome]]
+== 菲乌米奇诺机场 (FCO) 到市区
+
+罗马的国际机场叫做**菲乌米奇诺机场** (Fiumicino Aiport)，又名**列奥那多·达芬奇**国际机场。从罗马机场到市区，最便捷的交通方式就是乘坐被称为**列奥那多快车** (Leonardo Express) 的机场专线火车，票价 14 欧元，耗时半个小时多一点，就可以抵达市中心的特米尼车站，也就是罗马的中央车站。
+
+.罗马菲乌米奇诺机场 (FCO) 的列奥那多快车 (Leonardo Express) 是最便捷的往返市区的交通方式。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/leonardo-express-fco-airport-rome-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/leonardo-express-fco-airport-rome-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/leonardo-express-fco-airport-rome-4x3-2400.avif 2400w"]
+
+我们因为想充分利用中转的短暂时间，所以选择了恰好即将发车的列奥那多快车。直接在车站的自动售票机就可以买火车票。如果不赶时间，或者住在罗马其它的车站附近，也可以选择票价更低的区域列车 (FL1) 和机场大巴。缺点是区域列车因为会停靠沿途站点，耗时会稍微多一点；而机场大巴则容易遇到交通拥堵。
+
+[[termini-station-rome]]
+== 罗马特米尼车站
+
+罗马的中央车站就是特米尼车站 (Roma Termini)，几乎所有从机场、意大利各大城市乃至部分国际列车都会在这里停靠。这里也是换乘地铁 A 线和 B 线、以及市内公交的大型交通枢纽。我们就是在这个车站搭乘法拉利高铁 (Italo) 的列车前往博洛尼亚。
+
+.罗马的中央车站 - 特米尼车站 (Roma Termini)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/roma-termini-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/roma-termini-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/roma-termini-4x3-2400.avif 2400w"]
+
+[[michelangelo-moses-san-pietro-in-vincoli]]
+== 圣彼得锁链大教堂 (Basilica di San Pietro in Vincoli)
+
+我们首先打卡的是距离特米尼车站相对最远的圣彼得锁链大教堂。这里有文艺复兴三杰之一的米开朗基罗在 1513-1515 年间创作的大理石雕塑《摩西像》。
+
+.在罗马的圣彼得锁链大教堂中，藏有米开朗基罗的《摩西像》。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/michelangelo-moses-san-pietro-in-vincoli-rome-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/michelangelo-moses-san-pietro-in-vincoli-rome-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/michelangelo-moses-san-pietro-in-vincoli-rome-4x3-2400.avif 2400w"]
+
+雕像刻画了犹太先知摩西的威严形象。他正襟危坐，右手紧握刻有《十戒》的两块石板，左手置于腹部，肌肉紧绷，目光如炬，仿佛正要愤怒地一跃而起。精神分析学家弗洛伊德曾专门撰文解析这座雕像，认为摩西的肢体语言完美地表现了他在看到族人背叛上帝时，内心极度失望和愤怒，同时又极力克制。
+
+雕像引人注目的另一个特征就是摩西头上长着双角。这实际上源于一个历史上著名的“翻译”公案。公元四世纪时，神学家**圣杰罗姆** (St. Jerome) 受教会委托将古希伯来语的圣经翻译成拉丁文。在古希伯来语中描写摩西的一个核心词汇，可以理解为“发出光芒”，也可以是“长了角“。圣杰罗姆选择了有争议的后者，而这一版本统治中世纪教会上千年。米开朗基罗正是根据当时的圣经权威版本创作的摩西像。
+
+除了《摩西像》，这座教堂的另一件珍宝是**圣彼得的锁链**。在正殿中央的地下圣龛中，存放着一个圣物匣，匣内保存着两段铁链。传说一段是圣彼得在耶路撒冷被希律王囚禁时所戴，另一段是他后来在罗马的监狱受审时所戴。教堂正是因为这件圣物而得名。
+
+[[bernini-ecstasy-of-saint-teresa-santa-maria-della-vittoria]]
+== 胜利圣母教堂 (Chiesa di Santa Maria della Vittoria)
+
+下一站是胜利圣母教堂，这里有贝尼尼在 1647-1652 年间创作的《圣特雷莎的狂喜》。
+
+.在罗马的胜利圣母教堂中收藏的吉安·洛伦佐·贝尼尼的《圣特雷莎的狂喜》是十七世纪巴洛克艺术巅峰时期的雕塑杰作。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/bernini-ecstasy-of-saint-teresa-rome-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/bernini-ecstasy-of-saint-teresa-rome-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/bernini-ecstasy-of-saint-teresa-rome-4x3-2400.avif 2400w"]
+
+胜利圣母教堂规模不大，外表在罗马算是相当朴素的。在 1620 年，神圣罗马帝国的天主教军队与波希米亚（捷克）的新教军队在布拉格附近的白山爆发**白山战役**。最终，处于劣势的天主教军队在这场关键战役中反败为胜。胜利圣母教堂正是为了纪念这次胜利而得名。天主教军队在欧洲战场上缴获的许多重要战利品都会被送到这里供奉。
+
+.罗马的胜利圣母教堂 (Chiesa di Santa Maria della Vittoria) 外表朴素，其中却藏有艺术瑰宝 - 贝尼尼的《圣特雷莎的狂喜》。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/chiesa-di-santa-maria-della-vittoria-rome-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/chiesa-di-santa-maria-della-vittoria-rome-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/chiesa-di-santa-maria-della-vittoria-rome-4x3-2400.avif 2400w"]
+
+吉安·洛伦佐·贝尼尼 (Gian Lorenzo Bernini, 1598-1680) 是十七世纪意大利巴洛克艺术的灵魂人物，少年天才，教廷宠儿，主导了罗马大部分重要的公共艺术项目，包括圣彼得大教堂的建造与装饰，几乎凭一己之力塑造了今日罗马的城市面貌。贝尼尼最重要的赞助人，教宗乌尔班八世评价他是“为罗马而生，罗马亦为他而生”。
+
+贝尼尼的职业生涯也并非一帆风顺。教宗乌尔班八世去世后，新教宗刻意冷落贝尼尼。而此时，贝尼尼为圣彼得大教堂建造的两座巨大钟楼，因地基问题而被最终下令拆除。贝尼尼迎来了人生中最灰暗、最低谷的时期。正是在这段时期，贝尼尼受威尼斯红衣主教费德里戈·科尔纳罗 (Federico Cornaro) 委托，设计胜利圣母教堂中的家族礼拜堂。为了赢回声誉，贝尼尼在这座礼拜堂中使出了浑身解数。
+
+* 礼拜堂的核心祭坛雕塑《圣特雷莎的狂喜》取材于十六世纪西班牙修女**圣特雷莎**的自传。她记述自己曾看到一位英俊的天使持火红的金箭反复刺入她的心脏，带给她一种交织着极致痛苦与无限甜蜜的神圣宗教体验。
+
+* 在祭坛的上方，贝尼尼设计了一个隐蔽的天窗，自然光与雕塑背后精心布置的金属光线融为一体，不仅照亮了雕塑，也象征着上帝的圣光降临。
+
+* 在祭坛的的两旁，贝尼尼将科尔纳罗的家族成员被刻画成了在“包厢”中见证神迹的“观众”，整个礼拜堂仿佛是一个剧场。
+
+这件作品完成后，其戏剧性和情感冲击力在当时轰动罗马，为他挽回了部分声誉。其后，贝尼尼又用“诡计”赢得了《四河喷泉》的委托，先后两件惊世杰作终于让他重回罗马艺术界的巅峰。
+
+在丹·布朗的小说《天使和魔鬼》和同名电影中，《圣特雷莎的狂喜》被设定为对应“火”元素的四座科学祭坛之一，让原本在艺术圈外名气并不大的圣特雷莎的狂喜》和胜利圣母教堂，一跃成为全球游客在罗马的打卡热点。
+
+[[basilica-papale-di-santa-maria-maggiore]]
+== 圣母宗座圣殿 (Basilica Papale di Santa Maria Maggiore)
+
+欣赏完两件大师杰作之后，发现时间还很充裕，我们就近参观了距离特米尼车站只有几分钟步行距离的圣母宗座圣殿。贝尼尼和刚刚去世不久的前任教宗方济各 (Francis) 就葬在这里。
+
+.罗马的圣母宗座圣殿 (Basilica Papale di Santa Maria Maggiore)，四座宗座圣殿之一，贝尼尼和刚刚去世不久的教宗方济各葬在这里。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/basilica-papale-di-santa-maria-maggiore-rome-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/basilica-papale-di-santa-maria-maggiore-rome-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/basilica-papale-di-santa-maria-maggiore-rome-4x3-2400.avif 2400w"]
+
+圣母宗座圣殿，有时也译作**圣玛利亚马焦雷宗座圣殿**，或干脆简称圣母大教堂。全球虽然有一千多座具有特殊宗教地位的圣殿 (Basilica)，但是只有四座教宗专属的宗座圣殿 (Basilica Papale)，都在罗马，圣母宗座圣殿就是其中之一。
+
+++++
+{% related slugs="cathedral-vs-basilica-vs-church" %}
+++++
+
+传说四世纪的一个盛夏，圣母托梦给教宗和一位贵族，让他们在隔天下雪的地方建一座教堂。结果，第二天罗马七丘之一的**埃斯奎利诺** (Esquiline) 山丘上真的降下白雪。教宗于是下令在此修建圣母宗座圣殿，教堂因此也被称为“白雪圣母圣殿”。至今，每年 8 月 5 日，教堂都会在弥撒时从天花板上洒落白色花瓣，重现“夏日飞雪”的神迹。
+
+[[tomb-of-bernini]]
+=== 贝尼尼之墓
+
+贝尼尼将他一生的才华奉献给了罗马，他也长眠于这座城市，墓地就在圣母宗座圣殿内。与他许多宏伟的艺术杰作不同，他的墓碑极其朴素，在主祭坛右侧一个台阶的地面，非常不起眼，很容易被忽略。
+
+.巴洛克艺术大师贝尼尼长眠于罗马的圣母宗座圣殿 (Basilica Papale di Santa Maria Maggiore) 中，墓碑极其朴素。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/tomb-of-bernini-basilica-papale-di-santa-maria-maggiore-rome-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/tomb-of-bernini-basilica-papale-di-santa-maria-maggiore-rome-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/tomb-of-bernini-basilica-papale-di-santa-maria-maggiore-rome-4x3-2400.avif 2400w"]
+
+地面墓砖上刻有贝尼尼家族的徽章，拉丁文铭文写到：
+
+* 吉安·洛伦佐·贝尼尼，艺术与城市的荣耀，在此谦卑地安息 (IOANNES LAVRENTIVS BERNINI DECVS ARTIS ET VRBIS HIC HVMILITER QVIESCIT)
+
+* 高贵的贝尼尼家族，在此静待复活 (NOBILIS FAMILIA BERNINI HIC RESVRRECTIONEM EXPECTAT)
+
+[[tomb-of-francis]]
+=== 教宗方济各之墓
+
+教宗方济各 (Pope Francis) 在 2025 年去世后就安葬在圣母宗座圣殿内，成为三个多世纪以来首位安葬在梵蒂冈以外的教宗。
+
+他的陵墓就在教堂的左侧，一边是供奉着他生前最敬爱的《罗马人民的救赎》圣像画 (Salus Populi Romani) 的礼拜堂，另一边是供奉着以谦卑和贫穷著称的**阿西斯的圣方济各** (Saint Francis of Assisi) 的礼拜堂。
+
+.教宗方济各 (Pope Francis) 长眠于罗马的圣母宗座圣殿 (Basilica Papale di Santa Maria Maggiore) 中，陵墓体现了极致的朴素。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/tomb-of-francis-basilica-papale-di-santa-maria-maggiore-rome-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/tomb-of-francis-basilica-papale-di-santa-maria-maggiore-rome-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/tomb-of-francis-basilica-papale-di-santa-maria-maggiore-rome-4x3-2400.avif 2400w"]
+
+这座陵墓令人印象深刻，充分体现了尊重教宗意愿的极致的简朴：
+
+* 墓碑没有使用大理石，而是使用了来自他的祖父母故乡的朴素石板，当地人称为“人民的石头”。
+* 墓碑上仅刻有方济各的拉丁文名字 (FRANCISCVS)，没有徽章，也没有赞歌。
+* 墓碑上方悬挂着一个十字架，墓碑上放着一朵白色的玫瑰花。
+
+墓碑上方壁龛中悬挂的十字架是教宗生前一直佩戴在胸前的十字架的放大复制版。在 2013 年方济各当选教宗时，按照梵蒂冈传统，应该换上代表至高权力的纯金十字架。但方济各拒绝了，坚持继续佩戴自己当主教时就一直佩戴的那枚极为便宜的朴素十字架。十字架上刻画的是一个普通的牧羊人，肩上扛着一只迷途的羔羊，背景是成群的绵羊。
+
+值得一提的墓碑的铭文，不知何故 FRANCISCVS 的字母间距非常的诡异，引起了设计界不小的风波。这世界真的是一个巨大的草台班子。
+
+[[holy-cradle]]
+=== 圣婴摇篮
+
+圣母宗座圣殿的核心珍宝是**圣婴摇篮** (Holy Cradle)，正是因为这件圣物，圣母宗座圣殿被称为“西方伯利恒”。
+
+根据圣经记载，圣母玛利亚在伯利恒的马厩中生下耶稣后，“用布包起来，放在马槽里”。圣婴摇篮实际上由五块木板组成，被认为是当时的马槽的一部分。为了保护这件珍贵的圣物，它们被装在一个水晶圣物盒中，保存在教堂主祭坛的正下方。
+
+.圣婴摇篮 (Holy Cradle) 是罗马的圣母宗座圣殿 (Basilica Papale di Santa Maria Maggiore) 的核心珍宝。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/holy-cradle-basilica-papale-di-santa-maria-maggiore-rome-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/holy-cradle-basilica-papale-di-santa-maria-maggiore-rome-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/transit-in-rome/holy-cradle-basilica-papale-di-santa-maria-maggiore-rome-4x3-2400.avif 2400w"]
+
+[[getting-to-bologna]]
+== 前往博洛尼亚
+
+游览了周边的这几处景点之后，时间仍然允许我们从容地返回特米尼车站，等候前往博洛尼亚的火车。
+
+乘坐意大利的高铁，如果可能一定要提前预定，价格可以低到全价的一半甚至更低。还要记得对比意铁 (Trenitalia) 的红箭高铁 (Frecciarossa) 和法拉利高铁 (Italo) 的票价，差别有时会很大。
+
+++++
+{% related slugs="travel-in-italy-by-train" %}
+++++
+
+我们选择的是法拉利高铁由那不勒斯始发，途径罗马和博洛尼亚，终到米兰的火车。这里是行程信息：
+
+{% assign journey = site.data.journeys.trips["2026-Dolomites"].journeys["Roma - Bologna"] %}
+++++
+{% include journey-timeline.html journey=journey %}
+++++
+
+这趟火车票价最划算，而且到达博洛尼亚的时间刚好可以入住民宿。完美！
