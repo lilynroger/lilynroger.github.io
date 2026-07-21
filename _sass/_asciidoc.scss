@@ -143,6 +143,33 @@ p.tableblock {
   margin-bottom: 0;
 }
 
+// 定义各级标题的字体尺寸
+article,
+.article {
+
+  --font-size: 1.125rem;
+
+  h4,
+  .h4 {
+    font-size: calc(var(--font-size));
+  }
+
+  h3,
+  .h3 {
+    font-size: calc(var(--font-size) + 0.25rem);
+  }
+
+  h2,
+  .h2 {
+    font-size: calc(var(--font-size) + 0.5rem);
+  }
+
+  h1,
+  .h1 {
+    font-size: calc(var(--font-size) + 0.75rem);
+  }
+}
+
 article,
 .article {
 
@@ -348,7 +375,7 @@ article {
     margin: 0;
     padding: 0;
     color: var(--bs-body-color);
-    position: relative;  // Ensure the text stays on top of the quote
+    position: relative; // Ensure the text stays on top of the quote
     z-index: 1;
   }
 
