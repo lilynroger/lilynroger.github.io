@@ -1,0 +1,56 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-finestrella-di-via-piella/finestrella-di-via-piella-bologna-4x3-1200.avif
+  alt: 博洛尼亚的皮耶拉路小窗户 (Finestrella di Via Piella)，也被称为“小威尼斯之窗”。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-finestrella-di-via-piella/finestrella-di-via-piella-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-finestrella-di-via-piella/finestrella-di-via-piella-bologna-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 15:00:00 +0200
+date_modified: 2026-07-22 21:30:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
+tagline: 雷诺运河和小威尼斯
+description: 皮耶拉路上的小窗户 (Finestrella di Via Piella) 是博洛尼亚的一处小众打卡点，也被称为“小威尼斯之窗”。透过它可以欣赏到源于中世纪的雷诺运河 (Canale di Reno) 的一段水域。
+---
+= 博洛尼亚的小众打卡点：皮耶拉路上的小窗户 (Finestrella di Via Piella)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-finestrella-di-via-piella/
+
+**皮耶拉**路上的小窗户 (Finestrella di Via Piella) 是博洛尼亚 (Bologna) 的一处小众打卡点，也被称为“小威尼斯之窗”。透过它可以欣赏到源于中世纪的**雷诺运河** (Canale di Reno) 的一段水域。
+
+这个打卡点的位置非常隐秘，位于博洛尼亚的皮耶拉路 (Via Piella)，靠近皮耶拉塔楼 (Torresotto dei Piella)。皮耶拉塔楼是一座巨大的红砖拱门塔楼，是中世纪的古老城门的遗迹 (Porta Govese)。你要找的是一面墙上开凿的一个方形的木质窗户，墙上都是各种到此一游的留言和涂鸦。推开小窗户，你可以窥见狭窄却很别致的雷诺运河的一段水域，在两边的彩色住宅楼间流淌。这片区域被称为博洛尼亚的“小威尼斯”。
+
+.透过皮耶拉路上的小窗户 (Finestrella di Via Piella)，可以看到雷诺运河 (Canale di Reno) 的一段在彩色住宅楼间流淌。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-finestrella-di-via-piella/canale-di-reno-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-finestrella-di-via-piella/canale-di-reno-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-finestrella-di-via-piella/canale-di-reno-bologna-4x3-2400.avif 2400w"]
+
+这里谈不上有多美，如果你喜欢一座城市的细微之处，而且恰好经过这里，不妨也去打个卡。皮耶拉路是公共街道，所以全年全天免费开放，但是近来在社交媒体上变得比较火，最好一早去，避开排队拍照打卡的人群。
+
+[[history]]
+== 历史
+
+在博洛尼亚的小威尼斯，透过皮耶拉路上的小窗户，你看到的是博洛尼亚的历史。
+
+[[medieval]]
+=== 中世纪
+
+博洛尼亚没有大江大河。中世纪时，博洛尼亚人开凿了几公里的运河，将西郊的雷诺河水引入城市的历史中心，这就是雷诺运河。在那个时代，水力就是能源，中世纪的工匠们借此修建了数以百计的水车、磨坊、碾坊和庞大的丝织厂，城内的运河网一度发展到数十公里长。而且，运河网向北连接波河 (Po)，进而连接地中海，可以直达威尼斯等当时的海上强国进行贸易。凭借运河网，博洛尼亚在中世纪晚期发展出了全欧洲最先进的丝绸工业，成为当时欧洲最富庶的工业和商业中心之一。
+
+准确的说，雷诺运河是引水入城的总干渠。透过皮耶拉路的小窗户看到的那段运河，是雷诺运河下游的一个分支，叫**磨坊运河** (Canale delle Moline)。不难猜测，这条运河是中世纪博洛尼亚的核心工业区。借助巨大的天然落差，中世纪的博洛尼亚人沿着这条短短的河道两岸，密密麻麻地建造了十多座巨大的水车和数十座谷物磨坊、造纸厂及丝织厂。它曾是全城动力最强劲、经济产值最高的一段水系。两侧那些色彩斑驳的住宅楼，曾经全部都是磨坊工人的作坊和宿舍。
+
+[[modern]]
+=== 运河加盖
+
+为了城市发展和卫生原因，从十九世纪开始，博洛尼亚开始了城市现代化改造。特别是二十世纪 30 至 50 年代，经过一场轰轰烈烈的“运河加盖工程”，大部分运河河道都被填埋，或被钢筋混凝土遮盖，上面建成了道路和房屋。
+
+时至今日，那些曾经的露天运河，如今的地下暗河，仍然流淌在博洛尼亚城市之下。像小威尼斯之窗这样还能直接从街边、从地面以上看到露天河道的地方，变得非常稀少了。
+
+[[revival]]
+=== 重见天日
+
+近年来，博洛尼亚政府为了恢复城市历史风貌和生态宜居，又启动了轰轰烈烈的“运河重见天日”计划。比如，配合新电车线修建的**雷诺河岸街道** (Via Riva di Reno)，拆除了封印大半个世纪的混凝土盖子，将埋藏的雷诺运河主干道重新挖开，打造成全新的露天亲水步道与绿化景观，让中世纪的水利工程在现代城市中重见天日。
