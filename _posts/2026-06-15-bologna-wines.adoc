@@ -1,7 +1,7 @@
 ---
 image:
   path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-wines/colli-bolognesi-pignoletto-stamp-2013-4x3-1200.avif
-  alt: 传统的博洛尼亚 (Tagliatelle al Ragù)，盛在金色的鸡肉清汤中，饺子个头极小
+  alt: 优质法定产区博洛尼亚丘陵地带皮尼奥莱托白葡萄酒 (Colli Bolognesi Pignoletto DOCG) 的纪念邮票。
   width: 1200
   height: 900
   sources:
@@ -9,8 +9,8 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-15 09:00:00 +0200
-date_modified: 2026-06-15 09:00:00 +0200
+date: 2026-06-15 13:30:00 +0200
+date_modified: 2026-07-22 11:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
 tagline: 微泡红酒和有着红酒之魂的白葡萄酒
 description: 在博洛尼亚 (Bologna) 喝什么？这里虽没有顶级葡萄酒，但是有极具特色的 Pignoletto, Lambrusco, Sangiovese 和 Albana 葡萄酒。
@@ -28,6 +28,16 @@ toc::[]
 
 [[wines-of-bologna]]
 == 博洛尼亚喝什么葡萄酒
+
+博洛尼亚本地特产的葡萄酒有：
+
+* 皮尼奥莱托 (Pignoletto di Bologna)
+
+周边特产的葡萄酒有：
+
+* 摩德纳的兰布鲁斯科 (Lambrusco di Modena)
+* 罗马涅的桑娇维塞 (Sangiovese di Romagna)
+* 罗马涅的阿尔巴纳 (Romagna Albana DOCG)
 
 [[pignoletto-di-bologna]]
 === 博洛尼亚的皮尼奥莱托 (Pignoletto di Bologna)
