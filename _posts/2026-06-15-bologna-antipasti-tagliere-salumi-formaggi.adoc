@@ -48,7 +48,7 @@ toc::[]
 .博洛尼亚的 Tamburini 老号的木板冷切拼盘。
 image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-antipasti/tagliere-di-salumi-tamburini-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-antipasti/tagliere-di-salumi-tamburini-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-antipasti/tagliere-di-salumi-tamburini-bologna-4x3-2400.avif 2400w"]
 
-在这张拼盘的照片中，从上开始按照顺时针方向依次是粉红萨拉米 (Salame Rosa)、意式猪头肉 (Coppa di Testa)、莫塔代拉大香肠 (Mortadella)、帕尔马火腿 (Prosciutto di Parma)；中间的是费利诺萨拉米 (Salame Felino) 和帕马森干酪 (Parmigiano Reggiano DOP)。
+在这张拼盘的照片中，从上开始按照顺时针方向依次是粉红萨拉米 (Salame Rosa)、意式猪头肉 (Coppa di Testa)、莫塔代拉大香肠 (Mortadella)、帕尔马火腿 (Prosciutto di Parma)；中间的是费利诺萨拉米 (Salame Felino) 和帕尔马干酪 (Parmigiano Reggiano DOP)。
 
 [[mortadella]]
 === 莫塔代拉大香肠 (Mortadella)
@@ -142,18 +142,18 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-antipast
 在博洛尼亚的冷切拼盘中，至少应该包含一种硬奶酪和一种软奶酪。
 
 [[parmigiano-reggiano]]
-=== 帕马森干酪 (Parmigiano Reggiano DOP) 
+=== 帕尔马干酪 (Parmigiano Reggiano DOP) 
 
-在博洛尼亚的模板冷切拼盘上，肉类可能五花八门，但帕马森干酪永远占据中心位置。
+在博洛尼亚的模板冷切拼盘上，肉类可能五花八门，但帕尔马干酪永远占据中心位置。
 
-**帕马森**实际上是意大利语 Parmigiano Reggiano 的法语译名 Parmesan 的音译，在国际上常用于泛指意大利风格的硬乳酪。
+帕尔马干酪有时也称为**帕玛森干酪**。帕玛森一词实际上是意大利语 Parmigiano Reggiano 的法语译名 Parmesan 的音译，在国际上常用于泛指意大利风格的硬乳酪。
 
-要品尝被誉为“奶酪之王”的正宗帕马森干酪，要认准 Parmigiano Reggiano DOP 原产地保护标记。只有在博洛尼亚、帕尔马、雷焦艾米利亚等特定区域，使用特定牧草喂养的牛奶，并经过至少十二个月熟成的奶酪，才能叫这个名字。
+要品尝被誉为“奶酪之王”的正宗帕尔马干酪，要认准 Parmigiano Reggiano DOP 原产地保护标记。只有在博洛尼亚、帕尔马、雷焦艾米利亚等特定区域，使用特定牧草喂养的牛奶，并经过至少十二个月熟成的奶酪，才能叫这个名字。
 
 .在博洛尼亚老字号熟食店 Simoni 中整齐摆放的帕尔马干酪。
 image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-antipasti/parmigiano-reggiano-simoni-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-antipasti/parmigiano-reggiano-simoni-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-antipasti/parmigiano-reggiano-simoni-bologna-4x3-2400.avif 2400w"]
 
-在博洛尼亚的木板冷切拼盘中，帕马森通常不是整齐的切片，而是被特制的小刀掰成的碎块。你会发现肉眼可见的白色微小晶体，那是熟成过程中产生的**酪氨酸结晶**。在帕马森干酪的碎块上滴上一滴陈酿的**摩德纳传统香醋** (Aceto Balsamico Tradizionale) 绝对是最地道的吃法。
+在博洛尼亚的木板冷切拼盘中，帕尔马干酪通常不是整齐的切片，而是被特制的小刀掰成的碎块。你会发现肉眼可见的白色微小晶体，那是熟成过程中产生的**酪氨酸结晶**。在帕尔马干酪的碎块上滴上一滴陈酿的**摩德纳传统香醋** (Aceto Balsamico Tradizionale) 绝对是最地道的吃法。
 
 [[squacquerone]]
 === 斯夸奎罗内奶酪 (Squacquerone)
