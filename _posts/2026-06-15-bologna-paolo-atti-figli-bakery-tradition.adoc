@@ -1,16 +1,16 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/bologna-paolo-atti-figli-tortellini-4x3-1200.avif
-  alt: 博洛尼亚 (Bologna) 百年传统面包坊 Paolo Atti & Figli 橱窗中的小饺子 (Tortellini)
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/paolo-atti-figli-bologna-4x3-1200.avif
+  alt: 历史超过 150 年的 Paolo Atti & Figli 面包坊是博洛尼亚 (Bologna) 最古老的传统面包坊。
   width: 1200
   height: 900
   sources:
-    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/bologna-paolo-atti-figli-tortellini-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/bologna-paolo-atti-figli-tortellini-4x3-2400.avif 2400w
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/paolo-atti-figli-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/paolo-atti-figli-bologna-4x3-2400.avif 2400w
 
 layout: article
 categories: posts
-date: 2026-06-15 06:00:00 +0200
-date_modified: 2026-06-15 06:00:00 +0200
+date: 2026-06-15 16:30:00 +0200
+date_modified: 2026-07-26 15:30:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
 tagline: 活的十九世纪烘焙博物馆
 description: Paolo Atti & Figli 是博洛尼亚 (Bologna) 最古老的传统面包坊，售卖正宗的博洛尼亚小饺子 (Tortellini) 和硬面面包 (Pane a pasta dura)。
@@ -22,26 +22,38 @@ description: Paolo Atti & Figli 是博洛尼亚 (Bologna) 最古老的传统面�
 :sectnums:
 :imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/
 
-[.lead]
-https://www.paoloatti.com/[Paolo Atti & Figli] 是博洛尼亚 (Bologna) 最古老的传统面包坊。它的历史可追溯至 1868 年，是意大利官方认证的历史名店。经营正宗的博洛尼亚小饺子 (Tortellini)，博洛尼亚硬面面包 (Pane bolognese a pasta dura)，米蛋糕 (Torta di Riso) 以及其他许多当地传统面食。哪怕不买，也值得进去感受一下十九世纪的烘焙坊氛围。
+**保罗·阿蒂与孩子们** (https://www.paoloatti.com/[Paolo Atti & Figli]) 面包坊是博洛尼亚 (Bologna) 最古老的传统面包坊，历史可追溯至 1868 年，是意大利官方认证的历史名店。它在博洛尼亚市中心的**四方区** (Quadrilatero) 经营着两家临近的实体老店，售卖正宗的博洛尼亚小饺子 (Tortellini)，米蛋糕 (Torta di Riso) 以及其它许多当地传统面食。
+
+哪怕不买，也值得进去感受一下这座古老面包坊的氛围。值得一提的是，意大利很多内陆大城市的传统老店都有八月夏季大休，全体放假跑去海边和山里度假，这家也不例外。
+
+[[tortellini]]
+== 博洛尼亚小饺子
+
+博洛尼亚小饺子 (Tortellini) 是博洛尼亚和摩德纳 (Modena) 最具代表性的面食。不同于常用乳酪和菠菜做馅的意大利大饺子 (Tortelloni)，博洛尼亚小饺子的馅料以肉类为主，通常包括猪肉，帕尔马火腿和莫塔代拉 (Mortadella) 香肠。博洛尼亚小饺子也是真的非常小，传统甚至要求一个汤勺里能盛下 6-7 个小饺子，大小是考验正宗手工 Tortellini 的金标准之一。
+
+如果你在博洛尼亚住的是有厨房的公寓，推荐去 Paolo Atti & Figli 买点小饺子，自己下厨煮来尝尝。
+
+.博洛尼亚的 Paolo Atti & Figli 面包坊中售卖的 Tortellini 小饺子。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/tortellini-paolo-atti-figli-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/tortellini-paolo-atti-figli-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/tortellini-paolo-atti-figli-bologna-4x3-2400.avif 2400w"]
 
 [[torta-di-riso]]
 == 米蛋糕
 
 米蛋糕 (Torta di Riso) 是博洛尼亚最著名的传统家常甜点，核心配料是大米，鸡蛋，杏仁。并且带有柠檬和橙子的香气。
 
-它的别名是“装饰节蛋糕” (Torta degli Addobbi)，源于博洛尼亚 13 世纪的一个宗教传统。当时博洛尼亚的教区每十年会举行一次盛大的庆典，居民会在窗户上挂满红金两色的织物做装饰。每家每户都会敞开大门迎接邻居和朝圣者，并奉上这种米蛋糕。
+它的别名是“装饰节蛋糕” (Torta degli Addobbi)，源于博洛尼亚十三世纪的一个宗教传统。当时博洛尼亚的教区每十年会举行一次盛大的庆典，居民会在窗户上挂满红金两色的织物做装饰。每家每户都会敞开大门迎接邻居和朝圣者，并奉上这种米蛋糕。
+
+.博洛尼亚的 Paolo Atti & Figli 面包坊中售卖的 Torta di Riso 米蛋糕。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/torta-di-riso-paolo-atti-figli-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/torta-di-riso-paolo-atti-figli-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/torta-di-riso-paolo-atti-figli-bologna-4x3-2400.avif 2400w"]
 
 [[pane-bolognese-a-pasta-dura]]
 == 博洛尼亚硬面面包
 
 Paolo Atti & Figli 的博洛尼亚硬面面包是传承百年的传统技艺，含水量极低，质地紧致，有猪油带来的油脂香气。这些面包会被做成不同的造型，每种造型都有名字，比如像花朵一样的“石竹花” (Garofano)，还有最经典的“小十字” (Crocetta) 造型。
 
-博洛尼亚硬面硬面包非常适合搭配现切的莫塔德拉大香肠薄片。因为这种面包够结实，也非常适合用来蘸上盘子里剩余的博洛尼亚肉酱 (Ragù) 来吃。
+博洛尼亚硬面面包非常适合搭配现切的莫塔代拉 (Mortadella) 香肠。因为这种面包够结实，也非常适合用来蘸上盘子里剩余的博洛尼亚肉酱 (Ragù) 来吃。
 
-[[tortellini]]
-== 博洛尼亚小饺子
+我们买了一个“小十字”尝尝，很香，但是确实够结实的，小心天花板。
 
-博洛尼亚小饺子 (Tortellini) 是博洛尼亚和摩德纳 (Modena) 最具代表性的面食。不同于常用乳酪和菠菜做馅的意大利大饺子 (Tortelloni)，博洛尼亚小饺子的馅料以肉类为主，通常包括猪肉，帕尔马火腿和莫塔德拉大香肠 (Mortadella)。博洛尼亚小饺子也是真的非常小，传统甚至要求一个汤勺里能盛下 6-7 个小饺子，大小是考验正宗手工 Tortellini 的金标准之一。
-
-如果你在博洛尼亚住的是有厨房的公寓，一定要去 Paolo Atti & Figli 买一盒复古包装的小饺子，自己下厨煮来尝尝。
+.博洛尼亚的 Paolo Atti & Figli 面包坊中售卖的硬面面包。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/pane-bolognese-a-pasta-dura-paolo-atti-figli-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/pane-bolognese-a-pasta-dura-paolo-atti-figli-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-paolo-atti-figli/pane-bolognese-a-pasta-dura-paolo-atti-figli-bologna-4x3-2400.avif 2400w"]
