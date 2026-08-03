@@ -1,0 +1,44 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-majani-chocolate/window-majani-bologna-4x3-1200.avif
+  alt: 博洛尼亚 (Bologna) 的传奇巧克力：马亚尼 (Majani)
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-majani-chocolate/window-majani-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-majani-chocolate/window-majani-bologna-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 14:00:00 +0200
+date_modified: 2026-08-03 12:00:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
+tagline: 菲亚特夹心，树皮和小饺子巧克力
+---
+= 博洛尼亚 (Bologna) 的传奇巧克力：马亚尼 (Majani)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-majani-chocolate/
+
+博洛尼亚的**马亚尼** (https://majani.com/[Majani 1796]) 是意大利最古老的巧克力制造商之一。虽然都灵是意大利巧克力之都，但是马亚尼作为意大利第一块固体巧克力的创造者，第一家皇室官方供应商，成为巧克力爱好者的朝圣地。
+
+马亚尼的三大标志性巧克力产品包括：
+
+* 菲亚特夹心巧克力 (Fiat Cremino)
+* 树皮巧克力 (Scorza)
+* 小饺子巧克力 (Tortellino)
+
+.马亚尼 (Majani) 巧克力的标志性产品。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-majani-chocolate/cremino-fiat-scorza-tortellino-majani-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-majani-chocolate/cremino-fiat-scorza-tortellino-majani-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-majani-chocolate/cremino-fiat-scorza-tortellino-majani-bologna-4x3-2400.avif 2400w"]
+
+夹心巧克力 Cremino 是意大利巧克力的经典。这种巧克力最初是三层的，外面两层是意大利特产的榛子巧克力酱 (Gianduja)；夹心层是榛子酱、杏仁膏、咖啡或柠檬等不同风味的奶油层。虽然 Cremino 起源于都灵，但 Majani 在 1911 年为菲亚特汽车创作的联名款巧克力 Fiat Cremino 是其中的传奇。这款独特的巧克力由四层交替的榛子巧克力酱和杏仁膏组成，是博洛尼亚最著名的特产之一。
+
+在 1832 年之前，巧克力还主要以饮品形式存在。马亚尼创造了意大利的第一块固体巧克力。它表面有着酷似橡树皮的、粗糙且不规则的褶皱，因而被命名为树皮 (Scorza) 巧克力。
+
+在博洛尼亚，被称为“维纳斯的肚脐”的 link:{% post_url 2026-06-15-bologna-tortellini-authentic-food-guide %}[Tortellini] 小饺子是这座城市的美食名片之一。马亚尼推出了博洛尼亚小饺子外形的 Tortellino 巧克力，造型可爱，外壳比较硬，内馅则是绵密的巧克力奶油。
+
+要购买马亚尼的巧克力，一定要去它位于 Via de' Carbonesi 街的老店 (Majani 1796 Cioccolato: Negozio Storico)。从 1830 年起，这家老店就在此经营，始终保持着那个时代的优雅陈设。
+
+.马亚尼 (Majani) 巧克力在博洛尼亚 (Bologna) 的老店。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-majani-chocolate/majani-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-majani-chocolate/majani-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-majani-chocolate/majani-bologna-4x3-2400.avif 2400w"]
