@@ -1,34 +1,54 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-maggiore/bologna-piazza-maggiore-4x3-1200.avif
-  alt: 博洛尼亚 (Bologna) 的马焦雷广场 (Piazza Maggiore)
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-maggiore/piazza-maggiore-bologna-4x3-1200.avif
+  alt: 马焦雷广场 (Piazza Maggiore) 是博洛尼亚 (Bologna) 历史中心的主广场。
   width: 1200
   height: 900
   sources:
-    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-maggiore/bologna-piazza-maggiore-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-maggiore/bologna-piazza-maggiore-4x3-2400.avif 2400w
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-maggiore/piazza-maggiore-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-maggiore/piazza-maggiore-bologna-4x3-2400.avif 2400w
 
 layout: article
 categories: posts
-date: 2026-06-15 11:00:00 +0200
-date_modified: 2026-06-15 11:00:00 +0200
+date: 2026-06-15 20:00:00 +0200
+date_modified: 2026-08-05 19:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
-tagline: 老城跳动的心脏，八百年的城市客厅
+tagline: 中世纪的教堂，宫殿，拱廊和立面
+description: 马焦雷广场 (Piazza Maggiore) 始建于 1200 年，是博洛尼亚 (Bologna) 历史中心的主广场，也是最重要的广场。这篇攻略列举了马焦雷广场上的核心看点。
 ---
-= 博洛尼亚 (Bologna) 的马焦雷广场 (Piazza Maggiore)
+= 博洛尼亚 (Bologna) 历史中心的主广场：马焦雷广场 (Piazza Maggiore)
 :page-liquid: true
 :toc: macro
 :toclevels: 2
 :sectnums:
 :imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-maggiore/
 
-**马焦雷广场** (Piazza Maggiore) 始建于 1200 年，是博洛尼亚 (Bologna) 最重要的广场。意大利语 Maggiore 就是主要的意思。这篇攻略列举了马焦雷广场上的核心看点，包括中央的平台和四周的主要历史建筑。
+**马焦雷广场** (Piazza Maggiore) 始建于 1200 年，是博洛尼亚 (Bologna) 历史中心的主广场，也是最重要的广场。意大利语 Maggiore 就是“主要”的意思。
+
+如果你在夏季（通常是 6 月至 7 月）到访，可能恰逢年度盛事“再现电影节” (Il Cinema Ritrovato)。这是由博洛尼亚电影资料馆 (Cineteca di Bologna) 主办的世界顶级老电影修复与影迷盛会。作为活动的一部分，马焦雷广场上会搭建起欧洲最大的露天银幕之一，举办“电影下的星空” (Sotto le stelle del Cinema) 免费露天放映活动。
+
+.电影下的星空 (Sotto le stelle del Cinema) 露天放映活动是博洛尼亚再现电影节 (Il Cinema Ritrovato) 的一部分。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-maggiore/sotto-le-stelle-del-cinema-cinema-ritrovato-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-maggiore/sotto-le-stelle-del-cinema-cinema-ritrovato-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-maggiore/sotto-le-stelle-del-cinema-cinema-ritrovato-bologna-4x3-2400.avif 2400w"]
+
+这篇攻略列举了马焦雷广场上的核心看点，包括中央的平台和四周的主要历史建筑。
 
 toc::[]
 
-[[crescentone]]
-== 中：平台 (Crescentone)
+[[palazzo-dei-banchi]]
+== 东：班基宫 (Palazzo dei Banchi)
 
-广场的中央是一块高出地面的被称为 Crescentone 的的巨大长方形平台。这个名字来源于当地一种名叫 Crescenta 的传统面包。这种面包形似佛卡夏 (Focaccia) 面包，扁平，通常是方形。平台的名字 Crescentone 实际上就是面包的名字 Crescenta 变形加上表示“大” 的 -one 后缀。吃货之城体现的淋漓尽致。
+班基宫 (Palazzo dei Banchi) 也叫**银行宫**，坐落在广场东面。班基宫巨大的外立面建于十六世纪，目的是遮挡四方区 (Quadrilatero) 的市井街市。如今的班基宫主要是私人性质的商住综合体。
+
+班基宫的立面下方有两个巨大的拱门入口。向东穿过这些拱门，你就直接进入了博洛尼亚著名的**四方区**。这里自中世纪以来就是博洛尼亚的美食核心地带，百年老店云集。
+
+++++
+{% related slugs="bologna-food-guide" %}
+++++
+
+班基宫下方的拱廊叫**帕瓦廖内拱廊** (Portico del Pavaglione) 是世界遗产的一部分，也是博洛尼亚的“第五大道”，两侧全是奢侈品店和历史悠久的咖啡馆。向南，这条拱廊一直延伸到**阿奇吉纳西奥宫** (Palazzo dell'Archiginnasio)，博洛尼亚大学的旧址。
+
+++++
+{% related slugs="bologna-porticoes" %}
+++++
 
 [[basilica-di-san-petronio]]
 == 南：圣彼得罗尼奥大教堂 (Basilica di San Petronio)
@@ -38,9 +58,9 @@ toc::[]
 除了外立面，圣彼得罗尼奥大教堂的核心看点还有：
 
 * 大门：被誉为中世纪风格过渡到文艺复兴风格的里程碑。
+* 炼狱壁画：教堂中的博洛尼尼礼拜堂拥有极具争议的炼狱壁画。
 * 卡西尼子午线：教堂内地板上的西尼子午线是世界上现存最长的室内子午线。
 * 管风琴：世界上最古老且仍可正常演奏的管风琴。
-* 炼狱壁画：教堂中的博洛尼尼礼拜堂拥有极具争议的炼狱壁画。
 
 ++++
 {% related slugs="bologna-basilica-di-san-petronio" %}
@@ -55,24 +75,20 @@ toc::[]
 
 阿库西奥这个名字在法律界显赫无比，在文学界却因为不光彩的原因而意外的“出名”。在但丁的《神曲》中，**男色者**是在地狱中的第七层。这里的人都只是以“神职人员和声名显赫之人”概括，唯独阿库西奥父子中的儿子 (Francesco d'Accorso) 被指名道姓地写出来。事情虽已无从考证，却足见但丁对其厌恶之情。
 
-阿库西奥宫最引人注目之处是其上的钟楼，也叫**时钟塔** (Torre dell'Orologio)。它的顶端有一个观景台，是俯瞰马焦雷广场的最佳方式。不过需要提前通过 https://www.bolognawelcome.com/en/experiences/300685/Visit-to-the-Clock-Tower--Torre-dell-Orologio--and-to-the-Municipal-Art-Collections[Bologna Welcome] 在线预约时间和购票。门票是时钟塔和**市政艺术收藏馆** (Collezioni Comunali d'Arte) 的联票 (€10, 2026)。
-
-市政艺术收藏馆就在阿库西奥宫的二楼和三楼。镇馆之宝包括十八、十九世纪之交的欧洲新古典主义领军人物**安东尼奥·卡诺瓦** (Antonio Canova) 的石膏雕塑《阿波罗》 (Apollo)，意大利十九世纪浪漫主义画派的旗手**弗朗切斯科·海耶兹** (Francesco Hayez) 的《路得》 (Ruth) 等等。
+阿库西奥宫最引人注目之处是其上的钟楼，也叫**时钟塔** (Torre dell'Orologio)。它的顶端有一个观景台，是俯瞰马焦雷广场的最佳方式。不过需要提前通过 https://www.bolognawelcome.com/en[Bologna Welcome] 在线预约时间和购票。门票是时钟塔和市政艺术收藏馆 (Collezioni Comunali d'Arte) 的联票 (€10, 2026)。持有 link:{% post_url 2026-06-17-bologna-welcome-city-card %}[博洛尼亚城市卡 (Bologna Welcome Card)] **免费，但仍需在线预约时间**。
 
 [[palazzo-del-podesta]]
 == 北：波德斯塔宫 (Palazzo del Podestà)
 
-波德斯塔宫 (Palazzo del Podestà) 座落在广场北面。在中世纪的意大利，为了解决本地各大家族的权力争斗，城市会从外地聘请一位职业行政官来担任 Podestà 一职，他们通常是精通法律和军事的贵族，把担任不同城市的 Podestà 当作一种职业生涯。在任期内，他是城市的最高行政首脑、首席法官和最高军事指挥官。波德斯塔宫就是当年外聘市长的办公和居住的地方。
+波德斯塔宫 (Palazzo del Podestà) 坐落在广场北面，波德斯塔宫曾是中世纪“外聘市长”办公和居住的地方。
 
-波德斯塔宫殿上方耸立着一座四方塔楼 - 阿伦戈塔 (Torre dell'Arengo)。塔楼的正下方有一个十字交叉的拱廊是著名的回声廊 (Voltone del Podestà)。如果你站在拱廊四个角柱的其中一个，面向墙壁低声说话，站在对角线另一头角落的人可以清晰地听到你的声音。
+在中世纪的意大利，为了解决本地各大家族的权力争斗，城市会从外地聘请一位职业行政官来担任 Podestà 一职，他们通常是精通法律和军事的贵族，把担任不同城市的 Podestà 当作一种职业生涯。在任期内，他是城市的最高行政首脑、首席法官和最高军事指挥官。
+
+波德斯塔宫殿上方耸立着一座四方塔楼，被称为**阿伦戈塔** (Torre dell'Arengo)。塔楼的正下方有一个十字交叉的拱廊是著名的**回声廊** (Voltone del Podestà)。如果你站在拱廊四个角柱的其中一个，面向墙壁低声说话，站在对角线另一头角落的人可以清晰地听到你的声音。
 
 波德斯塔宫殿现在也是官方旅游信息中心 https://www.bolognawelcome.com/zh[Bologna Welcome] 的所在地。
 
-[[palazzo-dei-banchi]]
-== 东：班基宫 (Palazzo dei Banchi)
+[[crescentone]]
+== 中：平台 (Crescentone)
 
-班基宫 (Palazzo dei Banchi) 也叫**银行宫**，坐落在广场东面。班基宫巨大的外立面建于十六世纪，目的是遮挡四方区的街市。如今的班基宫主要是私人性质的商住综合体。
-
-班基宫的立面下方有两个巨大的拱门入口。向东穿过这些拱门，你就直接进入了博洛尼亚著名的**四方区** (Quadrilatero)。这里自中世纪以来就是博洛尼亚的美食核心地带，百年老店云集。
-
-班基宫下方的拱廊叫**帕瓦廖内拱廊** (Portico del Pavaglione) 是世界遗产的一部分，也是博洛尼亚的“第五大道”，两侧全是奢侈品店和历史悠久的咖啡馆。向南，这条拱廊一直延伸到**阿奇吉纳西奥宫** (Palazzo dell'Archiginnasio)，博洛尼亚大学的旧址。
+广场的中央是被当地人称为 Crescentone 的一块高出地面的巨大长方形平台。这个名字来源于当地一种名叫 link:{% post_url 2026-06-15-bologna-pastries-bakeries %}[Crescenta] 的传统面包。这种面包形似佛卡夏 (Focaccia) 面包，扁平，通常是方形。平台的名字 Crescentone 实际上就是面包的名字 Crescenta 变形加上表示“大” 的 -one 后缀。“吃货之城”体现得淋漓尽致。
