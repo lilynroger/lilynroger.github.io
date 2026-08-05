@@ -1,18 +1,19 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/bologna-basilica-di-san-petronio-4x3-1200.avif
-  alt: "坐落于博洛尼亚 (Bologna) 马焦雷广场 (Piazza Maggiore) 之上的圣彼得罗尼奥大教堂 (Basilica di San Petronio) 拥有未能完工的半大理石半红砖的外立面。图片: basilicadisanpetronio.org"
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/basilica-di-san-petronio-bologna-4x3-1200.avif
+  alt: "坐落于博洛尼亚 (Bologna) 马焦雷广场 (Piazza Maggiore) 之上的圣彼得罗尼奥大教堂 (Basilica di San Petronio) 拥有未能完工的半大理石半红砖的外立面。"
   width: 1200
   height: 900
   sources:
-    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/bologna-basilica-di-san-petronio-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/bologna-basilica-di-san-petronio-4x3-2400.avif 2400w
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/basilica-di-san-petronio-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/basilica-di-san-petronio-bologna-4x3-2400.avif 2400w
 
 layout: article
 categories: posts
-date: 2026-06-15 10:30:00 +0200
-date_modified: 2026-06-15 10:30:00 +0200
+date: 2026-06-15 19:30:00 +0200
+date_modified: 2026-08-05 13:30:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
 tagline: 半大理石半红砖的外立面
+description: 博洛尼亚 (Bologna) 的圣彼得罗尼奥大教堂 (Basilica di San Petronio)，也译作圣白托略大殿，坐落于老城中心的马焦雷广场 (Piazza Maggiore) 南面，以其未完工的半大理石、半红砖的外立面成为博洛尼亚最具标志性的景点。
 ---
 = 博洛尼亚的名片：圣彼得罗尼奥大教堂 (Basilica di San Petronio)
 :page-liquid: true
@@ -47,6 +48,9 @@ toc::[]
 
 圣彼得罗尼奥大教堂的大门是意大利文艺复兴早期雕塑艺术的巅峰之作，被认为是中世纪风格向文艺复兴风格过渡的里程碑。
 
+.博洛尼亚圣彼得罗尼奥大教堂的正门是意大利文艺复兴早期雕塑艺术的巅峰之作。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/main-portal-basilica-di-san-petronio-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/main-portal-basilica-di-san-petronio-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/main-portal-basilica-di-san-petronio-bologna-4x3-2400.avif 2400w"]
+
 正门是由雕塑大师**雅各布·德拉·奎尔恰** (Jacopo della Quercia) 在 1425 年至 1438 年间创作的杰作。正门两侧的立柱上，是描绘《创世纪》故事的浮雕，包括《创造亚当》、《逐出伊甸园》等等。米开朗基罗曾两次访问博洛尼亚，专门研究这扇门上的雕塑。你会发现正门立柱上的浮雕，与后来西斯廷礼拜堂的天顶画有惊人的相似之处。
 
 正门上方的半圆龛中的雕塑也是他的作品。左侧是圣安布罗斯 (Sant'Ambrogio)，中间是圣母和圣子，右侧就是手捧博洛尼亚城市模型的的主保圣人圣彼得罗尼奥。
@@ -54,9 +58,34 @@ toc::[]
 [quote,艺术史学家瓦萨里 (Vasari)]
 如果说多纳泰罗赋予了雕塑灵魂，那么奎尔恰赋予了它肌肉，而米开朗基罗则将两者推向了神圣。
 
-在左右两个侧门上，值得注意的是左门上半圆龛中 Alfonso Lombardi 的作品《基督复活》和右门上的 Amico Aspertini 等人的《耶稣下十字架》。
+在左右两个侧门上，值得注意的是左门上半圆龛中**阿方索·隆巴迪** (Alfonso Lombardi) 的作品《基督复活》和右门上的**阿米科·阿斯佩尔蒂尼** (Amico Aspertini) 等人的《耶稣下十字架》。
 
-此外，值得一提的是文艺复兴时期唯一的杰出女性雕塑家、博洛尼亚人**普罗佩齐亚·德·罗西** (Properzia de' Rossi) 也参与了大门的装饰。她的杰作《约瑟与波提乏的妻子》就是侧门上的浮雕，如今被移到了教堂内的小博物馆加以保护。可惜的是由于受到男性同行的嫉妒和排挤，特别是刚刚提到的 Amico Aspertini 性格阴暗，利用其地位极力打压。这位女艺术最终家因穷困潦倒而英年早逝。
+特别值得一提的是文艺复兴时期唯一的杰出女性雕塑家、博洛尼亚人**普罗佩齐亚·德·罗西** (Properzia de' Rossi) 也参与了大门的装饰。她的杰作《约瑟与波提乏之妻》(Joseph and Potiphar's Wife) 就是圣彼得罗尼奥大教堂侧门上的一块浮雕。作品描绘了圣经《创世记》中的一幕：描绘了埃及官员波提乏的妻子试图引诱年轻的约瑟，而约瑟正极力挣脱其纠缠、奋力逃跑的瞬间。如今，这块浮雕藏于教堂内的小博物馆中。
+
+.普罗佩齐亚·德·罗西 (Properzia de' Rossi) 的杰作《约瑟与波提乏之妻》(Joseph and Potiphar's Wife)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/joseph-potiphar-wife-properzia-de-rossi.avif[width="1100",height="946"]
+
+带着那个时代对女性艺术家的偏见，瓦萨里在他的书中描述，普罗佩齐亚是因为单恋一位英俊青年，才能将波提乏之妻的激情刻画得淋漓尽致，仿佛通过这件作品释放了自己的情感。
+
+可惜的是，普罗佩齐亚受到男性同行的嫉妒和排挤，特别是刚刚提到的阿米科·阿斯佩尔蒂尼性格阴暗，利用其地位极力中伤和打压，这位女艺术家最终因穷困潦倒而英年早逝。
+
+[[chapel-of-the-magi]]
+=== 三王礼拜堂
+
+在圣彼得罗尼奥大教堂的众多礼拜堂中，三王礼拜堂 (Chapel of the Magi / Three Kings) 因其中最震撼、也最具争议的壁画而闻名于世。
+
+三王礼拜堂是由博洛尼亚的富有丝绸商人**巴托洛梅奥·博洛尼尼** (Bartolomeo Bolognini) 在十五世纪初捐资设立的。根据他的遗嘱，画家**乔瓦尼·达·莫德纳** (Giovanni da Modena) 受聘请来装饰礼拜堂的墙壁。
+
+礼拜堂的右侧墙壁上的壁画完整地描绘了**三王来朝** (The Journey and Adoration of the Magi) 的故事，礼拜堂也是因此而得名。
+
+真正让这座礼拜堂出名的是左侧墙壁上的关于最后审判的壁画，特别是有关炼狱的下半部分。这个诡异的画面是根据但丁的《神曲》描绘的：画面中心是一个巨大的蓝黑色撒旦，正在吞噬罪人。
+
+.博洛尼亚圣彼得罗尼奥大教堂中的三王礼拜堂地狱壁画，由乔瓦尼·达·莫德纳创作。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/inferno-chapel-of-re-magi-san-petronio-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/inferno-chapel-of-re-magi-san-petronio-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/inferno-chapel-of-re-magi-san-petronio-bologna-4x3-2400.avif 2400w"]
+
+这幅壁画因为中世纪对伊斯兰教先知的描述，而引起巨大争议，数次面临安全威胁。有兴趣的话，可以留意撒旦头部左上方巨石上躺着的一个罪人，扭曲的躯体下方特意标出了他的名字。
+
+进入三王礼拜堂需要另外付费，而且礼拜堂内**不准拍照**。
 
 [[cassini-meridian-line]]
 === 卡西尼子午线
@@ -67,25 +96,7 @@ toc::[]
 
 参观卡西尼子午线的最佳时间是**晴天**的正午时分。
 
-[[chapel-of-re-magi]]
-=== 博洛尼尼礼拜堂
-
-在圣彼得罗尼奥大教堂的众多礼拜堂中，**博洛尼尼礼拜堂** (Bolognini Chapel) 因其中最震撼、也最具争议的壁画而闻名于世。
-
-博洛尼尼礼拜堂是由博洛尼亚的富有丝绸商人巴托洛梅奥·博洛尼尼 (Bartolomeo Bolognini) 在十五世纪初捐资设立的。根据他的遗嘱，画家乔瓦尼·达·莫德纳 (Giovanni da Modena) 受聘请来装饰礼拜堂的墙壁。
-
-礼拜堂的右侧墙壁上的壁画完整地描绘了**三王来朝** (The Journey and Adoration of the Magi) 的故事。所以，这个礼拜堂也叫**三王礼拜堂** (Chapel of the Magi)。
-
-真正让这座礼拜堂出名的是左侧墙壁上的关于最后审判的壁画，特别是有关炼狱的下半部分。这个诡异的画面是根据但丁的《神曲》描绘的：画面中心是一个巨大的蓝黑色撒旦，正在吞噬罪人。
-
-.博洛尼亚圣彼得罗尼奥大教堂的博洛尼尼礼拜堂（三王礼拜堂）中的地狱壁画，由乔瓦尼·达·莫德纳创作。
-image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/giovanni-da-modena-inferno-fresco-bolognini-chapel-san-petronio-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/giovanni-da-modena-inferno-fresco-bolognini-chapel-san-petronio-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-petronio/giovanni-da-modena-inferno-fresco-bolognini-chapel-san-petronio-bologna-4x3-2400.avif 2400w"]
-
-这幅壁画因为中世纪（具有时代局限性的）对伊斯兰教先知的描述，而引起巨大争议，数次面临安全威胁。这也是为什么圣彼得罗尼奥大教堂拥有最严格的安保的原因。
-
-进入博洛尼尼礼拜堂内是收费的，而且礼拜堂内**不准拍照**。因为这个区域安保威胁的特殊性，建议不要在这里挑战规则。
-
-[[organ]]
+[[organs]]
 === 仍在使用的最古老管风琴
 
 圣彼得罗尼奥大教堂还拥有世界上最古老且仍可正常演奏的管风琴，而且有两座。
@@ -97,4 +108,4 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica
 [[visit]]
 == 参观信息
 
-圣彼得罗尼奥大教堂每日开放参观，**午后 1:30 到 3:00 会关闭一会**。参观大教堂是免费的，无需预约。但是参观三王礼拜堂和另外两个礼拜堂收费 €5 (2026)。现场支付，无需预约。具体的信息可以参考官网: https://www.basilicadisanpetronio.org/en/info-and-opening-hours[Info and opening hours]。
+圣彼得罗尼奥大教堂每日开放参观，**午后 1:30 到 3:00 会关闭一会**。参观大教堂是免费的，无需预约。但是参观三王礼拜堂和另外两个礼拜堂收费 5 欧元，现场支付，无需预约，link:{% post_url 2026-06-17-bologna-welcome-city-card %}[博洛尼亚城市卡]不适用。具体的信息可以参考官网: https://www.basilicadisanpetronio.org/en/info-and-opening-hours[Info and opening hours]。
