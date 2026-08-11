@@ -1,0 +1,118 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/basilica-di-san-domenico-bologna-4x3-1200.avif
+  alt: 博洛尼亚圣多美尼克大教堂 (Basilica di San Domenico, Bologna)，又译圣多明我大殿（修缮中）。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/basilica-di-san-domenico-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/basilica-di-san-domenico-bologna-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-15 19:30:00 +0200
+date_modified: 2026-08-11 20:50:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 阿方索·隆巴迪, 米开朗基罗, 尼科洛·戴尔·阿卡, 圭多·雷尼]
+tagline: 圣龛和年轻的米开朗基罗
+description: 博洛尼亚的圣多美尼克大教堂 (Basilica di San Domenico, Bologna) 是天主教道明会的总部，安放着其创始人圣多美尼克的遗骸圣龛 (Arca)。这里收藏着阿方索·隆巴迪、尼科洛·戴尔·阿卡、圭多·雷尼、米开朗基罗等多位大师的艺术珍宝。
+---
+= 博洛尼亚 (Bologna) 的圣多美尼克大教堂 (Basilica di San Domenico)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/
+
+博洛尼亚的**圣多美尼克大教堂** (Basilica di San Domenico, Bologna)，又译**圣多明我大殿**，是天主教**道明会**的总部，安放着其创始人圣多美尼克的遗骸圣龛 (Arca)，并藏有阿方索·隆巴迪、尼科洛·戴尔·阿卡、圭多·雷尼、米开朗基罗等多位大师的艺术珍宝。
+
+toc::[]
+
+[#must-see-highlights]
+== 核心看点
+
+圣多美尼克大教堂中的核心看点包括：
+
+* 圣多美尼克圣龛 (Arca di San Domenico): 跨越五个世纪、由多位雕塑巨匠接力完成的白色大理石石棺。
+
+* 木雕唱诗班席 (Coro Ligneo): 意大利文艺复兴木质镶嵌画 (Tarsia Lignea) 的巅峰之作，在当时被称为“世界第八大奇迹”。
+
+* 莫扎特的管风琴 (Organo di Mozart): 在 1770 年，年仅 14 岁的莫扎特就在这台管风琴上练习，并通过了当时音乐界最顶尖的学术机构，博洛尼亚爱乐学院的考试，成为该院有史以来最年轻的“爱乐大师”。
+
+遗憾的是，我们正赶上 2026 年的大规模保护和修缮工程。幸好位于中殿右侧的圣多美尼克礼拜堂 (Cappella di San Domenico) 和其中的圣龛还能近距离欣赏。这也正是我们参观这里的主要目的。
+
+.博洛尼亚圣多美尼克大教堂中 (Basilica di San Domenico, Bologna) 的圣多美尼克礼拜堂 (Cappella di San Domenico)。这里安放着圣多美尼克圣龛 (Arca di San Domenico)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/cappella-di-san-domenico-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/cappella-di-san-domenico-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/cappella-di-san-domenico-bologna-4x3-2400.avif 2400w"]
+
+[#arca-di-san-domenico]
+== 圣多美尼克圣龛
+
+圣多美尼克圣龛是一座白色大理石石棺，里面安放着圣多美尼克的遗骸，是圣多美尼克大教堂中最重要的艺术珍宝。
+
+意大利语 Arca 一词本义其实是“箱子”、“柜子”。中文“诺亚方舟”中的“方舟”也是这个词。不过这里指的是保护圣人遗骨的大理石石棺，我们选择将它译作圣龛。
+
+.博洛尼亚圣的圣多美尼克圣龛 (Arca di San Domenico, Basilica di San Domenico, Bologna)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/arca-san-domenico-bologna-1200x1600.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/arca-san-domenico-bologna-1200x1600.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/arca-san-domenico-bologna-2400x3200.avif 2400w"]
+
+这座圣多美尼克圣龛自下而上可以分为四层来欣赏。
+
+[#boudard-altar]
+=== 第一层：祭坛基座
+
+这是整座圣龛最后完工的部分，巴洛克晚期风格，由法国雕塑家**让-巴蒂斯特·布达** (Jean-Baptiste Boudard) 创作于 1768 年。正面浮雕《圣多美尼克的逝世与下葬》刻画了 1221 年圣人临终时，身边道明会修士们痛苦哭泣、悲伤哀悼的场景。
+
+[#lombardi-predella]
+=== 第二层：石棺底座
+
+这是一条位于祭坛之上、核心石棺之下的细长白色大理石装饰带。由文艺复兴全盛期雕塑家**阿方索·隆巴迪** (Alfonso Lombardi) 创作于 1532 年。
+
+这里由三幅连贯的浅浮雕组成：
+
+* 左侧是《圣多美尼克的诞生》，刻画其婴儿期便自愿睡在坚硬地板上的清贫神迹。
+* 中间是《三王来朝》，讲述东方三位睿智的国王，来到伯利恒朝拜刚出生的婴孩耶稣的故事。
+* 右侧是《圣人卖书救饥民》，刻画其青年时期卖掉珍贵手抄本救济灾民的无私举动。
+
+[#sarcophagus-pisano]
+=== 第三层：核心石棺
+
+这里是整座圣龛最古老、最神圣的核心，圣多美尼克的遗骨就安放在此石棺内，由中世纪雕塑巨匠 尼科拉·皮萨诺 (Nicola Pisano) 及其作坊创作于 1267 年。
+
+石棺四周由六块大理石高浮雕严丝合缝地包裹，刻画了圣多美尼克一生中最重要的宗教神迹，如“圣人衣服落入火中完好无损”、“让死去的年轻人复活”等等。浮雕中的人物第一次拥有了中世纪少见的、真正的身体厚度与肌肉轮廓。
+
+[#cymatium-canopy]
+=== 第四层：顶冠华盖
+
+哥特式晚期与早期文艺复兴风格。由**尼科洛·戴尔·阿卡** (Niccolò dell'Arca) 创作于 1469-1473 年，米开朗基罗 (Michelangelo) 接手完成于 1494 年。
+
+尼科洛因这件作品而名声大噪，后人干脆直接将他的姓氏改成了“戴尔·阿卡”，意思就是“圣龛的尼科洛”。尼科洛去世时，华盖未能完工。
+
+在 1494 年，年仅 19 岁的米开朗基罗为了躲避佛罗伦萨的政治暴乱与美第奇家族的倒台，从佛罗伦萨躲到威尼斯。花光了积蓄后，却未能找到工作。在返回的途中路过博洛尼亚，意外地得到机会，接手刚刚去世的尼科洛的工作，完成了最后的三座雕像。这位大师的这几件早期作品正是我们的主要目标：
+
+* 持烛台的天使（右侧）：与左侧传统柔美的中世纪天使不同，这尊天使肌肉厚实。
+* 圣彼德罗尼奥：博洛尼亚的主保圣人，双手捧着当时的博洛尼亚城市模型，标志性的双斜塔清晰可见。
+* 圣普罗科洛 (San Procolo)：古罗马时期的殉道士兵，身穿短袍，眉头紧锁、右手紧抓斗篷。这是三尊雕像中最具艺术野心的一尊，可以说是米开朗基罗十年后在佛罗伦萨创作的巨作《大卫》的雏形。
+
+.圣多美尼克圣龛 (Arca di San Domenico) 之上的圣普罗科洛 (San Procolo) 雕像出自 19 岁的米开朗基罗之手。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/michelangelo-san-procolo-bologna-1200x1600.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/michelangelo-san-procolo-bologna-1200x1600.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/michelangelo-san-procolo-bologna-2400x3200.avif 2400w"]
+
+[#guido-glory-st-dominic]
+== 圣多美尼克礼拜堂的天顶画
+
+当您站在圣龛前抬起头，礼拜堂的天顶上湿壁画是《圣多美尼克的荣耀》 (The Glory of St Dominic)，由博洛尼亚画派的巴洛克巅峰大师圭多·雷尼 (Guido Reni) 创作于 1613-1615 年间。
+
+.藏于博洛尼亚圣多美尼克大教堂中 (Basilica di San Domenico, Bologna) 的《圣多美尼克的荣耀》 (The Glory of St Dominic)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/guido-reni-the-glory-of-st-dominic-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/guido-reni-the-glory-of-st-dominic-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-basilica-di-san-domenico/guido-reni-the-glory-of-st-dominic-bologna-4x3-2400.avif 2400w"]
+
+圭多·雷尼曾师从博洛尼亚画派的开创者**卡拉奇兄弟** (The Carracci)。其中大哥**路多维科·卡拉奇** (Ludovico Carracci) 是雷尼的直接导师。雷尼于 1614 年回到家乡绘制这幅天顶画时，卡拉奇兄弟已经离世或离开。这幅画的成功奠定了他在博洛尼亚无可争议的最高地位，使他成为十七世纪上半叶整个古典巴洛克阵营的领军人物。
+
+画面中，圣人展开双臂、面部微微朝上、瞳孔向上凝视，眼神充满神圣狂喜 (Ecstasy) 的模式，是此后两百年间全欧洲天主教堂表现“圣人升天”题材时的样板，甚至直接被称为“雷尼凝视”。不过，我们觉得威尼斯画派的委罗内塞 (Paolo Veronese) 在维罗纳创作的《圣乔治殉道》 (The Martyrdom of Saint George, 1566) 中，圣乔治那双望向天国的眼睛，就已经与半个多世纪后雷尼所画的如出一辙了。参考我们的文章 link:{% post_url 2026-07-04-veronese-verona-venice %}[《保罗·委罗内塞 (Paolo Veronese): 从维罗纳到威尼斯》]。
+
+[#san-domenico]
+== 关于圣多美尼克和道明会
+
+道明会于 1216 年诞生于法国图卢兹，由西班牙修士**圣多美尼克·德·古兹曼** (Dominic de Guzmán) 创立，宗旨是“过着清贫修道生活，又精通神学、擅长公开讲道”。道明会的拉丁语官方名称的意思正是**宣道者修会**。不过日常人们习惯以创立者的名字称之为**圣多美尼克修会**，（意大利语音译）或者**圣多米尼克修会**（英语音译）。而“道明会”则是明清时期，天主教传入中国时的本土化翻译。
+
+公元 1218 年，多美尼克来到当时欧洲的学术中心博洛尼亚。他敏锐地意识到，要培养能够雄辩、传道的知识分子，必须依傍博洛尼亚大学。于是，在随后的几年中，博洛尼亚逐步被确立为道明会的中心。而多美尼克也在不久之后病逝并被安葬在这里。在多美尼克被封为圣人之后，原来的小教堂也在中世纪被大规模扩建为如今的圣多美尼克大教堂。
+
+[#visit]
+== 参观信息
+
+圣多美尼克大教堂可以免费参观。在 2026 年上半年开始大规模修缮，只有圣龛等少数区域可以参观，预计于秋季开始逐步开放。
