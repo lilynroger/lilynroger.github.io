@@ -1,0 +1,105 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/portico-san-luca-bologna-4x3-1200.avif
+  alt: 博洛尼亚的圣卢卡拱廊 (Portico di San Luca)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/portico-san-luca-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/portico-san-luca-bologna-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-16 05:30:00 +0200
+date_modified: 2026-08-13 11:40:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 跑步]
+tagline: 孤儿坡和 666 道拱门
+---
+= 跑步打卡博洛尼亚的圣卢卡拱廊 (Portico di San Luca)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums: false
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/
+
+博洛尼亚的圣卢卡拱廊 (Portico di San Luca) 连接着老城和城外山顶的圣卢卡圣母朝圣教堂，是世界上最长的连续拱廊，世界文化遗产的一部分，博洛尼亚必去的景点之一。在清晨沿着拱廊跑步到山顶是打卡圣路卡拱廊的最佳方式。
+
+toc::[]
+
+[#facts]
+== 基本信息
+
+圣卢卡拱廊从老城西南角的**萨拉戈萨城门** (Porta Saragozza) 向西南出发，经过**梅隆切洛拱门** (Arco del Meloncello) 之后，沿着山势向上，终点在**圣卢卡圣母朝圣教堂** (Santuario della Madonna di San Luca)。全长约 3.8 公里，海拔累计爬升约 250 米。
+
+在基督教中，数字 666 代表地狱野兽、撒旦和邪恶。圣卢卡拱廊在依山而建的过程中，刻意设计得像一条蜿蜒的巨蛇，从山脚出发，穿过 666 个拱门，最终到达山顶的教堂。寓意着巨蛇被踩在脚下，蜿蜒向上，抵达圣殿。象征着光明战胜黑暗和圣母对恶魔的践踏。
+
+[#route]
+== 路线指南
+
+圣卢卡拱廊整条路线非常清晰，可以完美地划分为平地段与山坡段两个部分。
+
+* 平地段：萨拉戈萨城门 - 梅隆柴洛拱门
+* 山坡段：梅隆柴洛拱门 - 圣卢卡圣母朝圣教堂。
+
+紧邻拱廊，还有一条铺装的公路，不是很宽，名字就叫圣卢卡路 (Via di San Luca)，一直通到山顶。
+
+[#porta-saragozza]
+=== 平地段
+
+平地段从古老的萨拉戈萨城门开始，延伸到梅隆柴洛拱门。长度约 1.5 公里，沿途会穿过 316 个拱门。这一段基本是城市住宅区，主要是平整的人行道，非常轻松。
+
+萨拉戈萨城门是博洛尼亚 14 世纪古城墙上现存的 9 座中世纪城门之一。它不仅是这座城市的地标之一，更因作为圣卢卡拱廊的起点而闻名于世。
+
+.博洛尼亚的萨拉戈萨城门 (Porta Saragozza)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/porta-saragozza-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/porta-saragozza-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/porta-saragozza-bologna-4x3-2400.avif 2400w"]
+
+[#arco-del-meloncello]
+=== 山坡段
+
+跨过梅隆柴洛拱门之后就进入了山坡段。这一段长约 2.3 公里，是持续上坡与台阶。累计爬升全部集中在这一段。拱廊包含 489 级台阶，经过 350 个拱门。平均坡度约 10%，最陡峭的“孤儿坡”坡度有 20% 之多。终点是坐落在瓜尔迪亚 (Colle della Guardia) 山顶的圣卢卡圣母朝圣教堂。
+
+梅隆柴洛拱门建于 1721 年至 1732 年间，洛可可风格建筑。最初的建造目的就是作为人行天桥，让朝圣者可以方便地从主干道上方安全通过。最初的梅隆柴洛拱门下方的空间极为低矮，几乎只能勉强通过普通的马车。在 20 世纪初期，为了让下方的蒸汽火车能够顺利通过，该拱门曾整体被升高了近两米。
+
+.博洛尼亚的梅隆柴洛拱门 (Arco del Meloncello)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/arco-meloncello-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/arco-meloncello-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/arco-meloncello-bologna-4x3-2400.avif 2400w"]
+
+[#cappelle]
+=== 小礼拜堂
+
+在这段拱廊中，会经过 15 个嵌入在拱廊墙体内的小礼拜堂。每个内部都绘有宗教故事的壁画，对应着天主教传统祈祷仪式《玫瑰经》中的十五个耶稣与圣母生命中的重大事件，即“奥迹” (Misteri del Rosario)。这些小礼拜堂是朝圣者在上山途中，用于停下祈祷和歇脚的节点。
+
+.圣卢卡拱廊中的第五座小礼拜堂，牌子上对应的正是第五“奥迹”: 耶稣在圣殿内 (Mistero V: Gesù al Tempio)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/mistero-rosario-cappella-portico-san-luca-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/mistero-rosario-cappella-portico-san-luca-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/mistero-rosario-cappella-portico-san-luca-bologna-4x3-2400.avif 2400w"]
+
+[#curva-delle-orfanelle]
+=== 孤儿坡
+
+在山坡段的半路上，拱廊有一个向左的急转弯。同时，之前一直在拱廊右手边向上的公路（圣卢卡路）也在这里向左转了一个直角弯，从拱廊之下穿过，再经过一个小 U 形弯来到拱廊的左手边继续向上。这里就是著名的“孤儿弯” (Curva delle Orfanelle)，名字来源于过去曾坐落在这里的一座孤儿院。从这里开始，坡度陡然提升，甚至达到近 20% 的坡度。这一段被称为“孤儿坡” (Salita delle Orfanelle)，是圣卢卡拱廊中最折磨人的一段。
+
+孤儿坡在自行车界是举世闻名的。每年意大利埃米利亚公路赛 (Giro dell'Emilia) 的终点决战就在这里。在比赛的最后阶段，职业车手们需要经历残酷的循环绕圈，连续 5 次从这里爬坡冲上山头。在 2024 年，第 111 届环法自行车赛历史上首次将发车赛段设在意大利，而第二赛段的决战核心就选在了孤儿坡。
+
+.圣卢卡拱廊的孤儿弯，经过这里之后就是折磨人的孤儿坡。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/curva-orfanelle-san-luca-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/curva-orfanelle-san-luca-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/curva-orfanelle-san-luca-bologna-4x3-2400.avif 2400w"]
+
+[#sanctuary-of-the-madonna-of-san-luca]
+=== 圣卢卡圣母朝圣教堂
+
+圣卢卡圣母朝圣教堂是博洛尼亚无可争议的精神图腾与城市地标。这座橘红色的巴洛克式高山圣殿是每一位游览博洛尼亚的游客、跑者与朝圣者的必去目的地。
+
+.博洛尼亚的圣卢卡圣母朝圣教堂 (Santuario della Madonna di San Luca)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/sanctuary-san-luca-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/sanctuary-san-luca-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/sanctuary-san-luca-bologna-4x3-2400.avif 2400w"]
+
+在圣卢卡圣母朝圣教堂中的主祭坛上陈列着一幅古老珍贵的拜占庭风格圣母子画像。根据天主教传说，这幅画由《路加福音》的作者圣卢卡（圣路加）在雪松木上亲笔所绘，于 12 世纪由一名朝圣者从君士坦丁堡带到博洛尼亚。这幅因氧化和香火熏黑的圣母像，被称为“黑圣母”。画像如今被精心地保护在一座由金银打造的巴洛克式圣龛之中。每年复活节后的圣母巡游周期间，这幅古老的圣像会被信徒们从山顶沿拱廊护送抬下山，前往市中心的圣彼得大教堂。
+
+教堂内部的礼拜堂中还收藏有包括圭多·雷尼 (Guido Reni) 在内的意大利文艺复兴与巴洛克时期巨匠的杰作。
+
+.博洛尼亚的圣卢卡圣母朝圣教堂 (Santuario della Madonna di San Luca) 的内部。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/interior-sanctuary-san-luca-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/interior-sanctuary-san-luca-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/interior-sanctuary-san-luca-bologna-4x3-2400.avif 2400w"]
+
+[#visit]
+== 游玩实用信息
+
+圣卢卡圣母朝圣教堂每天早上 7 点就开放了，**免费参观**。所以，晨跑或者徒步圣卢卡拱廊既可以避开人群，又可以顺便参观教堂，是最佳的打卡方式。
+
+傍晚也很好，夕阳照进拱廊中的时刻非常出片。在山顶眺望全城也是不错的体验。
+
+此外，还可以在马焦雷广场和海神广场乘坐 San Luca Express 观光小火车，或者在山下的 Villa Spada 车站乘坐 58 路小巴前往圣卢卡圣母朝圣教堂。
