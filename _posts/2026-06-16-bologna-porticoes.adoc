@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-16 05:00:00 +0200
-date_modified: 2026-08-10 13:00:00 +0800
+date_modified: 2026-08-13 11:40:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
 tagline: 拱廊之城，世界遗产
 description: 博洛尼亚的拱廊 (Porticoes of Bologna) 是这座城市的名片，城内的 12 处最具代表性的拱廊及其周边建筑被一通列入了联合国教科文组织世界遗产名录。
@@ -81,13 +81,14 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-porticoe
 
 此外，马焦雷大街继续向东，在**圣母忠仆圣殿** (Santa Maria dei Servi) 前的**忠仆拱廊** (Portico dei Servi) 宽度接近六米，被称为**最宽的拱廊**。自所以有四条拱廊合围，是因为另一端街角原有的教堂建筑已经不复存在，只留下了拱廊。如果时间充裕，不妨多走几步路过去看看。
 
+[#portico-di-san-luca]
 === 圣卢卡
 
 **圣卢卡拱廊** (Portico di San Luca) 从老城西南角的**萨拉戈扎城门** (Porta Saragozza) 继续向西南出发，前半段是平坦的城市街道。经过**梅隆切洛拱门** (Arco del Meloncello) 之后，是沿着山势蜿蜒向上的后半段。终点在**圣卢卡圣母朝圣教堂** (Santuario della Madonna di San Luca)。
 
 圣卢卡拱廊全长 *3.8* 公里，沿途有 666 个拱门，是世界上最长的拱廊，也是名气最大的拱廊。加上圣卢卡圣母朝圣教堂是博洛尼亚最重要的宗教朝圣地，圣卢卡拱廊是博洛尼亚必须要去的核心景点之一。
 
-推荐把圣卢卡拱廊作为晨跑或者散步路线；也可以在马焦雷广场和海神广场乘坐 San Luca Express 观光小火车前往。
+推荐把圣卢卡拱廊作为晨跑或者散步路线，也可以在马焦雷广场和海神广场乘坐 San Luca Express 观光小火车，或者在山下的 Villa Spada 车站乘坐 58 路小巴前往圣卢卡圣母朝圣教堂。
 
 .博洛尼亚的圣卢卡拱廊 (Portico di San Luca) 是世界上最长的拱廊。
 image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-porticoes/san-luca-portico-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-porticoes/san-luca-portico-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-porticoes/san-luca-portico-bologna-4x3-2400.avif 2400w"]
