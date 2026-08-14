@@ -1,0 +1,90 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/niccolo-compianto-sul-cristo-morto-closeup-4x3-1200.avif
+  alt: 博洛尼亚生命圣母朝圣教堂中，被誉为“石头的尖叫”的《哀悼基督》 (Compianto sul Cristo Morto) 群雕。其中抹大拉的马利亚是情绪最激烈、最引人瞩目的核心人物。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/niccolo-compianto-sul-cristo-morto-closeup-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/niccolo-compianto-sul-cristo-morto-closeup-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-16 12:00:00 +0200
+date_modified: 2026-08-14 08:25:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 艺术, 雕塑]
+tagline: 圣龛的尼科洛
+---
+= 石头的尖叫：博洛尼亚生命圣母朝圣教堂的《哀悼基督》群雕
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums: false
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/
+
+博洛尼亚**生命圣母朝圣教堂**收藏的**尼科洛·戴尔·阿尔卡** (Niccolò dell'Arca) 的杰作《哀悼基督》 (Compianto sul Cristo Morto)，被誉为“石头的尖叫” (Urlo di Pietra)，是整个意大利文艺复兴最重要的陶土雕塑。
+
+toc::[]
+
+[#introduction]
+== 什么是“石头的尖叫”？
+
+在博洛尼亚的生命圣母朝圣教堂 (Chiesa di Santa Maria della Vita) 中，收藏着一组由尼科洛·戴尔·阿尔卡创作于 15 世纪的陶土群雕，名为《哀悼基督》。这组群雕因为其中人物的表情和动作极其悲伤、震撼，意大利诗人**邓南遮**形象地将其赞誉为“石头的尖叫”（也译作“石头的呐喊”）。
+
+.尼科洛的《哀悼基督》陶土群雕：六位圣经中的哀悼者围绕在刚从十字架上解下的基督尸体身旁。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/niccolo-compianto-sul-cristo-morto-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/niccolo-compianto-sul-cristo-morto-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/niccolo-compianto-sul-cristo-morto-4x3-2400.avif 2400w"]
+
+这组作品原本带有彩绘，经历了五百多年的时光、多次搬迁、环境潮湿以及历史上的不当清洗，原有的彩绘几乎已经全部脱落殆尽，只剩下陶土的本色。
+
+[#details]
+== 群像人物介绍
+
+群雕中包括耶稣和哀悼者一共有 7 位人物，其中的 4 位女性哀悼者都叫马利亚。所有人物从右向左依次是：
+
+抹大拉的马利亚 (Mary Magdalene):: 
+位于最右侧的女性哀悼者是抹大拉的马利亚，这组群雕中情感宣泄最剧烈的人物。她刚刚狂奔赶到耶稣的遗体前，身上的衣褶与头巾向后剧烈飘扬，大张着嘴，正在发出毫无掩饰、撕心裂肺的哭喊，是整组群雕最直观的**“尖叫”**。
+
+克罗帕的玛利亚 (Mary of Clopas):: 
+位于右侧第二位女性哀悼者是克罗帕的玛利亚。她双臂向前平举，双手手掌面向前方伸出，身体微微后仰，做出一个本能的阻挡与抗拒手势，脸上则是听到噩耗时的极度震惊和无法相信的神情。
+
+使徒圣约翰 (St. John the Apostle):: 
+位于右侧第三位的男性哀悼者是使徒圣约翰，耶稣最年轻的门徒（在艺术作品中经常貌似一位年轻女性）。他静静地站在一旁。他右手托着下巴，双眉紧锁，神情悲恸而克制。
+
+.尼科洛的《哀悼基督》陶土群雕：抹大拉的马利亚、克罗帕的玛利亚、使徒圣约翰。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/niccolo-compianto-sul-cristo-morto-maddalena-cleofa-john-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/niccolo-compianto-sul-cristo-morto-maddalena-cleofa-john-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/niccolo-compianto-sul-cristo-morto-maddalena-cleofa-john-4x3-2400.avif 2400w"]
+
+圣母玛利亚 (The Madonna)::
+左侧第三位女性哀悼者是圣母玛利亚。作为母亲，她双手紧紧交叠在胸前，由于过度悲痛，她的身体几乎要瘫软崩溃，面部因绝望而剧烈抽搐展现出内心的**“无声尖叫”**。
+
+撒罗米的玛利亚 (Mary Salome)::
+左侧第二位女性哀悼者是撒罗米的玛利亚。她微微屈膝，身体紧绷，双手死死抓着自己的大腿，展现出一种压抑的痛苦。
+
+亚利马太的约瑟 / 尼哥底母 (Joseph of Arimathea / Nicodemus)::
+位于最左侧的男性哀悼者是亚利马太的约瑟，也可能是尼哥底母。他身穿中世纪晚期或文艺复兴时期的世俗工匠服饰，单膝跪地，腰间挂着锤子和钳子。这些工具是刚刚把耶稣从十字架上解下来时使用的。他也是群雕中唯一直视观众的角色。
+
+.尼科洛的《哀悼基督》陶土群雕：亚利马太的约瑟（或者是尼哥底母）身穿平民服饰，腰间挂着工具，是群雕中唯一直视观众的角色。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/niccolo-compianto-sul-cristo-morto-joseph-nicodemus-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/niccolo-compianto-sul-cristo-morto-joseph-nicodemus-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/niccolo-compianto-sul-cristo-morto-joseph-nicodemus-4x3-2400.avif 2400w"]
+
+耶稣基督::
+被哀悼者环绕在中心，横卧着的是是刚刚死去的耶稣基督。他双眼闭合，安详地躺在带有荷叶边装饰的基座上，与周围亲友混乱、奔跑、哀号的动态形成了最强烈的对比。
+
+[#niccolo-dell-arca]
+== 尼科洛·戴尔·阿尔卡
+
+这组杰作的创作者**尼科洛·德尔·阿尔卡**的名字也很有趣。艺术史学界至今无法确定他的真实姓氏和出生地。在文艺复兴时期的意大利，家族姓氏尚未普及，人们常常以来自哪里作为姓氏称呼外地人。尼科洛为了谋生而辗转多地，所以，在历史文献中曾经被冠以多个不同的姓氏。
+
+在尼科洛为博洛尼亚的**圣多美尼克大教堂**雕刻**圣多美尼克圣龛** (Arca di San Domenico) 的顶冠华盖及大部分独立雕像的工作获得巨大成功之后，人们干脆直接叫他尼科洛·德尔·阿尔卡 (Niccolò dell'Arca)，意思就是“圣龛的尼科洛”。
+
+尼科洛倾尽后半生心血雕刻圣多美尼克圣龛，直到去世时仍然未能完工。就在他去世后不久，年仅 19 岁的米开朗基罗意外接手了这项工作，为这个圣龛补齐了三尊人物雕像。米开朗基罗亲眼目睹了尼科洛的《哀悼基督》，为其后来回到罗马、创作梵蒂冈圣彼得大教堂中举世闻名的《圣母怜子》(Pietà) 埋下了伏笔。
+
+++++
+{% related slugs="bologna-basilica-di-san-domenico" %}
+++++
+
+[#santuario-di-santa-maria-della-vita]
+== 生命圣母朝圣教堂
+
+生命圣母朝圣教堂坐落于博洛尼亚老城中心的四方区 (Quadrilatero) 中，是博洛尼亚巴洛克建筑的最高杰作，也是整座城市最重要的宗教与艺术地标之一。生命圣母朝圣教堂最受瞩目的镇殿之宝就是尼科洛·戴尔·阿尔卡的《哀悼基督》。
+
+此外，如今的生命圣母朝圣教堂作为一个综合博物馆建筑群对外开放，在教堂正后方，还收藏有另一组由雕塑家阿方索·隆巴迪 (Alfonso Lombardi) 于 1522 年创作的《圣母之死》 (Funerali della Vergine) 陶土群雕，其细腻克制的情感风格与尼科洛的“尖叫”形成了绝妙的艺术对照，同样不可错过。
+
+生命圣母朝圣教堂本身可以免费参观；参观《哀悼基督》和《圣母之死》是需要购票的；持有博洛尼亚城市卡 (Bologna Welcome Card) 则都可以免费参观。
