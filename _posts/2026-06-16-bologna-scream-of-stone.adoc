@@ -18,7 +18,7 @@ tagline: 圣龛的尼科洛
 :page-liquid: true
 :toc: macro
 :toclevels: 2
-:sectnums: false
+:sectnums:
 :imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-of-stone/
 
 博洛尼亚**生命圣母朝圣教堂**收藏的**尼科洛·戴尔·阿尔卡** (Niccolò dell'Arca) 的杰作《哀悼基督》 (Compianto sul Cristo Morto)，被誉为“石头的尖叫” (Urlo di Pietra)，是整个意大利文艺复兴最重要的陶土雕塑。
@@ -85,6 +85,6 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-scream-o
 
 生命圣母朝圣教堂坐落于博洛尼亚老城中心的四方区 (Quadrilatero) 中，是博洛尼亚巴洛克建筑的最高杰作，也是整座城市最重要的宗教与艺术地标之一。生命圣母朝圣教堂最受瞩目的镇殿之宝就是尼科洛·戴尔·阿尔卡的《哀悼基督》。
 
-此外，如今的生命圣母朝圣教堂作为一个综合博物馆建筑群对外开放，在教堂正后方，还收藏有另一组由雕塑家阿方索·隆巴迪 (Alfonso Lombardi) 于 1522 年创作的《圣母之死》 (Funerali della Vergine) 陶土群雕，其细腻克制的情感风格与尼科洛的“尖叫”形成了绝妙的艺术对照，同样不可错过。
+此外，如今的生命圣母朝圣教堂作为一个综合博物馆建筑群对外开放，在教堂正后方，还收藏有另一组由雕塑家阿方索·隆巴迪 (Alfonso Lombardi) 于 1522 年创作的 link:{% post_url 2026-06-16-bologna-lombardi-funerali-vergine %}[《圣母之死》 (Funerali della Vergine)] 陶土群雕，其细腻克制的情感风格与尼科洛的“尖叫”形成了绝妙的艺术对照，同样不可错过。
 
 生命圣母朝圣教堂本身可以免费参观；参观《哀悼基督》和《圣母之死》是需要购票的；持有博洛尼亚城市卡 (Bologna Welcome Card) 则都可以免费参观。
