@@ -1,0 +1,53 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/lombardi-funerali-vergine-bologna-highlight-4x3-1200.avif
+  alt: 博洛尼亚生命圣母教堂中，阿方索·隆巴迪 (Alfonso Lombardi) 的巅峰杰作《圣母的葬礼》 (Funerali della Vergine)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/lombardi-funerali-vergine-bologna-highlight-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/lombardi-funerali-vergine-bologna-highlight-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-16 12:30:00 +0200
+date_modified: 2026-08-15 13:30:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 艺术, 雕塑, 阿方索·隆巴迪]
+tagline: “能够与米开朗基罗相媲美”。
+description: 阿方索·隆巴迪 (Alfonso Lombardi) 的巅峰杰作《圣母的葬礼》 (Funerali della Vergine) 陶土群雕收藏在博洛尼亚生命圣母教堂的祷告堂 (Oratorio di Santa Maria della Vita) 中。
+---
+= 博洛尼亚生命圣母教堂中的《圣母的葬礼》：阿方索·隆巴迪的巅峰杰作
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums!:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/
+
+博洛尼亚的生命圣母教堂 (Santa Maria della Vita) 是博洛尼亚最具标志性的晚期巴洛克风格建筑群之一，位于老城中心热闹的 link:{% post_url 2026-06-15-bologna-food-guide %}[美食圣地四方区 (Quadrilatero)]，紧邻 link:{% post_url 2026-06-15-bologna-piazza-maggiore %}[马焦雷广场 (Piazza Maggiore)]。这里不仅有文艺复兴时期最重要的陶土群雕、被誉为link:{% post_url 2026-06-16-bologna-scream-of-stone %}[“石头的尖叫”的《哀悼基督》]，在二楼祈祷堂的展厅内，还珍藏着雕塑家**阿方索·隆巴迪** (Alfonso Lombardi) 的巅峰杰作是《圣母的葬礼》 (Funerali della Vergine) 陶土群雕。
+
+.博洛尼亚生命圣母教堂的祷告堂 (Oratorio di Santa Maria della Vita)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/oratorio-santa-maria-della-vita-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/oratorio-santa-maria-della-vita-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/oratorio-santa-maria-della-vita-bologna-4x3-2400.avif 2400w"]
+
+隆巴迪的《圣母的葬礼》刻画了源自圣经故事中的一个瞬间：在耶稣的十二使徒为圣母玛利亚抬棺送葬途中，一名心怀嫉妒和蔑视的犹太祭司冲上前企图掀翻圣母的灵柩。在天使的神力惩罚下，他双臂瞬间麻痹并痛苦地跌倒在灵柩前。
+
+雕塑家阿方索·隆巴迪将整组群雕塑造成了一出充满张力的“舞台剧”：中心安详躺卧的圣母；前方是痛苦受罚的祭司；后方是动作神情各异的使徒；上方则是从天而降的天使。
+
+.阿方索·隆巴迪 (Alfonso Lombardi) 的巅峰杰作《圣母的葬礼》 (Funerali della Vergine) 陶土群雕收藏在博洛尼亚生命圣母教堂的祷告堂 (Oratorio di Santa Maria della Vita) 中。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/lombardi-funerali-vergine-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/lombardi-funerali-vergine-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/lombardi-funerali-vergine-bologna-4x3-2400.avif 2400w"]
+
+在这组群雕中，隆巴迪并没有为每一位使徒赋以常见的识别身份的特征。最前方倒卧在地的犹太祭司身份毫无疑问。后方双手高举经书、怒目斥责的人物公认是冲动的**使徒之首圣彼得**；他的右侧夹着经书，伸出手臂阻拦圣彼得的一般认为是另一位核心使徒、沉稳的圣保罗。其余的使徒并没有公认的确切身份。
+
+群雕的中心，有一位半跪着、紧紧依偎在圣母身边的使徒绝对是整组群雕中最传神的艺术核心，被评价为“能够与米开朗基罗相媲美”的作品。对这位使徒身份最普遍的推测是圣约翰，耶稣最宠爱的使徒，圣母的义子。在群雕中如此亲近圣母，除了圣约翰，其他使徒在长幼尊卑的宗教礼仪上是很难逾越的。唯一让严谨的学者不敢轻易下结论的，就是这组群雕中的所有使徒都留有胡须，而传统上的圣约翰是白面无须的俊美青年（甚至还有阴柔之气）。对此，有种观点认为，当时整个意大利雕塑界都被米开朗基罗的“富有精神力量的粗犷肉体”风格所统治。隆巴迪在这里把圣约翰也“米开朗基罗化了”。
+
+.博洛尼亚生命圣母祷告堂 (Oratorio di Santa Maria della Vita) 中阿方索·隆巴迪 (Alfonso Lombardi) 的《圣母的葬礼》 (Funerali della Vergine) 展板。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/lombardi-funerali-vergine-bologna-panel-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/lombardi-funerali-vergine-bologna-panel-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-lombardi-funerali-vergine/lombardi-funerali-vergine-bologna-panel-4x3-2400.avif 2400w"]
+
+[#final-thought]
+== 后记
+
+这组《圣母的葬礼》陶土群雕无疑是阿方索·隆巴迪的巅峰之作，是在博洛尼亚不容错过的艺术宝藏之一。隆巴迪也有一组《哀悼基督》陶土群雕，就收藏在博洛尼亚的**圣彼得主教座堂** (Cattedrale di San Pietro) 的大殿中。不过，**尼科洛·戴尔·阿尔卡** (Niccolò dell'Arca) 的“石头的尖叫”的光芒完全掩盖了隆巴迪的《哀悼基督》。
+
+此外值得一提的是，隆巴迪在 link:{% post_url 2026-06-15-bologna-basilica-di-san-petronio %}[圣彼德罗尼奥大教堂] 左侧大门上的《基督复活》浮雕半圆窗，是他晚期的杰作，证明了他同样也能驾驭大理石雕塑。
+
+生命圣母教堂本身可以免费参观，参观《哀悼基督》和《圣母之死》是需要购票的；持有 link:{% post_url 2026-06-17-bologna-welcome-city-card %}[博洛尼亚城市卡 (Bologna Welcome Card)] 则都可以免费参观。
+
+
