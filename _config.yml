@@ -73,7 +73,7 @@ asciidoctor:
     toc-title: 目录
     figure-caption: false
     table-caption: 表格
-    sectnums: all
+    sectnums: 'all@'
     sectanchors: true
 
 include:
