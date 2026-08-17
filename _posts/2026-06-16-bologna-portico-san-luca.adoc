@@ -12,7 +12,7 @@ categories: posts
 date: 2026-06-16 05:30:00 +0200
 date_modified: 2026-08-13 11:40:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 跑步]
-tagline: 孤儿坡和 666 道拱门
+tagline: 孤儿坡和黑圣母
 ---
 = 跑步打卡博洛尼亚的圣卢卡拱廊 (Portico di San Luca)
 :page-liquid: true
@@ -21,7 +21,7 @@ tagline: 孤儿坡和 666 道拱门
 :sectnums: false
 :imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-portico-san-luca/
 
-博洛尼亚的圣卢卡拱廊 (Portico di San Luca) 连接着老城和城外山顶的圣卢卡圣母朝圣教堂，是世界上最长的连续拱廊，世界文化遗产的一部分，博洛尼亚必去的景点之一。在清晨沿着拱廊跑步到山顶是打卡圣路卡拱廊的最佳方式。
+博洛尼亚的圣卢卡拱廊 (Portico di San Luca) 连接着老城和城外山顶的圣卢卡圣母朝圣教堂，是世界上最长的连续拱廊，世界文化遗产的一部分，博洛尼亚必去的景点之一。在清晨沿着拱廊跑步到山顶是打卡圣卢卡拱廊的最佳方式。
 
 toc::[]
 
