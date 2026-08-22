@@ -1,0 +1,144 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/carracci-plaque-bologna-pinacoteca-nazionale-4x3-1200.avif
+  alt: 博洛尼亚国家画廊 (Pinacoteca Nazionale di Bologna) 门前的卡拉奇兄弟 (Ludovico, Annibale, Agostino Carracci) 纪念牌匾。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/carracci-plaque-bologna-pinacoteca-nazionale-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/carracci-plaque-bologna-pinacoteca-nazionale-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-16 14:00:00 +0200
+date_modified: 2026-08-22 09:00:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 艺术]
+tagline: 拉斐尔的《圣塞西利亚的狂喜》。
+description: 博洛尼亚国家画廊 (Pinacoteca Nazionale di Bologna) 中不可错过的拉斐尔的《圣塞西利亚的狂喜》，以及乔托、提香、维塔莱，还有艾米利亚 (Emilian) 和博洛尼亚画派的杰作。
+---
+= 博洛尼亚国家画廊 (Pinacoteca Nazionale di Bologna)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums: false
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/
+
+博洛尼亚国家画廊是意大利文化部管理的国家级美术馆。它坐落于博洛尼亚历史悠久的大学区，紧邻博洛尼亚美术学院。实际上，画廊最初是作为美院的“附属教具室”而诞生的，和美院共用一座源自 17 世纪的大型修道院建筑群和其中的庭院。画廊最初的藏品就是美院为教学和供学生临摹而收集的。如今，博洛尼亚国家画廊内珍藏了丰富的 13 至 18 世纪的绘画杰作，包括镇馆之宝拉斐尔的《圣塞西利亚的狂喜》，以及乔托、提香、维塔莱，还有艾米利亚 (Emilian) 和博洛尼亚画派的杰作。
+
+这篇指南将介绍博洛尼亚国家画廊的几件必看杰作，和另外几件我们自己非常有兴趣的大师之作。
+
+toc::[]
+
+[#raffaello-ecstasy-st-cecilia]
+== 拉斐尔 《圣塞西利亚的狂喜》
+
+意大利文艺复兴盛期大师拉斐尔·圣齐奥 (Raffaello Sanzio) 中晚期的祭坛画杰作《圣塞西利亚的狂喜》 (The Ecstasy of St. Cecilia)，创作于 于 1514 年左右，是博洛尼亚国家画廊最重要的镇馆之宝。遗憾的是，我们去的时候，这幅画正在出借展出中。
+
+.拉斐尔·圣齐奥中晚期的祭坛画杰作《圣塞西利亚的狂喜》 (The Ecstasy of St. Cecilia)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/raffaello-ecstasy-st-cecilia-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/raffaello-ecstasy-st-cecilia-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/raffaello-ecstasy-st-cecilia-4x3-2400.avif 2400w"]
+
+画面描绘了音乐家的主保圣人 — 圣塞西利亚在听到天顶天使的合唱时，陷入神圣狂喜 (Ecstasy) 的瞬间。
+
+这幅画最初是由博洛尼亚的一位贵族女性托人求得拉斐尔同意，为其在博洛尼亚**山上圣约翰教堂** (Chiesa di San Giovanni in Monte) 的私人礼拜堂绘制的祭坛画。后来经过拿破仑的洗劫和归还，最终被收藏在博洛尼亚国家画廊中。如今在山上圣约翰教堂中仍然能看到一幅《圣塞西利亚的狂喜》，是 19 世纪当地画家的官方复制品。
+
+这幅画还有一件艺术史上非常有名的轶事。传说它“气死”了当时博洛尼亚的艺术泰斗**弗朗切斯科·弗朗恰** (Francesco Francia)。
+
+**瓦萨里**在他的名著《艺苑名人传》中记录到：拉斐尔与弗朗恰虽然素未谋面，但两人通过书信结下了深厚的友谊。身在罗马的拉斐尔委托弗朗恰协助当地教堂接收和安装《圣塞西利亚的狂喜》。弗朗恰与他的学生和当地画家一道接收了这幅画。看到拉斐尔的这幅代表文艺复兴盛期的巅峰杰作，弗朗恰意识到自己穷尽一生追求的艺术境界，在年轻的拉斐尔面前显得如此微不足道。回家后，弗朗恰便病倒了，最终在几天后郁闷而终。当然，这个故事多半是坊间演绎，实际上弗朗恰当时已经年过六旬，体弱多病，他的去世更大程度上是因为自然衰老和疾病。
+
+[#giotto-bologna-polyptych]
+== 乔托 《博洛尼亚多翼祭坛画》
+
+乔托·迪·邦多纳 (Giotto di Bondone) 的《博洛尼亚多翼祭坛画》 (Bologna Polyptych) 是一幅创作于 1330-1335 年间的木板蛋彩金色背景多联画屏。我们并不十分喜欢中世纪的艺术，不过乔托被称为“欧洲绘画之父”，“文艺复兴的先驱”，而这幅祭坛画是乔托晚年极为珍贵的带有亲笔签名的作品之一，也是博洛尼亚国家画廊的“镇馆三宝”之一，不能错过。
+
+.乔托 (Giotto di Bondone) 的《博洛尼亚多翼祭坛画》 (Bologna Polyptych)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/giotto-bologna-polyptych-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/giotto-bologna-polyptych-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/giotto-bologna-polyptych-4x3-2400.avif 2400w"]
+
+这幅多翼祭坛画是重金委托当时全意大利最负盛名的艺术大师乔托和他的工作室所做，在 1330 年左右从佛罗伦萨送往博洛尼亚，安放在使徒宫城堡 (Apostolic Palace) 的大礼拜堂之中。城堡后来毁于暴动，但这幅画幸免于难，并最终移送到博洛尼亚国家画廊收藏。
+
+在《博洛尼亚多翼祭坛画》中，中央面板描绘了圣母子；两侧面板从左至右分别站立着圣彼得、大天使加百列、大天使米迦勒和圣保罗；祭坛底座上还有五个小圆画。在中央画板圣母宝座的台阶上，落有乔托的拉丁文签名 "OP[US] MAGISTRI IOCTI D[E] FLOR[ENTI]A" 的缩略写法，意思是“佛罗伦萨大师乔托之作”。
+
+.乔托在《博洛尼亚多翼祭坛画》上的签名。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/giotto-bologna-polyptych-signature-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/giotto-bologna-polyptych-signature-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/giotto-bologna-polyptych-signature-4x3-2400.avif 2400w"]
+
+由于乔托的许多作品都存在严重的真伪争议，这幅带有确凿签名的作品，成为了美术史学家鉴定、对比和断代的最权威标杆。
+
+[#reni-massacre-innocents]
+== 圭多·雷尼 《无辜者的屠杀》
+
+意大利巴洛克时期画家圭多·雷尼 (Guido Reni) 于 1611 年创作的 《无辜者的屠杀》 (The Massacre of the Innocents) 是博洛尼亚国家画廊的“镇馆三宝”之一。
+
+.圭多·雷尼 (Guido Reni) 的《无辜者的屠杀》 (The Massacre of the Innocents)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/reni-massacre-innocents-3x4-900.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/reni-massacre-innocents-3x4-900.avif 900w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/reni-massacre-innocents-3x4-1800.avif 1800w"]
+
+画作取材于新约圣经《马太福音》。希律王听说伯利恒诞生了新的“犹太人之王”，为了除掉隐患，下令屠杀当地所有两岁及以下的男婴。
+
+雷尼曾是博洛尼亚画派创始人**卡拉奇兄弟**的学生。在卡拉奇兄弟相继去世和离开博洛尼亚之后，雷尼返回博洛尼亚并在此定居长达近三十年，成为博洛尼亚画派毫无争议的领军人物。他的存在使得博洛尼亚成为能与罗马并驾齐驱的艺术之都。在那时，雷尼被称为“神圣的圭多”。他确立了博洛尼亚画派的核心审美标准：理想美。雷尼笔下的人物都具有超越凡尘的俊美与优雅。
+
+[#reni-triumph-samson]
+== 圭多·雷尼 《凯旋的参孙》
+
+正是因为雷尼的理想美风格，我们更喜欢的是他的另一幅杰作，同样收藏在博洛尼亚国家画廊的《参孙的凯旋》 (The Triumph of Samson)。
+
+.圭多·雷尼 (Guido Reni) 的《参孙的凯旋》 (The Triumph of Samson)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/reni-triumph-samson-3x4-900.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/reni-triumph-samson-3x4-900.avif 900w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/reni-triumph-samson-3x4-1800.avif 1800w"]
+
+这幅画取材于圣经故事。大力士参孙遭到敌人的围攻，顺手捡起一块驴腮骨作为武器，独自一人击杀了千名敌军。战争结束后，上帝让泉水涌出为他解渴。然而，在中世纪的圣经中，翻译出现了一个错误，将发生战斗的地名“腮骨山”直接误译成了武器“腮骨”本身。这导致后世艺术家们误以为水是从驴腮骨里流出来的。
+
+这幅《参孙的凯旋》是博洛尼亚贵族**赞贝卡里**家族 (Zambeccari) 为了装饰自家宫殿的壁炉上方而特别定制的，形状独特的画布是为了能够嵌入建筑的巴洛克式装饰之中。
+
+[#vitale-saint-george-dragon]
+== 维塔莱·达·博洛尼亚 《圣乔治与龙》 
+
+博洛尼亚画派大师 维塔莱·达·博洛尼亚 (Vitale da Bologna) 的代表作《圣乔治与恶龙》 (Saint George and the Dragon) 创作于大约 1330-1335 年。作为晚期哥特式向文艺复兴过渡的开创性杰作，是博洛尼亚国家画廊最重要的藏品之一。
+
+.维塔莱·达·博洛尼亚 (Vitale da Bologna) 的《圣乔治与恶龙》 (Saint George and the Dragon)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/vitale-saint-george-dragon-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/vitale-saint-george-dragon-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/vitale-saint-george-dragon-4x3-2400.avif 2400w"]
+
+link:{% post_url 2026-06-19-european-art-classics-st-george-dragon %}[圣乔治与龙]的故事是西方基督教文化中最著名的英雄屠龙传说。它讲述了骑士圣乔治为了解救被作为祭品的公主，英勇击败恶龙并感化当地居民皈依基督教的故事。
+
+我们不太喜欢中世纪哥特式的绘画，这幅画之所以吸引我们是因为维塔莱在这幅画中别出心裁的签名。
+
+中世纪的绘画是服务于宗教的手艺活，署名被认为是一种虚荣，所以艺术家极少在画作上签名。而维塔莱将他的拉丁语名字 “VITALIS” 的字母经过缩放变形，嵌套在一起，巧妙的设计成了一个签名**花押**，画在了战马的臀部，就像马的烙印一样。更有意思的是，维塔莱名字中的“达·博洛尼亚”的意思是“来自博洛尼亚”，是他成名后别人对他的称呼。他真正的家族姓氏 (Equi) 的字面意思就是“马”。
+
+这幅《圣乔治与龙》是维塔莱众多作品中仅有的三幅带有签名的作品之一，无疑大大提高了作品的欣赏性。
+
+[#ludovico-carracci-madonna-child-enthroned]
+== 卢多维科·卡拉奇 《宝座上的圣母与圣子》
+
+在博洛尼亚，怎么可能不提巴洛克绘画的先行者和博洛尼亚画派的奠基人卡拉奇兄弟 (Carracci)。卡拉奇兄弟包括堂兄**卢多维科** (Ludovico) 和两个亲兄弟**安尼巴莱** (Annibale) 与**阿戈斯蒂诺** (Agostino)。洛尼亚国家画廊是收藏卡拉奇兄弟作品最丰富的艺术宝库之一，为他们专门设置了卡拉奇兄弟展厅。
+
+虽然三兄弟中安尼巴莱后来的名气最大，但卢多维科是卡拉奇艺术学院的核心创办人和灵魂导师。在卡拉奇展厅中收藏的卢多维科的杰作《宝座上的圣母与圣子》标志着早期巴洛克风格诞生。
+
+.卢多维科·卡拉奇 (Ludovico Carracci) 的《宝座上的圣母与圣子》 (Madonna and Child Enthroned)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/ludovico-carracci-madonna-child-enthroned-3x4-900.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/ludovico-carracci-madonna-child-enthroned-3x4-900.avif 900w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/ludovico-carracci-madonna-child-enthroned-3x4-1800.avif 1800w"]
+
+画面描绘了圣母抱着圣婴坐在王座上；身穿黑色长袍的圣多明我和身穿棕色长袍的圣方济各在画面左侧；身穿鲜艳红裙的抹大拉的马利亚在右侧。
+
+除了圣人们，跪在画面中央、双手合十的女子是这幅画的出资委托人。她是博洛尼亚当地显赫的**巴尔杰利尼**家族 (Bargellini) 的贵妇塞西莉亚。正是因为这个原因，这幅画也被称为《巴尔杰利尼圣母》 (Bargellini Madonna)。
+
+塞西莉亚是当时刚刚过世、同样是博洛尼亚人的教皇**格里高利十三世**的亲戚。这幅画正是为了纪念教皇并彰显家族地位而作的。在画面中央的背景中，卢多维科打破了宗教画背景必须是虚幻天堂的传统，把博洛尼亚标志性的双斜塔和天际线画了进去。这既是对博洛尼亚的致敬，也是卡拉奇学院“从虚幻走向现实自然”的里程碑式的实践。
+
+[#titian-jesus-christ-good-thief]
+== 提香 《基督受难与好强盗》
+
+文艺复兴晚期威尼斯画派泰斗提香·韦切利奥 (Titian) 晚年的杰作《基督受难与好强盗》 (Christ Crucified with the Good Thief) 创作于约 1563-1566 年。
+
+.提香·韦切利奥 (Titian) 晚年的杰作《基督受难与好强盗》 (Christ Crucified with the Good Thief)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/titian-jesus-christ-good-thief-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/titian-jesus-christ-good-thief-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/titian-jesus-christ-good-thief-4x3-2400.avif 2400w"]
+
+画作取材于圣经故事。在耶稣被钉十字架时，左右两侧各钉有一名强盗。其中左侧的坏强盗讥笑耶稣，“你不是基督吗？可以救自己和我们吧！”。而位于右侧的好强盗责备同伴，并在临终前承认了自己的罪行，恳求耶稣：“主啊，你的国降临的时候，求你记念我。”耶稣回答他：“我实在告诉你：今日你要同我在乐园里了。”。
+
+这幅画最早是由博洛尼亚的贵族**赞贝卡里**家族 (Zambeccari) 从私人艺术市场购买并带回博洛尼亚的。在 1883 年，赞贝卡里家族将收藏整体遗赠给国家 (Collezione Zambeccari)，这也是博洛尼亚历史上最重要的一笔私人艺术遗赠，提香的《基督受难与好强盗》就是其中之一。
+
+起初这件作品的身份充满谜团，直到 1980 年代的科学修复和 X 光断层扫描后，被确认为提香的作品。
+
+[#lombardi-volto-cristo-bologna]
+== 阿方索·隆巴迪 《基督之面》
+
+陶土雕塑《基督之面》 (Face of Christ) 是文艺复兴时期意大利著名雕塑家阿方索·隆巴迪 (Alfonso Lombardi) 创作的一件珍贵雕塑杰作。
+
+.阿方索·隆巴迪 (Alfonso Lombardi) 的陶土雕塑《基督之面》 (Face of Christ)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/lombardi-volto-cristo-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/lombardi-volto-cristo-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-pinacoteca-nazionale/lombardi-volto-cristo-bologna-4x3-2400.avif 2400w"]
+
+我们对这件雕塑非常有兴趣是因为在此次博洛尼亚之行中，我们有机会见到好几件这位雕塑大师的作品，特别是它著名的代表作，博洛尼亚生命圣母教堂中的 link:{% post_url 2026-06-16-bologna-lombardi-funerali-vergine %}[《圣母的葬礼》]。而这尊《基督之面》近期才被意大利文化部出资购入，并于今年 (2026) 年 3 月正式加入博洛尼亚国家画廊的馆藏。
+
+这件《基督之面》极有可能是已经遗失的更大型的一件雕塑或者一组群雕的一部分。其雕刻手法，以及面部特征与隆巴尔迪的《圣母的葬礼》中的人物如出一辙，被鉴定确认为他的真迹。
