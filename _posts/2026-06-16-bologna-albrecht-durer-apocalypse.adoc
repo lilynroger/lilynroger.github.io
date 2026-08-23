@@ -1,0 +1,84 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/albrecht-durer-apocalypse-four-horsemen-4x3-1200.avif
+  alt: 阿尔布雷希特·丢勒的《启示录》和《四骑士》 (The Four Horsemen of the Apocalypse, Albrecht Dürer)
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/albrecht-durer-apocalypse-four-horsemen-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/albrecht-durer-apocalypse-four-horsemen-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-16 17:00:00 +0200
+date_modified: 2026-08-23 19:00:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 艺术, 阿尔布雷希特·丢勒]
+tagline: 丢勒 27 岁时的“第一桶金”。
+title_display: 阿尔布雷希特·丢勒的《启示录》和《四骑士》
+description: 阿尔布雷希特·丢勒 (Albrecht Dürer) 的《启示录》 (Apocalypse) 在艺术史和印刷史上都具有划时代的里程碑地位，而其中的《四骑士》 (The Four Horsemen) 更是木刻版画的巅峰之作。
+---
+= 阿尔布雷希特·丢勒的《启示录》和《四骑士》 (The Four Horsemen of the Apocalypse, Albrecht Dürer)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/
+
+阿尔布雷希特·丢勒 (Albrecht Dürer) 是北方文艺复兴时期最伟大的德国艺术巨匠，他的《启示录》 (Apocalypse, 1498) 木刻版画组画在艺术史和印刷史上都具有划时代的里程碑地位，而组画中的传世杰作《四骑士》 (The Four Horsemen) 更是木刻版画的巅峰之作。
+
+我们在博洛尼亚国家画廊 (Pinacoteca Nazionale di Bologna) 正赶上阿尔布雷希特·丢勒的《启示录》特展，有机会近距离的欣赏丢勒的这一整套木刻版画杰作。
+
+toc::[]
+
+[#durer]
+== 阿尔布雷希特·丢勒
+
+阿尔布雷希特·丢勒 (1471-1528) 是文艺复兴时期的德国顶级艺术大师，被公认为北方文艺复兴运动的领军人物与欧洲历史上最伟大的版画家之一。他将木刻版画与铜版画提升至独立艺术高度，同时也是自画像先驱，还是最早创作写生风景水彩画的欧洲大师。
+
+[#apocalypse]
+== 《启示录》
+
+阿尔布雷希特·丢勒的《启示录》木刻版画组画完成于 1498 年，是西方艺术史上最具里程碑意义的版画杰作之一。这套作品不仅奠定了丢勒在欧洲艺坛的顶尖地位，也彻底改变了版画在艺术史上的地位。
+
+在 15 世纪末，欧洲人相信公元 1500 年就是《新约·启示录》中所预言的世界末日。而当时横扫欧洲的瘟疫、战乱、饥荒，和土耳其的奥斯曼帝国的入侵，更是让人们坚信圣经中的预言正在应验，最后的审判即将来临。正是在这种背景下，年仅 27 岁的丢勒凭借惊人的商业头脑，根据圣经预言创作了《启示录》。
+
+在这组版画中，丢勒通过密集的平行线与交叉线，首次在木刻中表现出丰富的光影层次、体积感和细腻质感。他还采用了“双面印刷，版画为主”的颠覆性设计。一面是整版版画，另一面才是文字。图不再是仅仅出现在角落或者文字间的注解，文字反而成了图的说明。收藏家们甚至开始直接向丢勒购买没有印文字的单页版画。这是版画成为独立的艺术形式的关键转折点。
+
+丢勒的《启示录》还是艺术史上第一部由艺术家创作并自费出版的印刷读物，彻底摆脱了传统上由教会或贵族出资委托的创作模式。而这部《启示录》在整个欧洲的大卖也使得年轻的丢勒很快实现了经济独立，不再依赖权贵的资助。可以说用钱买到了“创作的自由”。
+
+丢勒为了保护自己的权益，在每张画上都刻上了标志性的 “AD” 签名。这是人类艺术史上最早、最著名的商标意识之一。还引发了艺术史上最早的版权诉讼，而且还是跨国的：
+
+在 1506 年，丢勒在威尼斯发现有人在大量盗版他的版画牟利，连 “AD” 签名也一并伪造了。愤怒的丢勒将盗版者告上了威尼斯元老院。当时还没有版权概念，威尼斯法院最终允许复制丢勒的版画，但是禁止在盗版中使用 “AD” 标志。这是历史上首次承认“艺术家的签名作为资产所有权和品质保证”的法律效力。
+
+丢勒在 1511 年出版了《启示录》的第二版。在第一版的 15 幅木刻版画基础上还添加了一幅全新的扉页。我们看到的博洛尼亚国家画廊收藏的版本就是这一珍贵版本。
+
+.博洛尼亚国家画廊的“阿尔布雷希特·丢勒：启示录”特展的官方海报。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/albrecht-durer-apocalisse-exhibition-poster-pinacoteca-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/albrecht-durer-apocalisse-exhibition-poster-pinacoteca-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/albrecht-durer-apocalisse-exhibition-poster-pinacoteca-bologna-4x3-2400.avif 2400w"]
+
+[#four-horsemen]
+== 《四骑士》
+
+丢勒的《启示录》中，公认最杰出的一幅就是《四骑士》，组画中第三幅。
+
+.阿尔布雷希特·丢勒 (Albrecht Dürer) 的《启示录》木刻版画组画中的《四骑士》 (The Four Horsemen)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/albrecht-durer-apocalypse-four-horsemen-3x4-900.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/albrecht-durer-apocalypse-four-horsemen-3x4-900.avif 900w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/albrecht-durer-apocalypse-four-horsemen-3x4-1800.avif 1800w"]
+
+在《圣经·启示录》中，上帝掌管着记录着人类灭亡与最终审判的终极计划的书卷，由七个神圣封印锁住。每揭开一个封印，人间就会降临一场特定的灾难。前四个封印就是象征着征服、战争、饥荒、瘟疫的“启示录四骑士”，也叫“天启四骑士”。丢勒的《四骑士》正是描绘的不可阻挡的四骑士横扫世界的预言。
+
+画面左下的骑士和他的坐骑都是皮包骨头的形象，他正是《圣经·启示录》中唯一有名字的骑士。他的后方还有一个张着大口的怪兽，正在吞噬着被马蹄践踏的人类。这直接对应着圣经原文：“名字叫做死，地府也随着他”。
+
+丢勒还非常激进地在画中打破了阶级划分：马蹄正在践踏着教皇，贵妇，学者和平民。在末日审判面前，人人平等，权贵也无法幸免。
+
+在画面正下方中央，就是丢勒极具辨识度的 “AD” 花押签名。
+
+[#the-opening-of-the-fifth-and-sixth-seals]
+== 《第五和第六印的开启》
+
+在《启示录》组画中，我们还非常喜欢《第五和第六印的开启》 (The Opening of the Fifth and Sixth Seals)，特别是其中拟人化的太阳和月亮。
+
+.阿尔布雷希特·丢勒 (Albrecht Dürer) 的《启示录》木刻版画组画中的《第五和第六印的开启》 (The Opening of the Fifth and Sixth Seals)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/albrecht-durer-apocalypse-opening-fifth-sixth-seals-3x4-900.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/albrecht-durer-apocalypse-opening-fifth-sixth-seals-3x4-900.avif 900w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-albrecht-durer-apocalypse/albrecht-durer-apocalypse-opening-fifth-sixth-seals-3x4-1800.avif 1800w"]
+
+画面的顶层描绘的是第五印开启，天使们为殉道的圣徒分发代表圣洁与救赎的白衣，而圣徒们则呼喊正义的复仇；中层是第六印的开启，天降异象，太阳变黑，月亮变红，星辰坠落；底层则是四处逃难的人类。
+
+虽然从古罗马和古希腊时期就已经出现拟人化的太阳和月亮了，但是丢勒在画中为太阳和月亮赋予了极具张力的痛苦和愤怒的表情，将古老的符号推向了美学的巅峰。
+
