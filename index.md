@@ -1,5 +1,6 @@
 ---
 layout: default
+date: 2026-08-22 16:30:00 +0800
 
 # jekyll-seo-tag
 # see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md

@@ -1,4 +1,6 @@
 ---
+layout: null
+permalink: /sitemap.xml
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -11,10 +13,11 @@
         | sort
         | last
     %}
+    {% assign homepage = site.pages | where: "url", "/" | first %}
     <url>
         <loc>https://lilyroger.com/</loc>
-        <lastmod>{{ latest_date_modified | date: "%Y-%m-%d" }}</lastmod>
-        <changefreq>weekly</changefreq>
+        <lastmod>{{ homepage.date | date: "%Y-%m-%d" }}</lastmod>
+        <changefreq>monthly</changefreq>
     </url>
 
     <!-- The page of the trips collection -->
@@ -22,7 +25,7 @@
     <url>
         <loc>https://lilyroger.com/trips/</loc>
         <lastmod>{{ trips.date_modified | date: "%Y-%m-%d" }}</lastmod>
-        <changefreq>weekly</changefreq>
+        <changefreq>monthly</changefreq>
     </url>
 
     <!-- The page of the items in the trips collection -->
