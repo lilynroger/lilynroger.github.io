@@ -1,0 +1,48 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-palazzo-fava-carracci/enchantments-medea-carracci-palazzo-fava-bologna-detail-4x3-1200.avif
+  alt: 卡拉奇兄弟在博洛尼亚法瓦宫中的湿壁画《在夜色中施法的美狄亚》。
+  width: 1200
+  height: 900
+
+layout: article
+categories: posts
+date: 2026-06-17 10:00:00 +0200
+date_modified: 2026-08-24 13:00:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 艺术, 卡拉奇兄弟]
+tagline: “第一个现代裸体，巴洛克自然主义的起点”。
+description: 博洛尼亚的法瓦宫 (Palazzo Fava) 又名展览宫。卡拉奇兄弟 (Carracci) 在这里创作的湿壁画是公认的 17 世纪巴洛克自然主义艺术的摇篮。其中的《在夜色中施法的美狄亚》被定义为艺术史上的第一个现代女性裸体。
+---
+= 卡拉奇兄弟在博洛尼亚法瓦宫中的湿壁画《在夜色中施法的美狄亚》
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-palazzo-fava-carracci/
+
+博洛尼亚的**法瓦宫** (Palazzo Fava) 又名**展览宫**。当时还年轻的**卡拉奇兄弟** (Carracci) 在这里创作了一组湿壁画并因此一举成名。这组湿壁画被公认为 17 世纪**巴洛克自然主义**艺术的起点和摇篮。尤其是其中的一幅《在夜色中施法的美狄亚》，画中月光下沐浴的美狄亚被定义为艺术史上的**第一个现代女性裸体**。
+
+在 1584 年，博洛尼亚的贵族菲利波·法瓦 (Filippo Fava) 委托当时还年轻的卡拉奇三兄弟为其宫殿绘制壁画。这三兄弟分别是哥哥**阿戈斯蒂诺** (Agostino)、弟弟**安尼巴莱** (Annibale) 以及他们的堂兄**路多维科** (Ludovico)。正是这次合作，让卡拉奇兄弟在艺术界一举奠定了大师地位。
+
+卡拉奇兄弟取材于古希腊和古罗马的古典文学巨著，在法瓦宫的三个房间中分别创作了大型湿壁画组画。
+
+**伊阿宋与美狄亚厅** (Sala di Giasone e Medea) 有 18 幅连环画式的壁画，描绘了希腊神话中阿耳戈英雄伊阿宋寻找金羊毛、以及美狄亚协助他的惊险故事。
+
+.博洛尼亚法瓦宫 (Palazzo Fava) 中的伊阿宋与美狄亚厅 (Giasone e Medea)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-palazzo-fava-carracci/giasone-medea-carracci-palazzo-fava-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-palazzo-fava-carracci/giasone-medea-carracci-palazzo-fava-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-palazzo-fava-carracci/giasone-medea-carracci-palazzo-fava-bologna-4x3-2400.avif 2400w"]
+
+**埃涅阿斯厅** (Sala di Enea) 中有 12 幅作品，取材于古罗马史诗《埃涅阿斯纪》，展现了特洛伊英雄埃涅阿斯流亡与建城的传奇经历。
+
+.博洛尼亚法瓦宫 (Palazzo Fava) 中的埃涅阿斯厅 (Enea)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-palazzo-fava-carracci/enea-carracci-palazzo-fava-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-palazzo-fava-carracci/enea-carracci-palazzo-fava-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-palazzo-fava-carracci/enea-carracci-palazzo-fava-bologna-4x3-2400.avif 2400w"]
+
+此外还有一个**欧罗巴小厅** (Camerino di Europa)，但通常不对参观者开放。
+
+在法瓦宫的这组湿壁画中，名气最大的无疑是伊阿宋与美狄亚厅中的那幅《在夜色中施法的美狄亚》。壁画取材于古罗马诗人奥维德的《变形记》，描绘了美狄亚在月光下的溪流中沐浴净身，向神明祈祷，准备用巫术让爱人伊阿宋病危的父亲返老还童。
+
+.博洛尼亚法瓦宫 (Palazzo Fava) 中的《在夜色中施法的美狄亚》 (The Enchantments of Medea)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-palazzo-fava-carracci/enchantments-medea-carracci-palazzo-fava-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-palazzo-fava-carracci/enchantments-medea-carracci-palazzo-fava-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-palazzo-fava-carracci/enchantments-medea-carracci-palazzo-fava-bologna-4x3-2400.avif 2400w"]
+
+画面中的美狄亚全身赤裸，俯下身子，用手撩起溪水泼向身体。卡拉奇兄弟摒弃了晚期风格主义 (Mannerism) 那种变形、扭曲的人体比例，转而追求自然主义 (Naturalism)。著名艺术史学家安德烈亚·埃米利亚尼 (Andrea Emiliani) 将画中的美狄亚定义为艺术史上的第一个现代女性裸体。
+
+卡拉奇兄弟在这幅壁画中对夜景的探索也是非常超前的。水面的倒影、树影的朦胧感以及暗色调的运用，直接启迪了后来的浪漫主义与理想主义风景画派。
