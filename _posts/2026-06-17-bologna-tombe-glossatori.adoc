@@ -1,0 +1,112 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/tombe-dei-glossatori-bologna-4x3-1200.avif
+  alt: 位于博洛尼亚圣方济各圣殿 (Basilica di San Francesco) 后方的注释者之墓 (Tombe dei Glossatori) 是中世纪法学家的纪墓冢。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/tombe-dei-glossatori-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/tombe-dei-glossatori-bologna-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-17 11:00:00 +0200
+date_modified: 2026-08-31 21:00:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
+tagline: 注释者和公证人的传奇与《天堂法案》的故事
+description: 探访博洛尼亚极具特色的小众景点注释者之墓 (Tombe dei Glossatori)，了解中世纪法学家的传奇历史与《天堂法案》的幕后故事。
+---
+= 博洛尼亚的注释者之墓：中世纪法学家的纪念墓冢
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums: false
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/
+
+当你游览博洛尼亚的**圣多明我圣殿** (Basilica di San Domenico) 和**圣方济各圣殿** (Basilica di San Francesco) 时，一定会被教堂外的几座在高架尖顶小凉廊之中的石棺墓冢所吸引。它们是博洛尼亚极具特色的小众景点之一，被称为**注释者之墓** (Tombe dei Glossatori)，是中世纪杰出法学家的纪念墓冢。
+
+toc::[]
+
+[#glossators-notaries]
+== 注释者和公证人
+
+中世纪时，古罗马的《民法大全》在欧洲复兴。可拉丁文为主的《民法大全》晦涩难懂。博洛尼亚大学作为世界上第一所大学，在创立之初就是以法学奠基。它率先将散落的古罗马法典作为一门独立科学进行系统化研究，使博洛尼亚成为全欧洲唯一能输出先进法学理论和高等法学人才的知识圣地，形成了长达几个世纪的学术垄断。
+
+博洛尼亚大学的法学教授们通过在古罗马法典的行间或页边撰写“注释”来解释和完善法律，因此在法学史上被称为**注释法学派** (Glossators)。正是他们奠定了西方现代法律的根基。在神圣罗马皇帝与教皇旷日持久的权力争斗中，双方都极度依赖博洛尼亚注释者的理论，为各自的合法性寻找法理依据。因此这些注释者都享有极高的社会崇拜。
+
+在法律的执行层面，中世纪所有的商贸契约、财产遗嘱、政府法令，必须由**公证人** (Notaries) 使用拉丁文手写并加盖官方印章，才具备法律效力。这些公证人的领袖也都是顶尖的法学家，他们掌控着城市的经济和行政命脉。到了中世纪晚期，他们更是拥有了惊人的地位，甚至获得了具有独裁色彩的绝对政治权利。
+
+[#tombe-dei-glossatori]
+== 注释者之墓
+
+为了表达对这些法学家的敬意，博洛尼亚的市民们在教堂外为他们修建了精美的纪念墓冢，统称为**注释者之墓**。如今我们还能探访到的注释者之墓一共有五座，其中三座在圣方济各圣殿外，两座在圣多明我圣殿外。
+
+圣方济各圣殿是意大利的第一座纯正的法国哥特式教堂，是意大利建筑史上里程碑式的杰作。在这座教堂的东侧绿地之上，三座注释者之墓排成一排：
+
+* **阿库修斯**之墓 (Arca degli Accursii)
+* **奥多弗雷多**之墓 (Arca di Odofredo)
+* **罗兰迪诺·德·罗马齐**之墓 (Arca di Rolandino Rolandino de' Romanzi)
+
+圣多明我圣殿是博洛尼亚最丰富的艺术宝库之一，天主教道明会的总堂，该修会的创始人圣多明我就长眠于此。在圣多明我圣殿外的两座注释者之墓分别是：
+
+* **罗兰迪诺·德·帕塞杰里**之墓 (Arca di Rolandino de' Passeggeri)
+* **埃吉迪奥·福斯凯拉里**之墓 (Arca di Egidio Foscherari)
+
+[#arca-degli-accursii]
+=== 阿库修斯之墓
+
+在圣方济各圣殿外左边的第一座墓合葬着**阿库西乌斯** (Accursius) 和他的儿子**弗朗切斯科** (Francesco)。阿库西乌斯是拉丁语名字，意大利语叫**阿库西奥**。它是博洛尼亚地位最高的法学泰斗，注释者学派的“集大成者”。
+
+.博洛尼亚的注释者之墓 - 阿库修斯之墓 (Arca degli Accursii)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-accursii-san-francesco-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-accursii-san-francesco-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-accursii-san-francesco-bologna-4x3-2400.avif 2400w"]
+
+阿库西乌斯用毕生精力，将此前约 150 年间、近 97000 条前辈们对《民法大全》的注释梳理编纂成为法学史上著名的《标准注释》 (Glossa Ordinaria)，也被称为《大注释》。在随后几个世纪的欧洲法庭上，注释甚至取代了法典本身，法庭规定：只有那些被《标准注释》所解读、阐释并认可的条文，才具有法律效力。“凡是注释不承认的，法庭一律不予承认”。
+
+阿库西乌斯凭借绝对的权威获得了惊人的财富，甚至富可敌国。如今矗立在博洛尼亚 link:{% post_url 2026-06-15-bologna-piazza-maggiore %}[马焦雷广场 (Piazza Maggiore)] 核心位置的博洛尼亚市政厅，也叫阿库西奥宫 (Palazzo d'Accursio)，就曾是阿库西乌斯为自己建造的私人极奢住宅。
+
+[#odofredo]
+=== 奥多弗雷多之墓
+
+在圣方济各圣殿外中间的一座注释者之墓属于奥多弗雷多 (Odofredo Denari)。他是和阿库西乌斯同时代并驾齐驱的竞争对手，中世纪博洛尼亚大学最受欢迎的法学教授，以极其幽默、生动的教学风格而闻名于世。
+
+奥多弗雷多在招生时留下一句流传至今的名言：“每个人都想获得知识，但没人愿意付出知识的代价。”
+
+.博洛尼亚的注释者之墓 - 奥多弗雷多之墓 (Arca di Odofredo)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-odofredo-san-francesco-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-odofredo-san-francesco-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-odofredo-san-francesco-bologna-4x3-2400.avif 2400w"]
+
+[#rolandino-romanzi]
+=== 罗兰迪诺·德·罗马齐之墓 
+
+在圣方济各圣殿外的第三座注释者之墓属于罗兰迪诺·德·罗马齐。它的凉廊上层由四只小石狮子来托起柱子基座，辨识度很高。罗兰迪诺同样是一位中世纪杰出的法学家、注释法学派代表人物及博洛尼亚大学法学教授。
+
+.博洛尼亚的注释者之墓 - 罗兰迪诺·德·罗马齐之墓 (Arca di Rolandino Rolandino de' Romanzi)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-rolandino-romanzi-san-francesco-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-rolandino-romanzi-san-francesco-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-rolandino-romanzi-san-francesco-bologna-4x3-2400.avif 2400w"]
+
+注意，罗兰迪诺是中世纪很常见的人名。不要把这位罗兰迪诺·德·**罗马齐**和下面介绍的那位罗兰迪诺·德·**帕塞杰里**混淆了。
+
+[#rolandino-passeggeri]
+=== 罗兰迪诺·德·帕塞杰里之墓 
+
+罗兰迪诺·德·帕塞杰里之墓坐落在圣多明我圣殿的前方，紧邻圣殿的一角。
+
+.博洛尼亚的注释者之墓 - 罗兰迪诺·德·帕塞杰里之墓 (Arca di Rolandino de' Passeggeri)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-rolandino-passeggeri-san-domenico-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-rolandino-passeggeri-san-domenico-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-rolandino-passeggeri-san-domenico-bologna-4x3-2400.avif 2400w"]
+
+罗兰迪诺·德·帕塞杰里是生活在在前面提到的那几位注释者之后的法学家。严格说来，这位罗兰迪诺并不是注释者，而是汲取了注释法学派成果、并将其转化为中世纪公证法律制度的公证法学宗师。他撰写的经典巨著《公证艺术总论》为中世纪的公证人提供了合同、遗嘱及法律文书的标准范本与操作指南。这本书在此后的数百年里都是全欧洲公证员的标准教科书。
+
+罗兰迪诺凭借公证人绝对领袖的身份，联合新兴的行会（包括武器行会）平民力量，从传统贵族手中夺取权力，逐步成为博洛尼亚的实际统治者。
+
+罗兰迪诺起草了著名的《天堂法案》，以“人人生而自由，天堂没有奴隶”的崇高名义废除了博洛尼亚范围内的奴隶制，并强力推动由政府出资买断和释放了所有奴隶。这使得博洛尼亚成为世界上第一个在法律上彻底废除奴隶制的城市。这一举措使得 5855 名原本依附于封建贵族的农奴转化为向城市公社纳税的自由公民，削弱了贵族的根基，巩固了城市的税收。值得一提的是，前面提到的注释者罗兰迪诺·德·罗马齐的名字也出现在了《天堂法案》中，他和他的兄弟们签字同意释放了家族的 17 名仆从和奴隶。
+
+罗兰迪诺随后还起草了《神圣法令》与《至圣法令》。这些法案公开剥夺了封建贵族担任城市高级公职的权利，规定唯有商人和行会成员才能治理国家，彻底从宪法层面锁定了平民阶层的统治地位。而他本人也成为统治博洛尼亚数十年、被城市赐予“终身首席执政官”荣誉的平民“独裁者”。
+
+[#egidio-foscherari]
+=== 埃吉迪奥·福斯凯拉里之墓
+
+**埃吉迪奥·福斯凯拉里**之墓也在圣多明我圣殿外，就在罗兰迪诺之墓的后面不远，紧贴着罗兰迪诺路 (Via Rolandino) 上的一幢红砖建筑的墙根。
+
+.博洛尼亚的注释者之墓 - 埃吉迪奥·福斯凯拉里之墓 (Arca di Egidio Foscherari)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-egidio-foscherari-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-egidio-foscherari-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-tombe-glossatori/arca-egidio-foscherari-bologna-4x3-2400.avif 2400w"]
+
+不同于上面提到的几位法学家主要研究民法，埃吉迪奥主攻的是教会法典，是博洛尼亚大学历史上第一位讲授教会法的世俗教授。中世纪的教会法通常由神职人员掌控，但埃吉迪奥凭借对教会法典的精湛诠释，成了教皇和各国君主在宗教法律纠纷上的首席法律顾问。
+
+正是由于教会法教授的身份，他的墓和其他几位法学家的墓在风格上有很大差异。这座建于 1289 年左右的墓非常古朴，融入了早期基督教和拜占庭风格。小凉廊的顶部还想有一块九世纪的大理石浮雕。浮雕上刻有两只面对面饮水的孔雀。在早期基督教艺术中，孔雀喝长生之水象征着灵魂的永生与复活，类似我们的凤凰涅槃和浴火重生。
