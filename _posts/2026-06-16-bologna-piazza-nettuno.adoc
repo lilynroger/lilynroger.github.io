@@ -1,0 +1,43 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/statue-fontana-nettuno-bologna-4x3-1200.avif
+  alt: 位于博洛尼亚海神广场 (Piazza del Nettuno) 之上的海神喷泉 (Fontana del Nettuno)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/statue-fontana-nettuno-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/statue-fontana-nettuno-bologna-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-16 13:00:00 +0200
+date_modified: 2026-09-02 05:00:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 艺术, 詹博洛尼亚]
+tagline: 玛萨拉蒂的三叉戟和詹博洛尼亚的恶作剧
+---
+= 博洛尼亚的海神广场和海神喷泉 (Fontana del Nettuno)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/
+
+博洛尼亚 (Bologna) 的**海神广场** (Piazza del Nettuno) 紧邻老城中心的主广场link:{% post_url 2026-06-15-bologna-piazza-maggiore %}[**马焦雷广场 (Piazza Maggiore)**]。这座广场上最醒目的标志就是著名的**海神喷泉** (Fontana del Nettuno)。
+
+.博洛尼亚的海神广场 (Piazza del Nettuno)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/piazza-nettuno-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/piazza-nettuno-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/piazza-nettuno-bologna-4x3-2400.avif 2400w"]
+
+海神喷泉是在 1563 年，由当时的教宗庇护四世 (Pius IV) 下令建造的。喷泉顶端是罗马神话中海神**尼普顿**（也就是希腊神话中的波塞冬）的巨大青铜像，手持三叉戟，姿态威严。诞生于博洛尼亚的豪车品牌玛萨拉蒂，其三叉戟标志就来源于这座海神雕像。基座四角抱鱼的小天使，分别代表了当时人类所知的四条世界大河：恒河、尼罗河、亚马逊河和多瑙河。喷泉的最底层是四位半人半鱼海仙女。
+
+这座海神雕像是文艺复兴晚期风格主义雕塑大师**詹博洛尼亚** (Giambologna) 的成名作。詹博洛尼亚来自如今属于法国的佛兰德斯地区，本名**让·德·布洛涅** (Jean de Boulogne)。其中“布洛涅”指的是他的出生地，法国北部的布洛涅市。这位艺术家在 1550 年前往罗马深造，之后定居在佛罗伦萨，并成为美第奇家族的宫廷雕塑家。如今广为人知的 Giambologna 这个名字实际上是他的本名经意大利语“本土化”之后的结果。法语的“布洛涅” (Boulogne) 和意大利语“博洛尼亚” (Bologna) 同源，换句话说，两座城市名字相同，只是拼写不同。
+
+有趣的是，据说詹博洛尼亚将海神的男性特征塑造得相当“雄伟”，以至于教宗担心有失体统，下令艺术家将其改小。詹博洛尼亚“阳奉阴违”，服从的同时也调整了海神左手拇指的角度和位置。当你站在喷泉的右侧后方特定的位置仰望时，海神伸出的拇指会恰好与身体重叠，在视觉上还原了被删减的部分。
+
+.从“羞耻”视角看博洛尼亚海神广场 (Piazza del Nettuno) 上的海神雕像 (Fontana del Nettuno)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/statue-fontana-nettuno-bologna-angle-secret-view-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/statue-fontana-nettuno-bologna-angle-secret-view-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/statue-fontana-nettuno-bologna-angle-secret-view-4x3-2400.avif 2400w"]
+
+首先找到海神雕像右后方的**萨拉博萨图书馆** (Salaborsa)，在白色的入口台阶下，地面上有一块颜色较深的长方形石板，人称“羞耻之石” (Pietra della Vergogna)。站着这个点，就可以欣赏海神的“彩蛋”了。萨拉博萨图书馆是博洛尼亚的主图书馆，面向公众免费开放，其中的玻璃地板下是古罗马的考古遗迹。也是海神广场上的一大看点。
+
+如果你对寻找彩蛋乐此不疲，注意到海神喷泉之下的粉红色大理石台阶了吗？那是来自 link:{% post_url 2026-06-17-verona-red-ammonites %}[维罗纳的红大理石 (Rosso Ammonitico)]。在里面可以找到清晰可见的侏罗纪时期的菊石化石。
+
+.在博洛尼亚的海神喷泉的红色维罗纳大理石台阶上，可以找到侏罗纪时期的菊石化石。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/red-ammonites-piazza-nettuno-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/red-ammonites-piazza-nettuno-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/red-ammonites-piazza-nettuno-bologna-4x3-2400.avif 2400w"]
