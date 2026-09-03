@@ -1,28 +1,27 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-welcome-city-card/bologna-welcome-city-card-4x3-1200.avif
-  alt: 博洛尼亚的城市卡 (Bologna Welcome Card)
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-welcome-city-card/bologna-welcome-card-4x3-1200.avif
+  alt: 博洛尼亚的城市旅游卡 (Bologna Welcome Card)
   width: 1200
   height: 900
   sources:
-    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-welcome-city-card/bologna-welcome-city-card-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-welcome-city-card/bologna-welcome-city-card-4x3-2400.avif 2400w
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-welcome-city-card/bologna-welcome-card-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-welcome-city-card/bologna-welcome-card-4x3-2400.avif 2400w
 
 layout: article
 categories: posts
 date: 2026-06-17 10:30:00 +0200
-last_modified_at: 2026-06-17 10:30:00 +0200
-tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
-tagline: 博洛尼亚的城市卡值得买吗？
-description: 博洛尼亚的城市卡 (Bologna Welcome Card) 值得买吗？
+last_modified_at: 2026-09-03 12:30:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 城市卡]
+tagline: 博洛尼亚的城市旅游卡划算吗？
 ---
-= 博洛尼亚的城市卡: Bologna Welcome Card
+= 博洛尼亚的城市旅游卡 (Bologna Welcome Card)
 :page-liquid: true
 :toc: macro
 :toclevels: 2
 :sectnums:
 :imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-welcome-city-card/
 
-博洛尼亚的城市卡 (https://www.bolognawelcome.com/zh/information-zh/bologna-welcome-card-zh[Bologna Welcome Card]) 值得买吗？答案是：**对大多数人，特别是两天以上的行程来讲值得**。
+博洛尼亚的城市旅游卡 (https://www.bolognawelcome.com/zh/information-zh/bologna-welcome-card-zh[Bologna Welcome Card]) 值得买吗？答案是：**对大多数游客，特别是两天以上的行程来讲是划算的**。
 
 toc::[]
 
@@ -38,7 +37,7 @@ toc::[]
 
 * 登顶时钟塔 (Torre dell'Orologio): 俯瞰马焦雷广场的最佳方式，价值 https://www.bolognawelcome.com/en/experiences/300685/Visit-to-the-Clock-Tower--Torre-dell-Orologio--and-to-the-Municipal-Art-Collections[**€10**]。
 
-* 博洛尼亚国家美术馆 (Pinacoteca Nazionale di Bologna): 意大利最顶尖的美术馆之一，价值 https://www.bolognawelcome.com/en/places/museums-and-private-collections/pinacoteca-nazionale-di-bologna-national-gallery[**€12**]。
+* 博洛尼亚国家画廊 (Pinacoteca Nazionale di Bologna): 意大利最顶尖的美术馆之一，价值 https://www.bolognawelcome.com/en/places/museums-and-private-collections/pinacoteca-nazionale-di-bologna-national-gallery[**€12**]。
 
 * 参观生命圣母教堂 (Chiesa di Santa Maria della Vita) 中的《哀悼死去的基督》 (Compianto sul Cristo Morto): 被誉为“石头的呐喊”，文艺复兴时期最重要的陶土雕塑，价值 https://www.bolognawelcome.com/en/places/religious-buildings/church-of-santa-maria-della-vita[**€8**]。
 
@@ -64,4 +63,4 @@ toc::[]
 * https://www.bolognawelcome.com/en/experiences/300685/Visit-to-the-Clock-Tower--Torre-dell-Orologio--and-to-the-Municipal-Art-Collections[登顶时钟塔]
 * https://www.bolognawelcome.com/en/experiences/328761/City-bike-rental[租赁城市自行车]
 
-此外，每逢每月的第一个星期天，是意大利全国性的**博物馆周日** (Domenica al Museo)，意大利的国立博物馆对所有人免费开放，比如博洛尼亚国家美术馆 (Pinacoteca Nazionale di Bologna) 就是如此。如果恰逢博物馆周日，那博洛尼亚城市卡就可能不值了。
+此外，每逢每月的第一个星期天，是意大利全国性的**博物馆周日** (Domenica al Museo)，意大利的国立博物馆对所有人免费开放，比如博洛尼亚国家画廊就是如此。如果恰逢博物馆周日，那博洛尼亚城市卡就可能不值了。
