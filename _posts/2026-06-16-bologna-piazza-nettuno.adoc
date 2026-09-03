@@ -1,16 +1,16 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/statue-fontana-nettuno-bologna-4x3-1200.avif
-  alt: 位于博洛尼亚海神广场 (Piazza del Nettuno) 之上的海神喷泉 (Fontana del Nettuno)。
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/piazza-nettuno-bologna-4x3-1200.avif
+  alt: 博洛尼亚的海神广场 (Piazza del Nettuno)。
   width: 1200
   height: 900
   sources:
-    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/statue-fontana-nettuno-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/statue-fontana-nettuno-bologna-4x3-2400.avif 2400w
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/piazza-nettuno-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/piazza-nettuno-bologna-4x3-2400.avif 2400w
 
 layout: article
 categories: posts
 date: 2026-06-16 13:00:00 +0200
-last_modified_at: 2026-09-02 05:00:00 +0800
+last_modified_at: 2026-09-03 09:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 艺术, 詹博洛尼亚]
 tagline: 玛萨拉蒂的三叉戟和詹博洛尼亚的恶作剧
 ---
@@ -23,10 +23,10 @@ tagline: 玛萨拉蒂的三叉戟和詹博洛尼亚的恶作剧
 
 博洛尼亚 (Bologna) 的**海神广场** (Piazza del Nettuno) 紧邻老城中心的主广场link:{% post_url 2026-06-15-bologna-piazza-maggiore %}[**马焦雷广场 (Piazza Maggiore)**]。这座广场上最醒目的标志就是著名的**海神喷泉** (Fontana del Nettuno)。
 
-.博洛尼亚的海神广场 (Piazza del Nettuno)。
-image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/piazza-nettuno-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/piazza-nettuno-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/piazza-nettuno-bologna-4x3-2400.avif 2400w"]
-
 海神喷泉是在 1563 年，由当时的教宗庇护四世 (Pius IV) 下令建造的。喷泉顶端是罗马神话中海神**尼普顿**（也就是希腊神话中的波塞冬）的巨大青铜像，手持三叉戟，姿态威严。诞生于博洛尼亚的豪车品牌玛萨拉蒂，其三叉戟标志就来源于这座海神雕像。基座四角抱鱼的小天使，分别代表了当时人类所知的四条世界大河：恒河、尼罗河、亚马逊河和多瑙河。喷泉的最底层是四位半人半鱼海仙女。
+
+.位于博洛尼亚海神广场 (Piazza del Nettuno) 之上的海神喷泉 (Fontana del Nettuno)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/statue-fontana-nettuno-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/statue-fontana-nettuno-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/bologna-piazza-nettuno/statue-fontana-nettuno-bologna-4x3-2400.avif 2400w"]
 
 这座海神雕像是文艺复兴晚期风格主义雕塑大师**詹博洛尼亚** (Giambologna) 的成名作。詹博洛尼亚来自如今属于法国的佛兰德斯地区，本名**让·德·布洛涅** (Jean de Boulogne)。其中“布洛涅”指的是他的出生地，法国北部的布洛涅市。这位艺术家在 1550 年前往罗马深造，之后定居在佛罗伦萨，并成为美第奇家族的宫廷雕塑家。如今广为人知的 Giambologna 这个名字实际上是他的本名经意大利语“本土化”之后的结果。法语的“布洛涅” (Boulogne) 和意大利语“博洛尼亚” (Bologna) 同源，换句话说，两座城市名字相同，只是拼写不同。
 
