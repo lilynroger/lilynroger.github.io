@@ -7,9 +7,9 @@ permalink: /destinations/belgium/
 # see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
 canonical_url: https://lilyroger.com/destinations/belgium/
 
-# article:date_modified
+# article:last_modified_at
 # see _includes/head.html
-date_modified: 2026-03-20 12:30:00 +0800
+last_modified_at: 2026-03-20 12:30:00 +0800
 
 # country name in pinyin for nature sorting
 # see _pages/destinations.md

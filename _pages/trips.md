@@ -7,9 +7,9 @@ permalink: /trips/
 # see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
 canonical_url: https://lilyroger.com/trips/
 
-# article:date_modified
+# article:last_modified_at
 # see _includes/head.html
-date_modified: 2026-01-18 20:00:00 +0800
+last_modified_at: 2026-01-18 20:00:00 +0800
 
 title: 旅行
 tagline: 需要旅行的灵感？

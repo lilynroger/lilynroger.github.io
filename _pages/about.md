@@ -7,9 +7,9 @@ permalink: /about/
 # see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
 canonical_url: https://lilyroger.com/about/
 
-# article:date_modified
+# article:last_modified_at
 # see _includes/head.html
-date_modified: 2026-01-15 08:00:00 +0800
+last_modified_at: 2026-01-15 08:00:00 +0800
 
 title: 关于我们
 tagline: "生活, 旅行, 徒步, 马拉松, 网球"

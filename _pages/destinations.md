@@ -7,9 +7,9 @@ permalink: /destinations/
 # see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
 canonical_url: https://lilyroger.com/destinations/
 
-# article:date_modified
+# article:last_modified_at
 # see _includes/head.html
-date_modified: 2026-01-18 18:00:00 +0800
+last_modified_at: 2026-01-18 18:00:00 +0800
 
 title: 目的地
 tagline: 下一次旅行，你想去哪里？

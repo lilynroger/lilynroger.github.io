@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-14 10:00:00 +0800
-date_modified: 2026-07-17 20:00:00 +0800
+last_modified_at: 2026-07-17 20:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 美食]
 tagline: 三虾，三杯，三叉，等等，等等 
 description: 在意大利，《红虾指南》(Gambero Rosso) 被公认为本土饮食界的权威，涵盖葡萄酒、餐馆、咖啡、烘焙、橄榄油、甜点及比萨等意大利饮食文化的方方面面。凭借细致的分级，专业的评审，其地位在当地人心中甚至高于《米其林指南》。

@@ -11,9 +11,9 @@ date: 2026-06-14 08:00:00 +0800
 # see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
 canonical_url: https://lilyroger.com/trips/2026/dolomites/
 
-# article:date_modified
+# article:last_modified_at
 # see _includes/head.html
-date_modified: 2026-07-15 15:00:00 +0800
+last_modified_at: 2026-07-15 15:00:00 +0800
 
 featured: true
 

@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-16 14:00:00 +0200
-date_modified: 2026-08-22 09:00:00 +0800
+last_modified_at: 2026-08-22 09:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 艺术]
 tagline: 拉斐尔的《圣塞西利亚的狂喜》。
 description: 博洛尼亚国家画廊 (Pinacoteca Nazionale di Bologna) 中不可错过的拉斐尔的《圣塞西利亚的狂喜》，以及乔托、提香、维塔莱，还有艾米利亚 (Emilian) 和博洛尼亚画派的杰作。

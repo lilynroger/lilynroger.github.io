@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-15 19:30:00 +0200
-date_modified: 2026-08-05 14:30:00 +0800
+last_modified_at: 2026-08-05 14:30:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
 tagline: 半大理石半红砖的外立面
 description: 博洛尼亚 (Bologna) 的圣彼得罗尼奥大教堂 (Basilica di San Petronio)，也译作圣白托略大殿，坐落于老城中心的马焦雷广场 (Piazza Maggiore) 南面，以其未完工的半大理石、半红砖的外立面成为博洛尼亚最具标志性的景点。

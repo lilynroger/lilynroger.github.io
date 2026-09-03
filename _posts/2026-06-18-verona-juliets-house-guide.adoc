@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-18 09:00:00 +0100
-date_modified: 2026-06-18 09:00:00 +0100
+last_modified_at: 2026-06-18 09:00:00 +0100
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
 tagline: 朱丽叶的阳台和右胸
 description: 在维罗纳 (Verona) 的朱丽叶之家 (Juliet's House / Casa di Giulietta) 参观阳台、博物馆，抚摸朱丽叶铜像的右胸，最新的在线购票和预约指南，以及使用维罗纳旅游卡 (Verona Card) 的攻略。

@@ -1,6 +1,6 @@
 = 徒步路线的类型 - 环形, 往返, 点对点
 :page-date: 2025-08-28 08:00:00 +0800
-:page-date_modified: 2025-11-11 08:00:00 +0800
+:page-last_modified_at: 2025-11-11 08:00:00 +0800
 :page-subtitle: Hiking Trail Route Types
 :page-image: /assets/images/2025/lofoten-faroe/hiking-trail-route-types/hiking-trail-route-types.webp
 :page-categories: posts

@@ -10,7 +10,7 @@ image:
 = 在法国乘火车 - 游客的法国火车小知识
 :page-layout: article
 :page-categories: posts
-:page-date_modified: 2026-01-25 08:00:00 +0800
+:page-last_modified_at: 2026-01-25 08:00:00 +0800
 :page-date: 2026-01-25 08:00:00 +0800
 :page-tags: [2026-Alps-Lofoten, 欧洲, 西欧, 法国, 巴黎, 机场, 交通]
 :toc: macro

@@ -10,7 +10,7 @@ image:
 = 巴黎戴高乐机场指南 (2026)
 :page-layout: article
 :page-categories: posts
-:page-date_modified: 2026-02-08 06:00:00 +0100
+:page-last_modified_at: 2026-02-08 06:00:00 +0100
 :page-date: 2026-02-07 07:00:00 +0100
 :page-tags: [2026-Alps-Lofoten, 欧洲, 西欧, 法国, 巴黎, 机场]
 :page-tagline: 航站楼，火车站和公共交通

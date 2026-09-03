@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-16 13:00:00 +0200
-date_modified: 2026-09-02 05:00:00 +0800
+last_modified_at: 2026-09-02 05:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 艺术, 詹博洛尼亚]
 tagline: 玛萨拉蒂的三叉戟和詹博洛尼亚的恶作剧
 ---

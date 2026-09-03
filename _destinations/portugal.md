@@ -9,9 +9,9 @@ canonical_url: https://lilyroger.com/destinations/portugal/
 
 date: 2026-03-07 16:00:00 +0800
 
-# article:date_modified
+# article:last_modified_at
 # see _includes/head.html
-date_modified: 2026-03-07 16:00:00 +0800
+last_modified_at: 2026-03-07 16:00:00 +0800
 
 # country name in pinyin for nature sorting
 # see _pages/destinations.md

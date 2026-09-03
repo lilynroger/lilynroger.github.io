@@ -8,7 +8,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-17 10:00:00 +0200
-date_modified: 2026-08-24 13:00:00 +0800
+last_modified_at: 2026-08-24 13:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 艺术, 卡拉奇兄弟]
 tagline: “第一个现代裸体，巴洛克自然主义的起点”。
 description: 博洛尼亚的法瓦宫 (Palazzo Fava) 又名展览宫。卡拉奇兄弟 (Carracci) 在这里创作的湿壁画是公认的 17 世纪巴洛克自然主义艺术的摇篮。其中的《在夜色中施法的美狄亚》被定义为艺术史上的第一个现代女性裸体。

@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-16 12:30:00 +0200
-date_modified: 2026-08-15 13:30:00 +0800
+last_modified_at: 2026-08-15 13:30:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 艺术, 雕塑, 阿方索·隆巴迪]
 tagline: “能够与米开朗基罗相媲美”。
 description: 阿方索·隆巴迪 (Alfonso Lombardi) 的巅峰杰作《圣母的葬礼》 (Funerali della Vergine) 陶土群雕收藏在博洛尼亚生命圣母教堂的祷告堂 (Oratorio di Santa Maria della Vita) 中。

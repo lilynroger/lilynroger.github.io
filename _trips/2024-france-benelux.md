@@ -13,9 +13,9 @@ date: 2024-09-03 07:00:00 +0800
 # see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
 canonical_url: https://lilyroger.com/trips/2024/france-benelux/
 
-# article:date_modified
+# article:last_modified_at
 # see _includes/head.html
-date_modified: 2026-01-14 20:00:00 +0800
+last_modified_at: 2026-01-14 20:00:00 +0800
 
 title: 法比荷卢之旅
 tagline: 红酒，香槟和博物馆之旅。

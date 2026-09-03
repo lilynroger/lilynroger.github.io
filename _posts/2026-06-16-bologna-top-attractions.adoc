@@ -9,10 +9,10 @@ image:
 
 layout: article
 categories: posts
-date: 2026-06-16 08:00:00 +0200
-date_modified: 2026-06-16 08:00:00 +0200
+date: 2026-06-16 18:00:00 +0200
+last_modified_at: 2026-09-02 08:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
-tagline: 广场，教堂，塔楼，美术馆
+tagline: 广场，教堂，双塔，美术馆
 ---
 = 博洛尼亚 (Bologna) 的 10 个最佳景点
 :page-liquid: true

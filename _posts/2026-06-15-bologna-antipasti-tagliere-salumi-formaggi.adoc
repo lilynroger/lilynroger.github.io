@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-15 15:30:00 +0200
-date_modified: 2026-07-25 10:00:00 +0800
+last_modified_at: 2026-07-25 10:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
 tagline: 香肠，火腿和奶酪
 description: 在意大利博洛尼亚 (Bologna) 的传统小馆中，莫塔代拉大香肠 (Mortadella)、帕尔马火腿和帕尔马干酪是餐前菜 (Antipasti) 和木板冷切拼盘 (Tagliere) 中的经典老三样。

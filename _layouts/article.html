@@ -38,12 +38,12 @@ layout: skeleton
               <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
                 {{ page.date | date: date_format }}
               </time>
-              {%- if page.date_modified -%}
+              {%- if page.last_modified_at -%}
               <span class="fst-italic">
                 <span>更新: </span>
-                <time class="dt-modified" datetime="{{ page.date_modified | date_to_xmlschema }}"
+                <time class="dt-modified" datetime="{{ page.last_modified_at | date_to_xmlschema }}"
                   itemprop="dateModified">
-                  {{ page.date_modified | date: date_format }}
+                  {{ page.last_modified_at | date: date_format }}
                 </time>
               </span>
               {%- endif -%}
@@ -95,10 +95,6 @@ layout: skeleton
           {% endif %}
         </footer>
       </article>
-
-      <aside>
-
-        <aside>
 
     </div>
   </div>

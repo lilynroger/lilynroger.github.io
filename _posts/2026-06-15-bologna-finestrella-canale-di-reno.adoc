@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-15 15:00:00 +0200
-date_modified: 2026-07-22 21:30:00 +0800
+last_modified_at: 2026-07-22 21:30:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
 tagline: 雷诺运河和小威尼斯
 description: 皮耶拉路上的小窗户 (Finestrella di Via Piella) 是博洛尼亚的一处小众打卡点，也被称为“小威尼斯之窗”。透过它可以欣赏到源于中世纪的雷诺运河 (Canale di Reno) 的一段水域。

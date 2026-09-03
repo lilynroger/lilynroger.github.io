@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-15 18:30:00 +0200
-date_modified: 2026-07-31 15:00:00 +0800
+last_modified_at: 2026-07-31 15:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 美食]
 tagline: “胖子之城”的传统市集
 description: 博洛尼亚 (Bologna) 最值得一去的市集，包括四方区 (Quadrilatero)，城中市场 (Mercato di Mezzo)，香草市场 (Mercato delle Erbe)，重现市场 (Mercato Ritrovato)。
