@@ -10,12 +10,12 @@ image:
 layout: article
 categories: posts
 date: 2026-06-15 19:30:00 +0200
-last_modified_at: 2026-08-11 20:50:00 +0800
+last_modified_at: 2026-09-03 09:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 阿方索·隆巴迪, 米开朗基罗, 尼科洛·戴尔·阿卡, 圭多·雷尼]
 tagline: 圣龛和年轻的米开朗基罗
 description: 博洛尼亚的圣多美尼克大教堂 (Basilica di San Domenico, Bologna) 是天主教道明会的总部，安放着其创始人圣多美尼克的遗骸圣龛 (Arca)。这里收藏着阿方索·隆巴迪、尼科洛·戴尔·阿卡、圭多·雷尼、米开朗基罗等多位大师的艺术珍宝。
 ---
-= 博洛尼亚 (Bologna) 的圣多美尼克大教堂 (Basilica di San Domenico)
+= 博洛尼亚的圣多美尼克大教堂 (Basilica di San Domenico)
 :page-liquid: true
 :toc: macro
 :toclevels: 2
