@@ -10,13 +10,13 @@ image:
 layout: article
 categories: posts
 date: 2026-06-16 17:00:00 +0200
-last_modified_at: 2026-08-23 19:00:00 +0800
+last_modified_at: 2026-09-03 09:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚, 艺术, 阿尔布雷希特·丢勒]
 tagline: 丢勒 27 岁时的“第一桶金”。
 title_display: 阿尔布雷希特·丢勒的《启示录》和《四骑士》
 description: 阿尔布雷希特·丢勒 (Albrecht Dürer) 的《启示录》 (Apocalypse) 在艺术史和印刷史上都具有划时代的里程碑地位，而其中的《四骑士》 (The Four Horsemen) 更是木刻版画的巅峰之作。
 ---
-= 阿尔布雷希特·丢勒的《启示录》和《四骑士》 (The Four Horsemen of the Apocalypse, Albrecht Dürer)
+= 阿尔布雷希特·丢勒的《启示录》和《四骑士》
 :page-liquid: true
 :toc: macro
 :toclevels: 2
