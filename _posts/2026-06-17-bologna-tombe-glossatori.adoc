@@ -10,12 +10,12 @@ image:
 layout: article
 categories: posts
 date: 2026-06-17 11:00:00 +0200
-last_modified_at: 2026-08-31 21:00:00 +0800
+last_modified_at: 2026-09-03 10:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 博洛尼亚]
 tagline: 注释者和公证人的传奇与《天堂法案》的故事
-description: 探访博洛尼亚极具特色的小众景点注释者之墓 (Tombe dei Glossatori)，了解中世纪法学家的传奇历史与《天堂法案》的幕后故事。
+description: 探访博洛尼亚极具特色的小众景点注释者之墓 (Tombe dei Glossatori)，了解中世纪法学家的传奇历史与《天堂法案》废奴的幕后故事。
 ---
-= 博洛尼亚的注释者之墓：中世纪法学家的纪念墓冢
+= 博洛尼亚的小众景点：注释者之墓 (Tombe dei Glossatori)
 :page-liquid: true
 :toc: macro
 :toclevels: 2
