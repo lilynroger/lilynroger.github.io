@@ -1,0 +1,4 @@
+// 在选中的菜单项中显示勾选图标
+.navbar .dropdown-item.active .lr-icon {
+    display: block !important;
+}

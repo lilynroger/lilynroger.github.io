@@ -1,0 +1,10 @@
+.lr-icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -.125em;
+    fill: currentcolor;
+}
+
+.navbar .dropdown-item.active .lr-icon {
+    display: block !important;
+}
