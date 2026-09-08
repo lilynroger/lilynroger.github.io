@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lily & Roger 的旅行博客
+title: 我们的旅行故事
 lang: zh
 locale: zh_CN
 author: Lily & Roger
