@@ -1,0 +1,132 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/piazza-erbe-verona-4x3-1200.avif
+  alt: 香草广场 (Piazza Erbe) 是维罗纳 (Verona) 的心脏。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/piazza-erbe-verona-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-17 15:00:00 +0200
+last_modified_at: 2026-09-06 09:00:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
+tagline: 承载两千年历史变迁的露天博物馆
+description: 香草广场 (Piazza Erbe) 也译作百草广场，是维罗纳 (Verona) 最古老的广场。从两千多年前的古罗马广场，到中世纪和文艺复兴的菜市场，再到如今游人如织的市集，它一直是这座城市心脏和灵魂所在。
+---
+= 维罗纳 (Verona) 的心脏，香草广场 (Piazza Erbe) 的十大看点
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/
+
+**香草广场** (Piazza Erbe) 也常译作**百草广场**，是维罗纳 (Verona) 最古老、最繁华的广场。从两千多年前的古罗马广场 (Forum)，到中世纪和文艺复兴的菜市场，再到如今游人如织的市集，它一直是这座城市心脏和灵魂所在。
+
+toc::[]
+
+意大利语中的 Erbe 本意是“草”、“蔬菜”。如今意大利好多地方都有的香草广场其实过去就是农贸市场。维罗纳的这座香草广场是其中最有名的，得名于十四世纪，并将传统一直延续到几百年后的今天。每天清晨，广场中央就会撑起一排排标志性的白色遮阳伞。成排的摊位售卖着新鲜的果蔬、鲜花、旅游纪念品和当地小吃。
+
+狭长的香草广场上的看点有很多。这篇攻略聚焦于其中的核心看点，是我们自己的香草广场随身指南。
+
+[#palazzo-maffei]
+== 马费宫
+
+香草广场北侧漂亮的巴洛克式建筑是**马费宫** (Palazzo Maffei)，如今是座私立博物馆。马费宫屋顶上装饰着六尊希腊神像。其中右侧的五座雕像都是十七世纪建造宫殿时，用维罗纳红大理石雕刻的；最左侧的大力神**赫拉克勒斯**是唯一的白色大理石雕像，据信是在挖掘宫殿地基时发现的一件古罗马文物，被当时的马费家族直接安放在此。
+
+.维罗纳香草广场上的马费宫 (Palazzo Maffei)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/palazzo-maffei-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/palazzo-maffei-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/palazzo-maffei-piazza-erbe-verona-4x3-2400.avif 2400w"]
+
+[#torre-del-gardello]
+== 加尔代洛塔
+
+紧邻马费宫的砖塔是**加尔代洛塔** (Torre del Gardello)，由**斯卡利杰里**家族 (Scaligeri) 第四代统治者**坎西尼奥里奥** (Cansignorio) 下令建造，于 1370 年完工，是欧洲最古老的钟塔之一。塔高 44 米，在当时是维罗纳最高的建筑，直到后来被邻近的**朗贝尔蒂塔** (Torre dei Lamberti) 超越。塔顶有中世纪风格的双连拱窗和**雉堞**（齿状装饰），燕尾形的齿也宣示了对**神圣罗马帝国皇帝**的效忠（凸凹的矩形齿则代表效忠教皇）。钟楼内原来有一口青铜钟，如今已经被移至**老城堡博物馆** (Castelvecchio Museum) 保存。
+
+.维罗纳香草广场上的加尔代洛塔 (Torre del Gardello)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/torre-gardello-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/torre-gardello-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/torre-gardello-piazza-erbe-verona-4x3-2400.avif 2400w"]
+
+[#colonna-di-san-marco]
+== 圣马可之柱
+
+在马费宫前方树立着**圣马可之柱** (Colonna di San Marco)。这根大理石柱立于 1523 年。当时维罗纳属于威尼斯共和国的领土，威尼斯人习惯在每个属地的核心广场竖起“圣马可翼狮”（威尼斯共和国的象征）宣誓主权。不过这根柱子上的翼狮在 1797 年拿破仑占领维罗纳时被毁，现在看到的是 1886 年重新制作补上的。
+
+.维罗纳香草广场上的圣马可之柱 (Colonna di San Marco)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/colonna-san-marco-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/colonna-san-marco-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/colonna-san-marco-piazza-erbe-verona-4x3-2400.avif 2400w"]
+
+[#case-mazzanti]
+== 马赞蒂之家
+
+在香草广场东北侧，那座有着引人注目的壁画外墙的建筑是**马赞蒂之家** (Case Mazzanti)。这座历史建筑在十二世纪曾被统治维罗纳的斯卡利杰里家族用作粮仓。到了十六世纪，富商马赞蒂家族购得了这座建筑。
+
+在文艺复兴时期的维罗纳富裕家族中，流行在住宅的外墙上装饰壁画。维罗纳在当时就曾获得“彩绘之城” (Urbs Picta) 的美誉。马赞蒂家族聘请了曼托瓦画家**阿尔贝托·卡瓦利** (Alberto Cavalli) 在外墙上绘制了精美的壁画。这位画家是文艺复兴大师、矫饰主义奠基人**朱利奥·罗马诺** (Giulio Romano) 的弟子，而罗马诺是**拉斐尔**最得意的门生。马赞蒂之家的壁画一直保留至今，是彩绘之城最具代表性的见证者。
+
+.维罗纳香草广场上的马赞蒂家 (Case Mazzanti)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/case-mazzanti-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/case-mazzanti-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/case-mazzanti-piazza-erbe-verona-4x3-2400.avif 2400w"]
+
+[#fontana-di-madonna-verona]
+== 维罗纳圣母喷泉
+
+在香草广场中央树立的喷泉是维罗纳的地标和城市象征之一，被称为**维罗纳圣母喷泉** (Fontana di Madonna Verona)，也是由斯卡利杰里家族的坎西尼奥里奥下令建造的。
+
+维罗纳圣母喷泉是中世纪意大利“文物再利用”传统的典范之一。圣母雕像的身体是公元四世纪的古罗马文物；而头部和手臂是建造喷泉时加上的；喷泉巨大的底层水盆取自古罗马时期的公共温泉浴场。
+
+这座雕像虽然名为“圣母”，但她实际上是维罗纳这座城市的拟人化象征，并不是圣母玛利亚。雕像双手持有一条铜制卷轴，上面刻有维罗纳中世纪公社的拉丁语座右铭，大意是“本城伸张正义，崇尚荣誉”。
+
+.维罗纳香草广场上的维罗纳圣母喷泉 (Fontana di Madonna Verona)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/fontana-di-madonna-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/fontana-di-madonna-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/fontana-di-madonna-piazza-erbe-verona-4x3-2400.avif 2400w"]
+
+[#capitello]
+== 白色石亭
+
+在香草广场中央，有一座四角形的白色大理石小亭子。在中世纪和文艺复兴时期，这个亭子有很多作用，新官宣誓、宣读法令、罪犯示众等等。除了这些，它还有一个有趣的作用，那就是**度量衡标准**。亭子的柱子上刻有线条，代表了当时的长度标准；台阶上刻有凹槽，这是用来测量粮食、橄榄、豆子等散装物资的官方容器标准。柱子上还有一条锁链连着一个“镣铐”，它其实也是度量衡标准，用来测量一捆木材是否足量。当然，也确实被用做过镣铐，锁住在市场上欺诈的商贩、小偷和其他罪犯示众。
+
+.维罗纳香草广场中央的白色石亭 (Il Capitello)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/capitello-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/capitello-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/capitello-piazza-erbe-verona-4x3-2400.avif 2400w"]
+
+[#torre-dei-lamberti]
+== 朗贝尔蒂塔
+
+在香草广场东侧醒目的高塔是**朗贝尔蒂塔** (https://www.torredeilamberti.it/en/[Torre dei Lamberti])。它是维罗纳最高的塔楼，登上朗贝尔蒂塔顶可俯瞰香草广场和欣赏维罗纳全景。
+
+朗贝尔蒂塔高 84 米，由两个风格不同的部分组成：下部的墙体上砖块和凝灰岩块交替排列，形成规则的条带，历史可以追溯至十二世纪；而上部则完全由砖块建造，其历史可以追溯到十五世纪下半叶。游客可以选择塔内的 368 级台阶攀登至全景露台和钟楼，也可以乘坐电梯节省体力。
+
+攀登朗贝尔蒂塔需要购票，可以在塔楼底部的售票处直接购买，全价票是 6,00 € (2026)。参观票中还包含了旁边的**阿基莱·福蒂现代艺术馆** (Galleria d'Arte Moderna Achille Forti) 以及其中精美的巴洛克风格的**公证人礼拜堂** (La Cappella dei Notai)。
+
+推荐购买link:{% post_url 2026-06-17-verona-card %}[维罗纳城市旅游卡 (Verona Card)]，其中包含了朗贝尔蒂塔的门票。
+
+.紧邻维罗纳香草广场的朗贝尔蒂塔 (Torre dei Lamberti)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/torre-lamberti-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/torre-lamberti-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/torre-lamberti-piazza-erbe-verona-4x3-2400.avif 2400w"]
+
+[#arco-della-costa]
+== 肋骨拱门
+
+紧邻朗贝尔蒂塔，在香草广场通往旁边的领主广场 (Piazza dei Signori) 的拱门之下，悬挂着一根巨大的鲸鱼肋骨。它是维罗纳不可错过的小众打卡点之一。正是因为这根传奇的肋骨，这座拱门被称为**肋骨拱门** (Arco della Costa)；而连接维罗纳两座核心广场的这条小路被称为**肋骨路** (Via della Costa)。
+
+++++
+{% related slugs="verona-arco-della-costa" %}
+++++
+
+[#colonna-del-mercato]
+== 市场之柱
+
+与香草广场北侧的圣马可之柱呼应，广场南侧也有一根大理石柱，官方称之为**市场之柱** (Colonna del Mercato)。市场之柱的柱顶是一个非常精致的哥特式小神龛。神龛的四个面都有壁龛，里面雕刻着精美的浮雕人像，分别是圣母玛利亚以及三位圣人。其中一位圣人是维罗纳最核心的主保圣人**圣泽诺** (San Zeno) 的经典形象：微笑着的主教，手持鱼竿，鱼竿上还挂着鱼。圣泽诺也是全世界渔民和垂钓者的主保圣人哦。
+
+市场之柱建于米兰领主**维斯孔蒂**家族 (Visconti) 统治时期的 1401 年，是展示其统治维罗纳的纹章与特权的政治地标，因此也称为**维斯孔蒂之柱**。
+
+.维罗纳香草广场的市场之柱 (Colonna del Mercato)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/colonna-mercato-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/colonna-mercato-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/colonna-mercato-piazza-erbe-verona-4x3-2400.avif 2400w"]
+
+[#bauli]
+== 宝丽甜点店
+
+如果你逛香草广场累了，不要错过位于广场最南端的 Minuto Bauli 甜点店，就在去往朱丽叶之家的必经之路上。
+
+.维罗纳香草广场 Minuto Bauli 甜点店的小黄金面包配杏子果酱。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/minuto-bauli-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/minuto-bauli-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/minuto-bauli-piazza-erbe-verona-4x3-2400.avif 2400w"]
+
+这家甜点店是由意大利百年烘焙巨头**宝丽** (Bauli) 创立的甜点品牌 Minuto Bauli 的旗舰店。宝丽的核心产品**维罗纳黄金面包** (Pandoro di Verona) 是意大利最著名的圣诞节传统甜点之一，起源可以追溯到中世纪。在 Minuto Bauli 店里售卖的则是微缩版、单人份的小黄金面包。意大利语 Minuto 既有分钟的意思，也是袖珍的意思。品牌的宣传语 __1 minuto can change your day__ 一语双关。 
+
+++++
+{% related slugs="verona-food-drinks-guide" %}
+++++
