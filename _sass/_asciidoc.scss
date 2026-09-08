@@ -377,6 +377,7 @@ article {
     color: var(--bs-body-color);
     position: relative; // Ensure the text stays on top of the quote
     z-index: 1;
+    font-style: italic;
   }
 
   .quoteblock .attribution {
