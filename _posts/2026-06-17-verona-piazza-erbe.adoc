@@ -79,10 +79,11 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-er
 [#capitello]
 == 白色石亭
 
-在香草广场中央，有一座四角形的白色大理石小亭子。在中世纪和文艺复兴时期，这个亭子有很多作用，新官宣誓、宣读法令、罪犯示众等等。除了这些，它还有一个有趣的作用，那就是**度量衡标准**。亭子的柱子上刻有线条，代表了当时的长度标准；台阶上刻有凹槽，这是用来测量粮食、橄榄、豆子等散装物资的官方容器标准。柱子上还有一条锁链连着一个“镣铐”，它其实也是度量衡标准，用来测量一捆木材是否足量。当然，也确实被用做过镣铐，锁住在市场上欺诈的商贩、小偷和其他罪犯示众。
+在香草广场中央，有一座四角形的白色大理石小亭子。在中世纪和文艺复兴时期，这个亭子有很多作用，新官宣誓、宣读法令、罪犯示众等等。除了这些，它还有一个有趣的作用，那就是**度量衡标准**。亭子的柱子上刻有线条，代表了当时的长度标准；台阶上刻有凹槽，这是官方规定的建筑砖块和瓦片的标准尺寸。柱子上还有一条锁链连着一个“镣铐”，它其实也是度量衡标准，用来测量一捆木材是否足量。
 
-.维罗纳香草广场中央的白色石亭 (Il Capitello)。
-image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/capitello-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/capitello-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe/capitello-piazza-erbe-verona-4x3-2400.avif 2400w"]
+++++
+{% related slugs="verona-piazza-erbe-capitello" %}
+++++
 
 [#torre-dei-lamberti]
 == 朗贝尔蒂塔
