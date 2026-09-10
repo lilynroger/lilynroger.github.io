@@ -1,0 +1,51 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/capitello-piazza-erbe-verona-4x3-1200.avif
+  alt: 维罗纳 (Verona) 香草广场 (Piazza Erbe) 上的凉亭中藏着古代维罗纳的度量衡标准。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/capitello-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/capitello-piazza-erbe-verona-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-17 15:30:00 +0200
+last_modified_at: 2026-09-10 08:00:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
+tagline: Capitello, Tribuna, Berlina
+description: 在维罗纳(Verona) 香草广场 (Piazza Erbe) 中央有一座白色大理石凉亭。在中世纪和文艺复兴时期，它有很多作用，新官宣誓 (Capitello)、宣读法令 (Tribuna)、罪犯示众 (Berlina)。它还藏着古代维罗纳的度量衡标准。
+---
+= 维罗纳香草广场 (Piazza Erbe) 上的石亭中藏着古代维罗纳的度量衡标准
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/
+
+在维罗纳的香草广场中央，矗立着一座由四根石柱支撑的白色大理石四角凉亭。在中世纪和文艺复兴时期，这个凉亭有很多作用，新官宣誓、宣读法令、罪犯示众。除了这些，它还有一个有趣的作用，那就是官方**度量衡标准**。
+
+这座石亭在大约 1207 年树立，在 1378 年**斯卡利杰里**家族 (Scaligeri) 统治时期重建，之后又历经多次翻修。意大利语 Capitello 是古代维罗纳人对它的称呼，这个词汇也泛指这种独立的小亭子或者神龛。中世纪的法律规定，新到任的最高行政长官 (Podestà) 必须在这座石亭之下，当众接过象征维罗纳城防的铁钥匙和权杖，将手按在《维罗纳城市法规》上宣誓就职。
+
+香草广场是维罗纳的中央集市和城市心脏。中世纪时每当市政厅或领主颁布新法令或者公示宣判书时，传令官就会在石亭中高声宣读。所以，这座石亭也被叫做**宣谕台** (Tribuna)，源自古罗马对向公众宣布法令、昭谕民众的高台的称呼。
+
+在 1405 年威尼斯共和国吞并维罗纳之后，香草广场北侧树立起来的**圣马可之柱** (Colonna di San Marco) 取代了中央石亭的政治地位。石亭的司法和惩戒功能被逐渐放大。各种不法商贩、破产商人、小偷小摸以及亵渎宗教者，常年被铁链锁在石亭的柱子上示众。**耻辱柱** (Berlina) 取而代之成了石亭的名字。
+
+如果走进石亭仔细观察，就会发现几百年前的维罗纳人留下的古代商业度量衡标准。在石亭的基座台阶上，刻有凹槽，这是官方规定的建筑砖块和瓦片的标准尺寸。
+
+.维罗纳香草广场上的石亭台阶上仍然留有中世纪维罗纳的官方建筑材料标准。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/grooves-capitello-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/grooves-capitello-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/grooves-capitello-piazza-erbe-verona-4x3-2400.avif 2400w"]
+
+石亭的一根柱子上刻有线条，清晰地保留着当时的三种法定长度标准；这根柱子上还挂着一条锁链连着一个“镣铐”，它其实也是度量衡标准，用来测量一捆木材是否足量。
+
+.维罗纳香草广场上的石亭柱子上仍然留有中世纪维罗纳的长度度量标准，甚至还有核对木柴捆粗细的铁环。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/measurements-capitello-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/measurements-capitello-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/measurements-capitello-piazza-erbe-verona-4x3-2400.avif 2400w"]
+
+紧邻石亭一侧有一个长方形的大理石水槽。水槽之上是意大利雕刻艺术中被称为 Mascherone 的人面怪兽出水口，用维罗纳红大理石雕刻而成。水槽的一侧的十字盾徽是维罗纳的城市象征。这个水槽即是集市上的洗涤槽，同时也是一个**浸水刑具**。中世纪维罗纳的城市法规明文规定亵渎神明者和欺诈的“罪犯将被在石亭侧面的水池中反复浸泡三次”。
+
+.维罗纳香草广场上的石亭侧面的大理石水槽即是洗涤槽，也是一个“浸水刑具”。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/vasca-capitello-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/vasca-capitello-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/vasca-capitello-piazza-erbe-verona-4x3-2400.avif 2400w"]
+
+说到link:{% post_url 2026-06-17-verona-red-ammonites %}[维罗纳红大理石]，在石亭附近的地面上，你能找到藏在维罗纳红大理石地砖中的漂亮的**侏罗纪菊石化石**吗？
+
+.维罗纳香草广场上，藏在维罗纳红大理石地砖中的侏罗纪菊石化石。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/ammonite-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/ammonite-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-piazza-erbe-capitello/ammonite-piazza-erbe-verona-4x3-2400.avif 2400w"]
