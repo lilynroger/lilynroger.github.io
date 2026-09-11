@@ -13,6 +13,7 @@ last_modified_at: 2026-01-15 08:00:00 +0800
 
 title: 关于我们
 tagline: "生活, 旅行, 徒步, 马拉松, 网球"
+description: 欢迎来到我们的旅行博客。这里是有关我们的一点信息，以及如何联系我们。
 image_base: about/where-do-we-come-from-what-are-we-where-are-we-going-by-paul-gauguin
 image_alt: "这幅由保罗·高更于 1897 年创作的名作，是一幅具有哲学思辨色彩的后印象派巨制，它通过从右向左展现的婴儿、壮年及老妪等意象，深刻隐喻了人类从诞生到死亡的生命轮回，并借标题向世人发出了关于“我们从哪里来？我们是谁？我们往哪里去？”的终极哲学三问。"
 

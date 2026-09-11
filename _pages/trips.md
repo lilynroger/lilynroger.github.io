@@ -13,6 +13,7 @@ last_modified_at: 2026-01-18 20:00:00 +0800
 
 title: 旅行
 tagline: 需要旅行的灵感？
+description: 这里是我们历次旅行的时间线。从这里出发，可以找到属于每一次旅行的行程，游记，指南和攻略。
 image_base: trips/funningur-the-faroe-islands
 image_alt: 在丹麦的法罗群岛 (The Faroe Islands)，被深邃峡湾环抱的古老村庄 Funningur 相传是维京人最早的落脚地。它的名字意为“发现”。
 ---
