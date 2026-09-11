@@ -1,35 +1,35 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-detail-4x3-1200.avif
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-leone-verona-contrabbando-via-dante-detail-4x3-1200.avif
   alt: 维罗纳 (Verona) 理性宫 (Palazzo della Ragione) 外墙上的一个用于秘密举报的“狮子之口” (Bocche di Leone / Lions' Mouths) 信箱。
   width: 1200
   height: 900
   sources:
-    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-detail-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-detail-4x3-2400.avif 2400w
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-leone/bocche-leone-verona-contrabbando-via-dante-detail-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-leone-verona-contrabbando-via-dante-detail-4x3-2400.avif 2400w
 
 layout: article
 categories: posts
-date: 2026-06-17 15:45:00 +0200
-last_modified_at: 2026-06-17 15:45:00 +0200
+date: 2026-06-17 14:30:00 +0200
+last_modified_at: 2026-09-11 20:30:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
 tagline: 威尼斯共和国的“耳目”
-description: 在维罗纳 (Verona) 也有类似威尼斯 (Venice) 的、被称为“狮子之口” (Bocche di Leone / Lions' Mouths) 的秘密举报信箱。有两个就在理性宫 (Palazzo della Ragione) 的外墙上。
+description: 在维罗纳也有类似威尼斯的、被称为“狮子之口” (Bocche di Leone / Lions' Mouths) 的秘密举报信箱。有两个就在理性宫 (Palazzo della Ragione) 的外墙上。
 ---
-= 维罗纳的秘密举报信箱: 狮子之口 
+= 维罗纳的秘密举报信箱: 狮子之口 (Lions' Mouths)
 :page-liquid: true
 :toc: macro
 :toclevels: 2
 :sectnums:
 :imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/
 
-在维罗纳 (Verona)，你也能找到类似威尼斯 (Venice) 那样的秘密举报信箱，被称为“狮子之口” (Bocche Di Leone / Lions' Mouths)。保存最好的两个就在历史中心的领主广场 (Piazza dei Signori) 旁，理性宫 (Palazzo della Ragione) 的外墙上。
+在维罗纳，你也能找到类似威尼斯那样的秘密举报信箱，被称为“狮子之口” (Bocche Di Leone / Lions' Mouths)。保存最好的两个就在历史中心的领主广场 (Piazza dei Signori) 旁，理性宫 (Palazzo della Ragione) 的外墙上。
 
-[[history]]
-== 狮子之口的历史背景
+[#history]
+== 狮子之口的历史
 
 维罗纳的狮子之口和威尼斯的一样，是威尼斯共和国时期建立起来的一套严密且超前的司法实践系统。
 
-公元 1310 年，在挫败了一场差一点就成功的贵族政变之后，威尼斯政府意识到，传统的公开法庭无法察觉贵族私下的阴谋。为此，政府迅速成立了十人委员会 (Consiglio dei Dieci)，一个拥有绝对权力的秘密情报与司法机构。“狮子之口”正是这个机构延伸到民间和外地（包括维罗纳）的“共和国耳目”。
+公元 1310 年，在挫败了一场差一点就成功的贵族政变之后，威尼斯政府意识到，传统的公开法庭无法察觉贵族私底下的阴谋。为此，政府迅速成立了十人委员会 (Consiglio dei Dieci)，一个拥有绝对权力的秘密情报与司法机构。“狮子之口”正是这个机构延伸到民间和外地，包括维罗纳的“共和国耳目”。
 
 “狮子之口”的初衷当然不是鼓励人们相互告密，主要目标其实是当权者和贵族，而非普通百姓。目的是为了防止精英篡权、打击经济犯罪和维护社会秩序。
 
@@ -51,8 +51,7 @@ description: 在维罗纳 (Verona) 也有类似威尼斯 (Venice) 的、被称�
 
 虽然官方文件称其为秘密举报之口，但民众都叫它“狮子之口”。一方面，**圣马可之狮** (Leone di San Marco) 是威尼斯共和国的象征。民众认为这些信箱是“国家的耳目”，向信箱投信就等同于直接向“威尼斯狮子”告发，因此得名。另一方面，早期的举报箱确实被雕刻成完整的狮子头形状，暗示举报者的声音会通过狮子的嘴传达到最高统治者耳中。
 
-[TIP]
-圣马可之狮源于基督教《圣经》中《启示录》的四活物之一。在基督教艺术中，四位福音书作者都有对应的象征物，其中圣马可 (San Marco) 的象征就是长翅膀的狮子。传说公元 828 年，两名威尼斯商人将圣马可的遗骸从埃及亚历山大港偷运回威尼斯。从此，圣马可成为威尼斯的守护神，有翼的狮子也成了国家的图腾。
+**圣马可之狮：**圣马可之狮源于基督教《圣经》中《启示录》的四活物之一。在基督教艺术中，四位福音书作者都有对应的象征物，其中圣马可 (San Marco) 的象征就是长翅膀的狮子。传说公元 828 年，两名威尼斯商人将圣马可的遗骸从埃及亚历山大港偷运回威尼斯。从此，圣马可成为威尼斯的守护神，有翼的狮子也成了国家的图腾。
 
 随着时间的推移，为了管理不同类别的犯罪，政府开始在信箱旁加注详细的说明文字（铭文），并开始有了不同的形象和风格，比如怪诞的人脸和面具。
 
@@ -73,7 +72,7 @@ description: 在维罗纳 (Verona) 也有类似威尼斯 (Venice) 的、被称�
 这个狮子之口的具体位置是**理性宫**面向**领主广场**，靠近**但丁路**的外墙上。就在街角餐厅 (Impero Pizza) 的门旁。
 
 .维罗纳 (Verona) 理性宫 (Palazzo della Ragione) 外墙上的一个用于秘密举报高利贷的“狮子之口” (Bocche di Leone / Lions' Mouths) 信箱。
-image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-usurai-piazza-signori-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-usurai-piazza-signori-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-usurai-piazza-signori-4x3-2400.avif 2400w"]
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-leone-verona-usurai-piazza-signori-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-leone-verona-usurai-piazza-signori-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-leone-verona-usurai-piazza-signori-4x3-2400.avif 2400w"]
 
 这个“狮子之口”与当时的财政官办公室相连，专门用于接收针对高利贷者的举报。平民的债务问题可能引发暴乱，所以当时高利贷被视为破坏社会稳定的重罪，等同于叛国。政府通过收集这些“秘密举报”，维持社会的信贷平衡。
 
@@ -92,12 +91,12 @@ ____
 这个狮子之口的具体位置是**理性宫**在**但丁路**一侧的外墙上，靠近**领主广场**的一端。
 
 .维罗纳 (Verona) 理性宫 (Palazzo della Ragione) 外墙上的一个用于秘密举报丝绸走私的“狮子之口” (Bocche di Leone / Lions' Mouths) 信箱。
-image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-4x3-2400.avif 2400w"]
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-leone-verona-contrabbando-via-dante-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-leone-verona-contrabbando-via-dante-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-leone-verona-contrabbando-via-dante-4x3-2400.avif 2400w"]
 
 当时丝绸是威尼斯共和国（包括维罗纳）最赚钱的支柱产业。政府对丝绸的生产、加工和贸易实行极严格的垄断和高税收。如果有人私设黑作坊，走私丝绸，甚至试图将丝绸相关技术传授给外国人，这些行为在当时被视为“动摇国本”。
 
 .维罗纳 (Verona) 理性宫 (Palazzo della Ragione) 外墙上的一个用于秘密举报丝绸走私的“狮子之口” (Bocche di Leone / Lions' Mouths) 信箱细节。
-image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-detail-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-detail-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-di-leone-verona-contrabbando-via-dante-detail-4x3-2400.avif 2400w"]
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-leone-verona-contrabbando-via-dante-detail-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-leone-verona-contrabbando-via-dante-detail-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-bocche-di-leone/bocche-leone-verona-contrabbando-via-dante-detail-4x3-2400.avif 2400w"]
 
 石板上的铭文是：
 
