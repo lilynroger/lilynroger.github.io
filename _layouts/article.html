@@ -72,8 +72,8 @@ layout: skeleton
               <div class="col-12 col-md-6">
                 {% if page.previous %}
                 <a href="{{ page.previous.url | relative_url }}"
-                  class="nav-card btn btn-light d-flex flex-column align-items-start p-3 h-100 text-start">
-                  <small class="text-body-secondary mb-1">&laquo; 上一篇</small>
+                  class="nav-card btn d-flex flex-column align-items-start p-3 h-100 text-start bg-body-tertiary text-body">
+                  <small class="mb-1">&laquo; 上一篇</small>
                   <span>{{ page.previous.title }}</span>
                 </a>
                 {% endif %}
@@ -82,8 +82,8 @@ layout: skeleton
               <div class="col-12 col-md-6 text-md-end">
                 {% if page.next %}
                 <a href="{{ page.next.url | relative_url }}"
-                  class="nav-card btn btn-light d-flex flex-column align-items-md-end p-3 h-100 text-md-end text-start">
-                  <small class="text-body-secondary mb-1">下一篇 &raquo;</small>
+                  class="nav-card btn d-flex flex-column align-items-md-end p-3 h-100 text-md-end text-start bg-body-tertiary text-body">
+                  <small class="mb-1">下一篇 &raquo;</small>
                   <span>{{ page.next.title }}</span>
                 </a>
                 {% endif %}
