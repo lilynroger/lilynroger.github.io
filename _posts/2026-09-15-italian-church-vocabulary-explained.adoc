@@ -1,0 +1,140 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/basilica-santa-maria-maggiore-4x3-1200.avif
+  alt: 位于罗马的圣母宗座大殿 (Basilica Papale di Santa Maria Maggiore)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/basilica-santa-maria-maggiore-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/basilica-santa-maria-maggiore-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-09-16 08:00:00 +0800
+tags: [2026-Dolomites, 欧洲, 意大利, 教堂]
+tagline: 什么是主教座堂、圣殿、朝圣地、礼拜堂？
+---
+= 意大利语教堂词汇: Chiesa, Cattedrale, Duomo, Basilica, Santuario, Cappella 有什么区别？
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/
+
+在意大利语中，教堂有 Chiesa, Cattedrale, Duomo, Basilica, Santuario, Cappella 等等不同的专有词汇。它们有什么区别？这篇短文是我们有关欧洲教堂词汇的意大利语篇，既是我们的随身旅行小贴士，也用于在我们的旅行故事中统一翻译。
+
+toc::[]
+
+[#chiesa]
+== 教堂 (Chiesa) 是通称
+
+意大利语 Chiesa 是最基础、最通用的词汇，是所有教堂的统称。
+
+[#cattedrale]
+== 主教座堂 (Cattedrale) 是主教的正式驻地
+
+意大利语 Cattedrale 是一个严格的行政头衔，特指拥有主教宝座 (Cattedra)、作为主教正式驻地的教堂，是一个教区 (Diocesi) 内最高级别的教堂。中文译作“主教座堂”。
+
+主教座堂是一个比较容易混淆的词汇。这里举两个比较典型的例子：
+
+* 教宗作为罗马主教，梵蒂冈的**圣彼得大教堂** (Basilica Papale di San Pietro) 是他的主要活动场所。但教宗的法定驻地，也就是主教座堂其实是**拉特兰圣约翰大教堂** (Basilica di San Giovanni in Laterano)，并不是名气大的多的圣彼得大教堂。
+
+* 博洛尼亚的**圣彼得罗尼奥大教堂** (Basilica di San Petronio) 地处老城心脏，是城市的名片。但是，博洛尼亚的主教座堂其实是**圣彼得主教座堂** (Cattedrale di San Pietro)。甚至连博洛尼亚官方旅游信息网站的中文版上，都**错误地**把圣彼得罗尼奥大教堂翻译成了“圣白托略主教座堂”。
+
+[#duomo]
+== 大教堂 (Duomo) 是城市的主教堂
+
+意大利语 Duomo 是非官方的、基于传统的称号，通常是一座城市最重要、规模最大的教堂。中文常常通俗地译作“大教堂”。
+
+一个常见的误区是把 Duomo 和 Cattedrale 划了等号。一座城市中的 Duomo 通常也是主教座堂，但也有个别的 Duomo 没有主教座堂的法律地位。这种情况通常是由教区划分或者历史变更的原因导致的结果。典型的例子有：
+
+* **蒙扎** (Monza) 的核心教堂被称为**蒙扎大教堂** (Duomo di Monza)，它是城里规模最大、最重要的教堂。但蒙扎在教区划分上属于米兰总教区，而米兰的主教座堂是**米兰大教堂** (Duomo di Milano)。蒙扎大教堂并不是主教座堂。
+
+* **斯卡拉** (Scala) 的**圣洛伦佐大教堂** (Duomo di San Lorenzo) 历史上曾经是斯卡拉教区的主教座堂。随着斯卡拉教区并入阿马尔菲总教区，圣洛伦佐大教堂失去了主教座堂的地位。阿马尔菲的圣安德烈大教堂 (Duomo di Sant'Andrea) 是教区的主教座堂。
+
+[#basilica]
+== 圣殿/大殿 (Basilica) 是教宗认证的名胜
+
+意大利语 Basilica 是一种荣誉称号。由教宗授予那些具有重要的朝圣价值、收藏有重要圣物、或发生过特殊宗教事件的教堂。
+
+拥有圣殿头衔的教堂名称是中文翻译中最混乱的地方之一。天主教传统上常把“圣殿”一词用于统称；在用于特定教堂名称中时，通常翻译为“圣殿”或者“大殿”；而在现代通俗的教堂中文名字中，“教堂”和“大教堂”则非常普遍。
+
+我们来看看一些细节。首先，圣殿分为两个主要等级（这里的教堂中文名称我们以现代通俗译名为主）：
+
+* **特级圣殿 (Basilica Maggiore):** 全球仅有四座，全部位于罗马。名气最大的是**圣彼得大教堂**；地位最高的是**拉特兰圣约翰大教堂**。另外两座分别是**城外圣保罗大教堂** (Basilica Papale di San Paolo fuori le Mura) 和**圣母大教堂** (Basilica Papale di Santa Maria Maggiore)。
+
+* **次级圣殿 (Basilica Minore):** 也译作“乙级圣殿”，是除了四座特级圣殿之外的其余一千多座圣殿，分布在世界各地。
+
+此外，在 2006 年，前教宗**本笃十六世** (Benedict XVI) 宣布将七座由教宗直接管辖的圣殿改称**宗座圣殿** (Basilica Papale)。这几座宗座圣殿包括：
+
+* 特级宗座圣殿: 全部四座特级圣殿都是宗座圣殿，所以特级圣殿和特级宗座圣殿是同义词。
+
+* 次级宗座圣殿：有三座极其重要的次级圣殿同时也是宗座圣殿，包括罗马的**城外圣洛伦佐大教堂** (Basilica di San Lorenzo Fuori le Mura)、阿西西的**圣弗朗西斯科教堂** (Basilica di San Francesco d'Assisi)、阿西西的**天使之后教堂** (Basilica di Santa Maria degli Angeli in Porziuncola)
+
+具体到某个特定的圣殿，除了现代通俗中文名称以外，天主教传统中文名称也经常被提及。特级圣殿都是统一用“大殿”这一称呼，比如圣彼得大教堂也译作**圣伯多禄大殿**；拉特兰圣约翰大教堂也译作**拉特朗圣若望大殿**。对于次级圣殿，则“大殿”和“圣殿”混用，比如阿西西的圣弗朗西斯科教堂也译作**阿西西的圣方济各圣殿**；博洛尼亚的圣彼得罗尼奥大教堂也译作**圣白托略大殿**。
+
+值得一提的是，拉特兰圣约翰大教堂是至高无上的。它的官方全称 Arcibasilica Papale di San Giovanni in Laterano 中的 Arcibasilica 是它专属的，前缀 "arci-"表示“首要的”。
+
+互联网上一个很常见的误区是将普通的次级圣殿错翻成了宗座圣殿。我们的实践是**对于次级圣殿，通俗名字用“教堂”；天主教名字用“圣殿”。如果已经存在常用名，“大教堂”和“大殿”也可以**。
+
+[#santuario]
+== 朝圣地 (Santuario) 是信徒朝圣的地点
+
+意大利语 Santuario 指因特定圣人、圣像或圣物而成为信众朝圣目标的教堂。中文常常译作“朝圣地”，有时也译作“圣堂”。
+
+比如博洛尼亚的**圣路加圣母朝圣地** (https://www.santuariodisanluca.it/[Santuario della Beata Vergine di San Luca])，供奉着一幅据传由**圣路加**亲笔绘制的拜占庭风格的圣母像，还修建了世界上最长的 link:{% post_url 2026-06-16-bologna-portico-san-luca %}[**圣路加拱廊**](Portico di San Luca)，以便保护朝圣游行中的圣母像。
+
+[#cappella]
+== 礼拜堂 (Cappella) 是小型弥撒场所
+
+意大利语 Cappella 指较小的举行弥撒的场所，一般没有固定的常住神职人员，可以是大教堂内的侧室，或者设在医院、学校、机场等机构内部，也可以是独立的小型建筑。中文译作“礼拜堂”，有时也译作“小堂”。
+
+中文网络中著名的托斯卡纳“小耳朵教堂”，就是一间礼拜堂。正式的名称是维塔莱塔圣母礼拜堂 (Cappella della Madonna di Vitaleta)。
+
+[#oratorio]
+== 祈祷室 (Oratorio) 是特定团体进行宗教活动的场所
+
+意大利语 Oratorio 指的是通常属于特定团体，主要用于歌唱、诵经、讲授和灵修聚会的场所。中文译作“祈祷室”。不同于礼拜堂，祈祷室的核心功能不是举行弥撒。
+
+[#battistero]
+== 洗礼堂 (Battistero) 是专门举行洗礼的建筑
+
+意大利语 Battistero 指专门用于施行洗礼的独立建筑，通常呈圆形或多边形，与主教座堂分开。
+
+[#other-terminologies]
+== 其他相关词汇
+
+这里还有一些相关词汇。
+
+[#architectural-styles-basilica]
+=== 巴西利卡 (Basilica) 是建筑类型
+
+值得一提的是 Basilica 一词还有另一个用法，指的是一种平面呈长方形、带柱廊和半圆形后殿的古罗马公共建筑。后来的基督教教堂建筑布局便是源于此。当指代这种建筑类型时，标准的翻译是音译为”巴西利卡“。
+
+[#monastero]
+=== 隐修院 (Monastero) 是避世隐修会的修院
+
+意大利语 Monastero 指的是修士和修女进行避世隐修生活的修院，比如本笃会 (Benedictini) 的修士和修女。中文译作“隐修院”。
+
+隐修院 Monastero 一词源自古希腊语，原意就是指“离群索居”。隐修院通常位于乡村。修士或修女通常会终身生活在隐修院的围墙之内，几乎不与外界接触。通过务农、酿酒自给自足。
+
+有意思的一点是，尽管英语世界中的 Monastery 倾向于僧院，住男修士，但在意大利，它的本质是避世隐修的修行方式，与性别无关。比如如果你在意大利看到**圣克莱尔隐修院** (Monastero di Santa Chiara)，里面住的都是修女。
+
+[#convento]
+=== 修道院 (Convento) 是入世修会的修院
+
+意大利语 Convento 指的是**托钵修会**（比如**方济各会**和**多明我会**）的修士和修女修行和生活的场所。中文直接译作“修道院”。
+
+修道院 Convento 一词源自拉丁语，原意就是指“聚在一起”。修道院的修士或修女并不与世隔绝，正相反，修道院向公众开放。修士和修女白天会走出修道院，去外面的学校教书、去医院做护士、或者在社区服务，晚上回到修道院共同生活。所以确切的说 Convento 指的是入世修会修院。
+
+和隐修院 (Monastero) 一样，尽管英语世界中的 Convent 倾向住修女，但在意大利，修道院 (Convento) 的本质也是修行的方式，与性别无关。如果你在意大利看到**圣方济各修道院** (Convento di San Francesco)，里面住的都是穿着棕色长袍的男修士。
+
+佛罗伦萨著名的**圣马可修道院** (Convento di San Marco) 就是多明我会的修道院。意大利语 Fra 一词是其中的男修士的谦称，本意就是“兄弟”。修道院中闻名于世的《天使报喜》湿壁画就是出自文艺复兴大师**安吉利科修士** (Fra Angelico) 之手，而大师本人就是修道院中的修士。
+
+[#abbazia]
+=== 大隐修院 (Abbazia) 是有崇高地位的隐修院
+
+意大利语 Abbazia 指的是教会法律上拥有崇高地位的隐修院。中文常译作“大隐修院”。
+
+大隐修院 Abbazia 与普通隐修院 Monastero 不同的核心在于自治权和院长的头衔和地位。只有少数规模、财富和地位达到顶峰的隐修院才能升级为大隐修院。一个大隐修院的院长的地位甚至相当于一个主教。在中世纪和文艺复兴时期的鼎盛时期，许多大隐修院享有管辖权，院墙之外的周围几十个村庄、土地、甚至普通乡村教堂，都不归当地的城市主教管辖，而是直接归这座大隐修院的院长管辖。
+
+不同于自给自足的普通隐修院，大隐修院历史上更像封建地主，拥有皇帝或者教宗赐予的权利，周边整个山谷、农田的税收、佃农的租金全额都归这座大隐修院所有。所以，大隐修院往往拥有惊人的财富，宏伟的城堡。其中的修士们完全不用担心温饱问题。
