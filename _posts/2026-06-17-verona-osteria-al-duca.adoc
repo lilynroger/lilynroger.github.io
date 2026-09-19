@@ -1,0 +1,115 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/osteria-al-duca-verona-4x3-1200.avif
+  alt: "罗密欧的马厩中的公爵酒馆 (Osteria al Duca): 维罗纳最古老的餐馆。"
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/osteria-al-duca-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/osteria-al-duca-verona-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-17 18:30:00 +0200
+last_modified_at: 2026-09-19 15:45:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 美食, 餐馆]
+tagline: 砂锅公爵和慢炖马肉
+---
+= 罗密欧马厩中的公爵酒馆 (Osteria al Duca): 维罗纳最古老的餐馆
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/
+
+公爵酒馆 (https://www.osteriaalduca.it/home-en.html[Osteria al Duca]) 是意大利维罗纳 (Verona) 最古老、最具传奇色彩的传统酒馆。民间传说它就建在罗密欧故居的马厩中，加上地道的传统维罗纳菜肴和极具性价比的套餐，使其成为游客和美食爱好者必打卡的地标去处。
+
+toc::[]
+
+[#casa-di-romeo]
+== 罗密欧故居的马厩
+
+公爵小馆位于维罗纳老城中心的一栋始建于十三世纪的红砖建筑中，距离著名的**斯卡利杰罗**领主墓 (Arche Scaligere) 只有几步之遥。这栋建筑是一座典型的中世纪宫殿，拥有高大的拱门，外墙上带有漂亮的燕尾垛。民间认为这座宫殿属于中世纪真实存在的**蒙太古**家族的宫殿，莎士比亚笔下的罗密欧则是虚构的蒙太古家族继承人。
+
+.维罗纳的公爵酒馆 (Osteria al Duca) 所在的罗密欧故居 (Casa di Romeo)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/casa-di-romeo-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/casa-di-romeo-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/casa-di-romeo-verona-4x3-2400.avif 2400w"]
+
+如今这栋建筑是一座私人住宅。门旁的外墙上挂着两块大理石板，一块标记着“罗密欧故居” (Casa di Romeo)，同时还镌刻着但丁在维罗纳流放时在《神曲·炼狱篇》写下的有关蒙太古家族的诗句；另一块镌刻着《罗密欧和朱丽叶》中的经典台词。
+
+.维罗纳的公爵酒馆 (Osteria al Duca) 所在的罗密欧故居 (Casa di Romeo) 的外墙。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/casa-di-romeo-verona-stone-plaques-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/casa-di-romeo-verona-stone-plaques-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/casa-di-romeo-verona-stone-plaques-4x3-2400.avif 2400w"]
+
+公爵小馆所在的位置最初是宫殿的马厩，几个世纪前改建成了一间驿站和客栈，一直到十九世纪末才改成了酒馆。在 1880 年代，这家酒馆正式更名为公爵酒馆。这个名字的背后是当时的一位维罗纳草根市民的传奇故事。
+
+[#duca-pignata]
+== 砂锅公爵的狂欢节
+
+**西罗·祖利亚尼** (Siro Zuliani) 曾是维罗纳一家公司的小职员。在 1882 年的维罗纳狂欢节 (Carnevale di Verona) 期间，维罗纳圆形竞技场举办了一场热气球表演，祖利亚尼自己掏钱为官方提供了一个巨型热气球。不仅如此，他还亲自穿上贵族礼服，挂在热气球上飞跃了维罗纳城。他用与自己姓氏谐音的法国贵族姓氏命名了这次热气球表演：“圣朱利安公爵 (Duca di Saint Julien) 的奇幻升空”。
+
+祖利亚尼这个疯狂的热气球秀使他一炮走红，全城百姓开始称他为“公爵”。第二年，维罗纳遭遇了大洪水，祖利亚尼再次自掏腰包为城市建了一座灾后纪念碑。这些慷慨的举动完全不像个领着死工资的小职员。于是，街坊邻居开始传言他“在老家地窖里挖出了装满金币的大砂锅”。风趣的祖利亚尼顺水推舟，干脆在闹市的一个橱窗里展示了一个硕大的砂锅，还附上字条：“这就是公爵发现的那口砂锅”。这个玩笑使他彻底火遍全城，他也获得了“皮尼亚塔公爵” (Duca della Pignata) 这一“美称”。而 Pignata 就是“砂锅”的意思。
+
+到了 1884 年的维罗纳狂欢节期间，祖利亚尼更是砸下大笔金钱，资助了花样百出的狂欢节活动。在花车巡游中，一个骑兵队引领着他的“砂锅花车”，花车上一群头戴砂锅形帽子的小孩作为“小砂锅”随从，簇拥着那口声名大噪的大砂锅，他本人则趾高气扬地坐在奢华的公爵马车上紧随其后。“砂锅公爵”迎来了他人生中最高光的时刻。然而，狂欢节之后不到一个月，“公爵”就在旅馆中饮弹自尽了。
+
+这家开在“罗密欧的马厩中”的酒馆，正是祖利亚尼和他的“狂欢节委员会”成员们最常喝酒聚会的地点。在他的悲剧自杀之后，为了纪念这位为城市带来欢笑的“砂锅公爵”。酒馆正式改名为“公爵酒馆”，酒馆的招牌也换成了一口带着皇冠的双耳砂锅，代代相传。而“砂锅花车”巡游也成为维罗纳狂欢节的保留节目，在“土豆团子星期五” (Venerdì Gnocolar) 之后的“砂锅星期一” (Luni Pignatar) 举行。
+
+**砂锅公爵的秘密：**其实，祖利亚尼的钱是他买彩票中的大奖。可即便是这笔巨款也无法支撑他的挥霍，他疯狂举债，最终因为无力偿还而自杀。
+
+[#osteria]
+== 维罗纳的传统酒馆
+
+在中世纪时，意大利语 Osteria 指的是路边的驿站和客栈，店里只卖酒。后来也开始提供一些下酒菜，慢慢地就演变成了如今的小餐馆。公爵酒馆就是最有代表性的传统酒馆之一，仍然保留着许多中世纪以来的经典元素。酒馆天花板的木质横梁正是十三世纪的马厩棚顶留存下来的老古董，名人墙上挂着从橡木酒桶上拆下来的木板装饰。
+
+.维罗纳的公爵酒馆 (Osteria al Duca) 的内景。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/interior-osteria-duca-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/interior-osteria-duca-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/interior-osteria-duca-verona-4x3-2400.avif 2400w"]
+
+在酒馆的楼梯旁挂着一块黑板，上面除了酒馆的地址和电话之外，还用方言写着一首打油诗。这首打油诗出自中世纪修道院的僧侣们，在意大利可以说家喻户晓。总结起来就是一句话：“喝吧，先生们！ (Bevemo Siori!)”。
+
+[verse]
+____
+喝酒的人就会喝醉
+喝醉的人就会睡觉
+睡觉的人就不会做坏事
+不作坏事的人就能上天堂
+那么，为了能上天堂
+**喝吧，先生们！**
+____
+
+如果你也想通了，要来点红酒，吧台旁挂着红色的酒单。在维罗纳，当然要尝尝本地的**瓦尔波利切拉**红酒 (Valpolicella)，要是不差钱，顶级红酒**阿玛罗尼** (Amarone) 也是当地的！
+
+.维罗纳的公爵酒馆 (Osteria al Duca) 的吧台。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/counter-osteria-duca-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/counter-osteria-duca-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/counter-osteria-duca-verona-4x3-2400.avif 2400w"]
+
+传统的意大利餐馆怎么能没有“女巫”。公爵酒馆里当然也挂满了拿着扫帚的**贝法娜**女巫 (La Befana) 布偶。不过不用担心，贝法娜是善良的女巫，能扫走晦气，带来好运。每年的 1 月 5 日深夜，贝法娜还会从烟囱爬进人家，把这一家的地板和烟囱打扫干净。听话的小孩会收到礼物，而调皮的就只有煤块！
+
+.维罗纳的公爵酒馆 (Osteria al Duca) 中的贝法娜女巫 (La Befana)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/befana-osteria-duca-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/befana-osteria-duca-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/befana-osteria-duca-verona-4x3-2400.avif 2400w"]
+
+[#food]
+== 四十年不变的菜单
+
+世代经营公爵酒馆的家庭坚守传统，在过去 40 多年的时间里，坚持不改菜单，主打维罗纳当地的手工意面和传统肉食，其中以马肉和驴肉最为出名。这些风味菜常常被形容为“硬核”，“重口味”。其实那是对西方人而言，对中国胃来讲，谈不上！我们选择了酒馆最经典的每人 26 欧元的套餐，第一道是主食，第二道是主菜。
+
+第一道主食我们推荐选两种新鲜意面：
+
+* Bigoli: 手工压面机挤压出来的圆面条，比较粗。
+* Pappardelle: 手工擀制的宽带面。
+
+公爵酒馆中 Bigoli 的经典是驴肉酱新鲜粗面条 (Bigoli al torchio con ragù d'asino)。
+
+.维罗纳公爵酒馆 (Osteria al Duca) 中的驴肉酱新鲜粗面条 (Bigoli al torchio con ragù d'asino)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/bigoli-ragu-asino-osteria-duca-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/bigoli-ragu-asino-osteria-duca-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/bigoli-ragu-asino-osteria-duca-verona-4x3-2400.avif 2400w"]
+
+而 Pappardelle 宽带面配的是鸭肉酱 (Pappardelle al ragù d'anitra)。
+
+.维罗纳公爵酒馆 (Osteria al Duca) 中的鸭肉酱新鲜宽带面 (Pappardelle al ragù d'anitra)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/pappardelle-ragu-anitra-osteria-duca-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/pappardelle-ragu-anitra-osteria-duca-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/pappardelle-ragu-anitra-osteria-duca-verona-4x3-2400.avif 2400w"]
+
+如果你还没有尝试过维罗纳的马肉菜，第二道主菜我们推荐的是**红酒慢炖马肉** (Pastissada de Caval) 配玉米糊 (Polenta)。这道菜是维罗纳最具标志性的传统名菜。马肉在红酒和香料中慢炖到软烂，配上玉米糊一起上桌。
+
+.维罗纳公爵酒馆 (Osteria al Duca) 中的红酒慢炖马肉 (Pastissada de Caval) 配玉米糊 (Polenta)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/pastissada-caval-osteria-duca-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/pastissada-caval-osteria-duca-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-osteria-al-duca/pastissada-caval-osteria-duca-verona-4x3-2400.avif 2400w"]
+
+最后，说到公爵酒馆的味道嘛，强烈推荐新鲜的手工肉酱面，非常好吃，搭配上红酒更佳。至于马肉，地方名菜不好错过，但和我们的炖肉还是有相当的差距的。
+
+++++
+{% related slugs="verona-food-drinks-guide" %}
+++++
