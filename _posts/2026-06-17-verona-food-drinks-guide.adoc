@@ -1,96 +1,106 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pandoro-verona-4x3-1200.avif
-  alt: 八角星形的维罗纳黄金面包 (Pandoro di Verona) 是意大利最著名的圣诞节传统甜点之一。
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pastissada-caval-osteria-duca-verona-4x3-1200.avif
+  alt: 维罗纳公爵酒馆 (Osteria al Duca) 中的红酒慢炖马肉 (Pastissada de Caval) 配玉米糊 (Polenta)。
   width: 1200
   height: 900
   sources:
-    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pandoro-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pandoro-verona-4x3-2400.avif 2400w
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pastissada-caval-osteria-duca-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pastissada-caval-osteria-duca-verona-4x3-2400.avif 2400w
 
 layout: article
 categories: posts
-date: 2026-06-17 11:00:00 +0200
-last_modified_at: 2026-06-17 11:00:00 +0200
+date: 2026-06-17 19:00:00 +0200
+last_modified_at: 2026-09-19 22:30:00 +0200
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 美食]
-tagline: 黄金面包、阿玛罗尼红酒和马肉料理
+tagline: 维罗纳的传统名菜真的重口味吗？
 ---
-= 维罗纳 (Verona) 的美食和美酒指南
+= 阿玛罗尼红酒、慢炖马肉和黄金面包：维罗纳 (Verona) 的葡萄酒和美食指南
 :page-liquid: true
 :toc: macro
 :toclevels: 2
 :sectnums:
 :imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/
 
-在维罗纳 (Verona) 吃什么？在这篇攻略中，我们将分享在维罗纳一定要品尝的当地美酒和经典美食，从瓦尔波利切拉 (Valpolicella) 红酒、阿玛罗尼烩饭 (Risotto all'Amarone) 到潘多罗黄金面包 (Pandoro)。
+在意大利的维罗纳 (Verona) 吃什么？在这篇攻略中，我们分享了在维罗纳不可错过的当地葡萄酒和传统美食，从**瓦尔波利切拉** (Valpolicella) 红酒、**阿玛罗尼**红酒烩饭 (Risotto all'Amarone)、慢炖马肉、到**潘多罗**黄金面包 (Pandoro)。
 
 toc::[]
 
-[[valpolicella-amarone]]
-== 瓦尔波利切拉红酒 (Valpolicella) 
+[#valpolicella-amarone]
+== 瓦尔波利切拉葡萄酒 (Valpolicella) 
 
-坐落在维罗纳北部的 **瓦尔波利切拉** (Valpolicella) 是意大利东北部威尼托 (Veneto) 大区最负盛名的红葡萄酒法定产区，顶级红酒 **阿玛罗尼** (Amarone) 就是出自这个产区。
+坐落在维罗纳北部的**瓦尔波利切拉**是意大利东北部威尼托大区最负盛名的红葡萄酒法定产区，顶级红酒**阿玛罗尼** (Amarone) 就是出自这个产区。
 
-主要的几款瓦尔波利切拉产区的葡萄酒包括：
+主要的几款瓦尔波利切拉葡萄酒包括：
 
 * **瓦尔波利切拉** (Valpolicella DOC): 基础款，带有标志性的樱桃风味.
 * **里帕索** (Valpolicella Ripasso DOC): 号称“小阿玛罗尼”，在基础款中加入阿玛罗尼剩下的葡萄皮渣二次发酵而成。
-* **阿玛罗尼** (Amarone della Valpolicella DOCG): 产区之王，风干葡萄酿造的独特工艺，强劲饱满的口感、高酒精度 (15-16%) 。
-* **雷乔托** (Recioto della Valpolicella DOCG): 奢华的甜红葡萄酒，同样风干葡萄酿造，只是提早终止发酵，保留残糖。适合搭配甜点和陈年奶酪。
+* **阿玛罗尼** (Amarone della Valpolicella DOCG): 顶级红酒，风干葡萄酿造的独特工艺，强劲饱满的口感、高酒精度 (15-16%) 。
+* **雷乔托** (Recioto della Valpolicella DOCG): 甜红葡萄酒，同样风干葡萄酿造，只是提早结束发酵，保留残糖。适合搭配甜点和陈年奶酪。
 
-瓦尔波利切拉的字面意思常常被解读为“有着许多酒窖的山谷”，实至名归。
+[#risotto-all-amarone]
+== 阿玛罗尼红酒烩饭 (Risotto all'Amarone)
 
-[[risotto-all-amarone]]
-== 阿玛罗尼红酒炖饭 (Risotto all'Amarone)
+**阿玛罗尼红酒烩饭**是维罗纳的招牌美食。使用世界级的阿玛罗尼红酒和当地特产的意大利顶级烩饭大米 (Vialone Nano) 在牛骨高汤中慢火烹制，最后加上**蒙特·维罗纳** (Monte Veronese) 奶酪。色泽深红，口感浓郁。
 
-**阿玛罗尼红酒炖饭** (Risotto all'Amarone) 是维罗纳的绝对招牌美食。使用世界级的阿玛罗尼红酒和当地特产的意大利顶级烩饭大米 (Vialone Nano) 在牛骨高汤中慢火烹制，最后加上 Monte Veronese 芝士。色泽深红，口感丝滑浓郁。
+可惜我们受行程所限，没有找到机会去品尝。据说市中心的百年老字号 Caffè Monte Baldo 的阿玛罗尼红酒烩饭最正宗。
 
-推荐去维罗纳市中心的百年老店 Trattoria al Pompiere 的品尝阿玛罗尼红酒炖饭（这家的提拉米苏也极为出名）。
-
-[[pastissada-de-caval]]
+[#pastissada-de-caval]
 == 红酒慢炖马肉 (Pastissada de Caval)
 
-红酒慢炖马肉 (Pastissada de Caval) 是维罗纳最具标志性的硬核传统美食。这道菜肴名字中的 _Pastissada_ 是维罗纳的方言，字面意思是大杂烩，或者乱炖。通常是将马肉浸泡在当地的瓦尔波利切拉红酒 (Valpolicella) 中甚至是奢侈的的阿玛罗尼 (Amarone) 红酒中，加入香料腌制一到两天，然后经数小时的慢炖至肉质极度酥烂、入口即化。红酒慢炖马肉的传统吃法是配上奶油玉米粥 (Polenta) 一起享用。
+**红酒慢炖马肉**是维罗纳最具标志性的传统名菜。菜名中的 _Pastissada_ 是维罗纳方言，字面意思是大杂烩，乱炖。通常是将马肉浸泡在当地的瓦尔波利切拉红葡萄酒中，用香料腌上一到两天，然后经数小时慢炖到软烂。红酒慢炖马肉的传统吃法是配上玉米糊 (Polenta) 一起吃。
 
-红酒慢炖马肉这道菜肴还有一个历史典故：据说在公元 489 年，东哥特国王提奥多里克 (Theodoric) 在维罗纳与敌军展开了一场惨烈的决战。战争结束后，战场上留下了数千匹战死的战马。当时城内正遭遇饥荒，为了果腹并防止肉质腐烂，足智多谋的当地居民获准将马肉收集起来，用大量的当地红酒和香料长时间腌制、慢炖，以掩盖异味并软化坚硬的肉质。这无意间成就了一道流传千年的传统美食。
+.维罗纳公爵酒馆 (Osteria al Duca) 中的红酒慢炖马肉 (Pastissada de Caval) 配玉米糊 (Polenta)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pastissada-caval-osteria-duca-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pastissada-caval-osteria-duca-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pastissada-caval-osteria-duca-verona-4x3-2400.avif 2400w"]
 
-作为当地特色，有很多地方可以品尝到红酒慢炖马肉，比如：
+红酒慢炖马肉这道菜背后还有一个历史故事：据说在公元 489 年，东哥特国王提奥多里克 (Theodoric) 在维罗纳与敌军展开了一场惨烈的决战。战争结束后，战场上留下了数千匹战死的战马。当时城内正遭遇饥荒，为了不浪费这些肉和防止瘟疫，国王允许老百姓打扫战场，把马肉带回家。维罗纳人用大量当地红酒和香料腌制马肉，然后慢炖几个小时，以软化马肉并掩盖异味，无意间创造了这道流传 1500 多年的名菜。
 
-* Osteria al Duca: 维罗纳最古老也最具传奇色彩的传统酒馆之一。
-* La Taverna di Via Stella: 常年爆满的高分餐厅。
+作为当地特色，有很多地方可以品尝到红酒慢炖马肉，我们去的市中心的 Osteria al Duca 是维罗纳最古老也最具传奇色彩的传统酒馆。
 
-如果你想尝试马肉又担心吃不惯整盘的红酒慢炖马肉，可以试试搭配 **红酒慢炖马肉酱** 的 <<圣泽诺土豆团子 (Gnocchi di San Zeno)>> 或者 **马肉酱粗意面** (Bigoli al Ragù di Cavallo) ，维罗纳的经典头盘之一（不过搭配粗意面更有名的是鸭肉酱）。
+++++
+{% related slugs="verona-osteria-al-duca" %}
+++++
 
-[[bigoli-con-ragu-d-anatra]]
-== 鸭肉酱粗意面 (Bigoli con Ragù d'Anatra)
+作为地方名菜不应该错过，不过不要期待这道菜能和我们的炖肉相比。如果你想尝试马肉又担心吃不惯整盘的红酒慢炖马肉，可以试试搭配**马肉酱**的圣泽诺土豆团子 (Gnocchi di San Zeno) 或者**马肉酱粗意面** (Bigoli al Ragù di Cavallo)。
 
-粗意面 Bigoli 是来自威尼托地区的手工新鲜面条。它的名字来源于威尼斯方言中的“毛毛虫”，非常形象地说明了这种意面粗壮、且表面粗糙的外形。正是这种独特的外形使其非常容易吸附酱汁，而维罗纳人最爱的经典酱汁是慢熬的野味鸭肉酱。
+[#bigoli-con-ragu-d-anatra]
+== 鸭肉酱新鲜粗意面 (Bigoli con Ragù d'Anatra)
 
-[[bollito-con-la-peara]]
+意大利语 Bigoli 是当地手工压面机挤压出来的意面面条。据说它的名字来源于威尼斯方言中的“毛毛虫”，形象地说明了这种面条粗壮且毛糙的外形。正是这个特点使其比较容易吸附酱汁，而维罗纳人最爱的经典酱汁是慢熬的野味鸭肉酱 (Ragù d'Anatra)。
+
+这个是我们在维罗纳最喜欢的美食，搭配红酒更佳。除了 Bigoli 面条之外，还可以试试名叫 Pappardelle 新鲜擀制的宽带面。
+
+.维罗纳公爵酒馆 (Osteria al Duca) 中的鸭肉酱新鲜宽带面 (Pappardelle al ragù d'anitra)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pappardelle-ragu-anitra-osteria-duca-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pappardelle-ragu-anitra-osteria-duca-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/pappardelle-ragu-anitra-osteria-duca-verona-4x3-2400.avif 2400w"]
+
+[#bollito-con-la-peara]
 == 黑胡椒面包酱炖肉 (Bollito con la Pearà)
 
-**黑胡椒面包酱炖肉** (Bollito con la Pearà) 是维罗纳人周日家庭聚餐或冬日节庆的经典硬菜。特别是在圣诞节期间，其地位相当于火鸡之于感恩节。这道菜概括为大锅炖肉加上灵魂酱汁：
+**黑胡椒面包酱炖肉** (Bollito con la Pearà) 是维罗纳人冬日的经典硬菜。特别是在圣诞节期间，其地位相当于火鸡之于感恩节。这道菜可以概括为**大锅炖肉加上灵魂酱汁**。
 
-* Bollito Misto: 在大锅中慢炖出来的各种肉类。其中 _Bollito_ 一词的字面意思就是“煮出来的东西”。
+* Bollito Misto: 在大砂锅里慢炖出来的杂烩肉类。其中 _Bollito_ 一词的字面意思就是“水煮”。
 * La Pearà: 维罗纳独有的标志性酱汁**黑胡椒骨髓面包酱**。用炖肉剩下的高汤、陈年面包屑、牛骨髓以及现磨黑胡椒慢熬而成的酱汁。其中 _Pearà_ 一词在维罗纳方言中的意思是“加了胡椒的东西”。
 
-[[gnocchi-di-san-zeno]]
+[#gnocchi-di-san-zeno]
 == 圣泽诺土豆团子 (Gnocchi di San Zeno)
 
-如果你打算在复活节之前的一月到三月间前往维罗纳，也许可以赶上维罗纳狂欢节。**圣泽诺土豆团子** (Gnocchi di San Zeno) 是维罗纳狂欢节的特色菜。这道菜以维罗纳的主保圣人 **圣泽诺** (San Zeno) 命名；而 _Gnocchi_ 一词在中文中常译为土豆团子或者面疙瘩。作为意大利饮食文化中历史最悠久、最受欢迎的面食之一，最初的团子是面疙瘩，如今的主流是以土豆泥为主料 (Gnocchi di Patate) 的团子。
+如果你是在复活节之前的一月到二月间前往维罗纳，也许可以赶上维罗纳狂欢节 (Carnevale di Verona)。**圣泽诺土豆团子** (Gnocchi di San Zeno) 是维罗纳狂欢节的特色菜。这道菜以维罗纳的主保圣人 **圣泽诺** (San Zeno) 命名；而 _Gnocchi_ 一词在中文中常译为土豆团子或者面疙瘩。作为意大利饮食文化中历史最悠久、最受欢迎的面食之一，最初的团子是面疙瘩，如今的主流是以土豆泥为主料 (Gnocchi di Patate) 的团子。
 
-圣泽诺土豆团子的经典搭配是 **红酒慢炖马肉酱** (Pastissada de Caval)。
+圣泽诺土豆团子的经典搭配是**红酒慢炖马肉酱** (Pastissada de Caval)。
 
-实际上，维罗纳狂欢节的官方名字就是**团子狂欢节** (Bacanàl del Gnoco) 。其中 _Bacanàl_ 源自古罗马时期的 **酒神节**。在古罗马神话中，酒神 (Bacchus) 也是狂欢之神。而 Gnoco 的意思就是 **团子**。每年的狂欢节最后一个星期五，被称为 **团子星期五** (Venerdì Gnocolar) ，全维罗纳市会举行盛大游行。游行的核心领袖是一个由全城投票选出的“狂欢节国王”，被称为 **团子老爹** (Papà del Gnoco) 。这位老爹手持“权杖”，一把巨大的叉子，上面插着一个硕大的团子。游行队伍最终会浩浩荡荡地挤满圣泽诺广场 (Piazza San Zeno) ，在那里架起巨大的炉灶，吃团子、喝红酒。
+实际上，维罗纳狂欢节的官方名字就是**团子狂欢节** (Bacanàl del Gnoco) 。其中 _Bacanàl_ 源自古罗马时期的**酒神节**。在古罗马神话中，酒神 (Bacchus) 也是狂欢之神。而 Gnoco 的意思就是**团子**。每年的狂欢节最后一个星期五，被称为**团子星期五** (Venerdì Gnocolar) ，全维罗纳市会举行盛大游行。游行的核心领袖是一个由全城投票选出的“狂欢节国王”，被称为**团子老爹** (Papà del Gnoco) 。这位老爹手持“权杖”，一把巨大的叉子，上面插着一个硕大的团子。游行队伍最终会浩浩荡荡地挤满圣泽诺广场 (Piazza San Zeno) ，在那里架起巨大的炉灶，吃团子、喝红酒。
 
-[[pandoro-di-verona]]
+[#pandoro-di-verona]
 == 维罗纳黄金面包 (Pandoro di Verona)
 
-**维罗纳黄金面包** (Pandoro di Verona) 是意大利最著名的圣诞节传统甜点之一，起源可以追溯到中世纪。它的名字 _Pandoro_ 也可以音译为 **潘多罗**，源自威尼斯方言 _Pan d'Oro_ ，字面意思就是黄金面包，取自其由蛋黄和黄油带来的金黄色泽。
+**维罗纳黄金面包** (Pandoro di Verona) 是意大利最著名的圣诞节传统甜点之一，起源可以追溯到中世纪。它的名字 _Pandoro_ 也可以音译为**潘多罗**，源自威尼斯方言 _Pan d'Oro_ ，字面意思就是“黄金面包”，取自其由蛋黄和黄油带来的金黄色泽。
 
-八角星形是 Pandoro 最著名的特征，据说这种设计模仿了维罗纳附近阿尔卑斯山的轮廓，横向切开时，每一块都像一颗漂亮的星星。每盒 Pandoro 都会附带一包香草糖粉，吃前撒在面包上，不仅增加了甜味，还使其看起来像积雪覆盖的山峰。
+八角星形是黄金面包最著名的特征，据说这种设计模仿了维罗纳附近阿尔卑斯山的轮廓，横向切开时，每一块都像一颗漂亮的星星。每盒 Pandoro 都会附带一包香草糖粉，吃前撒在面包上，不仅增加了甜味，还使其看起来像积雪覆盖的山峰。
 
 这里是几家推荐的 Pandoro 品牌：
 
-* Melegatti: **美莱加蒂**，始祖品牌，历史最为悠久。该品牌的创始人 Domenico Melegatti 首次在意大利用标志性的八角星形模具烘焙并注册了 Pandoro 的专利。如今是意大利国民级的大型工业化食品品牌，各大连锁超市，如 Esselunga、Conad、Pam 或 Eurospin 等都有售。
+* Melegatti: **美莱加蒂**，创始品牌。该品牌的创始人 Domenico Melegatti 首次在意大利用标志性的八角星形模具烘焙并注册了 Pandoro 的专利。如今是意大利国民级的大型食品品牌，各大连锁超市等都有售。
 
-* Bauli: **宝利**，国民度最高的平价霸主，此外经典品牌 Paluani 现在也在 Bauli 旗下。市中心的概念店 Minuto Bauli 就在朱丽叶之家的斜对面。宝利的核心产品是巨大的节日传统潘多罗蛋糕，而店里现烤的甜点，是微缩版、单人份小蛋糕。
+* Bauli: **宝利**，国民度最高的平价霸主，此外经典品牌 Paluani 现在也在 Bauli 旗下。市中心的概念店 Minuto Bauli 就在朱丽叶之家的斜对面。宝利的核心产品是巨大的节日传统黄金面包，而 Minuto Bauli 店里现烤的甜点，是微缩版、单人份的小黄金面包。
+
+.维罗纳香草广场 (Piazza Erbe) 旁 Minuto Bauli 甜点店的小黄金面包配杏子果酱。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/minuto-bauli-piazza-erbe-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/minuto-bauli-piazza-erbe-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-food-drinks/minuto-bauli-piazza-erbe-verona-4x3-2400.avif 2400w"]
