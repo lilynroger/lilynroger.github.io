@@ -9,9 +9,10 @@ canonical_url: https://lilyroger.com/posts/
 
 # article:last_modified_at
 # see _includes/head.html
-last_modified_at: 2026-01-18 20:00:00 +0800
+last_modified_at: 2026-09-21 06:45:00 +0800
 
-title: 所有文章
+title: 所有行程，攻略、指南、和游记
+title_display: 所有文章
 tagline: "行程，游记，攻略和指南"
 description: 这里是我们所有的旅行博客文章，包括关于行程，城市，机场，交通，徒步，马拉松，和更多趣事的游记，指南和攻略。
 image_base: posts/water-mirror-bordeaux

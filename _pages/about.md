@@ -9,9 +9,10 @@ canonical_url: https://lilyroger.com/about/
 
 # article:last_modified_at
 # see _includes/head.html
-last_modified_at: 2026-01-15 08:00:00 +0800
+last_modified_at: 2026-09-21 06:45:00 +0800
 
-title: 关于我们
+title: 关于我们和如何联系我们
+title_display: 关于我们
 tagline: "生活, 旅行, 徒步, 马拉松, 网球"
 description: 欢迎来到我们的旅行博客。这里是有关我们的一点信息，以及如何联系我们。
 image_base: about/where-do-we-come-from-what-are-we-where-are-we-going-by-paul-gauguin

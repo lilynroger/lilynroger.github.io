@@ -9,9 +9,10 @@ canonical_url: https://lilyroger.com/destinations/
 
 # article:last_modified_at
 # see _includes/head.html
-last_modified_at: 2026-01-18 18:00:00 +0800
+last_modified_at: 2026-09-21 06:45:00 +0800
 
-title: 目的地
+title: 按照目的地国家组织的行程，攻略、指南、和游记的合集
+title_display: 目的地合集
 tagline: 下一次旅行，你想去哪里？
 description: 这里是我们曾经访问过的旅行目的地国家。从这里出发，可以找到所有我们按照国家整理的旅行指南和攻略。尽管有些过去久远的旅行，我们可能没有精力整理出来了，可还是会在这里保留一席之地。
 image_base: destinations/chapel-madonna-vitaleta-val-dorcia
