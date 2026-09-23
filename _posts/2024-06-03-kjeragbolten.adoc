@@ -44,7 +44,7 @@
 .Øygardstøl/Kjerag Café & Restaurant
 image::assets/images/2024/scandinavia/kjeragbolten/restaurant.webp[Øygardstøl/Kjerag Café & Restaurant]
 
-去往奇迹石徒步起点相比步道石来说要麻烦一点. 大部分人选择从附近最大的城市斯塔万格 (Stavanger) 出发. 但是无论通过哪种方式前往都不是很容易. 具体信息可以参考谢拉格山的官方网站 - 如何前往: https://kjerag.info/how-to-get-to-kjerag/[How to Get to Kjerag].
+去往奇迹石徒步起点相比布道石来说要麻烦一点. 大部分人选择从附近最大的城市斯塔万格 (Stavanger) 出发. 但是无论通过哪种方式前往都不是很容易. 具体信息可以参考谢拉格山的官方网站 - 如何前往: https://kjerag.info/how-to-get-to-kjerag/[How to Get to Kjerag].
 
 [#kjerag-express-bus]
 === 直达旅游大巴
