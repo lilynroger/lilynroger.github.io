@@ -396,3 +396,35 @@ article {
   font-size: 1em;
   font-style: italic;
 }
+
+//
+// tableblock
+//
+table.tableblock {
+  width: 100%;
+  margin-top: calc(var(--spacer-paragraph) * 1.5);
+  margin-bottom: calc(var(--spacer-paragraph) * 1.5);
+  color: var(--bs-body-color);
+  border-color: var(--bs-border-color);
+  border-collapse: collapse;
+  table-layout: auto;
+}
+
+.tableblock th,
+.tableblock td {
+  padding: 0.5em 0.5em;
+  background-color: transparent;
+  border-bottom: 1px solid var(--bs-border-color);
+  vertical-align: top;
+}
+
+.tableblock tbody tr:nth-of-type(odd) {
+  background-color: rgba(var(--bs-emphasis-color-rgb), 0.05);
+}
+
+// 修复：消除 Asciidoc 嵌套 <p> 标签导致的空隙
+.tableblock td p.tableblock,
+.tableblock th p.tableblock {
+  margin: 0;
+  padding: 0;
+}
