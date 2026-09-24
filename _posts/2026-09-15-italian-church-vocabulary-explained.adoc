@@ -13,14 +13,14 @@ date: 2026-09-16 08:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 意大利, 教堂]
 tagline: 什么是主教座堂、圣殿、朝圣地、礼拜堂？
 ---
-= 意大利语教堂词汇: Chiesa, Cattedrale, Duomo, Basilica, Santuario, Cappella 有什么区别？
+= 意大利语教堂词汇: Chiesa, Cattedrale, Duomo, Basilica, Santuario 有什么区别
 :page-liquid: true
 :toc: macro
 :toclevels: 2
 :sectnums:
 :imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/
 
-在意大利语中，教堂有 Chiesa, Cattedrale, Duomo, Basilica, Santuario, Cappella 等等不同的专有词汇。它们有什么区别？这篇短文是我们有关欧洲教堂词汇的意大利语篇，既是我们的随身旅行小贴士，也用于在我们的旅行故事中统一翻译。
+在意大利语中，教堂有 Chiesa, Cattedrale, Duomo, Basilica, Santuario, Cappella 等等不同的专有词汇。它们有什么区别？这篇短文是我们有关欧洲教堂词汇的意大利语篇，既是随身旅行小贴士，也用于在旅行故事中统一翻译。
 
 toc::[]
 
