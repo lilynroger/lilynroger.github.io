@@ -40,6 +40,9 @@ toc::[]
 
 * 博洛尼亚的**圣彼得罗尼奥大教堂** (Basilica di San Petronio) 地处老城心脏，是城市的名片。但是，博洛尼亚的主教座堂其实是**圣彼得主教座堂** (Cattedrale di San Pietro)。甚至连博洛尼亚官方旅游信息网站的中文版上，都**错误地**把圣彼得罗尼奥大教堂翻译成了“圣白托略主教座堂”。
 
+.博洛尼亚的圣彼得罗尼奥大教堂 (Basilica di San Petronio)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/basilica-di-san-petronio-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/basilica-di-san-petronio-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/basilica-di-san-petronio-bologna-4x3-2400.avif 2400w"]
+
 [#duomo]
 == 大教堂 (Duomo) 是城市的主教堂
 
@@ -49,7 +52,10 @@ toc::[]
 
 * **蒙扎** (Monza) 的核心教堂被称为**蒙扎大教堂** (Duomo di Monza)，它是城里规模最大、最重要的教堂。但蒙扎在教区划分上属于米兰总教区，而米兰的主教座堂是**米兰大教堂** (Duomo di Milano)。蒙扎大教堂并不是主教座堂。
 
-* **斯卡拉** (Scala) 的**圣洛伦佐大教堂** (Duomo di San Lorenzo) 历史上曾经是斯卡拉教区的主教座堂。随着斯卡拉教区并入阿马尔菲总教区，圣洛伦佐大教堂失去了主教座堂的地位。阿马尔菲的圣安德烈大教堂 (Duomo di Sant'Andrea) 是教区的主教座堂。
+* **斯卡拉** (Scala) 的**圣洛伦佐大教堂** (Duomo di San Lorenzo) 历史上曾经是斯卡拉教区的主教座堂。随着斯卡拉教区并入阿马尔菲总教区，圣洛伦佐大教堂失去了主教座堂的地位。阿马尔菲 (Amalfi) 的圣安德烈大教堂 (Duomo di Sant'Andrea) 是教区的主教座堂。
+
+.阿马尔菲 (Amalfi) 的圣安德烈大教堂 (Duomo di Sant'Andrea)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/duomo-sant-andrea-amalfi-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/duomo-sant-andrea-amalfi-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/duomo-sant-andrea-amalfi-4x3-2400.avif 2400w"]
 
 [#basilica]
 == 圣殿/大殿 (Basilica) 是教宗认证的名胜
@@ -76,12 +82,18 @@ toc::[]
 
 互联网上一个很常见的误区是将普通的次级圣殿错翻成了宗座圣殿。我们的实践是**对于次级圣殿，通俗名字用“教堂”；天主教名字用“圣殿”。如果已经存在常用名，“大教堂”和“大殿”也可以**。
 
+.罗马的天使与殉道者圣母大殿 (Basilica Santa Maria degli Angeli e dei Martiri)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/basilica-santa-maria-angeli-martiri-roma-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/basilica-santa-maria-angeli-martiri-roma-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/basilica-santa-maria-angeli-martiri-roma-4x3-2400.avif 2400w"]
+
 [#santuario]
 == 朝圣地 (Santuario) 是信徒朝圣的地点
 
 意大利语 Santuario 指因特定圣人、圣像或圣物而成为信众朝圣目标的教堂。中文常常译作“朝圣地”，有时也译作“圣堂”。
 
 比如博洛尼亚的**圣路加圣母朝圣地** (https://www.santuariodisanluca.it/[Santuario della Beata Vergine di San Luca])，供奉着一幅据传由**圣路加**亲笔绘制的拜占庭风格的圣母像，还修建了世界上最长的 link:{% post_url 2026-06-16-bologna-portico-san-luca %}[**圣路加拱廊**](Portico di San Luca)，以便保护朝圣游行中的圣母像。
+
+.博洛尼亚的圣路加拱廊 (Portico di San Luca) 连接着老城中心和圣路加圣母朝圣地 (Santuario della Beata Vergine di San Luca)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/portico-san-luca-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/portico-san-luca-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/portico-san-luca-bologna-4x3-2400.avif 2400w"]
 
 [#cappella]
 == 礼拜堂 (Cappella) 是小型弥撒场所
@@ -90,15 +102,24 @@ toc::[]
 
 中文网络中著名的托斯卡纳“小耳朵教堂”，就是一间礼拜堂。正式的名称是维塔莱塔圣母礼拜堂 (Cappella della Madonna di Vitaleta)。
 
+.托斯卡纳的“小耳朵教堂”正式的名称是维塔莱塔圣母礼拜堂 (Cappella della Madonna di Vitaleta)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/cappella-madonna-vitaleta-tuscana-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/cappella-madonna-vitaleta-tuscana-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/cappella-madonna-vitaleta-tuscana-4x3-2400.avif 2400w"]
+
 [#oratorio]
 == 祈祷室 (Oratorio) 是特定团体进行宗教活动的场所
 
 意大利语 Oratorio 指的是通常属于特定团体，主要用于歌唱、诵经、讲授和灵修聚会的场所。中文译作“祈祷室”。不同于礼拜堂，祈祷室的核心功能不是举行弥撒。
 
+.阿方索·隆巴迪 (Alfonso Lombardi) 的巅峰杰作《圣母的葬礼》 (Funerali della Vergine) 陶土群雕收藏在博洛尼亚生命圣母教堂的祈祷室 (Oratorio di Santa Maria della Vita) 中。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/oratorio-santa-maria-della-vita-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/oratorio-santa-maria-della-vita-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/oratorio-santa-maria-della-vita-bologna-4x3-2400.avif 2400w"]
+
 [#battistero]
 == 洗礼堂 (Battistero) 是专门举行洗礼的建筑
 
 意大利语 Battistero 指专门用于施行洗礼的独立建筑，通常呈圆形或多边形，与主教座堂分开。
+
+.维罗纳大教堂 (Duomo di Verona) 的圣约翰洗礼堂 (Battistero di San Giovanni in Fonte)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/duomo-verona-baptismal-font-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/duomo-verona-baptismal-font-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/duomo-verona-baptismal-font-4x3-2400.avif 2400w"]
 
 [#other-terminologies]
 == 其他相关词汇
@@ -113,7 +134,7 @@ toc::[]
 [#monastero]
 === 隐修院 (Monastero) 是避世隐修会的修院
 
-意大利语 Monastero 指的是修士和修女进行避世隐修生活的修院，比如本笃会 (Benedictini) 的修士和修女。中文译作“隐修院”。
+意大利语 Monastero 指的是修士和修女进行避世隐修生活的修院，比如本笃会 (Benedictini) 的修士和修女。中文译作“隐修院”，有时也简单地译作“修道院”。
 
 隐修院 Monastero 一词源自古希腊语，原意就是指“离群索居”。隐修院通常位于乡村。修士或修女通常会终身生活在隐修院的围墙之内，几乎不与外界接触。通过务农、酿酒自给自足。
 
@@ -130,11 +151,20 @@ toc::[]
 
 佛罗伦萨著名的**圣马可修道院** (Convento di San Marco) 就是多明我会的修道院。意大利语 Fra 一词是其中的男修士的谦称，本意就是“兄弟”。修道院中闻名于世的《天使报喜》湿壁画就是出自文艺复兴大师**安吉利科修士** (Fra Angelico) 之手，而大师本人就是修道院中的修士。
 
+.佛罗伦萨的圣马可修道院 (Convento di San Marco) 中，安吉利科修士 (Fra Angelico) 的《天使报喜》湿壁画。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/annunciazio-angelico-museo-san-marco-firenze-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/annunciazio-angelico-museo-san-marco-firenze-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/annunciazio-angelico-museo-san-marco-firenze-4x3-2400.avif 2400w"]
+
 [#abbazia]
 === 大隐修院 (Abbazia) 是有崇高地位的隐修院
 
-意大利语 Abbazia 指的是教会法律上拥有崇高地位的隐修院。中文常译作“大隐修院”。
+意大利语 Abbazia 指的是教会法律上拥有崇高地位的隐修院。中文常简单地译作“修道院”，为避免歧义时译作“大隐修院”。
 
 大隐修院 Abbazia 与普通隐修院 Monastero 不同的核心在于自治权和院长的头衔和地位。只有少数规模、财富和地位达到顶峰的隐修院才能升级为大隐修院。一个大隐修院的院长的地位甚至相当于一个主教。在中世纪和文艺复兴时期的鼎盛时期，许多大隐修院享有管辖权，院墙之外的周围几十个村庄、土地、甚至普通乡村教堂，都不归当地的城市主教管辖，而是直接归这座大隐修院的院长管辖。
 
 不同于自给自足的普通隐修院，大隐修院历史上更像封建地主，拥有皇帝或者教宗赐予的权利，周边整个山谷、农田的税收、佃农的租金全额都归这座大隐修院所有。所以，大隐修院往往拥有惊人的财富，宏伟的城堡。其中的修士们完全不用担心温饱问题。
+
+蒙特奥利韦托马焦雷修道院 (Abbazia di Monte Oliveto Maggiore) 是意大利大区阿夏诺市镇内的一座本笃会修道院
+“克里特塞内西”（Crete Senesi）
+
+.托斯卡纳的蒙特奥利韦托马焦雷大隐修院 (Abbazia di Monte Oliveto Maggiore) 至今仍生产葡萄酒和橄榄油。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/abbazia-monte-oliveto-maggiore-tuscana-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/abbazia-monte-oliveto-maggiore-tuscana-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/abbazia-monte-oliveto-maggiore-tuscana-4x3-2400.avif 2400w"]
