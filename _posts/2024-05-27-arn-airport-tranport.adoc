@@ -1,0 +1,138 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/nils-holgersson-stockholm-arlanda-airport-4x3-1200.avif
+  alt: 位于瑞典斯德哥尔摩阿兰达机场（Stockholm Arlanda Airport）的《尼尔斯骑鹅旅行记》浮雕 (Nils Holgersson flög över Sverige)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/nils-holgersson-stockholm-arlanda-airport-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/nils-holgersson-stockholm-arlanda-airport-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2024-05-27 10:00:00 +0200
+last_modified_at: 2026-09-25 21:00:00 +0800
+tags: [2024-Scandinavia, 欧洲, 北欧, 斯堪的纳维亚, 瑞典, 机场, 交通, 斯德哥尔摩]
+tagline: Arlanda Express, Pendeltåg, Flygbussarna?
+---
+= 斯德哥尔摩阿兰达机场 (Stockholm Arlanda Airport) 到市中心交通省钱攻略
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/
+:link-scandinavia: link:{% post_url 2024-05-27-scandinavia %}[斯堪的纳维亚之旅]
+:link-stockholm: link:{% post_url 2024-05-27-stockholm %}[斯德哥尔摩]
+
+斯德哥尔摩**阿兰达机场** (Stockholm Arlanda Airport) 到市中心的中央车站有多种交通方式，费用相差悬殊。这篇攻略总结了包括机场快线 (Arlanda Express)，通勤火车 (Pendeltåg)，机场大巴 (Flygbussarna) 和公交车在内的不同选项，重点是省钱秘诀。
+
+**更新：**机场交通已更新至 2026 年定价。
+
+划重点：斯德哥尔摩阿兰达机场的 Arlanda Express 是世界上最贵的机场快线。而旅客进出斯德哥尔摩机场的**阿兰达中央车站** (Arlanda Central Station, Arlanda C) 需要缴纳一笔高昂的**通行附加费** (https://sl.se/en/fares-and-tickets/visitor-tickets/travel-to-and-from-arlanda-airport[Passage Supplement Fee])。这导致在这个车站坐火车，哪怕是最普通的通勤火车也贵得离谱。
+
+{link-stockholm}是我们{link-scandinavia}的第一站。必须说一句：斯德哥尔摩街头的瑞典美女是真多啊！
+
+toc::[]
+
+[#terminals]
+== 航站楼
+
+了解机场交通之前，先大体了解一下航站楼设置。
+
+斯德哥尔摩阿兰达机场目前有 4 座航站楼。其中 2 号和 5 号用于国际航班；而 3 号和 4 号则用于瑞典国内航班。其中中国，阿联酋，卡塔尔和土耳其的航司都使用 5 号航站楼。所以，**中国国内出发的游客大概率就是在 5 号航站楼**。此外，斯德哥尔摩连接丹麦、挪威和冰岛的北欧航空和雷克雅未克航空也在 5 号航站楼；不过芬兰航空在 2 号航站楼。
+
+四座航站楼中的 5 号航站楼和另外三座航站楼距离较远，可以步行，大约 10 分钟；也可以乘坐机场快线，机场快线（Arlanda Express）在航站楼之间的摆渡是完全免费的，车程只要 1 分钟。
+
+[#arlanda-express]
+== 机场快线
+
+机场快线是最便捷的机场交通方式，每 10 分钟一班，不到 20 分钟直达。当然，机场快线不便宜，成人单程票 340 瑞典克朗，是**世界上单程最贵的机场快线**。本来有不少折扣的往返票这两年大幅上涨，要 640 瑞典克朗，已经没优惠多少了。
+
+如果要坐机场快线，也有省钱的办法，就是**组团买票**。组团购票时的票价如下，单位是瑞典克朗：
+
+[options="header", cols="4,4,4"]
+|===
+| 成人数 | 单程 | 往返
+| 1 | 340 | 640 
+| 2 | 460 | 920
+| 3 | 580 | 1160
+|===
+
+最多可以一次购买 8 张成人票，折合每张票只有 120 瑞典克朗，性价比就非常高了。所以，脸皮厚的话就搭讪别人，被别人搭讪也不要紧张，一起组团买票图个便宜。
+
+网上购票和更多信息参考官网: https://www.arlandaexpress.com/tickets/tickets-prices[Arlanda express ticket prices and discounts.]
+
+机场快线在机场有两座车站。分别是:
+
+* 北站 (Arlanda North): 服务于 5 号航站楼。
+* 南站 (Arlanda South):  服务于 2、3、4 号航站楼。
+
+在航站楼乘坐滚梯或者电梯下楼就是机场快线的车站，亮黄色的标志非常醒目。
+
+.斯德哥尔摩阿兰达机场 (Stockholm Arlanda Airport) 的 5 号航站楼通往机场快线 (Arlanda Express) 的入口。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-express-terminal-5-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-express-terminal-5-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-express-terminal-5-4x3-2400.avif 2400w"]
+
+在南站和北站之间的摆渡服务是免费的，但前往市区必须购票。航站楼里就有机场快线的黄色自动售票机，支持信用卡直接购票。
+
+.斯德哥尔摩阿兰达机场 (Stockholm Arlanda Airport) 航站楼中的机场快线 (Arlanda Express) 自动售票机。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-express-ticket-machine-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-express-ticket-machine-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-express-ticket-machine-4x3-2400.avif 2400w"]
+
+[#pendeltag]
+== 通勤火车
+
+通勤火车 (Pendeltåg) 由**斯德哥尔摩公共交通公司** (https://sl.se/en/in-english[SL]) 运营。乘坐通勤火车直接来往于机场和市区比机场快线要经济一点，当然时间上也要多一点，需要大约 45 分钟左右。来往机场的通勤火车和市区的地铁都是由 SL 运营的，共享统一的系统。票价便宜多了，成人票只要 43 瑞典克朗，有效时间 75 分钟，有效时间内允许无限换乘。
+
+**注意：**别高兴的太早。通勤火车在机场的车站是**阿兰达中央车站**，也就是 Arlanda Central Station, 简称 Arlanda C, **不是**机场快线车站。在航站楼中的具体位置在 4 号和 5 号航站楼之间的 SkyCity 那里，需要步行一小段距离。
+
+.斯德哥尔摩阿兰达机场 (Stockholm Arlanda Airport) 航站楼通往阿兰达中央车站 (Arlanda Central Station) 的指示牌。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-airport-skycity-central-station-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-airport-skycity-central-station-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-airport-skycity-central-station-4x3-2400.avif 2400w"]
+
+正是这座阿兰达中央车站，对进出车站的旅客收取额外的车站通行附加费。火车票票价 43 瑞典克朗，加上已经一路上涨到 157 瑞典克朗的附加费，合起来需要 200 瑞典克朗。已经贵的离谱了，还不如在机场组团坐快线呢。
+
+[#flygbussarna]
+== 机场大巴
+
+机场大巴对比火车还要经济一些.
+
+推荐乘坐 VY flygbussarna 运营的的机场大巴。乘车时选择 Arlanda Airport - Stockholm City 线路。单程票近年来一直保持在 129 挪威克朗，往返 209 挪威克朗。车程需要大约 50 分钟。可以直接在自动售票机上购票。网上购票和更多信息参考官网: https://www.flygbussarna.se/en/ticket/search[VY flygbussarna]。
+
+此外还可以乘坐 https://www.flixbus.com/bus/stockholm-arlanda-airport[FlixBus] 的大巴。不过发车间隔相对长一点。
+
+.斯德哥尔摩阿兰达机场 (Stockholm Arlanda Airport) 航站楼中 VY flygbussarna 和 FlixBus 机场大巴的自动售票机。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-airport-flygbussarna-ticket-machine-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-airport-flygbussarna-ticket-machine-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-airport-flygbussarna-ticket-machine-4x3-2400.avif 2400w"]
+
+[#bus-train-cheapest-way]
+== 省钱大招：公交车加火车
+
+如果行李比较少，需要控制旅行预算，我们推荐公交车加火车的机场交通方式，这是最便宜的方式。
+
+公交车和通勤火车都是由 SL 运营。公交车加火车的核心就是**绕开机场的中央车站**，去别的火车站换乘。同时利用 75 分钟有效时间内**免费换乘**，花 43 瑞典克朗一票搞定。
+
+首先跟随前往 2 号和 3 号航站楼的指示，一直走到 2 号航站楼（路上会看到《尼尔斯骑鹅旅行记》的浮雕）。在 2 号航站楼前，按照地面交通 (Ground Transportation) 的指示出航站楼。
+
+.斯德哥尔摩阿兰达机场 (Stockholm Arlanda Airport) 的 2 号航站楼中前往地面交通的指示牌。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-airport-terminal-2-ground-transportation-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-airport-terminal-2-ground-transportation-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-airport-terminal-2-ground-transportation-4x3-2400.avif 2400w"]
+
+选择乘坐从 Arlanda Terminal 2 och 3 (Sigtuna) 到 Märsta station(Sigtuna) 的 *583* 路公交车。车站就在右手边的尽头，这时只需要买一张 SL 单次的车票。注意上车时再激活车票，不要过早地激活车票，免得车票提前过期了。
+
+.斯德哥尔摩阿兰达机场 (Stockholm Arlanda Airport) 的 583 路公交车。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-airport-bus-583-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-airport-bus-583-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/arlanda-airport-bus-583-4x3-2400.avif 2400w"]
+
+坐公交车到达 Märsta station 后，尽快换乘去往 Stockholm City 的火车。之前的单次车票在 75 分钟之内免费换乘，可以涵盖整个行程，无需另外购票。
+
+.从斯德哥尔摩阿兰达机场 (Stockholm Arlanda Airport) 到市中心可以在 Märsta 站换乘。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/marsta-station-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/marsta-station-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/marsta-station-4x3-2400.avif 2400w"]
+
+整个行程标识都非常清晰，换乘也很轻松，我们全程没什么压力。可能唯一需要注意的是，乘坐火车往返于 Märsta station 车站和 Stockholm City 车站时，要留意准确的站名，不要坐过站了。
+
+.斯德哥尔摩中央车站 (Stockholm Central Station)。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/stockholm-central-station-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/stockholm-central-station-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/stockholm-central-station-4x3-2400.avif 2400w"]
+
+[#sl-app]
+== 推荐 SL 手机应用
+
+在斯德哥尔摩，公共交通范畴内的通勤火车，公交车，地铁和一些轮渡都是由 SL 统一运营的，都支持 75 分钟之内免费换乘。为了充分利用这一点，特别推荐下载手机应用 SL-Journey planner and tickets 购票和乘车，很方便。
+
+.在 SL 应用中购票后等待激活的界面。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/arn-airport-tranport/sl-app-1170x2532.avif[width="390", height="844"]
+
+每次出门时可以提前在手机上买好车票。上车时在手机应用中激活车票。一部手机可以购买和激活多张车票，不必每个人都装。如果可能，充分利用免费换乘的时间。
