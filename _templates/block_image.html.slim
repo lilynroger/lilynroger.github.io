@@ -15,7 +15,7 @@
 
 / Resolve custom attributes
 - media = attr 'media'
-- sizes = attr('sizes') ? attr('sizes') : '(max-width: 575px) 400px, 800px'
+- sizes = attr('sizes') ? attr('sizes') : '(min-width: 1400px) 840px,(min-width: 1200px) 720px, (min-width: 992px) 600px, 92vw'
 / If srcset is present, we must process it to ensure paths are correct
 - srcset_raw = attr 'srcset'
 - srcset = srcset_raw ? srcset_raw.split(',').map { |s| s.strip.start_with?('http') ? s : "#{document.attr 'imagesdir'}/#{s.strip}" }.join(', ') : nil
