@@ -1,0 +1,148 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-gobbi-closeup-4x3-1200.avif
+  alt: 维罗纳圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia) 中由委罗内塞 (Veronese) 父亲加布里埃尔·卡利亚里 (Gabriele Caliari) 所作的“幸运驼背”雕像 (Gobbi)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-gobbi-closeup-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-gobbi-closeup-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-17 17:00:00 +0200
+last_modified_at: 2026-09-28 21:45:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 教堂, 艺术, 委罗内塞, 皮萨内洛]
+tagline: 委罗内塞父亲的“幸运驼背”雕像和皮萨内洛的《圣乔治与公主》
+description: 圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia) 内藏有委罗内塞 (Veronese) 父亲所作的“幸运驼背”雕像 (Gobbi) 和皮萨内洛（Pisanello）的名作《圣乔治与公主》 (St. George and the Princess)，是维罗纳不可错过的景点之一。
+---
+= 罗纳的圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia): 触摸“幸运驼背”
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/
+:link-verona-card: link:{% post_url 2026-06-17-verona-card %}[维罗纳卡 (Verona Card)]
+
+圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia) 是维罗纳最大的教堂。其中收藏着由委罗内塞 (Veronese) 父亲所作、著名的“幸运驼背”雕像 (Gobbi) ，还有文艺复兴早期大师皮萨内洛（Pisanello）的名作《圣乔治与公主》 (St. George and the Princess)，是维罗纳最不可错过的景点之一。
+
+.维罗纳的圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-4x3-2400.avif 2400w"]
+
+toc::[]
+
+[#top-highlights]
+== 核心看点
+
+我们参观圣安娜斯塔西娅教堂的主要目标正是摸摸“幸运驼背”雕像和仰望皮萨内洛的《圣乔治与公主》。
+
+[#gibbi-hunchbacks]
+=== “幸运驼背”雕像
+
+在圣安娜斯塔西亚教堂中，进门后中殿左右的两根维罗纳红大理石立柱基座上，有两座著名的驼背人雕像 (I Gobbi)。它们的作用是托起圣水盆。民间传说认为触摸他们的驼背会带来好运，所以两尊雕像已经被当地人和游客摸的十分光滑了。
+
+左边那个表情痛苦甚至有些怪诞的驼背人根据考证出自维罗纳石匠**加布里埃莱·卡利亚里** (Gabriele Caliari) 之手，落成于 1495 年。这位石匠名不见经传，但是他的儿子正是文艺复兴时期的威尼斯画派三杰之一，来自维罗纳的**保罗·委罗内塞** (Paolo Veronese)。
+
+.维罗纳的圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia) 中加布里埃莱·卡利亚里 (Gabriele Caliari) 制作的驼背人雕像。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-gobbi-left-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-gobbi-left-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-gobbi-left-4x3-2400.avif 2400w"]
+
+委罗内塞是威尼斯画派三杰中我们最喜欢的画家。探访委罗内塞的足迹是我们此次旅行中的重点之一。原本只是来圣安娜斯塔西亚教堂寻访大师的家族渊源，但这尊稍显朴素的雕像极其独特的造型和面孔，成了我们维罗纳之行中一个十足的亮点。
+
+++++
+{% related slugs="veronese-verona-venice" %}
+++++
+
+右边的驼背人雕像晚了将近一个世纪，是后来为了对称补上的。根据修道院档案记载，这尊雕像是文艺复兴晚期雕刻家**保罗·奥雷菲切** (Paolo Orefice) 为表达自己的虔诚信仰，自费为教堂制作的，一共花费了 50 枚金币，落成于 1591 年。
+
+这尊雕像还有个名字。因为他恰好在 1591 年的复活节被送进教堂安放，于是修士和老百姓们就给他起了个外号**帕斯奎诺** (Pasquino)，意大利语“复活节小子”的意思。帕斯奎诺一只手扶着头顶，郁闷且无奈的表情与对面的那尊驼背人相互呼应。
+
+.维罗纳的圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia) 中保罗·奥雷菲切 (Paolo Orefice) 制作的驼背人雕像。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-gobbi-right-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-gobbi-right-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-gobbi-right-4x3-2400.avif 2400w"]
+
+[#st-george-princess-pisanello]
+=== 皮萨内洛的《圣乔治与公主》
+
+在安娜斯塔西娅教堂深处，在主祭坛右侧耳堂区域的第一座礼拜堂，是**佩莱格里尼**礼拜堂 (Cappella Pellegrini)。在这座礼拜堂的凯旋拱外墙上，就是文艺复兴早期巨匠皮萨内洛的湿壁画《圣乔治与公主》。它是国际哥特风格在意大利最重要的代表作，是艺术向文艺复兴自然主义转型的关键标志之一。
+
+.皮萨内洛 (Pisanello) 的湿壁画《圣乔治与公主》 (Saint George and the Princess)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/st-george-princess-pisanello-santa-anastasia-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/st-george-princess-pisanello-santa-anastasia-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/st-george-princess-pisanello-santa-anastasia-verona-4x3-2400.avif 2400w"]
+
+皮萨内洛在这幅壁画中，捕捉的不是圣乔治斗恶龙的激烈瞬间，而是公主目送圣乔治出发的宁静时刻。圣乔治身披板甲，正踩着马蹬准备上马；公主则身着华丽的长袍，静静地站在右侧。
+
+在这幅画中，公主标志性的高发际线和奢华的披风所代表的宫廷时尚，圣乔治所代表的理想化的骑士精神，这些都是意大利国际哥特式的巅峰和绝唱。同时，画中对透视的探索，对动物细节的刻画，又体现出明显的文艺复兴自然主义倾向。
+
+在这幅《圣乔治与公主》中的大量细节，皮萨内洛都有素描手稿留存至今，绝大多数收藏在卢浮宫和大英博物馆：
+
+* 作为当时最伟大的动物画家，皮萨内洛的素描手稿中有大量马匹和猎犬的写生，特别是那个醒目的马屁股。
+* 画面左侧聚集的人群，其中有几位明显是东方人，最左侧还有个鞑靼人。皮萨内洛的手稿是在维罗纳的东方雇佣兵和使节的面部素描。
+* 在画面左上方的远景，还有两个吊在绞刑架上的死尸。皮萨内洛的手稿是在维罗纳绞刑广场对着正在腐烂的死刑犯尸体所画的速写。
+
+这幅《圣乔治与公主》的左半部分，凯旋拱的左侧墙面上原来画的是巨龙和它的巢穴，由于漏水和受潮，已经损坏殆尽了。如今的右半部分实际上也曾被整体揭下来，经过抢救性修复后，才重新安置回原来的位置。可惜的是，画中曾有金箔和银箔的浮雕花纹，在修复过程中，都毁掉了。
+
+[#other-highlights]
+== 其它看点
+
+如果你时间充裕，此刻还饶有兴趣，这里是圣安娜斯塔西娅教堂由外到内的其他一些看点。
+
+[#front]
+=== 出资人的悬空石棺
+
+圣安娜斯塔西娅教堂始建于 1290 年，由**道明会**的修士发起，在封建领主**古列尔莫·达·卡斯特尔巴尔科** (Guglielmo da Castelbarco) 的全力资助下开工。这位古列尔莫曾担任维罗纳的执政官 (Podestà)，是维罗纳最高统治者“大狗”康格兰德一世 (Cangrande I) 最信任的政治盟友与终身挚友。在圣安娜斯塔西娅教堂大门旁边，高悬在拱门之上的华盖和石棺就是古列尔莫的纪念墓。这座墓在那个时代是个革命性的设计，直接启发了后来的斯卡利杰里领主家族墓 (Arche Scaligere)。
+
+.维罗纳的圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia) 旁的古列尔莫 (Guglielmo) 悬空石棺墓。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-guglielmo-tomb-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-guglielmo-tomb-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-guglielmo-tomb-4x3-2400.avif 2400w"]
+
+穿过拱门和悬空石棺墓，就是曾经的道明会的修道院。如今这个建筑群属于维罗纳的最高音乐学府**达·阿巴科音乐学院** (Conservatorio Di Musica Dall’Abaco)，和全意大利历史最悠久的古典高中之一**马费伊古典高中**，也称**马费伊学院** (Istituto Maffei)。
+
+[#san-pietro-martire]
+=== 圣乔治托教堂
+
+在悬空石棺所在的拱门一旁还有一个小教堂，名字叫**圣乔治托教堂** (San Giorgetto)。“圣乔治托教堂”其实就是“小圣乔治教堂”的意思，以便区别于阿迪杰河对岸的那座著名的“大圣乔治教堂”，也就是城外草地上的圣乔治堂 (Parrocchia di San Giorgio in Braida)。这所小教堂因为保护和修缮原因长期处于关闭状态，不过据说 2027 年会重新开放，里面又不少罕见的收藏，应该非常值得一看。
+
+圣乔治托教堂，也叫**殉道者圣彼得教堂** (San Pietro Martire)，而这个殉道者圣彼得是谁呢？
+
+[#portal]
+=== 殉道者圣彼得浮雕
+
+**殉道者圣彼得**不是使徒圣彼得，而是维罗纳本地的一位圣人，本名**皮耶特罗·罗西尼** (Pietro Rosini)，也译作**彼得·罗西尼**。他是 13 世纪维罗纳的一名神父和道明会的传教士。教宗任命他为意大利北部的总宗教裁判官。
+
+由于彼得在位时铁腕清算了大批异端分子，结下了许多仇家，最终被异端分子雇佣的刺客伏击，被一把大砍刀劈开了头颅。传说他临死前，用手指蘸着自己的鲜血写下：我信天主 (Credo in Deum)。在殉道后，彼得很快成天主教历史上最快封圣的圣人，并成为继圣泽诺之后，维罗纳的另一位城市主保圣人。
+
+如今的圣安娜斯塔西娅教堂其实是在一座更古老的圣安娜斯塔西娅教堂遗址上扩建而来的。在建造过程中，道明会的修士们决定将这座新教堂奉献给维罗纳的殉道者圣彼得。所以，圣安娜斯塔西娅教堂的官方名字一直都是**维罗纳圣安娜斯塔西娅处的圣彼得殉道者堂**。只不过，维罗纳民间坚持沿用那座古老教堂的名字，叫它圣安娜斯塔西娅教堂。官方名字确实太长了。
+
+正是因为圣彼得惨烈的殉道方式，在艺术史上，他总是被描绘为身穿黑白色的道明会修士服，头顶一把大砍刀的形象，非常好认。圣安娜斯塔西娅教堂门廊右侧最上边的浮雕描绘就是圣彼得殉道的神迹：头顶着大砍刀，在地上用手指写下信仰。
+
+.维罗纳的圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia) 门廊上的殉道者圣彼得浮雕。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-portal-relief-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-portal-relief-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-portal-relief-4x3-2400.avif 2400w"]
+
+[#vault]
+=== 拱顶壁画
+
+圣安娜斯塔西娅教堂的拱顶密布着精美的植物和花卉纹样壁画。在中殿的尽头，耳堂和后殿交界的凯旋拱两端角落上，对称地装饰着斯卡利杰里领主家族 (Scaligeri) 的“梯子”和“狗”的符号组合。其中梯子是这个家族的纹章；而两旁扶着梯子的狗是这个家族的守护象征。
+
+.维罗纳的圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia) 的内景。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/verona-basilica-santa-anastasia-interior-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/verona-basilica-santa-anastasia-interior-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/verona-basilica-santa-anastasia-interior-4x3-2400.avif 2400w"]
+
+[#floor]
+=== 三色大理石地面
+
+圣安娜斯塔西娅教堂的地面是由黑、白、红三色的大理石铺就的几何图形拼花地板，其复杂度和规模，在整个欧洲的教堂中也极为罕见，极具辨识度。
+
+黑色和白色直接对应着道明会修士“白衣披黑袍”的服装特征；而红色的正是举世闻名的维罗纳红大理石，象征着殉道者圣彼得之血。
+
+在靠近主祭坛的中殿正中央地面上，一幅巨大的大理石玫瑰花窗拼花最引人瞩目。根据档案记载，文艺复兴时期的著名建筑师**皮耶特罗·达·波尔莱扎** (Pietro da Porlezza) 在 1462 年，接受道明会修士的委托，亲手设计并铺就了这幅大理石玫瑰花窗图案。这位建筑大师家族地位显赫，他是维罗纳最伟大的传奇建筑大师**米歇尔·圣米凯里** (Michele Sanmicheli) 的堂兄。
+
+.维罗纳的圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia) 的三色大理石玫瑰拼花地面。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-floor-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-floor-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-floor-4x3-2400.avif 2400w"]
+
+[#visit]
+== 参观信息
+
+圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia) 坐落在维罗纳老城中心的边缘，紧邻阿迪杰 (Adige) 河畔，和著名的“石桥”彼得拉桥 (Ponte Pietra) 咫尺之遥。
+
+参观教堂内部需要购票，票价 4 欧元。推荐购买{link-verona-card}，主要景点一卡全包。也可以购买四教堂联票，维罗纳大教堂建筑群、圣安娜斯塔西娅教堂、圣泽诺教堂、圣费尔莫教堂一票全包，票价 8 欧元算是十分良心的了。
+
+++++
+{% related slugs="verona-duomo" %}
+++++
+
+**注意：**圣安娜斯塔西娅教堂周日只在下午开放参观。
