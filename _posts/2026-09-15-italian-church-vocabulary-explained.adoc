@@ -10,6 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-09-16 08:00:00 +0800
+last_modified_at: 2026-09-28 21:45:00 +0800
 tags: [2026-Dolomites, 欧洲, 意大利, 教堂]
 tagline: 什么是主教座堂、圣殿、朝圣地、礼拜堂？
 ---
@@ -27,7 +28,7 @@ toc::[]
 [#chiesa]
 == 教堂 (Chiesa) 是通称
 
-意大利语 Chiesa 是最基础、最通用的词汇，是所有教堂的统称。
+意大利语 Chiesa 是最基础、最通用的词汇，是所有教堂的统称。基本上有个礼拜堂就可以称为教堂。
 
 [#cattedrale]
 == 主教座堂 (Cattedrale) 是主教的正式驻地
@@ -94,6 +95,14 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-v
 
 .博洛尼亚的圣路加拱廊 (Portico di San Luca) 连接着老城中心和圣路加圣母朝圣地 (Santuario della Beata Vergine di San Luca)。
 image::https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/portico-san-luca-bologna-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/portico-san-luca-bologna-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/portico-san-luca-bologna-4x3-2400.avif 2400w"]
+
+[#parrocchia]
+== 堂 (Parrocchia) 是基层堂区的核心教堂
+
+天主教的行政管理分为三级：教廷，教区 (Diocese)，堂区 (Parrocchia)。类似一个教区有主教座堂，一个堂区也有自己的核心教堂，意大利语中的 Parrocchia 既指堂区，日常也可以指堂区的核心教堂。在中文里，当 Parrocchia 指教堂时，标准的翻译是**堂区教堂**，习惯上常常直接缩写为后缀“堂”。
+
+.画面右侧拥有漂亮文艺复兴风格穹顶的教堂就是维罗纳的布拉伊达圣乔治堂 (Parrocchia di San Giorgio in Braida)，也译作城外草地上的圣乔治堂。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/parrocchia-san-giorgio-braida-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/parrocchia-san-giorgio-braida-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/italian-church-vocabulary-explained/parrocchia-san-giorgio-braida-verona-4x3-2400.avif 2400w"]
 
 [#cappella]
 == 礼拜堂 (Cappella) 是小型弥撒场所
