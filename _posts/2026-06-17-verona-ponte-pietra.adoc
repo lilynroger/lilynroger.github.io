@@ -1,0 +1,54 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/ponte-pietra-verona-4x3-1200.avif
+  alt: 维罗纳阿迪杰河 (Adige) 上的石桥彼得拉桥 (Ponte Pietra)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/ponte-pietra-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/ponte-pietra-verona-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-17 19:30:00 +0200
+last_modified_at: 2026-10-02 22:00:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 景点]
+tagline: 跨越两千年的洗礼和重生
+---
+= 维罗纳最古老的石桥：彼得拉桥 (Ponte Pietra)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/
+
+[.lead]
+维罗纳的彼得拉桥 (Ponte Pietra) 坐落在老城的北端，横跨阿迪杰河 (Adige)，正对着通往圣彼得城堡 (Castel San Pietro) 的上山步道。它的意大利语名字的字面意思就是“石桥”。它是维罗纳历史最悠久的建筑，也最具标志性的景点之一。
+
+绝大多数游客对彼得拉桥的第一印象，是透过老城这一端的瞭望塔拱门看到的桥面和护栏，貌似平平无奇。不过，如果站在河岸边，或者对岸的高处欣赏彼得拉桥，就会立刻被它古朴而独特的红白拼贴外观所吸引。它是由两千多年的历史交织而成的一座传奇建筑。
+
+**古罗马：**彼得拉桥所在的位置是阿迪杰河的一处天然浅滩，自古就是人们徒步或者骑马涉水过河的地方。后来这里建起了木桥，再后来，在公元前 100 年左右的古罗马共和国时期，木桥换成了白色的大理石桥。这里成为市民过河前往对面山脚下的罗马大剧院和山顶上的朱庇特神庙的必经之路。
+
+**中世纪：**公元 1298 年，在维罗纳最伟大的领主**康格兰德一世** (Cangrand I) 的父亲**阿尔贝托一世** (Alberto I) 统治时期，桥体由洪水造成的局部坍塌被用红砖做了修补，桥的两端还建起了红砖瞭望塔楼（河对岸的那座砖塔在 1801 年拿破仑军队占领期间被毁）。
+
+**文艺复兴时期：**在 16 世纪初彼得拉桥的两座中央桥拱垮塌，这次修复在水下引入了强化的地基，用红砖改建了中央的两座大拱。
+
+**二战期间：**在 1945 年，败退的纳粹德国军队炸毁了维罗纳的所有桥梁，包括彼得拉桥。
+
+**战后：**在 1957 年，在原址重建了桥梁内部结构之后，维罗纳人民打捞起河床上散落的砖石，根据历史照片，一块一块拼了回去，奇迹般地复原了彼得拉桥。
+
+今天，当你走在彼得拉桥之上，你脚下的是来自古罗马、中世纪、文艺复兴时期和当代不同时期的砖石。
+
+想不想看看更古老的东西？彼得拉桥还是一座“化石博物馆”。桥面和护栏铺设的巨大石块，桥砖常年被雨水冲刷和行人踩踏，许多来自侏罗纪的菊石化石自然风化出来，立体而有厚度，不难发现。
+
+.维罗纳彼得拉桥 (Ponte Pietra) 护栏之上的菊石化石。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/ammonite-ponte-pietra-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/ammonite-ponte-pietra-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/ammonite-ponte-pietra-verona-4x3-2400.avif 2400w"]
+
+欣赏彼得拉桥的最佳位置无疑是圣彼得城堡的观景台。特别是当落日的余晖穿过彼得拉桥的桥洞，阿迪杰河的浅滩上泛起浪花，人们划着皮划艇顺流而下时，彼得拉桥在维罗纳大教堂和钟塔的映衬下，构成了一幅充满浪漫气息的画面。
+
+.从圣彼得城堡 (Castel San Pietro) 观景台俯瞰彼得拉桥 (Ponte Pietra)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/ponte-pietra-castel-san-pietro-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/ponte-pietra-castel-san-pietro-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/ponte-pietra-castel-san-pietro-verona-4x3-2400.avif 2400w"]
+
+除了居高临下的圣彼得城堡，圣乔治堂 (Parrocchia di San Giorgio in Braida) 旁的河滨路是平视角度欣赏和拍摄彼得拉桥的最佳位置。在这里，彼得拉桥、瞭望砖塔、圣彼得城堡都一览无余。在傍晚时，落日是在你的身后，能更轻松地捕捉到绝佳的色彩。
+
+.从圣彼得城堡 (Castel San Pietro) 观景台俯瞰彼得拉桥 (Ponte Pietra)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/castel-san-pietro-ponte-pietra-verona-san-giorgio-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/castel-san-pietro-ponte-pietra-verona-san-giorgio-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/castel-san-pietro-ponte-pietra-verona-san-giorgio-4x3-2400.avif 2400w"]
