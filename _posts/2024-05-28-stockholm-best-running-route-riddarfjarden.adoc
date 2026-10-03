@@ -1,0 +1,122 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/stockholm-best-running-route-riddarfjarden-4x3-1200.avif
+  alt: 斯德哥尔摩北城、老城、南城和国王岛包围的骑士湾 (Riddarfjärden) 为跑者提供了一条天然的环线。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2024/scandinavia/≈/stockholm-best-running-route-riddarfjarden-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/stockholm-best-running-route-riddarfjarden-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2024-05-28 05:00:00 +0200
+last_modified_at: 2026-09-29 16:00:00 +0800
+tags: [2024-Scandinavia, 欧洲, 北欧, 瑞典, 斯德哥尔摩, 跑步]
+tagline: 跑动物园岛还是骑士湾？
+---
+= 斯德哥尔摩最佳跑步路线：环骑士湾 (Riddarfjärden Loop)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/
+:link-scandinavia: link:{% post_url 2024-05-27-scandinavia %}[斯堪的纳维亚之旅]
+:link-gamla-stan: link:{% post_url 2024-05-28-stockholm-gamla-stan %}[《斯德哥尔摩老城攻略》]
+:link-subway-stations: link:{% post_url 2024-05-29-stockholm-subway-stations %}[斯德哥尔摩地铁站攻略]
+:link-airport: link:{% post_url 2024-05-27-arn-airport-tranport %}[斯德哥尔摩阿兰达机场攻略]
+
+斯德哥尔摩公认的最佳跑步路线通常是动物园岛 (Djurgården)，不过我们觉得，如果你也是初次探访斯德哥尔摩的游客跑者，那么由北城、老城、南城和国王岛合围的骑士湾 (Riddarfjärden) 环线，更好！
+
+toc::[]
+
+[#what]
+== 什么是骑士湾环线
+
+语言障碍是认识斯德哥尔摩这座城市的最大麻烦。瑞典语的地名最初以我们来说与天书无异，所以我们做的第一件事就是准备了一份斯德哥尔摩的双语街区指南地图。对照这份地图，先来认识一下骑士湾。
+
+.斯德哥尔摩双语街区指南地图。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/stockholm-neighborhoods-map-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/stockholm-neighborhoods-map-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/stockholm-neighborhoods-map-4x3-2400.avif 2400w"]
+
+在斯德哥尔摩，游客最集中的地方包括：
+
+* 老城 (Gamla Stan)，包括西侧紧邻的骑士岛 (Riddarholmen)，
+* 动物园岛 (Djurgården)，
+* 北城 (Norrmalm)。
+
+国王岛 (Kungsholmen) 和南城 (Södermalm) 虽然也有必去景点，去的人就少多了。在南城的西侧和国王岛之间，有一座大桥叫**西桥** (Västerbron) 连接着这两个地区。
+
+在国王岛和南岛之间、老城的骑士岛以西、一直到连接国王岛和南岛的西桥之间的水域就是著名的骑士湾。我们选择的跑步路线就是围绕骑士湾，全长约 6.4 公里的天然滨水环线。
+
+**是海还是湖？**有趣的是，虽然骑士湾的瑞典语名字 Riddarfjärden 中的 fjärden 的一词和挪威语中的峡湾 fjord 一词同源，但是骑士湾并不是峡湾，甚至都不是海。骑士湾是瑞典第三大淡水湖**梅拉伦湖** (Mälaren) 的一部分，是梅拉伦湖在东边的尽头。越过老城再向东，就属于波罗的海 (Baltic) 的水域了。老城就卡在淡水和咸水之间。
+
+[#why]
+== 为什么选骑士湾环线
+
+这是我们选择骑士湾环线跑步打卡斯德哥尔摩的理由：
+
+* 骑士湾环线全长约 6.4 公里，累计爬升不超过 40 米，路面以沥青自行车道和铺装人行道为主，极少红绿灯和车流。
+* 骑士湾环线是一条天然滨水环线，路线接近一个矩形，且非常清晰，(几乎)不可能迷路。
+* 我们在斯德哥尔摩的行程只有四天，没有很多的时间漫游南城和国王岛了，一次晨跑就可以知道，哪些地方值得去看看。
+
+我们在动物园岛花了一天还多的时间逛公园和博物馆，所以这次没有选动物园岛跑步打卡。
+
+[#how]
+== 骑士湾环线指南
+
+认识了我们所说的骑士湾环线，这里奉上这条跑步路线的分段指南。
+
+[#start]
+=== 起点 (Klara Mälarstrand)
+
+我们住在北城，所以选择了北城最西南角、正对对岸市政厅的 Klara Mälarstrand 码头作为起点，从这里出发向南顺时针跑环线。
+
+不要急着出发，起点这里就有欣赏前方骑士岛建筑的不错视角，前往皇后岛宫的皇后岛号 (Drottningholm) 白色复古蒸汽船早上一般也停在这里。
+
+.从北城最西南角欣赏骑士岛风光。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/riddarfjarden-gamla-stan-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/riddarfjarden-gamla-stan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/riddarfjarden-gamla-stan-stockholm-4x3-2400.avif 2400w"]
+
+[#east-segment]
+=== 东段 (Centralbron)
+
+骑士湾环线的东段主要是连接北城和南城的**中央桥** (Centralbron) 交通干道一侧的人行道，中间经过骑士岛。在骑士岛上，建议沿着水岸跑。这里有欣赏国王岛上的市政厅和南岛上的彩色建筑的极佳视角。
+
+.连接北城和南城，横跨骑士岛的中央桥是骑士湾环线的东段。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/riddarfjarden-loop-start-klara-malarstrand-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/riddarfjarden-loop-start-klara-malarstrand-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/riddarfjarden-loop-start-klara-malarstrand-stockholm-4x3-2400.avif 2400w"]
+
+[#south-segment]
+=== 南段 (Söder Mälarstrand)
+
+骑士湾环线的南段是南城北岸的**南梅拉伦湖畔路** (Söder Mälarstrand)。你的右手边始终是骑士湾，左手边则是经典的彩色房子和南城的山崖。著名的俯瞰骑士湾的蒙特留斯步道 (Monteliusvägen) 就在头顶的山崖之上。
+
+这一段人在景中，近处没有多少风光，对岸的风光又有点远，专心跑步吧。唯一需要注意的是，在接近西桥时，记得**左转进入上桥的匝道**。我们在这里一直跑到桥下才发现上不去。
+
+.从骑士岛远眺南城北岸：骑士湾水面倒映着南城的彩色建筑与悬崖步道。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/riddarfjarden-sodermalm-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/riddarfjarden-sodermalm-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/riddarfjarden-sodermalm-stockholm-4x3-2400.avif 2400w"]
+
+[#west-segment]
+=== 西段 (Västerbron)
+
+骑士湾环线的西段主要就是西桥 (Västerbron)。这里的引桥是整条骑士湾环线中唯一真正的爬坡点。左手边是开阔的梅拉伦湖主湖区，右手边则是骑士湾、老城和市政厅的全景。
+
+这里的日出风光应该不错，可惜我们跑到桥上的时候，太阳已经升起来了，强烈的逆光导致老城和市政厅只能看到剪影了。不过，话说回来，夏季想在北欧看日出，得半夜起来。
+
+.斯德哥尔摩西桥之下的滑板公园 (Rålis skatepark)，空中挂满了鞋子。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/ralis-skatepark-vasterbron-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/ralis-skatepark-vasterbron-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/ralis-skatepark-vasterbron-stockholm-4x3-2400.avif 2400w"]
+
+[#north-segment]
+=== 北段 (Norr Mälarstrand)
+
+骑士湾环线的北段主要是国王岛南岸的**北梅拉伦湖畔路** (Norr Mälarstrand)。北梅拉伦湖畔路东边的尽头就是宏伟的市政厅。跑过市政厅桥 (Stadshusbron)，就回到了北城的起点。
+
+这一段的滨水步道整洁宽阔，景观别致，跑起来非常舒适，是我们最喜欢的一段。
+
+.斯德哥尔摩市政厅地下餐厅 (Stadshuskällaren) 入口处的青铜雕塑是骑着狮子的酒神和狂欢之神。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/stadshuskallaren-kungsholmen-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/stadshuskallaren-kungsholmen-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/stadshuskallaren-kungsholmen-stockholm-4x3-2400.avif 2400w"]
+
+[#breakfast]
+== 后记
+
+我们因为时差，起了个大早跑的骑士湾环线，结果还不到七点钟就跑完回到了在北城的酒店，正好享用一顿北欧风格的早餐。我们住的这家酒店早餐不错，还有绿叶蔬菜，这在我们住过的北欧酒店里可不多见。
+
+.晨跑后在北城的 Scandic Klara 酒店享用一顿北欧风格的早餐。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/breakfast-scandic-klara-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/breakfast-scandic-klara-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-best-running-route-riddarfjarden/breakfast-scandic-klara-stockholm-4x3-2400.avif 2400w"]
