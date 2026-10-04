@@ -1,0 +1,77 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/ponte-pietra-castel-san-pietro-verona-4x3-1200.avif
+  alt: 从维罗纳的圣彼得城堡 (Castel San Pietro) 俯瞰阿迪杰河 (Adige) 上的石桥彼得拉桥 (Ponte Pietra)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/ponte-pietra-castel-san-pietro-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/ponte-pietra-castel-san-pietro-verona-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-17 20:30:00 +0200
+last_modified_at: 2026-09-28 21:45:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 景点]
+tagline: 在“爱之城”维罗纳，哪里最浪漫？
+---
+= 维罗纳的圣彼得城堡 (Castel San Pietro): 完美的落日全景观景台
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/
+:link-verona-duomo: link:{% post_url 2026-06-17-verona-duomo %}[维罗纳大教堂]
+
+[.lead]
+在“爱之城”维罗纳，什么最浪漫？是被几百万人摸胸的朱丽叶铜像，还是排队才能上去的朱丽叶阳台？我们的答案是：在维罗纳的圣彼得城堡观景台，点上一杯**阿佩罗橙光** (Spritz Aperol) 鸡尾酒，伴着悠扬的乐声，欣赏落日余晖中的维罗纳古城和石桥，是在维罗纳最浪漫的事。
+
+toc::[]
+
+[#history]
+== 一点历史
+
+圣彼得城堡坐落在维罗纳古城以北的**圣彼得山丘** (Colle San Pietro) 山顶，这里是维罗纳的发源地。公元前 1 世纪，古罗马人就选择了圣彼得山丘建立卫城（也就是“高处的城市”），山顶上建起了神庙，山脚下建起了罗马剧院，阿迪杰河浅滩上的木桥也升级成了石桥。直到公元一世纪，越来越多的人过河定居，在今天的香草广场那里建起了罗马广场，然后是南边的圆形竞技场，城市中心移到了平原上的古城区。
+
+中世纪时，维罗纳人在山顶古罗马神庙的遗址上修建了**圣彼得教堂**，这座山也正式得名圣彼得山丘。随后的维罗纳领主**斯卡利杰里**家族和米兰领主**维斯孔蒂**家族又在山顶修筑了城堡，直到被拿破仑军队摧毁。在 19 世纪中期，茜茜公主的丈夫在位的哈布斯堡王朝统治时期，奥地利帝国接管了维罗纳。奥地利军队在圣彼得山丘的废墟之上建起了新古典主义风格的庞大兵营，这就是我们今天看到的圣彼得城堡。
+
+今天的圣彼得城堡内部仍然在持续的修缮中，并不对外开放。不过城堡前方的**圣彼得城堡广场** (Piazzale Castel San Pietro) 是免费开放的维罗纳全景观景台，还设有酒吧和餐厅，是维罗纳欣赏落日的不二之选。
+
+我们去的时候，落日的余晖洒在维罗纳的红色古城之上，右岸的**{link-verona-duomo}**与左岸的**圣乔治堂**隔河相望，斜阳穿过彼得拉桥的桥洞，阿迪杰河的浅滩上泛起浪花，一行人划着皮划艇顺流而下，观景台上还有街头音乐家演奏电子大提琴，气氛直接拉满。
+
+.在维罗纳圣彼得城堡观景台 (Piazzale Castel San Pietro) 上一位街头音乐家在演奏电子大提琴。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/sunset-cello-performance-castel-san-pietro-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/sunset-cello-performance-castel-san-pietro-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/sunset-cello-performance-castel-san-pietro-verona-4x3-2400.avif 2400w"]
+
+[#visit]
+== 如何前往
+
+前往圣彼得城堡观景台，推荐沿着登山步道走上去，也可以乘坐缆车直达山顶。
+
+**小贴士：** 圣彼得城堡广场不仅是来自世界各地的游客的必去景点之一，也是本地人约会、休闲、锻炼的热门去处。而真正拥有无树木遮挡的最佳全景视角的地方是只有几米长的观景平台一角。所以，看夕阳最好早一点上山，点上一杯鸡尾酒，占个位置等。我们去的时候人还不算特别多，从彼得拉桥上山到回来一共花了 45 分钟。
+
+从老城穿过山脚下的彼得拉桥来到阿迪杰河左岸后，马路对面红灰两栋建筑之间的窄巷就是登山步道。红墙的内侧刻着的正是这条古老步道的名字**圣彼得城堡大阶梯** (Scalone Castello S. Pietro)。步道的全程有超过二百级宽阔的石阶，坡度不算大，走到山顶需要大约 15 分钟。
+
+.走过彼得拉桥之后，马路对面就是通往圣彼得城堡的上山步道的入口。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/scalone-castello-san-pietro-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/scalone-castello-san-pietro-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/scalone-castello-san-pietro-verona-4x3-2400.avif 2400w"]
+
+如果不能或者不想爬山，在登山步道起点那里，沿着下坡的那一排彩色建筑走，百米之外就是圣彼得城堡的观光缆车站 (Funicolare di Castel San Pietro)。它是维罗纳为吸引游客专门修的缆车，赚钱不是目的，所以往返票也只要 3 欧元。
+
+[#what-s-next]
+== 后记
+
+圣彼得山丘脚下的彼得拉桥是维罗纳最古老的建筑，参考我们的文章可以了解更多关于这座传奇石桥的故事。
+
+++++
+{% related slugs="verona-ponte-pietra" %}
+++++
+
+我们在游览同样位于阿迪杰河左岸的**布拉伊达圣乔治堂** (Parrocchia di San Giorgio in Braida) 的时候，发现从教堂旁的河滨路拍摄圣彼得山丘和彼得拉桥的平视画面也不错。从这里望去，圣彼得城堡观光缆车也清晰可见。
+
+.从圣乔治堂 (Parrocchia di San Giorgio in Braida) 欣赏圣彼得山丘 (Colle San Pietro) 和彼得拉桥 (Ponte Pietra)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/castel-san-pietro-ponte-pietra-verona-san-giorgio-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/castel-san-pietro-ponte-pietra-verona-san-giorgio-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/castel-san-pietro-ponte-pietra-verona-san-giorgio-4x3-2400.avif 2400w"]
+
+在圣彼得山丘的山脚下，是**古罗马剧院** (Teatro Romano) 的遗迹和**考古博物馆** (Museo Archeologico)。我们此行在维罗纳的时间不多，所以没去，不过行前还是做了些功课。
+
+.维罗纳的圣彼得山丘 (Colle San Pietro)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/teatro-romano-colle-san-pietro-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/teatro-romano-colle-san-pietro-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-castel-san-pietro/teatro-romano-colle-san-pietro-verona-4x3-2400.avif 2400w"]
+
+圣彼得山丘的山坡上那座最大的建筑是古老修道院改建而成的考古博物馆，在它右边的是**圣西罗与圣利贝拉教堂** (Chiesa dei Santi Siro e Libera)，在教堂和博物馆的脚下，就是古罗马剧院的舞台遗址。在每年的**维罗纳夏季戏剧节**期间，这里会举办**莎士比亚戏剧节** (Festival Shakespeariano)，上演莎翁的经典名剧。
