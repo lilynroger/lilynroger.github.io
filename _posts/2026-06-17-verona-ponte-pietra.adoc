@@ -26,7 +26,7 @@ tagline: 跨越两千年的洗礼和重生
 
 绝大多数游客对彼得拉桥的第一印象，是透过老城这一端的瞭望塔拱门看到的桥面和护栏，貌似平平无奇。不过，如果站在河岸边，或者对岸的高处欣赏彼得拉桥，就会立刻被它古朴而独特的红白拼贴外观所吸引。它是由两千多年的历史交织而成的一座传奇建筑。
 
-**古罗马：**彼得拉桥所在的位置是阿迪杰河的一处天然浅滩，自古就是人们徒步或者骑马涉水过河的地方。后来这里建起了木桥，再后来，在公元前 100 年左右的古罗马共和国时期，木桥换成了白色的大理石桥。这里成为市民过河前往对面山脚下的罗马大剧院和山顶上的朱庇特神庙的必经之路。
+**古罗马：**彼得拉桥所在的位置是阿迪杰河的一处天然浅滩，自古就是人们徒步或者骑马涉水过河的地方。公元前 1 世纪古罗马人在这里建起了木桥，再后来，木桥升级成了白色的石桥。这里成为市民过河前往对面山脚下的罗马剧院和山顶上的神庙的必经之路。
 
 **中世纪：**公元 1298 年，在维罗纳最伟大的领主**康格兰德一世** (Cangrand I) 的父亲**阿尔贝托一世** (Alberto I) 统治时期，桥体由洪水造成的局部坍塌被用红砖做了修补，桥的两端还建起了红砖瞭望塔楼（河对岸的那座砖塔在 1801 年拿破仑军队占领期间被毁）。
 
@@ -45,10 +45,9 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pie
 
 圣彼得城堡的观景台无疑是欣赏和拍摄彼得拉桥的最佳位置。特别是当落日的余晖穿过彼得拉桥的桥洞，阿迪杰河的浅滩上泛起浪花，人们划着皮划艇顺流而下时，彼得拉桥在维罗纳大教堂和钟塔的衬托下，构成了一幅充满浪漫气息的画面。
 
-需要注意的是，在圣彼得城堡看夕阳，不仅仅有游客，本地人也十分喜欢这里。旺季时，会有很多人挤在本来就不宽敞的“最佳角度”那里。所以，最好在落日前早早赶到圣彼得城堡，点上一杯 Spritz Aperol 酒，在等待日落中享受“餐前酒时光”。
-
-.从圣彼得城堡 (Castel San Pietro) 观景台俯瞰彼得拉桥 (Ponte Pietra)。
-image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/ponte-pietra-castel-san-pietro-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/ponte-pietra-castel-san-pietro-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-ponte-pietra/ponte-pietra-castel-san-pietro-verona-4x3-2400.avif 2400w"]
+++++
+{% related slugs="verona-castel-san-pietro" %}
+++++
 
 我们曾两次前往圣乔治堂 (Parrocchia di San Giorgio in Braida) 去欣赏委罗内塞的《圣乔治殉道》。在教堂旁边的的河滨路散步时意外地发现，这里是平视欣赏和拍摄彼得拉桥的极佳位置。从这里看过去，彼得拉桥和它的瞭望砖塔，还有圣彼得城堡都一览无余。在傍晚时，落日是在身后，能轻松地捕捉到绝佳的色彩。如果运气好，再赶上几条皮划艇划过桥洞和浅滩，古韵和现代交织的画面应该不错。
 
