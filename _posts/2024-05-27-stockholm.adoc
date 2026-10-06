@@ -14,7 +14,7 @@ last_modified_at: 2026-10-01 09:15:00 +0800
 tags: [2024-Scandinavia, 欧洲, 北欧, 瑞典, 斯德哥尔摩, 城市指南]
 tagline: 老城，动物园岛，东城食品市场和地铁站
 ---
-= 斯德哥尔摩：北欧之都初访者的双语地图和简明攻略
+= 斯德哥尔摩攻略：双语地图和最佳景点
 :page-liquid: true
 :toc: macro
 :toclevels: 2
