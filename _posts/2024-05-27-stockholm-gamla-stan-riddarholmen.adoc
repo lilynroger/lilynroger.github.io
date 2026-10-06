@@ -1,0 +1,108 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/riddarholmskyrkan-riddarfjarden-church-stockholm-4x3-1200.avif
+  alt: 从斯德哥尔摩北城 (Norrmalm) 眺望老城 (Gamla Stan) 西侧的骑士岛 (Riddarholmen)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/riddarholmskyrkan-riddarfjarden-church-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/riddarholmskyrkan-riddarfjarden-church-stockholm-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2024-05-28 10:00:00 +0200
+last_modified_at: 2026-10-06 14:00:00 +0800
+tags: [2024-Scandinavia, 欧洲, 北欧, 瑞典, 斯德哥尔摩, 景点]
+tagline: 老城，动物园岛，东城食品市场和地铁站
+---
+= 斯德哥尔摩攻略：骑士岛 (Riddarholmen) 和骑士岛教堂 (Riddarholmskyrkan)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/
+:link-gamla-stan: link:{% post_url 2024-05-28-stockholm-gamla-stan %}[老城一日游]
+:link-riddarfjarden-loop: link:{% post_url 2024-05-28-stockholm-best-running-route-riddarfjarden %}[环骑士湾]
+
+骑士岛 (Riddarholmen) 就是斯德哥尔摩老城 (Gamla stan) 西侧的那座小岛。岛上不但有地标建筑骑士岛教堂，还拥有欣赏国王岛上的市政厅和南岛上的彩色建筑的极佳视角，是我们{link-riddarfjarden-loop}晨跑路线上的一大亮点，也是我们{link-gamla-stan}的第一站。
+
+toc::[]
+
+[#history]
+== 一点历史
+
+在游览之前，附上一点骑士岛和骑士岛教堂的历史信息，特别是随后将要提到的几个历史人物。如果你还不太确定骑士岛究竟在哪里，先看看我们制作的斯德哥尔摩双语地图，骑士岛被加亮了出来。
+
+.斯德哥尔摩老城和骑士岛双语地图。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/stockholm-riddarholmen-map-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/stockholm-riddarholmen-map-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/stockholm-riddarholmen-map-4x3-2400.avif 2400w"]
+
+在瑞典历史上的摄政王**比格尔·雅尔** (Birger Jarl) 于 1252 年建立了斯德哥尔摩老城之后不久，他的儿子（也是后来的瑞典国王）**马格努斯·拉杜洛斯** (Magnus Ladulås) 在老城旁边的这座小岛上修建了方济各会的修道院。小岛因此得名“修士岛”。
+
+在 1290 年，马格努斯国王驾崩并选择葬在修士岛上的修道院教堂。从此，这个岛就成为皇家陵墓所在地。
+
+在 1527 年，瓦萨王朝的开国君主**古斯塔夫·瓦萨** (Gustav Vasa) 推动全国改信新教，天主教修道院被关闭，教堂转型为新教教堂。
+
+在 1570 年，瓦萨王朝的国王**约翰三世** (Johan III) 为中世纪的马格努斯国王和**卡尔·克努特松**国王修建了大理石石棺。
+
+在 1634 年，斯德哥尔摩正式成为瑞典帝国的首都，修士岛的土地被分封给新晋的功臣和骑士们，并在 1638 年正式改名为骑士岛。
+
+如今的骑士岛上，除了作为皇家陵墓的骑士岛教堂，主要是瑞典的司法行政机构所在地。
+
+[#riddarholmen]
+== 骑士岛
+
+因为市中心不能飞无人机，斯德哥尔摩标志性的空中鸟瞰画面是拍不成了。突出的骑士岛是欣赏“北方威尼斯”水与建筑画面的最佳地点之一。
+
+我们住在斯德哥尔摩的北城，一大早去骑士湾环线跑步的时候，起点就在北城最西南角的码头。从这里，刚刚升起的太阳柔和的光线刚好可以照亮骑士岛北岸标志性的建筑，平静的水面倒映着建筑的色调，视角极佳。
+
+.从北城西南角欣赏骑士岛北岸风光。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/riddarfjarden-gamla-stan-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/riddarfjarden-gamla-stan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/riddarfjarden-gamla-stan-stockholm-4x3-2400.avif 2400w"]
+
+在左侧带有极具辨识度的角塔的建筑是**诺斯特德大楼** (Norstedtshuset)，百年出版巨头诺斯特德出版社的总部，小说《龙纹身的女孩》就是他们出版的。那座看起来像战船的角塔尖顶的绿色其实是铺设的铜板的铜绿，并不是涂料。
+
+右侧的那栋带有绿色圆顶的白色圆形碉堡是**比格尔·雅尔圆塔** (Birger Jarls torn)，建于古斯塔夫·瓦萨统治时期。位于骑士岛中心的骑士岛教堂前的的小广场也叫比格尔·雅尔广场，广场中央纪念碑上的铜像就是他，斯德哥尔摩奠基人。
+
+骑士岛的北岸，特别是西岸的**埃弗特·陶布广场** (Evert Taubes Terrass) 是欣赏国王岛市政厅的绝佳位置，正对市政厅的高塔，塔顶的“三王冠” (Tre Kronor) 标志非常醒目。埃弗特·陶布广场上的雕像是非常热门的骑士湾晚霞和落日的主题。
+
+.从骑士岛欣赏国王岛上的市政厅。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/city-hall-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/city-hall-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/city-hall-stockholm-4x3-2400.avif 2400w"]
+
+骑士岛的南岸，无疑是欣赏南城的彩色建筑的最佳视角之一。
+
+.从骑士岛远眺南城北岸：骑士湾水面倒映着南城的彩色建筑与悬崖步道。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/riddarfjarden-sodermalm-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/riddarfjarden-sodermalm-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/riddarfjarden-sodermalm-stockholm-4x3-2400.avif 2400w"]
+
+[#riddarfjarden-church]
+== 骑士岛教堂
+
+骑士岛最核心的建筑当然是骑士岛教堂。作为瑞典王室陵墓，绝大多数瑞典国王和王后都安葬于此（退位的传奇女王克里斯蒂娜葬在梵蒂冈的圣彼得大教堂）。
+
+骑士岛教堂也是瑞典唯一保留至今的**中世纪修道院教堂**。当年，古斯塔夫·瓦萨推动改信新教时，天主教的修道院和教堂几乎全被拆毁了。骑士岛教堂因为是先王马格努斯·拉杜洛斯的埋骨之地才得以幸免。
+
+.骑士岛教堂的大殿和尽头的圣坛。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/chancel-riddarholmskyrkan-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/chancel-riddarholmskyrkan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/chancel-riddarholmskyrkan-stockholm-4x3-2400.avif 2400w"]
+
+在教堂的核心圣坛区域摆放的是两座瑞典中世纪国王的石棺，也就是前面提到的 13 世纪的国王马格努斯·拉杜洛斯和 15 世纪的国王卡尔·克努特松。两座文艺复兴式的石棺都是 16 世纪时修建的，国王卡尔的石棺中装着他的真身，但是马格努斯国王因为下葬时间更加久远，缺乏明确的记录，在安放石棺时，工匠们挖错了墓，误将某个比马格努斯国王晚了一个世纪下葬的人的遗骨挖出来装进了石棺。这个错误直到 2011 年的放射性碳十四考古研究中才被发现。人们拜了几百年的先王竟然是个乌龙。真正的马格努斯大帝仍然沉睡在教堂地下的某个地方。
+
+.骑士岛教堂圣坛中摆放着两座中世纪国王的石棺。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/tombs-medieval-kings-riddarholmskyrkan-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/tombs-medieval-kings-riddarholmskyrkan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/tombs-medieval-kings-riddarholmskyrkan-stockholm-4x3-2400.avif 2400w"]
+
+在圣坛一侧的**卡洛琳礼拜堂** (Karolinska gravkoret) 正下方的卡洛琳王朝地下墓室也是骑士岛教堂的一个看点。低矮的地下穹顶上镶嵌着满天的金色星斗，极具辨识度，给我们留下深刻印象。
+
+.骑士岛教堂中的卡洛琳王朝地下墓室 (Karolinska gravkoret)。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/caroline-crypt-riddarholmskyrkan-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/caroline-crypt-riddarholmskyrkan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/caroline-crypt-riddarholmskyrkan-stockholm-4x3-2400.avif 2400w"]
+
+在骑士岛教堂中还有一处非常容易错过的细节。注意到教堂墙上密密麻麻的盾徽了吗？那些是瑞典最高荣誉**皇家炽天使骑士团** (The Royal Order of the Seraphim) 的盾徽。皇家炽天使骑士团荣誉会授予瑞典王室成员，瑞典的杰出人士，以及外国元首。当获得者去世后，他的盾徽就会按照传统移入骑士岛教堂永久保存。
+
+**炽天使：**炽天使是最接近神的、最高阶的天使，生有六只翅膀。盾徽中都装饰着“六翼天使”的图案，两只翅膀遮住脸，象征敬畏；两只翅膀遮住脚，象征谦卑；还有两只翅膀用于飞翔。
+
+靠近刚才提到的卡洛琳礼拜堂，在教堂主殿北侧的**勒文豪普特礼拜堂** (Lewenhauptska gravkoret) 中，可以找到一个特别的盾徽。在 1948 年，由当时的瑞典国王**古斯塔夫五世** (Gustaf V) 向蒋介石授予了皇家炽天使骑士团荣誉勋章。在蒋介石去世后，他的盾徽移到了这里。因为蒋介石自己并没有欧洲人那样的盾徽标志图案，他的盾徽上的图案是白底红字的“中华民国之玺”印章图案。
+
+.骑士岛教堂中的皇家炽天使骑士团盾徽，其中可以找到蒋介石的盾徽（左下的那个）。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/jiang-coat-of-arms-seraphim-riddarholmen-church-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/jiang-coat-of-arms-seraphim-riddarholmen-church-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/jiang-coat-of-arms-seraphim-riddarholmen-church-4x3-2400.avif 2400w"]
+
+[#visit]
+== 参观信息
+
+**夏季开放**：需要注意的是，骑士岛教堂通常只在夏季向游客开放。去参观之前，记得查查开放时间。
+
+**联票：**参观骑士岛教堂需要购票，成人 65 瑞典克朗。如果老城里的瑞典王宫 (Kungliga Slotten) 你也要参观，推荐购买瑞典王宫和骑士岛教堂的联票，成人 270 瑞典克朗，比分别购买会便宜几十块钱。最新的门票信息可以参考官网: https://www.kungligaslotten.se/english/royal-palaces-and-sites/admission-charges.html[Admission charges].
