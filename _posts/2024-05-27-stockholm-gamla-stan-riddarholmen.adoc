@@ -10,9 +10,9 @@ image:
 layout: article
 categories: posts
 date: 2024-05-28 10:00:00 +0200
-last_modified_at: 2026-10-06 14:00:00 +0800
+last_modified_at: 2026-10-07 13:30:00 +0800
 tags: [2024-Scandinavia, 欧洲, 北欧, 瑞典, 斯德哥尔摩, 景点]
-tagline: 老城，动物园岛，东城食品市场和地铁站
+tagline: 皇家陵墓和最佳观景点
 ---
 = 斯德哥尔摩攻略：骑士岛 (Riddarholmen) 和骑士岛教堂 (Riddarholmskyrkan)
 :page-liquid: true
@@ -95,9 +95,9 @@ image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gaml
 
 **炽天使：**炽天使是最接近神的、最高阶的天使，生有六只翅膀。盾徽中都装饰着“六翼天使”的图案，两只翅膀遮住脸，象征敬畏；两只翅膀遮住脚，象征谦卑；还有两只翅膀用于飞翔。
 
-靠近刚才提到的卡洛琳礼拜堂，在教堂主殿北侧的**勒文豪普特礼拜堂** (Lewenhauptska gravkoret) 中，可以找到一个特别的盾徽。在 1948 年，由当时的瑞典国王**古斯塔夫五世** (Gustaf V) 向蒋介石授予了皇家炽天使骑士团荣誉勋章。在蒋介石去世后，他的盾徽移到了这里。因为蒋介石自己并没有欧洲人那样的盾徽标志图案，他的盾徽上的图案是白底红字的“中华民国之玺”印章图案。
+靠近刚才提到的卡洛琳礼拜堂，在教堂主殿北侧的**勒文豪普特礼拜堂** (Lewenhauptska gravkoret) 中，可以找到一个特别的盾徽。盾徽图案是白底红字的“国玺”印章图案。
 
-.骑士岛教堂中的皇家炽天使骑士团盾徽，其中可以找到蒋介石的盾徽（左下的那个）。
+.骑士岛教堂中的皇家炽天使骑士团盾徽，留意左下的那个白底红字印章图案的盾徽。
 image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/jiang-coat-of-arms-seraphim-riddarholmen-church-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/jiang-coat-of-arms-seraphim-riddarholmen-church-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan-riddarholmen/jiang-coat-of-arms-seraphim-riddarholmen-church-4x3-2400.avif 2400w"]
 
 [#visit]
