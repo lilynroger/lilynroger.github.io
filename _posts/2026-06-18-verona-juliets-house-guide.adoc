@@ -1,86 +1,117 @@
 ---
 image:
-  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/verona-juliets-house-exterior-4x3-1200.avif
-  alt: 维罗纳 (Verona) 的朱丽叶之家 (Casa di Giulietta / Juliet's House) 中的朱丽叶雕像和阳台。
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/balcony-casa-giulietta-juliet-house-verona-4x3-1200.avif
+  alt: 在维罗纳 (Verona) 朱丽叶故居 (Casa di Giulietta / Juliet's House) 中的朱丽叶雕像和阳台。
   width: 1200
   height: 900
   sources:
-    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/verona-juliets-house-exterior-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/verona-juliets-house-exterior-4x3-2400.avif 2400w
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/balcony-casa-giulietta-juliet-house-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/balcony-casa-giulietta-juliet-house-verona-4x3-2400.avif 2400w
 
 layout: article
 categories: posts
 date: 2026-06-18 09:00:00 +0100
-last_modified_at: 2026-06-18 09:00:00 +0100
-tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳]
-tagline: 朱丽叶的阳台和右胸
-description: 在维罗纳 (Verona) 的朱丽叶之家 (Juliet's House / Casa di Giulietta) 参观阳台、博物馆，抚摸朱丽叶铜像的右胸，最新的在线购票和预约指南，以及使用维罗纳旅游卡 (Verona Card) 的攻略。
+last_modified_at: 2026-10-08 14:00:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 景点]
+tagline: 抚摸朱丽叶的右胸，登上朱丽叶的阳台
+description: 最新的“爱之城”维罗纳 (Verona) 的朱丽叶故居 (Casa di Giulietta / Juliet's House) 攻略：参观庭院和博物馆，抚摸朱丽叶铜像的右胸，登上朱丽叶的阳台，在线购票、维罗纳旅游卡 (Verona Card) 和预约时段指南。
 ---
-= 维罗纳的朱丽叶之家和阳台
+= 维罗纳的朱丽叶故居 (Casa di Giulietta): 庭院，铜像，阳台和信箱
 :page-liquid: true
 :toc: macro
 :toclevels: 2
 :sectnums:
 :imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/
+:link-verona-card: link:{% post_url 2026-06-17-verona-card %}[维罗纳卡 (VeronaCard)]
 
-**朱丽叶之家** (https://casadigiulietta.comune.verona.it/[Juliet's House / Casa di Giulietta]) 无疑是维罗纳最热门的必访景点。虽然《罗密欧与朱丽叶》只是**莎士比亚**将经典变成不朽的一个爱情故事，但丝毫不妨碍全世界的浪漫主义者兴致勃勃地来打卡这座中世纪的老房子，在庭院里抚摸**朱丽叶的右胸**，登上**朱丽叶的阳台**拍照。
+**朱丽叶故居** (Casa di Giulietta / Juliet's House) 无疑是“爱之城”维罗纳最热门的必访景点。虽然《罗密欧与朱丽叶》只是**莎士比亚**将经典变成不朽的一个爱情故事，但丝毫不妨碍全世界的浪漫主义者兴致勃勃地来打卡这座中世纪的老房子，在庭院里抚摸**朱丽叶的右胸**，登上**朱丽叶的阳台**拍照。
 
 toc::[]
 
-[[juliets-house]]
-== 朱丽叶之家
+[#juliet-house]
+== 朱丽叶故居
 
-尽管朱丽叶这个人物是虚构的，但是这处老房子被当作是朱丽叶之家并不是偶然的。
+尽管朱丽叶这个人物是虚构的，但是这处老房子被当作是朱丽叶故居并不是偶然的。
 
 莎士比亚笔下的《罗密欧与朱丽叶》源自意大利的经典故事。而朱丽叶的家族名字**凯普莱特** (Capulet) 实际上莎士比亚把意大利语译成英语时的一种“本土化”改变。在意大利语的经典故事中叫做**卡佩莱蒂** (Cappelletti)，字面意思是“小帽子”。
 
 在中世纪，维罗纳确实有两大派系分别叫做**卡佩莱蒂** (Cappelletti) 和**蒙泰基** (Montecchi)。甚至但丁在他的《神曲·地狱篇》第六章中也直接提到了这两个派系。罗密欧与朱丽叶的故事中双方家族的灵感就源于此。
 
-如今的朱丽叶之家所在的建筑最早的记录是中世纪的 1351 年，是一个叫做**卡佩罗** (Cappello) 的富商家族建造的。房子所在的街道也一直叫做**卡佩罗街** (Via Cappello)。意大利语 Cappello 的意思就是“帽子”，和 Cappelletti 一词同源。建筑上原有的纹章上就有一顶帽子的图案。
+根据历史记录，朱丽叶故居所在的建筑是在中世纪的 1351 年，由一个叫做**卡佩罗** (Cappello) 的富商家族建造的。房子所在的街道也一直叫做**卡佩罗街** (Via Cappello)。意大利语 Cappello 的意思就是“帽子”，和 Cappelletti 一词同源。建筑上原有的纹章上就有一顶帽子的图案。
 
 到了十八世纪，人们开始把这处房子和朱丽叶联系起来，吸引了无数浪漫主义信徒和文学爱好者前来朝圣。像拜伦、狄更斯等文人都曾到访维罗纳寻找罗密欧与朱丽叶的遗迹。
 
 维罗纳市政府为了打造文化旅游景点，在 1905 年买下了这所房子，并在三十年代进行了一次大规模的修复，还无中生有的加上了朱丽叶的阳台，朱丽叶的铜像后来也被安放在庭院中。
 
-[[juliets-courtyard]]
-== 朱丽叶的庭院和朱丽叶的铜像
+[#juliet-courtyard]
+== 朱丽叶庭院
 
-**朱丽叶的铜像**竖立在朱丽叶之家的庭院中。根据当地传统，抚摸**铜像的右胸**能为人带来爱情上的好运和幸福。所以，尽管数百万人去抚摸一尊（莎士比亚笔下）未满 14 岁的少女雕像有点不成体统，游客们依旧总是排着队，乐此不疲。
+朱丽叶故居的庭院很小。之前，人们是可以从卡佩罗街上的拱门免费进入庭院参观的，甚至还可以和庭院中的朱丽叶雕像合影。所以，朱丽叶庭院里永远是人满为患。
 
-事实上，在 1972 年安放在这里的雕像原件已经快被摸坏了，被迫在 2014 年移入了室内加以保护。现在竖立在院子里的是一尊复制品，而且右胸又已经被摸的出现了细微的孔洞。
+从 2026 年开始，进入朱丽叶的庭院开始收费了。游客必须从在**纳沃纳小广场** (Piazzetta Navona) 上的**新剧院** (Teatro Nuovo) 正门进入，穿过剧院内部，进入朱丽叶的庭院。原来大家熟悉的卡佩罗街上的拱门现在只用做出口。
 
-[[juliets-balcony]]
-== 朱丽叶的阳台
+.朱丽叶故居 (Casa di Giulietta) 庭院一角摆放着朱丽叶的铜像。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/courtyard-juliet-house-verona-4x3-2400.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/courtyard-juliet-house-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/courtyard-juliet-house-verona-4x3-2400.avif 2400w"]
 
-人们趋之若鹜的来到朱丽叶之家，当然最重要的是登上那座著名的**朱丽叶的阳台**。
+[#juliet-statue]
+== 朱丽叶铜像
 
-朱丽叶的阳台虽然上个世纪三十年代的改造中才加装的，不过它也是真有”历史“的。在当时市立博物馆的馆长安东尼奥·阿维纳 (Antonio Avena) 主导下，阳台是利用当时存放在**老城堡博物馆** (Castelvecchio Museum) 的十四世纪大理石残件拼凑重建而成的。
+朱丽叶铜像竖立在朱丽叶庭院的一角。根据传统，**抚摸朱丽叶铜像的右胸**能带来爱情上的好运和幸福。所以，尽管数百万人去抚摸一尊少女雕像有点不成体统，游客们依旧总是排着队，乐此不疲（莎士比亚笔下的朱丽叶还不到 14 岁！）。
 
-[[juliets-museum]]
-== 朱丽叶的博物馆
+事实上，从 1972 年开始就安放在这里的雕像原件已经快被摸坏了，被迫在 2014 年移入了室内加以保护。现在竖立在院子里的是一尊复制品，而且右胸又已经被摸出了一个小孔。
 
-朱丽叶之家的建筑内部已经改建成了博物馆。展出了 1968 年的经典电影《罗密欧与朱丽叶》中使用的原始道具床，以及男女主角穿着的戏服。
+.朱丽叶铜像复制品的右胸也已经被摸出了个小孔。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/statue-juliet-house-verona-4x3-2400.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/statue-juliet-house-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/statue-juliet-house-verona-4x3-2400.avif 2400w"]
 
-馆内藏有描绘罗密欧与朱丽叶故事的精美绘画，比如：
+[#juliet-balcony]
+== 朱丽叶阳台
 
-* 科斯罗·杜西 (Cosroe Dusi) 的作品《朱丽叶与罗密欧》 (_Juliet and Romeo_, 1838)
-* 皮埃特罗·罗伊 (Pietro Roi) 的作品《朱丽叶》 (_Juliet_, c. 1882)
+人们趋之若鹜的来到朱丽叶故居，当然最重要的是登上那座著名的**朱丽叶的阳台**。
+
+朱丽叶的阳台是在上个世纪三十年代的改造中才加装上去的，为的就是呼应莎士比亚戏剧中的情节，不过它还真有一点“历史”：它是利用当时存放在**老城堡博物馆** (Castelvecchio Museum) 中的十四世纪大理石残件拼凑而成的。
+
+朱丽叶故居的建筑内部已经改建成了博物馆，阳台在建筑的二楼。想登上朱丽叶阳台，需要购买朱丽叶故居的全票。如果是两个人一起来的，可以轮流拍照。一个人**检票**进入博物馆，去二楼排队上阳台；另一个留在庭院中，负责拍照。好在故居博物馆很小，参观要不了多少时间。
+
+[#juliet-museum]
+== 朱丽叶博物馆
+
+朱丽叶故居博物馆的展品不算多。刚才提到的朱丽叶铜像原件就收藏在博物馆室内，当然不允许再去摸人家的胸了。
+
+.朱丽叶铜像的原件保存在朱丽叶的博物馆建筑之内。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/original-statue-museum-juliet-house-verona-4x3-2400.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/original-statue-museum-juliet-house-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/original-statue-museum-juliet-house-verona-4x3-2400.avif 2400w"]
+
+朱丽叶博物馆中还展出着 1968 年的经典电影《罗密欧与朱丽叶》中使用的道具床，以及男女主角穿着的戏服。
+
+.朱丽叶博物馆中展出的电影《罗密欧与朱丽叶》中使用的道具床。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/bed-romeo-juliet-museum-house-verona-4x3-2400.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/bed-romeo-juliet-museum-house-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/bed-romeo-juliet-museum-house-verona-4x3-2400.avif 2400w"]
+
+在博物馆中还有一些与罗密欧与朱丽叶故事有关的艺术品。其中我们比较喜欢的是**皮埃特罗·罗伊** (Pietro Roi) 的粉彩肖像画《朱丽叶》。
+
+.皮埃特罗·罗伊 (Pietro Roi) 的粉彩肖像画《朱丽叶》 (_Juliet_, c. 1882)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/juliet-portrait-pietro-roi-1882-4x3-2400.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/juliet-portrait-pietro-roi-1882-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/juliet-portrait-pietro-roi-1882-4x3-2400.avif 2400w"]
+
+[#juliet-mailbox]
+== 朱丽叶信箱
+
+在朱丽叶博物馆建筑中，还有朱丽叶庭院的墙上，你会发现红色的朱丽叶信箱。它们可不仅仅是装饰品。你可以把写给朱丽叶的信投进信箱。维罗纳有一个名叫**朱丽叶俱乐部** (Juliet Club) 的志愿者组织会收到这些信。有一群来自世界各地被称为“朱丽叶的秘书们”(Secretaries of Juliet) 的志愿者，他们中的某一位会阅读、翻译并手写回复你的信。
+
+.朱丽叶博物馆中的朱丽叶信箱。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/mailbox-museum-juliet-house-verona-4x3-2400.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/mailbox-museum-juliet-house-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/mailbox-museum-juliet-house-verona-4x3-2400.avif 2400w"]
 
 [[visit-tickets]]
 == 参观和购票指南
 
-朱丽叶之家距离维罗纳核心广场之一的**百草广场** (Piazza delle Erbe) 只有几步之遥。从**维罗纳竞技场** (Verona Arena) 出发，穿过著名的**马志尼大道** (Via Giuseppe Mazzini) 步行商业街就可以到达。
+**必须在线预约：**朱丽叶故居现场没有售票处，必须在线购票同时预约参观时段。从 2026 年 10 月份开始，维罗纳市立博物馆官方在线购票和预约渠道迁移到新的 https://verona.coopculture.it/[CoopCulture] 票务平台（我们订的时候还是 MidaTicket 平台）。
 
-朱丽叶之家的庭院以前是可以免费进入的，只有博物馆和阳台需要门票。不过，为了缓解过度拥挤和排队时间过长的问题，从 2026 年 4 月起，进入朱丽叶之家的**庭院已改为付费模式**，而且游客必须从附近的**新剧院** (Teatro Nuovo) 进入，通过剧院门厅后再进入庭院。原有的在卡佩罗街上的庭院入口现在用作出口。
+朱丽叶故居的门票分为两种，庭院票仅限新剧院和庭院，包括朱丽叶铜像，票价 5 欧元；全票允许进入建筑之内的博物馆，并且登上朱丽叶的阳台拍照，票价 12 欧元。不满 6 周岁的儿童免费。
 
-门票分为**庭院票**和**全票**两种。庭院票仅限新剧院和庭院（包括朱丽叶铜像），票价 5 欧元；全票还允许进入室内的博物馆，并且登上朱丽叶的阳台拍照，票价 12 欧元。
+* 全票 TEATRO NUOVO + COURTYARD + JULIET’S HOUSE
+* 庭院票 TEATRO NUOVO + COURTYARD (NOT JULIET'S HOUSE)
 
-注意：朱丽叶之家现场没有售票处，**只能在线购票并预约参观时段**。官方唯一在线购票和预约渠道是**维罗纳博物馆官方票务平台** https://verona.midaticket.it/Events/Wizard[MidaTicket]。如果有**维罗纳旅游卡** (Verona Card) 的话，朱丽叶之家是包含在内的，不过仍然需要通过相同的购票渠道在线预约参观时段。预约时，有专门的 Verona Card 选项，无需另外付费。
+**维罗纳卡免费：**推荐购买{link-verona-card}。朱丽叶故居是包含在维罗纳卡里面的，不过仍然需要通过相同的购票渠道在线预约参观时段。预约时，选择专门的 VeronaCard holders 免费选项。
 
-.在维罗纳博物馆官方票务平台 MidaTicket 上预订朱丽叶之家和阳台的参观时段
-image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/screenshot-booking-verona-juliets-house-4x3-2400.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/screenshot-booking-verona-juliets-house-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/screenshot-booking-verona-juliets-house-4x3-2400.avif 2400w"]
+.朱丽叶故居在线购票和预约参观时段。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/screenshot-booking-juliet-house-verona-4x3-2400.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/screenshot-booking-juliet-house-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-juliets-house/screenshot-booking-juliet-house-verona-4x3-2400.avif 2400w"]
 
-虽然这个票务平台有英文版，不过参观选项都是意大利语。上面屏幕截图中的最后一项 Omaggio Verona Card-Teatro+Cortile+Casa Giulietta 就是维罗纳卡的免费参观选项，其中的 _Omaggio Verona Card_ 字面意思是“维罗纳卡的赠品”。
+朱丽叶故居距离维罗纳核心广场之一的**百草广场** (Piazza delle Erbe) 只有几步之遥。从**维罗纳竞技场** (Verona Arena) 出发，穿过著名的**马志尼大道** (Via Giuseppe Mazzini) 步行商业街就可以到达。
 
-++++
-{% related slugs="verona-card" %}
-++++
+朱丽叶故居的入口就是**新剧院** (Teatro Nuovo) 的正门，穿过剧院门厅后进入庭院。原有的在卡佩罗街上的庭院入口现在用作出口。
