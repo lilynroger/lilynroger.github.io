@@ -1,0 +1,164 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/gamla-stan-stockholm-4x3-1200.avif
+  alt: 斯德哥尔摩老城 (Gamla Stan) 中心大广场 (Stortorget) 上标志性的彩色建筑。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/gamla-stan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/gamla-stan-stockholm-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2024-05-28 11:30:00 +0200
+last_modified_at: 2026-10-12 07:15:00 +0800
+tags: [2024-Scandinavia, 欧洲, 北欧, 瑞典, 斯德哥尔摩, 景点]
+tagline: 大广场、王宫、教堂和小众打卡点
+description: 这篇攻略涵盖斯德哥尔摩老城 (Gamla Stan / Old Town) 中包括大广场 (Stortorget)、王宫 (Kungliga Slottet)、大教堂 (Storkyrkan) 等最佳景点，还有一些小众打卡点。
+---
+= 斯德哥尔摩攻略：老城 (Gamla Stan / Old Town) 的最佳景点
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/
+:link-riddarholmen: link:{% post_url 2024-05-27-stockholm-riddarholmen-riddarholmskyrkan %}[骑士岛 (Riddarholmen) 和骑士岛教堂 (Riddarholmskyrkan)]
+
+老城 (Gamla Stan / Old Town) 坐落在斯德哥尔摩市中心的一座名叫城岛 (Stadsholmen) 的小岛之上，是斯德哥尔摩的发源地。凭借瑞典中立国的地位，斯德哥尔摩躲过了两次世界大战的轰炸，至今仍保留着很多 16 和 17 世纪的北日耳曼式建筑和蜿蜒的鹅卵石小巷，是欧洲保存最好的中世纪古城之一。
+
+这篇攻略涵盖包括大广场 (Stortorget)、王宫 (Kungliga Slottet)、大教堂 (Storkyrkan) 等核心景点，还有一些小众宝藏店铺，当然也有“最窄小巷” 和“最小户外雕像”这种有点离谱的网红打卡点。
+
+[TIP]
+广义的老城还包括西侧的骑士岛 (Riddarholmen) 和北侧的圣灵岛 (Helgeandsholmen) 两座更小的岛。骑士岛也是斯德哥尔摩必游景点之一，参考我们的攻略：{link-riddarholmen}。
+
+toc::[]
+
+[#essentials]
+== 核心景点
+
+老城的面积不大，小巷纵横交错，布局紧凑。我们实际上“游览”了两次老城。
+
+* 第一次是晨跑，快速地认识老城的角角落落，拍一下空荡荡的广场和小巷，只是鹅卵石对脚踝确实不太友好。
+* 第二次是早餐后，先游览了骑士岛和骑士岛教堂，然后是整个城岛。一共 6 个小时左右的时间，非常悠闲地参观了教堂和王宫建筑群，探访了几处小众打卡点，在老城的还花了半个小时围观皇家卫兵换岗仪式。
+
+虽然曾自诩“北欧之都”，不过斯德哥尔摩当然不能和罗马，巴黎这种拥有不计其数“最佳景点”的城市相比。老城更可以说是弹丸之地，城岛上的核心的景点我们觉得 3 个就够了。
+
+[#stortorget]
+=== 大广场
+
+大广场 (Stortorget) 是老城的中心，斯德哥尔摩的经典。广场西侧五颜六色的建筑立面绝对是城里最出片的地方。中间的黄红绿三栋建筑就是老城官方网站 (https://www.visitgamlastan.se/en[Visit Gamla Stan]) 的形象标识。虽然名字叫“大广场”，其实是个“小广场”。
+
+.斯德哥尔摩老城大广场 (Stortorget) 上标志性的三栋彩色建筑。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/stortorget-gamla-stan-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/stortorget-gamla-stan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/stortorget-gamla-stan-stockholm-4x3-2400.avif 2400w"]
+
+其中那栋红色的建筑最引人注目，是典型的北方文艺复兴德意志-荷兰风。它是由当时的皇家秘书**约翰·埃伯哈德·尚茨** (Johan Eberhard Schantz) 建于 1650 年，所以被称为**尚茨之家 **(Schantzska huset)。尚茨后来还娶了隔壁那栋黄色的**塞弗里茨之家** (Seyfridtzska huset) 的女主人。两栋建筑过去曾长时间归属同一家族所有。
+
+[TIP]
+**墙锚：**这三栋彩色房子的正立面都能看到镶嵌的粗铁条，有的还做成漂亮的花纹图案。它们其实是“墙锚”，一端固定在屋里的大梁之上，另一端穿过外墙，固定在外墙上，对稳固外墙起到至关重要的作用。
+
+红色房子的一个醒目的特征是它正立面上镶嵌的白色石头。在 1520 年，攻占了斯德哥尔摩的丹麦国王“暴君克里斯蒂安”设下鸿门宴诱捕了包括主教、贵族、市长在内的几乎整个瑞典精英层，并在大广场进行了连续两天的公开处决，史称“斯德哥尔摩惨案”，是瑞典独立的导火索。百年后的尚茨在修建这栋红色宅邸时，在墙里嵌入了 92 块白色石头，对应着惨案中遇害的人数。
+
+大广场上的另一个主角是北侧的证券交易所大楼 (Börshuset)，如今的诺贝尔奖博物馆 (Nobel Prize Museum)、瑞典学院（Svenska Akademien）以及诺贝尔图书馆的所在地。
+
+[#kungliga-slottet]
+=== 瑞典王宫
+
+瑞典王宫 (Kungliga Slottet / The Royal Palace) 是瑞典国王官邸和主要办公场所，也是欧洲最大的巴洛克皇家宫殿之一。
+
+[TIP]
+在 1981 年，现任瑞典国王卡尔十六世为了让孩子们有宽敞的庭院, 搬到了常被称为 “瑞典凡尔赛” 的皇后岛宫 (Drottningholm Palace)。
+
+瑞典王宫的参观门票实际上包含三个核心区域：
+
+* **皇家公寓** (Royal Apartments): 用于举办皇家活动和接待的房间，包括国家公寓，贝纳多特公寓和宾客公寓，国务厅和下达皇家指令的房间。
+
+* **三王冠博物馆** (Tre Kronor Museum): 了解到更多 1697 年被大火烧毁的斯德哥尔摩三王冠堡 (Three Crowns Castle) 的历史。
+
+* **珍宝馆** (Treasury): 位于地窖中的皇家库房，在这里可以看到瑞典皇室的皇冠珠宝和礼服。
+
+此外，瑞典王宫的参观门票中还包含了**古斯塔夫三世国王的文物博物馆** (Gustav III Museum of Antiquities)。它是欧洲最古老的博物馆之一，于 1794 年首次开放。里面展示的主要是古斯塔夫三世国王收藏的古罗马雕塑。这个博物馆很小，入口在王宫外面北侧的狮子坡 (Lejonbacken) 那里，很容易错过。而且，只在夏季才对公众开放。
+
+如果位于骑士岛的骑士岛教堂你也要去，可以购买王宫+骑士岛教堂的联票，比分别买票能省几十块钱。推荐在线提前买好电子票，比较方便。我们先去的骑士岛教堂，在那里现场买的联票，只是一张热敏打印的小票，不注意妥善保存，很容易损坏。
+
+.斯德哥尔摩老城 (Gamla Stan) 的瑞典王宫+骑士岛教堂 (Kungliga Slottet & Riddarholmskyrkan) 联票。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/ticket-kungliga-slottet-riddarholmskyrkan-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/ticket-kungliga-slottet-riddarholmskyrkan-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/ticket-kungliga-slottet-riddarholmskyrkan-4x3-2400.avif 2400w"]
+
+总体来说，瑞典王宫和其中的博物馆并不是最好的，票价也不便宜。不过，**来都来了**，了解一下瑞典的风土和历史也可以。我们喜欢瑞典王宫，甚至愿意把它挪到老城最佳景点第一位的原因是这里的**皇家卫兵换岗仪式**。
+
+瑞典王宫皇家卫兵换岗仪式基本上每天都有，持续大约 40 分钟，平日（含周六）从下午 12:15 在王宫的外庭院开始；周日从下午 1:15 开始。在王宫广场上观看卫兵换岗仪式是完全免费的，不需要购买王宫的参观票。夏季是观看卫兵换岗仪式的最佳时间，有军乐队和骑兵游行，仪式感更强。冬季有时仪式会没有那么盛大。
+
+.瑞典王宫皇家卫兵换岗仪式。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/changing-guard-royal-palace-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/changing-guard-royal-palace-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/changing-guard-royal-palace-stockholm-4x3-2400.avif 2400w"]
+
+我们提前了 15 分钟去岗亭那里占了个好位置，换岗仪式的高潮部分就在那里。
+
+皇家卫兵换岗仪式的官方信息可以参考: https://www.forsvarsmakten.se/en/news-and-events/the-royal-guard/[The Royal Guard | forsvarsmakten.se]。
+
+[#storkyrkan]
+=== 大教堂 (Storkyrkan)
+
+老城的**大教堂** (Storkyrkan) 紧邻王宫，正式名称是圣尼古拉教堂，是斯德哥尔摩的主教座堂。北欧的教堂和意大利的教堂当然不能比，不过来都来了，能接受 120 瑞典克朗的票价，也看看吧。
+
+大教堂里最重要的收藏是《圣乔治屠龙》 (Saint George and the Dragon) 木雕。这座宏大的木雕由德国雕塑家**伯恩特·诺特克** (Bernt Notke) 于 1489 年创作完成，是北欧中世纪晚期最杰出的木雕艺术品。
+
+即使你不想花钱参观大教堂，在大教堂东边，步行 2 分钟就可以到的**商人广场** (Köpmantorget) 上，有一座 1912 年铸造的 1:1 青铜复制品，可以全方位欣赏雕像的细节。
+
+.斯德哥尔摩老城商人广场 (Köpmantorget) 上的《圣乔治屠龙》 (Saint George and the Dragon) 青铜雕塑。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/saint-george-dragon-köpmantorget-gamla-stan-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/saint-george-dragon-köpmantorget-gamla-stan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/saint-george-dragon-köpmantorget-gamla-stan-stockholm-4x3-2400.avif 2400w"]
+
+[#hidden-gems]
+== 小众打卡点
+
+在老城消磨时间的时候，不妨在路过的时候留意一下这几个小众的打卡点。
+
+[#finska-kyrkan]
+=== 芬兰教堂
+
+芬兰教堂是我们在老城最喜欢的一处小众景点，与瑞典王宫就隔着一条名叫**王宫坡** (Slottsbacken) 的大街。
+
+.斯德哥尔摩老城的芬兰教堂 (Finska kyrkan)。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/finska-kyrkan-gamla-stan-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/finska-kyrkan-gamla-stan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/finska-kyrkan-gamla-stan-stockholm-4x3-2400.avif 2400w"]
+
+这座教堂不仅是橘黄色的建筑十分醒目，它的背后隐藏着一处十分僻静的小花园，是漫步老城时最佳的歇脚地之一。花坛一侧还有一尊非常有名的小雕像，刻画了一个双手抱膝坐在床上面朝月亮的小男孩，名字叫**钢铁男孩** (Järnpojken)。这是斯德哥尔摩最小的公共雕塑，高度只有 15 厘米。人们喜欢抚摸小男孩的头或丢下硬币祈求好运，还经常有热心人为它带上帽子、围巾或者花环。
+
+[#marten-trotzigs-grand]
+=== 老城窄巷
+
+老城中一处有名的网红景点是**莫滕·特罗齐格**巷 (Mårten Trotzigs Gränd)。这条位于老城南端的坡道小巷，最窄处只有 90 厘米，里面有 36 级台阶，是整个斯德哥尔摩最窄的街道。这条巷子名气大当然不仅仅是因为窄，它还是一处尽现中世纪老城极度拥挤的街巷活化石。
+
+早在 500 多年前，这条无名的狭缝就存在了。在 400 多年前，斯德哥尔摩首富之一，德国富商 Mårten Trotzig 买下了这条巷子两旁的房产，巷子因而得名（瑞典语 Gränd 就是小巷的意思）。巷子两旁的建筑虽然经历了几次翻修和重建，但这条巷子却被原汁原味地保留了下来。在 19 世纪中叶，因为治安和卫生问题，这条巷子被市政府封死了近百年，直到 1945 年才被重新打通。
+
+需要注意的是，这条巷子两端都有铁门，深夜之后会被锁上直到次日清晨，行人无法通行。原因嘛，不难理解。这条巷子周围是老城酒馆最集中的地方。不锁上的话，这条小巷在深夜简直就是最理想的露天厕所了。
+
+.斯德哥尔摩老城的莫滕·特罗齐格巷 (Mårten Trotzigs Gränd)。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/marten-trotzigs-grand-gamla-stan-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/marten-trotzigs-grand-gamla-stan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/marten-trotzigs-grand-gamla-stan-stockholm-4x3-2400.avif 2400w"]
+
+[#polkagriskokeri]
+=== 波尔卡糖果店
+
+老城西侧有两条笔直的南北向的街道，这两条平行相邻的姐妹街道分别叫**大新街** (Stora Nygatan) 和**小新街** (Lilla Nygatan)。在大新街的南端，有一家叫 Gamla Stans Polkagriskokeri 的明星传统手工糖果店，店里现场制作和售卖瑞典传统拐杖糖，非常值得一去。
+
+瑞典语 _Polkagriskokeri_ 的后半部分 _kokeri_ 就是糖果店的意思，而前半部分 _Polkagris_ 是瑞典最有名的传统手工硬糖。它是在 1859 年由瑞典一个小镇上的寡妇**阿玛莉亚·埃里克森** (Amalia Eriksson) 发明的，最经典的款式是红白条纹相间的薄荷味糖棒。
+
+这种传统手工硬糖的名字 _Polkagris_ 由两部分组成，前面的 _Polka_ 指的是起源于波西米亚，曾风靡欧洲的民间舞蹈**波尔卡**，而后缀 _gris_ 本义是“猪”，在民间俚语里表示“硬糖”。所以，合起来 _Polkagris_ 字面意思就是“波尔卡硬糖”。
+
+传统的瑞典波尔卡硬糖，原本大多是笔直的糖棒。后来大批瑞典移民将波尔卡硬糖带到了美国，人们为了把它们挂在圣诞树上做装饰，特意把它们掰成了拐杖形的拐杖糖 (Candy Cane)。
+
+瑞典的波尔卡糖受严格的地域保护，几乎所有的正宗工坊都在发源地小镇。斯德哥尔摩老城的这家是唯一在外的正宗波尔卡糖果店，是不错的瑞典伴手礼选择之一。门面上有醒目的红色 Gamla Stans Polka 字样，很容易找到。
+
+.斯德哥尔摩老城中的 Polkagriskokeri 糖果店.
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/gamla-stans-polkagriskokeri-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/gamla-stans-polkagriskokeri-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/gamla-stans-polkagriskokeri-stockholm-4x3-2400.avif 2400w"]
+
+[#gamla-stans-cykel]
+== 老城自行车店
+
+从 1913 年前后开始**老城自行车店** (https://www.gamlastanscykel.se/[Gamla Stans Cykel]) 就一直小新街 (Lilla Nygatan) 售卖和修理自行车。如果你更喜欢骑自行车游览老城，这里也可以租到三档变速的城市自行车。
+
+不过，在斯德哥尔摩这种实体店租自行车非常贵。老城自行车店起租两小时的费用是 190 瑞典克朗，之后每小时是 80 瑞典克朗。就近逛老城，租车和还车确实很方便。如果是逛斯德哥尔摩老城之外的地方，可以考虑用 App 租路边的共享单车，要便宜很多。此外要注意的是，老城自行车店周日不营业。
+
+[#christoffers-blommor]
+=== 克里斯托弗花店
+
+老城里的**克里斯托弗花店** (Christoffers Blommor) 是藏在中世纪狭窄弄堂中的一个漂亮花店。在花店开门，摆出鲜花的时候，这里就成了老城里最有电影胶片质感的地方。
+
+.斯德哥尔摩老城中的克里斯托弗花店 (Christoffers Blommor)。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/christoffers-blommor-gamla-stan-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/christoffers-blommor-gamla-stan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/christoffers-blommor-gamla-stan-stockholm-4x3-2400.avif 2400w"]
