@@ -58,58 +58,30 @@ span.icon>.fa {
   cursor: default;
 }
 
-.admonitionblock {
+.admonitionblock.tip {
+  margin: 2rem 0;
+  border-top: 1px solid var(--bs-border-color);
+  border-bottom: 1px solid var(--bs-border-color);
+  padding: 1rem 0;
+}
 
-  td {
-    background-color: #F9F8E8;
-    border-width: 0;
-  }
+/* 重置原表格 */
+.admonitionblock.tip table,
+.admonitionblock.tip tr,
+.admonitionblock.tip td {
+  display: block !important;
+  width: 100% !important;
+  padding: 0 !important;
+  border: none !important;
+}
 
-  td.content {
-    padding: 1.5em 1em 1.5em 0;
-  }
+.admonitionblock.tip td.icon {
+  display: none !important;
+}
 
-  td.content .title {
-    font-weight: 400;
-    margin-bottom: var(--spacer-paragraph);
-  }
-
-  td.icon {
-    vertical-align: top;
-    text-align: center;
-    width: 1em;
-    padding: 1.5em 1em;
-  }
-
-  td.icon [class^="fa icon-"] {
-    font-size: 1em;
-    cursor: default;
-  }
-
-  td.icon .icon-note:before {
-    content: "\f05a";
-    color: #19407c;
-  }
-
-  td.icon .icon-tip:before {
-    content: "\f0eb";
-    color: #43b929;
-  }
-
-  td.icon .icon-warning:before {
-    content: "\f071";
-    color: #bf6900;
-  }
-
-  td.icon .icon-caution:before {
-    content: "\f06d";
-    color: #bf3400;
-  }
-
-  td.icon .icon-important:before {
-    content: "\f06a";
-    color: #bf0000;
-  }
+.admonitionblock.tip td.content {
+  color: var(--bs-secondary-color);
+  font-size: 1rem;
 }
 
 .toc {
