@@ -94,7 +94,7 @@ image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gaml
 皇家卫兵换岗仪式的官方信息可以参考: https://www.forsvarsmakten.se/en/news-and-events/the-royal-guard/[The Royal Guard | forsvarsmakten.se]。
 
 [#storkyrkan]
-=== 大教堂 (Storkyrkan)
+=== 大教堂
 
 老城的**大教堂** (Storkyrkan) 紧邻王宫，正式名称是圣尼古拉教堂，是斯德哥尔摩的主教座堂。北欧的教堂和意大利的教堂当然不能比，不过来都来了，能接受 120 瑞典克朗的票价，也看看吧。
 
@@ -113,7 +113,7 @@ image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gaml
 [#finska-kyrkan]
 === 芬兰教堂
 
-芬兰教堂是我们在老城最喜欢的一处小众景点，与瑞典王宫就隔着一条名叫**王宫坡** (Slottsbacken) 的大街。
+芬兰教堂 (Finska kyrkan) 是我们在老城最喜欢的一处小众景点，与瑞典王宫就隔着一条名叫**王宫坡** (Slottsbacken) 的大街。
 
 .斯德哥尔摩老城的芬兰教堂 (Finska kyrkan)。
 image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/finska-kyrkan-gamla-stan-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/finska-kyrkan-gamla-stan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/finska-kyrkan-gamla-stan-stockholm-4x3-2400.avif 2400w"]
@@ -145,11 +145,11 @@ image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gaml
 
 瑞典的波尔卡糖受严格的地域保护，几乎所有的正宗工坊都在发源地小镇。斯德哥尔摩老城的这家是唯一在外的正宗波尔卡糖果店，是不错的瑞典伴手礼选择之一。门面上有醒目的红色 Gamla Stans Polka 字样，很容易找到。
 
-.斯德哥尔摩老城中的 Polkagriskokeri 糖果店.
+.斯德哥尔摩老城中的 Polkagriskokeri 糖果店。
 image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/gamla-stans-polkagriskokeri-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/gamla-stans-polkagriskokeri-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/gamla-stans-polkagriskokeri-stockholm-4x3-2400.avif 2400w"]
 
 [#gamla-stans-cykel]
-== 老城自行车店
+=== 老城自行车店
 
 从 1913 年前后开始**老城自行车店** (https://www.gamlastanscykel.se/[Gamla Stans Cykel]) 就一直小新街 (Lilla Nygatan) 售卖和修理自行车。如果你更喜欢骑自行车游览老城，这里也可以租到三档变速的城市自行车。
 
