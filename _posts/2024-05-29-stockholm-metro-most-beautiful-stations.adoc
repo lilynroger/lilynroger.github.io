@@ -1,0 +1,108 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-t-centralen-4x3-1200.avif
+  alt: 斯德哥尔摩的地铁中央站 (T-Centralen)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-t-centralen-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-t-centralen-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2024-05-29 05:00:00 +0200
+last_modified_at: 2026-10-14 15:45:00 +0800
+tags: [2024-Scandinavia, 欧洲, 北欧, 瑞典, 斯德哥尔摩, 景点]
+tagline: 世界最长的地下艺术长廊
+---
+= 斯德哥尔摩地铁艺术长廊：一张票打卡最美的 6 座地铁站 (2026)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/
+
+在这篇攻略中，我们将带你认识被誉为“世界最长的地下艺术长廊”的斯德哥尔摩地铁 (Stockholm Metro /  Stockholms Tunnelbana)，并带你从地铁中央站 (T-Centralen) 出发，打卡其中最美的六座地铁站。
+
+[TIP]
+地铁相关的信息已经更新至 2026 年最新信息。
+
+toc::[]
+
+[#stockholm-metro]
+== 认识斯德哥尔摩地铁
+
+我们非常喜欢**北京地铁**的公共艺术品设置，在现代的规整空间中，一线一主题。斯德哥尔摩地铁则截然不同，这里的车站多数是爆破开凿后仅仅喷上一层混凝土层，保留了岩洞的原始形态，艺术家就在粗糙起伏的岩壁上自由表达。
+
+斯德哥尔摩地铁是瑞典唯一的地铁系统，拥有红色、绿色、蓝色 3 条线路，每条线各有支线，一共有 7 条支线。全线建有 100 座车站，其中有超过 90 座车站都有瑞典艺术家创作的雕塑、壁画和岩画等形式的艺术作品。
+
+斯德哥尔摩地铁每日 5:00 开始运营到凌晨 1:00，发车间隔 10-15 分钟，高峰时刻间隔稍短；周五周六通宵运营，不过凌晨发车间隔 30 分钟。地铁站的自动售票机上可以用信用卡购票：
+
+* Single journey ticket: 单次票，在 75 分钟无限换乘，全票 43 瑞典克朗。
+* Travelcard 24 hours: 单日票， 有效期 24 小时，全票 180 瑞典克朗。
+
+**注意：**不支持现金，所以，准备好信用卡。推荐在官方手机应用 SL-Journey planner and tickets 上购票。参考**大斯德哥尔摩地区公共交通**官网 sl.se 上的票价和购票的最新信息: https://sl.se/en/fares-and-tickets[Fares & tickets]
+
+我们提前选好了六座标志性的地铁站去打卡，包括地铁中央站，红线的两个站和蓝线的三个站。为了避开人群，我们一大早 5:00 就来到了地铁中央站（实际上并没有觉得有多早，北欧的夏天很难见到天黑，而且我们还在倒时差）。斯德哥尔摩的地铁票不便宜，我们的计划是每人一张单次票，在 75 分钟之内逛完这六座地铁站。
+
+[#t-centralen]
+== T-Centralen · 地铁中央站 · 在此出发可换各线
+
+坐落在斯德哥尔摩北城的地铁中央站 (T-Centralen) 是交通枢纽站，连接着斯德哥尔摩中央火车站 (Stockholm C) 的大厅，还是可以换乘全部红绿蓝三条线路的换乘站。其中 T 是瑞典语代表地铁的 _Tunnelbana_ 一词的首字母。地铁中央站是我们欣赏地下艺术长廊的起点。
+
+艺术家在 1975 年用蓝色和白色为行色匆匆的通勤者营造了一个宁静而舒缓的地下空间。站台的天花板上绘制的是藤蔓和叶片；电梯附近的天花板上则是工匠的剪影。
+
+.斯德哥尔摩地铁中央站 (T-Centralen) 电梯附近的天花板上绘制的是工匠的剪影。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-t-centralen-lift-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-t-centralen-lift-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-t-centralen-lift-4x3-2400.avif 2400w"]
+
+[#stadion]
+== Stadion · 体育场站 · 红线 · 距离地铁中央站 2 站
+
+体育场站 (Stadion) 是最早的一批岩洞地铁站之一。为了一扫洞穴的压抑，艺术家将蔚蓝的天空和绚丽的彩虹带入了地下空间。体育场站附近就是 1912 年斯德哥尔摩奥运会的主体育场，彩虹拱顶也纪念着奥运精神。
+
+从地铁中央站出发前往体育场站，认准红线地铁 T14 支线上终点是墨比中心站 (Mörby centrum) 的车次。不要坐错了支线，或者坐错了方向。
+
+.斯德哥尔摩地铁体育场站 (Stadion) 的彩虹拱顶。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-stadion-rainbow-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-stadion-rainbow-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-stadion-rainbow-4x3-2400.avif 2400w"]
+
+[#tekniska-hogskolan]
+== Tekniska Högskolan · 皇家理工学院站 · 红线 · 距离地铁中央站 3 站
+
+艺术家为皇家理工学院站 (Tekniska Högskolan) 设计的是科学主题的艺术装置。五个正多面体装置悬挂在站台天花板上，其中四个分别代表柏拉图的构成世界的四大元素：火、水、气、土；最特别的那个就是每个面都是正五边形的正十二面体，代表的正是柏拉图的宇宙，同时也代表着亚里士多德的“第五元素”，也就是以太 (Aether)。
+
+皇家理工学院站就是从地铁中央站出发经过体育场站后下一站，认准红线地铁 T14 支线上终点是墨比中心站 (Mörby centrum) 的车次。
+
+.斯德哥尔摩地铁皇家理工学院站 (Tekniska Högskolan) 中科学主题的艺术装置。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-tekniska-hogskolan-dodecahedron-aether-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-tekniska-hogskolan-dodecahedron-aether-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-tekniska-hogskolan-dodecahedron-aether-4x3-2400.avif 2400w"]
+
+如果你按照我们的路线走，现在可以坐车返回地铁中央站，我们将在那里去换乘蓝线地铁。
+
+[#radhuset]
+== Rådhuset · 法院大楼站 · 蓝线 · 距离地铁中央站 1 站
+
+法院大楼站 (Rådhuset) 极具视觉冲击力。艺术家在站内放置了靴子、箩筐、甚至巨大的工业烟囱的基座，象征着国王岛 (Kungsholmen) 上曾经存在、如今已经消失的工业历史。
+
+从地铁中央站出发前往法院大楼站，坐蓝线地铁，两条支线 T10 或 T1 都可以，往国王花园站 (Kungsträdgården) 反方向一站就到。
+
+.斯德哥尔摩地铁法院大楼站 (Rådhuset) 中巨大的烟囱基座。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-radhuset-chimney-foundation-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-radhuset-chimney-foundation-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-radhuset-chimney-foundation-4x3-2400.avif 2400w"]
+
+[#solna-centrum]
+== Solna centrum · 索尔纳中心站 · 蓝线 · 距离地铁中央站 5 站
+
+在索尔纳中心站 (Solna centrum)，艺术家用红色的天空和绿色的云杉林构成了强烈对比，呼应了当时瑞典对森林遭到工业化破坏、农村人口流失等社会议题的讨论。
+
+从地铁中央站出发前往索尔纳中心站，需要坐蓝线地铁开往 Akalla 的 T11 支线。这是我们去的六座地铁站中最远的一个地铁站，距离地铁中央站 5 站，单程就需要 15 分钟左右。
+
+.斯德哥尔摩地铁索尔纳中心站 (Solna centrum) 中红色的天空和绿色的云杉林。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-solna-centrum-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-solna-centrum-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-solna-centrum-4x3-2400.avif 2400w"]
+
+[#kungstradgarden]
+== Kungsträdgården · 国王公园站 · 蓝线 · 距离地铁中央站 1 站
+
+国王公园 (Kungsträdgården) 在斯德哥尔摩的市中心。这里曾经是一座由私人宫殿改建而成的皇家戏剧院 (Dramaten) 和一座法式花园，在 1825 年演出期间发生大火，建筑被彻底烧毁。艺术家在地铁国王公园站用红色、白色、绿色，和建筑构件的复制品再现了当年的花园和宫殿。
+
+在乘坐蓝线回到地铁中央站之后，再坐一站就是国王公园站，也是蓝线在市中心一端的终点站。国王公园站是我们地下艺术长廊之旅的最后一站。从这里出站后，时间还很早，正好可以悠闲地逛逛国王公园，然后步行回酒店吃早餐。
+
+.斯德哥尔摩地铁法院大楼站 (Rådhuset) 中巨大的烟囱基座。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-kungstradgarden-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-kungstradgarden-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-kungstradgarden-4x3-2400.avif 2400w"]
+
