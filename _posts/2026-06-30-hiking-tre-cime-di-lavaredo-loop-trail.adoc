@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2026-06-30 06:00:00 +0200
-last_modified_at: 2026-07-01 22:00:00 +0200
+last_modified_at: 2026-10-15 11:00:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 多洛米蒂, 徒步]
 tagline: 多洛米蒂的“上帝之手“。
 description: 拉瓦雷多三尖峰 (Tre Cime / Drei Zinnen) ，通常简称为“三峰山”，是意大利多洛米蒂山脉 (Dolomites) 中最具标志性的景观，与洛卡泰利山屋 (Rifugio Locatelli) 相辅相成，成为全球无数风光摄影师、徒步爱好者和攀岩者的朝圣地。
@@ -163,7 +163,7 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-
 [[getting-to-trail-start]]
 == 如何前往三峰山环线步道起点
 
-这里我们重点介绍如何从从**科尔蒂纳丹佩佐** (Cortina d'Ampezzo) 前往三峰山环线步道起点所在的**奥龙佐山屋** (Rifugio Auronzo)。这段路自驾的话，距离大约只有 22 公里。主要的交通方式包括公交、自驾和包车三种。
+这里我们重点介绍如何从**科尔蒂纳丹佩佐** (Cortina d'Ampezzo) 前往三峰山环线步道起点所在的**奥龙佐山屋** (Rifugio Auronzo)。这段路自驾的话，距离大约只有 22 公里。主要的交通方式包括公交、自驾和包车三种。
 
 在夏季旺季之外，由于上山的那条私有收费公路会完全封闭，任何车辆都无法通过，只能徒步上山，或者在滑雪季乘坐雪地摩托上山。
 
@@ -223,7 +223,7 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/hiking-tre-cime-
 
 自驾是最自由的方式，但受限于山顶车位数量和高昂的过路和停车费。
 
-从科尔蒂纳丹佩佐出发的的具体线路是沿 SR48 大区级公路和 SP49 省级公路 (Strada Provinciale) 公路行驶，经过米苏里纳湖后驶入前往奥龙佐山屋的专线山路 (Strada di Tre Cime)，全程约 45 分钟。
+从科尔蒂纳丹佩佐出发的的具体线路是沿 SR48 大区级公路和 SP49 省级公路 (Strada Provinciale) 行驶，经过米苏里纳湖后驶入前往奥龙佐山屋的专线山路 (Strada di Tre Cime)，全程约 45 分钟。
 
 从米苏里纳 (Misurina) 上山的专线山路设有收费闸口。旺季车流管制，必须提前在官方网站 (https://auronzo.info/en/parking-tre-cime-di-lavaredo/[Tre Cime di Lavaredo Car Park]) 上预订停车位。费用不菲，包括了上山的收费公路和停车费。在 2026 年，普通车的单日票价为 40 欧元，有效时间最长为 12 小时。
 

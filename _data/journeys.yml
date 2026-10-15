@@ -187,7 +187,7 @@ trips:
               datetime: 2026-07-01T09:15:00+0200
             arrival:
               name: Rifugio Auronzo
-              datetime: 2026-07-01T08:49:00+0200
+              datetime: 2026-07-01T09:49:00+0200
             fare:
               currency: EUR
               amount: 22.00
