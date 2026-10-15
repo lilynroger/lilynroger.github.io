@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2024-05-29 05:00:00 +0200
-last_modified_at: 2026-10-14 15:45:00 +0800
+last_modified_at: 2026-10-15 14:45:00 +0800
 tags: [2024-Scandinavia, 欧洲, 北欧, 瑞典, 斯德哥尔摩, 景点]
 tagline: 世界最长的地下艺术长廊
 ---
@@ -103,6 +103,6 @@ image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metr
 
 在乘坐蓝线回到地铁中央站之后，再坐一站就是国王公园站，也是蓝线在市中心一端的终点站。国王公园站是我们地下艺术长廊之旅的最后一站。从这里出站后，时间还很早，正好可以悠闲地逛逛国王公园，然后步行回酒店吃早餐。
 
-.斯德哥尔摩地铁法院大楼站 (Rådhuset) 中巨大的烟囱基座。
+.斯德哥尔摩地铁的国王公园站 (Kungsträdgården)。
 image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-kungstradgarden-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-kungstradgarden-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-metro/stockholm-metro-kungstradgarden-4x3-2400.avif 2400w"]
 
