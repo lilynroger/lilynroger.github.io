@@ -79,11 +79,14 @@ include:
   - _pages
 
 collections:
-  trips:
+  artists:
     output: true
+    permalink: /art/artists/:name.html
   destinations:
     output: true
     sort_by: title_pinyin
+  trips:
+    output: true
 
 logo: /assets/images/logo.svg
 tagline: 生活, 旅行, 徒步, 马拉松, 网球

@@ -1,0 +1,39 @@
+---
+layout: page
+
+# jekyll-seo-tag
+# see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md
+canonical_url: https://lilyroger.com/art/artists/:name.html
+---
+<div class="py-5" aria-label="Content">
+
+  <section class="container">
+    {{ content }}
+  </section>
+
+</div>
+
+<div class="bg-body-tertiary py-5" aria-label="Content">
+
+  <section class="container">
+
+    {% assign posts = site.tags[page.tag] %}
+    <hgroup class="text-center my-5">
+      <h2 class="mb-3">所有旅行故事</h2>
+      {% if posts.size %}
+      <p class="small text-body-secondary">共有 <span class="fw-medium">{{posts.size}}</span> 篇故事</p>
+      {% else %}
+      <p class="small text-secondary">抱歉，目前在这个专题下还没有故事。</p>
+      {% endif %}
+    </hgroup>
+
+    <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      {%- for post in posts -%}
+      <li class="col">
+        {% include card-post.html target = post %}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+  </section>
+</div>

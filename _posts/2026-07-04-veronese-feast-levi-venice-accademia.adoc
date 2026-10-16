@@ -11,7 +11,7 @@ layout: article
 categories: posts
 date: 2026-07-04 07:00:00 +0200
 last_modified_at: 2026-07-04 07:00:00 +0200
-tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 威尼斯，艺术]
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 威尼斯，艺术, 委罗内塞]
 tagline: 艺术自由对垒宗教审查。
 ---
 = 委罗内塞 (Veronese) 的《利未家的宴会》
