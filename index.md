@@ -97,7 +97,8 @@ canonical_url: https://lilyroger.com
         <h2 class="mb-5">最新旅行故事</h2>
       </hgroup>
       <ul class="list-unstyled row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4">
-        {%- for post in site.posts limit:4 -%}
+        {%- assign updated_posts = site.posts | sort: "last_modified_at" | reverse -%}
+        {%- for post in updated_posts limit:4 -%}
         <li class="col">
           {% include card-post.html target = post %}
         </li>
