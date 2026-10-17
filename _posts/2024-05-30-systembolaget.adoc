@@ -1,0 +1,49 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/systembolaget-stockholm-sweden-4x3-1200.avif
+  alt: 在斯德哥尔摩的瑞典国营酒类专卖店 Systembolaget 的招牌。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/systembolaget-stockholm-sweden-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/systembolaget-stockholm-sweden-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2024-05-30 05:00:00 +0200
+last_modified_at: 2026-10-17 12:15:00 +0800
+tags: [2024-Scandinavia, 欧洲, 北欧, 瑞典, 斯德哥尔摩]
+tagline: 北欧三国买酒之瑞典篇
+description: 在瑞典普通的超市、便利店或加油站只有浓度小于 3.5% 或者无醇的啤酒。酒精浓度大于 3.5% 的啤酒、红酒、烈酒，只能在国营的酒类专卖店 Systembolaget 购买。我们在斯德哥尔摩干草广场地下食品集市 Hötorgshallen 找到一家。
+---
+= 在瑞典买酒：干草广场食品大厅 (Hötorgshallen) 的国营酒类专卖店 (Systembolaget)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/
+
+斯德哥尔摩的餐馆中酒水实在是太贵了。比如一瓶普通的科罗纳就要 80 瑞典克朗 (相当于约 54 元人民币) 甚至更多。于是我就琢磨着买点红酒和啤酒回酒店，结果找了几家便利店和超市都没找到。最后误打误撞路过一家名叫 Systembolaget 的酒水专门店，店里可选的酒类少的可怜，最后只买了一小瓶红酒回来。回到酒店上网做了一下功课才了解到如何在斯德哥尔摩乃至瑞典买酒。
+
+在瑞典买酒有着非常严格的限制。普通的超市、便利店或加油站只有浓度小于 3.5% 或者无醇的啤酒，所有酒精浓度大于 3.5% 的啤酒、红酒、烈酒，只能在国营的酒类专卖店 Systembolaget 购买。瑞典本地人通常会将它简称为 Systemet 或 Bolaget，字面意思分别是“那个系统”和“那个公司”。
+
+我们在斯德哥尔摩住在北城 (Norrmalm) 市中心，找到的这家 Systembolaget 就在**干草广场** (Hötorget) 旁。诺贝尔奖颁奖典礼举办地，斯德哥尔摩音乐厅 (Konserthuset Stockholm)，城市地标之一的音乐之神俄耳甫斯群雕 (Orfeusgruppen)，购物主干道国王大街 (Kungsgatan) 都在旁边。只要是在市中心游玩，就很容易路过，顺便去买。
+
+.斯德哥尔干草广场 (Hötorget) 上的音乐之神俄耳甫斯群雕 (Orfeusgruppen)。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/orfeusgruppen-hotorget-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/orfeusgruppen-hotorget-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/orfeusgruppen-hotorget-stockholm-4x3-2400.avif 2400w"]
+
+在干草广场上，音乐厅的斜对面，就是斯德哥尔摩最著名的干草广场食品大厅 (Hötorgshallen)。在连接着干草广场和塞尔格尔广场 (Sergels torg) 的塞尔格尔步行街 (Sergelgatan) 上，可以找到食品大厅和酒类专卖店的临街入口，门上挂着醒目的绿色 Systembolaget 招牌，而酒类专卖店就在食品大厅的地下。
+
+.斯德哥尔干草广场食品大厅 Hötorgshallen 外的 Systembolaget 招牌。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/systembolaget-stockholm-sweden-exterior-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/systembolaget-stockholm-sweden-exterior-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/systembolaget-stockholm-sweden-exterior-4x3-2400.avif 2400w"]
+
+进店透过橱窗和货架看好准备买什么之后，在照片右侧那里的取号机取号。取号机上写着的 Ta ditt könummer här/Take your queue number here 意思是“在此取号”。等待柜台叫号后告诉柜员要买什么酒即可。
+
+.斯德哥尔干草广场食品大厅 Hötorgshallen 地下的 Systembolaget 店面。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/systembolaget-stockholm-sweden-interior-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/systembolaget-stockholm-sweden-interior-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/systembolaget-stockholm-sweden-interior-4x3-2400.avif 2400w"]
+
+和走高端路线的**东城食品市场** (Östermalms Saluhall) 不同，干草广场食品大厅要亲民的多。我们在这里采购食材，还解决了好几顿饭。
+
+.斯德哥尔摩干草广场食品大厅 (Hötorgshallen) 地下的海鲜柜台。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/hotorgshallen-stockholm-seafood-market-fish-counter-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/hotorgshallen-stockholm-seafood-market-fish-counter-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/hotorgshallen-stockholm-seafood-market-fish-counter-4x3-2400.avif 2400w"]
+
+需要注意的是：干草广场食品大厅周六关门较早，而且**周日休息**，买东西要趁早。
