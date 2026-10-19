@@ -1,0 +1,155 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/chiesa-san-giorgio-braida-verona-4x3-1200.avif
+  alt: 阿迪杰河左岸的布拉伊达圣乔治堂 (San Giorgio in Braida) 有着醒目的文艺复兴式的黑色穹顶。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/chiesa-san-giorgio-braida-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/chiesa-san-giorgio-braida-verona-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-18 17:00:00 +0200
+last_modified_at: 2026-10-19 08:15:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 教堂, 艺术, 委罗内塞, 丁托列托, 吉罗拉莫·戴·利布里, 弗朗西斯科·卡罗托, 米凯莱·桑米凯利]
+tagline: “一座挂满杰作的画廊”——歌德
+---
+= 维罗纳的布拉伊达圣乔治堂 (San Giorgio in Braida): 委罗内塞和丁托列托的对垒
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/
+
+维罗纳的**布拉伊达圣乔治堂** (San Giorgio in Braida) 中珍藏着**委罗内塞** (Veronese) 的巅峰杰作《圣乔治殉道》，**丁托列托** (Tintoretto) 的《基督受洗》，还有包括**弗朗西斯科·卡罗托** (Francesco Caroto) 在内的多位本土画家的大作。
+
+委罗内塞原名**保罗·卡利亚里** (Paolo Caliari)，是意大利文艺复兴时代的画家。他出生于维罗纳，后来移居威尼斯并在那里成名，与**提香** (Titian)、丁托列托并称“威尼斯画派三杰”。委罗内塞留在维罗纳的作品并不多，《圣乔治殉道》是其中最杰出的一幅作品。
+
+寻踪委罗内塞是我们维罗纳之旅的一个核心主题，自然不能错过圣乔治堂。而掩映在阿迪杰河畔绿树之间的教堂建筑出乎意料的漂亮，成为我们此行中最大的亮点之一。
+
+toc::[]
+
+[#history]
+== 一点历史
+
+布拉伊达圣乔治堂始建于公元 11 世纪，最初是一座本笃会隐修院。教堂名字中的“布拉伊达”对应的意大利语 _in Braida_ 字面意思正是“在城外的绿地上”，清楚地反映了当时的教堂远离喧嚣的历史。
+
+到了 16 世纪，维罗纳最伟大的文艺复兴建筑师**米凯莱·桑米凯利** (Michele Sanmicheli) 主持了对教堂的改建，为教堂设计了文艺复兴风格的标志性穹顶（在穹顶最终落成前，这位建筑师就去世了）。
+
+不过，随后的钟塔工程因为其高度将远远高过对岸维罗纳的新城墙，成为军事防御的弱点，被中途叫停了。最终只能在半截塔身上加了一个简陋的钟室而草草了事，看起来有点矬。
+
+如今这座教堂是一座独立自治的堂区教堂 (Parrocchia)，所以，它的意大利官方名字是 Parrocchia di San Giorgio in Braida；而 Chiesa di San Giorgio in Braida 也是它常用的历史名称。
+
+++++
+{% related slugs="italian-church-vocabulary-explained" %}
+++++
+
+[#highlights]
+== 核心看点
+
+德国文豪**歌德**在 1786 年他的意大利之旅中，第一站就是维罗纳。
+
+[quote,歌德,《意大利游记》]
+圣乔治堂是一座挂满杰作的画廊，那些祭坛画尽管艺术价值不同，但是绝对都值得瞩目。
+
+.维罗纳的圣乔治堂 (San Giorgio in Braida)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/chiesa-san-giorgio-braida-verona-interior-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/chiesa-san-giorgio-braida-verona-interior-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/chiesa-san-giorgio-braida-verona-interior-4x3-2400.avif 2400w"]
+
+[#veronese]
+=== 委罗内塞 《圣乔治殉道》
+
+依然珍藏在圣乔治堂主祭坛原位的布面油画《圣乔治殉道》 (_Martirio di San Giorgio_, 1566) 是委罗内塞巅峰时期的杰作，是画家保存在家乡最珍贵的艺术瑰宝。这幅恢宏的《圣乔治殉道》也是这一题材的巅峰代表。
+
+首先，请原谅我们拍摄的角度。圣乔治堂的照明灯让祭坛画的正面几乎什么细节都看不到了。
+
+.保罗·委罗内塞《圣乔治殉道》，维罗纳圣乔治堂
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/martyrdom-saint-george-veronese-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/martyrdom-saint-george-veronese-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/martyrdom-saint-george-veronese-verona-4x3-2400.avif 2400w"]
+
+在画面下方，圣乔治跪在中央，被剥去了盔甲，周围是拥挤而充满张力的行刑场面。在画面上方的云端，圣母子坐在最高处，身旁站着手持钥匙的圣彼得与紧握宝剑和书册的圣保罗，代表信、望、爱“神学三美德”的女性环绕在周围，正在迎接圣乔治的灵魂。
+
+[quote]
+这幅《圣乔治殉道》的光影编排、背景建构和华丽服饰都堪称大师，它将画面提升为一场歌剧和交响乐般的戏剧，情感的张力最终融入神圣的和谐之中。
+
+[#tintoretto]
+=== 丁托列托 《基督受洗》
+
+如果不留意，挂在入口大门上方的**丁托列托**的《基督受洗》 (_Il Battesimo di Cristo_, 1576) 很容易被错过。如果光线太暗，大门附近设有照明开关，可以自己点亮欣赏。只是这些灯光设置的太过简陋了，所以拍摄出来的画面会比较难堪。
+
+丁托列托原名**雅各布·罗布斯蒂** (Jacopo Robusti)，因为父亲是染匠，所以得了个绰号“丁托列托”，意思就是“小染匠”。他曾短暂进入提香的画室学习，但很快就离开了。他的座右铭是“米开朗基罗的素描，提香的色彩“，立志融合两位大师之长。不过，成名后的丁托列托却如**乔尔乔·瓦萨里** (Giorgio Vasari，1511–1574) 在《艺苑名人传》 (_Le Vite_) 中的评价所说：
+
+[quote,乔尔乔·瓦萨里,《艺苑名人传》]
+标新立异、天马行空、运笔如飞、一气呵成，画坛最骇人的头脑。
+
+.丁托列托 《基督受洗》，维罗纳圣乔治堂
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/battesimo-cristo-tintoretto-san-giorgio-braida-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/battesimo-cristo-tintoretto-san-giorgio-braida-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/battesimo-cristo-tintoretto-san-giorgio-braida-verona-4x3-2400.avif 2400w"]
+
+圣乔治堂中的这幅《基督受洗》描绘了耶稣在约旦河受洗的画面。画面左侧的耶稣双手合十，躬身站在水中；右侧的施洗者圣约翰站在岸边，用贝壳盛水浇在耶稣头上。圣灵以鸽子的形象在天堂之光中降临；象征牺牲的羊羔静卧在一旁。
+
+与同堂对垒的委罗内塞的《圣乔治殉道》形成鲜明的对比，丁托列托的《基督受洗》展现了他最突出艺术特征：明暗对比 (Chiaroscuro)。
+
+[#girolamo-dai-libri]
+=== 吉罗拉莫·戴·利布里 《圣带圣母》
+
+在圣乔治堂的艺术品中，歌德大加赞誉的一幅画是维罗纳本土大师**吉罗拉莫·戴·利布里**的《圣带圣母》 (_Madonna della Cintura_, 1526)。
+
+吉罗拉莫·戴·利布里 (Girolamo dai Libri) 名字中的“戴·利布里” (_dai Libri_) 的字面意思是“书本的”。这其实不是他的本姓，而是源自他的家族世代从事的羊皮纸手抄本插图绘制和书籍装饰这一职业，说白了就是“做书的那家人”。
+
+.吉罗拉莫·戴·利布里 《圣带圣母》，维罗纳圣乔治堂
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/madonna-della-cintura-girolamo-dai-libri-3x4-900.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/madonna-della-cintura-girolamo-dai-libri-3x4-900.avif 900w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/madonna-della-cintura-girolamo-dai-libri-3x4-1800.avif 1800w"]
+
+戴·利布里的这幅杰作的学术名叫《圣母子在圣洛伦佐·朱斯蒂尼亚尼和圣泽诺之间》，画面中圣母子端坐在中央；左侧站立的是威尼斯的第一位宗主教**圣洛伦佐·朱斯蒂尼亚尼** (San Lorenzo Giustiniani)；右侧则是维罗纳的主保圣人**圣泽诺** (San Zeno)。
+
+稍加留意，就会注意到圣母子手中有一条黑色的带子。这条腰带不是传说中“怀疑的托马斯”得到的那条圣母腰带，而是圣莫尼卡和圣奥古斯丁得到的那条圣母腰带。而且这幅画也正是维罗纳的“圣带兄弟会”出资定制的。所以，它常常被叫做《圣带圣母》。
+
+因为常年在手抄本上作画的职业历练，戴·利布里擅长甚至热衷于雕琢细节。圣母子身后细致入微的柠檬树，正是他个人签名般的招牌构图。歌德对这幅画的着迷之处就在于“宝石般历久弥新的独特色彩和对植物的逼真刻画”。
+
+对了，这幅画真的有画家的签名。在画面底部三个小天使身后的台阶上，用古典拉丁文写着：“公元 1526 年 3 月 29 日，由吉罗拉莫·戴·利布里绘制”。
+
+[#francesco-caroto]
+=== 弗朗切斯科·卡罗托 《圣乌苏拉与她的同伴》
+
+圣乔治堂中另一幅不应错过的画作是**弗朗切斯科·卡罗托** (Francesco Caroto) 的《圣乌苏拉与她的同伴》 (_Sant'Orsola e Compagne_, 1545)，也常常被称为《圣乌苏拉与一万一千名处女》。
+
+.弗朗切斯科·卡罗托 《圣乌苏拉与她的同伴》，维罗纳圣乔治堂
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/sant-orsola-compagne-francesco-caroto-chiesa-san-giorgio-braida-verona-3x4-900.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/sant-orsola-compagne-francesco-caroto-chiesa-san-giorgio-braida-verona-3x4-900.avif 900w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/sant-orsola-compagne-francesco-caroto-chiesa-san-giorgio-braida-verona-3x4-1800.avif 1800w"]
+
+在画作一旁的官方介绍中写道：
+
+[quote]
+____
+作者：弗朗切斯科·卡罗托 (1480–1555)，画家乔瓦尼（Giovanni）的哥哥，利贝拉莱 (Liberale) 和曼特尼亚 ( Mantegna) 的弟子。
+
+16 世纪（签名并注有日期：FRANCISCUS CAROTUS P.A.D. MDXXXXV）。
+
+公元 5 世纪，这位英国公主在从罗马朝圣返回的途中，于科隆被匈人杀害。相传她与一万一千名处女一同殉道，但实际上，当时只有她的十一员同伴。
+
+底座画内容：《航行中的帆船》、《处女们的殉道》、《圣乌尔苏拉之梦》。
+____
+
+这里我们提到这位卡罗托大师的原因有两个：
+
+* 在我们的另一篇旅行故事中也将向你介绍收藏于维罗纳老城堡博物馆，弗朗切斯科·卡罗托的另一幅全欧洲最著名的极具魔性的“红发男孩”画作。
+
+* 据瓦萨里书中记载，委罗内塞 16 岁时曾经在弗朗切斯科·卡罗托的弟弟乔瓦尼·卡罗托的画室做学徒，和我们的寻踪委罗内塞之旅也算契合。圣乔治主祭坛前两侧的对画《天使报喜》就出自乔瓦尼·卡罗托之手。
+
+[#domenico-robusti]
+=== 多梅尼科·丁托列托 《五旬节》
+
+最后，如果你有兴趣，丁托列托的儿子**多梅尼科·罗布斯蒂** (Domenico Robusti)，也叫多梅尼科·丁托列托或者“小丁托列托”，他也有一幅画在圣乔治堂，那就是《五旬节》 (_La Pentecoste_)。
+
+.多梅尼科·丁托列托 《五旬节》，维罗纳圣乔治堂
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/la-pentecoste-domenico-robusti-chiesa-san-giorgio-braida-verona-3x4-900.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/la-pentecoste-domenico-robusti-chiesa-san-giorgio-braida-verona-3x4-900.avif 900w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-giorgio-braida/la-pentecoste-domenico-robusti-chiesa-san-giorgio-braida-verona-3x4-1800.avif 1800w"]
+
+画面最上方是一只化身白鸽的圣灵，周围环绕着众天使；圣母端坐在中央；十二使徒环绕在下方。
+
+[TIP]
+**火舌：**注意到每位使徒头上那一缕小火舌了吗？火舌隐喻着圣灵赐予使徒用世界各族语言去传播福音的能力。一方面跳动的火苗形似舌头；另一方面古希腊语和拉丁语中的“舌头”和“语言”本身就是同一个词。
+
+[#visit]
+== 参观信息
+
+布拉伊达圣乔治堂坐落在阿迪杰河左岸的河畔旁（古城核心区是右岸），在**加里波第**桥 (Ponte Garibaldi) 和著名的**彼得拉**桥 (Ponte Pietra) 之间，属于小维罗纳区 (Veronetta)。游客可以**免费参观**圣乔治堂。
+
+**开放时间：**需要特别注意的是教堂只在 08:00-10:00 和 17:00-19:00 之间弥撒时间开放，周日和节假日开放时间略长。这倒也不是坏事，正好可以白天去逛城里那些开的晚、关得早的热门景点，错开时间。
+
+从老城的百草广场出发前往布拉伊达圣乔治堂，我们推荐的路线是**“双桥环线”**：顺时针的话，经加里波第桥去圣乔治堂，然后经彼得拉桥回；逆时针的话，经彼得拉桥去圣乔治堂，然后经加里波第桥回。因为教堂只在早晚开放，正是在阿迪杰河畔欣赏日出或日落的时间。两座桥上能看到不同的风景，我们尤其喜欢加里波第桥的视角，圣乔治堂，圣彼得山丘，彼得拉桥尽收眼底。

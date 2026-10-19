@@ -349,18 +349,21 @@ article {
     color: var(--bs-body-color);
     position: relative; // Ensure the text stays on top of the quote
     z-index: 1;
-    font-style: italic;
+    font-style: normal;
   }
 
   .quoteblock .attribution {
     font-style: normal;
     text-align: right;
-    color: #666;
   }
 
   .quoteblock .attribution cite {
-    display: block;
-    font-size: 0.9em;
+    color: var(--bs-secondary-color);
+    font-style: normal;
+  }
+
+  .quoteblock .attribution br {
+    display: none;
   }
 }
 
