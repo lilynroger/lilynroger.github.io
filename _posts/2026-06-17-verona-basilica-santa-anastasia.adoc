@@ -11,7 +11,7 @@ layout: article
 categories: posts
 date: 2026-06-17 17:00:00 +0200
 last_modified_at: 2026-09-28 21:45:00 +0800
-tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 教堂, 艺术, 委罗内塞, 皮萨内洛]
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 教堂, 艺术, 委罗内塞, 皮萨内洛, 米凯莱·桑米凯利]
 tagline: 委罗内塞父亲的“幸运驼背”雕像和皮萨内洛的《圣乔治与公主》
 description: 圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia) 内藏有委罗内塞 (Veronese) 父亲所作的“幸运驼背”雕像 (Gobbi) 和皮萨内洛（Pisanello）的名作《圣乔治与公主》 (St. George and the Princess)，是维罗纳不可错过的景点之一。
 ---
@@ -130,7 +130,7 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-
 
 黑色和白色直接对应着道明会修士“白衣披黑袍”的服装特征；而红色的正是举世闻名的维罗纳红大理石，象征着殉道者圣彼得之血。
 
-在靠近主祭坛的中殿正中央地面上，一幅巨大的大理石玫瑰花窗拼花最引人瞩目。根据档案记载，文艺复兴时期的著名建筑师**皮耶特罗·达·波尔莱扎** (Pietro da Porlezza) 在 1462 年，接受道明会修士的委托，亲手设计并铺就了这幅大理石玫瑰花窗图案。这位建筑大师家族地位显赫，他是维罗纳最伟大的传奇建筑大师**米凯莱·圣米凯利** (Michele Sanmicheli) 的堂兄。
+在靠近主祭坛的中殿正中央地面上，一幅巨大的大理石玫瑰花窗拼花最引人瞩目。根据档案记载，文艺复兴时期的著名建筑师**皮耶特罗·达·波尔莱扎** (Pietro da Porlezza) 在 1462 年，接受道明会修士的委托，亲手设计并铺就了这幅大理石玫瑰花窗图案。这位建筑大师家族地位显赫，他是维罗纳最伟大的传奇建筑大师**米凯莱·桑米凯利** (Michele Sanmicheli) 的堂兄。
 
 .维罗纳的圣安娜斯塔西娅教堂 (Basilica di Santa Anastasia) 的三色大理石玫瑰拼花地面。
 image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-floor-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-floor-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-santa-anastasia/basilica-santa-anastasia-verona-floor-4x3-2400.avif 2400w"]
