@@ -11,7 +11,7 @@ layout: article
 categories: posts
 date: 2026-06-17 16:30:00 +0200
 last_modified_at: 2026-09-22 20:45:00 +0800
-tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 教堂, 艺术, 提香, 罗曼式]
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 教堂, 艺术, 提香, 米凯莱·桑米凯利, 罗曼式]
 tagline: 探寻提香在维罗纳的唯一真迹《圣母升天》
 ---
 = 维罗纳大教堂 (Duomo di Verona) 深度指南
@@ -78,7 +78,7 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-duomo/duo
 
 大教堂主殿是我们参观的第三站。维罗纳大教堂是维罗纳的主教座堂，正式名称是**母堂圣母主教座堂** (Cattedrale di Santa Maria Matricolare)。
 
-这座教堂是一座完美融合了罗曼式、哥特式与文艺复兴风格的杰出建筑。它始建于 1120 年，最初是一座平顶的罗曼式巴西利卡 (Basilica) 建筑，内部的空间由八个巨大的维罗纳红大理石立柱支撑。在 1440 年，维罗纳的工匠们将红大理石立柱向上延伸，硬生生地加盖出了高耸的哥特式拱顶。到了文艺复兴时期，威尼斯共和国最顶级的建筑大师**米歇尔·圣米凯利** (Michele Sanmicheli) 又为后殿穹顶和主祭坛前设计了弧形大理石祭坛围栏。
+这座教堂是一座完美融合了罗曼式、哥特式与文艺复兴风格的杰出建筑。它始建于 1120 年，最初是一座平顶的罗曼式巴西利卡 (Basilica) 建筑，内部的空间由八个巨大的维罗纳红大理石立柱支撑。在 1440 年，维罗纳的工匠们将红大理石立柱向上延伸，硬生生地加盖出了高耸的哥特式拱顶。到了文艺复兴时期，威尼斯共和国最顶级的建筑大师**米凯莱·桑米凯利** (Michele Sanmicheli) 又为后殿穹顶和主祭坛前设计了弧形大理石祭坛围栏。
 
 .维罗纳大教堂 (Duomo di Verona) 的主殿。
 image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-duomo/duomo-verona-interior-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-duomo/duomo-verona-interior-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-duomo/duomo-verona-interior-4x3-2400.avif 2400w"]
@@ -184,7 +184,7 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-duomo/duo
 
 维罗纳大教堂的钟塔是维罗纳第二高的建筑，仅次于香草广场旁的**朗贝尔蒂塔** (Torre dei Lamberti)。
 
-这座钟塔还是历经中世纪、文艺复兴时期和近代建设，仍然未能完工的建筑。其中一层和二层是建于 12-13 世纪的巨大罗曼式基座。到了文艺复兴时期，由前文提到的著名建筑师米歇尔·圣米凯利主持设计，保留基座，重建钟塔。可惜刚刚加了一层塔身到教堂的高度，就因资金问题停工，一停就是 300 多年。到了 20 世纪初，维罗纳重启建设，加高了塔身，完成了塔顶的钟铃房。可惜再次遇到资金问题，原计划的尖顶搁置了。本来可以一举成为维罗纳第一高塔的，现在只能屈居第二，维持今天所见的平顶样子了。
+这座钟塔还是历经中世纪、文艺复兴时期和近代建设，仍然未能完工的建筑。其中一层和二层是建于 12-13 世纪的巨大罗曼式基座。到了文艺复兴时期，由前文提到的著名建筑师米凯莱·桑米凯利主持设计，保留基座，重建钟塔。可惜刚刚加了一层塔身到教堂的高度，就因资金问题停工，一停就是 300 多年。到了 20 世纪初，维罗纳重启建设，加高了塔身，完成了塔顶的钟铃房。可惜再次遇到资金问题，原计划的尖顶搁置了。本来可以一举成为维罗纳第一高塔的，现在只能屈居第二，维持今天所见的平顶样子了。
 
 尽管如此，大教堂的钟楼仍然是维罗纳天际线最具辨识度的建筑。从阿迪杰河对岸的圣彼得城堡 (Castel San Pietro) 望向石桥 (Ponte Pietra)，大教堂和钟塔是绝美的背景。
 
