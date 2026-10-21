@@ -1,0 +1,55 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/cappella-marogna-chiesa-san-paolo-campo-marzio-verona-4x3-1200.avif
+  alt: 维罗纳圣保罗教堂 (San Paolo in Campo Marzio) 的镇馆之宝是委罗内塞的《马罗尼亚祭坛画》。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/cappella-marogna-chiesa-san-paolo-campo-marzio-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/cappella-marogna-chiesa-san-paolo-campo-marzio-verona-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2026-06-18 18:00:00 +0200
+last_modified_at: 2026-10-21 19:30:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 教堂, 艺术, 委罗内塞, 吉罗拉莫·戴·利布里, 弗朗西斯科·卡罗托, 保罗·法里纳蒂]
+tagline: 除了华丽的色彩，委罗内塞还有“银色祭坛画”。
+description: 在维罗纳的圣保罗教堂 (San Paolo in Campo Marzio) 中，珍藏着保罗·委罗内塞 (Paolo Veronese) 的《马罗尼亚祭坛画》 (Pala Marogna)，人们称之为“银色祭坛画”。
+---
+= 维罗纳圣保罗教堂：委罗内塞的“银色祭坛画”《马罗尼亚祭坛画》
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/
+
+在维罗纳的**圣保罗教堂** (San Paolo in Campo Marzio) 中，仍然原址珍藏着文艺复兴“威尼斯画派三杰”之一，来自维罗纳的**保罗·委罗内塞** (Paolo Veronese) 创作的《马罗尼亚祭坛画》 (Pala Marogna)。这幅画在艺术史上被称为“银色祭坛画”，是委罗内塞成熟期的重要作品之一。
+
+圣保罗教堂坐落在维罗纳的维罗内塔区 (Veronetta) ，也就是**小维罗纳**，位于古城区以东，阿迪杰河 (Adige) 的左岸。教堂始建于公元 11-12 世纪，在 18 世纪改建成为新古典主义风格。虽然在二战中遭遇盟军轰炸而严重损毁，但是在战后依原貌被精心重建。
+
+[TIP]
+教堂的全称 Chiesa di San Paolo in Campo Marzio 常被翻译成“战神广场圣保罗教堂”。其中“战神广场” (Campo Marzio) 是意大利历史中非常常见的一个地名，起源于古罗马时期。和罗马著名的战神广场一样，维罗纳圣保罗教堂的所在地过去也曾经是城外一片军队操练和集结的广场，因而得名。
+
+.维罗纳的圣保罗教堂 (San Paolo in Campo Marzio)。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/chiesa-san-paolo-campo-marzio-verona-facade-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/chiesa-san-paolo-campo-marzio-verona-facade-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/chiesa-san-paolo-campo-marzio-verona-facade-4x3-2400.avif 2400w"]
+
+委罗内塞原名**保罗·卡利亚里** (Paolo Caliari)。他出生于维罗纳的小维罗纳区，后来移居威尼斯。因为他来自维罗纳，人们习惯叫他“维罗纳的保罗”或者干脆“那个维罗纳人”，在意大利语里“委罗内塞”的字面意思就是“维罗纳人”。最终，“委罗内塞”就成了他广为人知的名号，与**提香** (Titian) 和**丁托列托** (Tintoretto) 并称“文艺复兴威尼斯画派三杰”。
+
+委罗内塞留在维罗纳的作品并不多。在我们的寻踪委罗内塞之旅中，探访了他仅有的两幅至今仍然留在维罗纳教堂原地的作品。一幅是圣乔治教堂的《圣乔治殉道》，另一幅就是圣保罗教堂中的《马罗尼亚祭坛画》。后者在艺术史上的地位虽然不及前者，但是“银色祭坛画”的独特之处同样不容错过。
+
+.委罗内塞的《马罗尼亚祭坛画》。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/pala-marogna-veronese-chiesa-san-paolo-campo-marzio-verona-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/pala-marogna-veronese-chiesa-san-paolo-campo-marzio-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/pala-marogna-veronese-chiesa-san-paolo-campo-marzio-verona-4x3-2400.avif 2400w"]
+
+这幅画保存在圣保罗教堂主祭坛右侧的**马罗尼亚礼拜堂** (Cappella Marogna) 内。在画面的上方，圣母玛利亚和年幼的耶稣端坐在宝座之上；画面下方左侧是帕多瓦的圣安东尼，他正将跪拜的两位马罗尼亚家族成员引荐给圣母；右侧则是赤裸上身、怀抱羔羊的施洗者圣约翰。
+
+那两位马罗尼亚家族成员正是出资委托委罗内塞创作这幅画的金主：安东尼奥·玛丽亚·马罗尼亚（Antonio Maria Marogna）与乔瓦尼·巴蒂斯塔·马罗尼亚（Giovanni Battista Marogna）兄弟。这两人的名字正是取自画中的三位圣人。圣安东尼和施洗者圣约翰的名字在意大利语中分别是“安东尼奥”和“乔瓦尼·巴蒂斯塔”，而圣母玛丽亚的名字是安东尼奥的中间名，让作为继承人的长子获得双重护佑。
+
+委罗内塞在威尼斯画派三杰中，以华丽的色彩闻名于世。他最著名的《加纳的婚礼》和《利未家的宴会》都是充满高饱和度的色彩。这幅《马罗尼亚祭坛画》却是罕见的以冷色调为主的画作。在光线下，画面更是隐隐泛着清冷的银灰色。于是，这幅《马罗尼亚祭坛画》就得到了“银色祭坛画”的名号。
+
+在圣保罗教堂中，除了委罗内塞的《马罗尼亚祭坛画》这幅镇馆之宝，还有不少文艺复兴时期维罗纳本土画家的画作。比如乔瓦尼·卡罗托 (Giovanni Caroto)，吉罗拉莫·戴·利布里 (Girolamo dai Libri)，以及保罗·法里纳蒂 (Paolo Farinati)。
+
+委罗内塞年轻时曾在乔瓦尼·卡罗托的画室做过学徒；吉罗拉莫·戴·利布里的标志性元素是圣母子身后细致入微的自然风景和树木；而马罗尼亚礼拜堂中的湿壁画则全部出自保罗·法里纳蒂之手。
+
+.圣保罗教堂马罗尼亚礼拜堂中的湿壁画出自保罗·法里纳蒂之手。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/san-paolo-campo-marzio-marogna-chapel-fresco-farinati-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/san-paolo-campo-marzio-marogna-chapel-fresco-farinati-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/san-paolo-campo-marzio-marogna-chapel-fresco-farinati-4x3-2400.avif 2400w"]
+
+在二战的盟军轰炸中，圣保罗教堂大部分被炸成废墟。委罗内塞的《马罗尼亚祭坛画》被提前转移而毫发无伤。马罗尼亚礼拜堂虽然奇迹般地幸存下来，却也多处受损。部分保罗·法里纳蒂的湿壁画原作最终也毁掉了。
