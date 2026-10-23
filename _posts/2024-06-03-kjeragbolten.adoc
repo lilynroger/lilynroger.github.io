@@ -9,7 +9,7 @@
 :page-liquid:
 :toc:
 :sectnums:
-:url-lysefjord: {% post_url 2024-05-31-lysefjord %}
+:url-lysefjord: {% post_url 2024-05-31-norway-lysefjord %}
 :url-kjeragbolten: {% post_url 2024-06-03-kjeragbolten %}
 :url-preikestolen: {% post_url 2024-06-02-preikestolen %}
 :url-trolltunga: {% post_url 2024-06-07-trolltunga %}

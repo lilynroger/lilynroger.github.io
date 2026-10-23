@@ -1,0 +1,28 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+  integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<style>
+  #map {
+    width: 100%;
+    /* 宽度充满父容器 */
+    height: auto;
+    /* 允许高度根据比例自动计算 */
+    aspect-ratio: 4 / 3;
+    /* 严格保持 4:3 的宽高比 */
+  }
+</style>
+<div id="map"></div>
+
+<script type="text/javascript">
+  var map = L.map('map').setView([58.92, 6.09], 9);
+  L.tileLayer('https://cache.kartverket.no/v1/wmts/1.0.0/topo/default/webmercator/{z}/{y}/{x}.png', {
+    attribution: '© <a href="http://www.kartverket.no/">Kartverket</a>'
+  }).addTo(map);
+
+  var myMarker = L.marker([58.9486272, 5.5979372]).addTo(map);
+
+  // 为这个标记绑定一个文字气泡（Popup），点击标记时会弹出来
+  myMarker.bindPopup("<b>斯塔万格 (Stavanger)</b><br>探索吕瑟峡湾的基地").openPopup();
+
+</script>

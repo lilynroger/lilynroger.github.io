@@ -48,7 +48,7 @@ toc::[]
 
 还有由南到北“四大峡湾”中的三个:
 
-* link:{% post_url 2024-05-31-lysefjord %}[吕瑟峡湾]: 徒步胜地，布道石和奇迹石。
+* link:{% post_url 2024-05-31-norway-lysefjord %}[吕瑟峡湾]: 徒步胜地，布道石和奇迹石。
 * 哈当厄尔峡湾：巨魔之舌，link:{% post_url 2024-06-10-dronningstien %}[王后之路徒步]，举世闻名的link:{% post_url 2024-06-13-hardanger-ciders %}[挪威苹果酒]。
 * 松恩峡湾：去过了，这次跳过.
 * link:{% post_url 2024-06-12-alesund-geiranger %}[盖朗厄尔峡湾]：高山农场徒步，七姐妹瀑布。
