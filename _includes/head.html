@@ -30,6 +30,10 @@
   {%- if jekyll.environment == 'production' -%}
   {%- include microsoft-clarity.html -%}
   {%- endif -%}
+  {%- if page.map -%}
+  <link rel="stylesheet" href="{{ '/assets/css/maplibre-gl.css' | relative_url }}">
+  <script src="{{ '/assets/js/maplibre-gl.js' | relative_url }}"></script>
+  {%- endif -%}
   <link rel="icon" href="/favicon.png" sizes="any">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">

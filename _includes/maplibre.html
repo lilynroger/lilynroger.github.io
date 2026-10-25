@@ -1,0 +1,44 @@
+{% comment %}
+maplibre fragment
+
+parameters:
+- id: The ID of the map container, defaults to 'map'
+
+{% endcomment %}
+
+{% assign map_id = include.id | default: "map" %}
+
+<div id="{{ map_id }}" class="lr-map-container"></div>
+
+<script>
+  /* IIFE for isolation */
+  (function () {
+    const map = new maplibregl.Map({
+      container: '{{ map_id }}',
+      /* supported style: liberty | positron | bright | dark */
+      style: 'https://tiles.openfreemap.org/styles/{{ include.style | default: "liberty" }}',
+      center: [{{ include.lng }}, {{ include.lat }}],
+      zoom: {{ include.zoom | default: 13 }},
+      attributionControl: {
+        compact: true
+      }
+    });
+
+    map.addControl(new maplibregl.NavigationControl(), 'top-right');
+
+  {% if include.title %}
+  const popupHTML = `
+      <strong>{{include.title}}</strong>
+      </br>
+      <span>{{include.description}}</span>
+  `;
+  new maplibregl.Marker({ color: "#000000", opacity: 0.75 })
+    .setLngLat([{{ include.lng }}, {{ include.lat }}])
+    .setPopup(
+      new maplibregl.Popup({ offset: 25 })
+        .setHTML(popupHTML)
+    )
+    .addTo(map);
+  {% endif %}
+  }) ();
+</script>

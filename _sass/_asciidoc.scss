@@ -154,39 +154,38 @@ article,
   .article-body {
     font-size: 1.125rem;
     line-height: 1.75;
+  }
+  // 增加段落呼吸感和提升长文易读性
+  :where(p, ul, ol) {
+    margin-bottom: var(--spacer-paragraph);
+  }
 
-    // 增加段落呼吸感和提升长文易读性
-    :where(p, ul, ol) {
-      margin-bottom: var(--spacer-paragraph);
-    }
+  :where(li>ul) {
+    // 取消嵌套列表的底部边距
+    margin-bottom: 0;
+  }
 
-    :where(li>ul) {
-      // 取消嵌套列表的底部边距
-      margin-bottom: 0;
-    }
+  /* 标题边距：上大下小原则 */
+  :where(h2, h3, h4) {
+    margin-top: calc(var(--spacer-paragraph) * 1.5);
+    margin-bottom: var(--spacer-paragraph);
+    font-weight: 500;
+  }
 
-    /* 标题边距：上大下小原则 */
-    :where(h2, h3, h4) {
-      margin-top: calc(var(--spacer-paragraph) * 1.5);
-      margin-bottom: var(--spacer-paragraph);
-      font-weight: 500;
-    }
+  /* 如果标题紧跟在另一个标题后面（取消重复的大间距） */
+  :where(h2+h3, h3+h4) {
+    margin-top: var(--spacer-paragraph);
+  }
 
-    /* 如果标题紧跟在另一个标题后面（取消重复的大间距） */
-    :where(h2+h3, h3+h4) {
-      margin-top: var(--spacer-paragraph);
-    }
+  :where(a) {
+    text-decoration: none;
+  }
 
-    :where(a) {
-      text-decoration: none;
-    }
-
-    :where(a:hover) {
-      text-decoration: underline;
-      text-decoration-color: #FFC107;
-      text-decoration-thickness: 2px;
-      text-underline-offset: 2px;
-    }
+  :where(a:hover) {
+    text-decoration: underline;
+    text-decoration-color: #FFC107;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 2px;
   }
 
   /* 优化 Asciidoctor TOC */
@@ -218,9 +217,8 @@ article,
 
   .imageblock,
   .admonitionblock {
-    /* 图片块和警告块的上下边距比段落间距大 */
-    margin-top: calc(var(--spacer-paragraph) * 1.5);
-    margin-bottom: calc(var(--spacer-paragraph) * 1.5);
+    margin-top: calc(var(--spacer-paragraph) * 1);
+    margin-bottom: calc(var(--spacer-paragraph) * 1);
   }
 
   .figure {
@@ -402,4 +400,18 @@ table.tableblock {
 .tableblock th p.tableblock {
   margin: 0;
   padding: 0;
+}
+
+//
+// Map
+//
+.lr-map-container {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  margin-bottom: $paragraph-margin-bottom;
+  color: var(--bs-dark);
+}
+
+.lr-map-container button {
+  color: var(--bs-dark);
 }

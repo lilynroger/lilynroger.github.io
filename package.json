@@ -1,0 +1,13 @@
+{
+  "name": "lilyroger.com",
+  "version": "1.0.0",
+  "scripts": {
+    "sync-assets": "shx mkdir -p assets/js assets/css && shx cp node_modules/maplibre-gl/dist/maplibre-gl.js assets/js/ && shx cp node_modules/maplibre-gl/dist/maplibre-gl.css assets/css/"
+  },
+  "devDependencies": {
+    "shx": "^0.3.4"
+  },
+  "dependencies": {
+    "maplibre-gl": "^5.24.0"
+  }
+}

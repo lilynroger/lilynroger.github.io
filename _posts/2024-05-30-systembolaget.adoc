@@ -10,7 +10,8 @@ image:
 layout: article
 categories: posts
 date: 2024-05-30 05:00:00 +0200
-last_modified_at: 2026-10-17 12:15:00 +0800
+last_modified_at: 2026-10-25 08:45:00 +0800
+map: true
 tags: [2024-Scandinavia, 欧洲, 北欧, 瑞典, 斯德哥尔摩]
 tagline: 北欧三国买酒之瑞典篇
 description: 在瑞典普通的超市、便利店或加油站只有浓度小于 3.5% 或者无醇的啤酒。酒精浓度大于 3.5% 的啤酒、红酒、烈酒，只能在国营的酒类专卖店 Systembolaget 购买。我们在斯德哥尔摩干草广场地下食品集市 Hötorgshallen 找到一家。
@@ -31,7 +32,18 @@ description: 在瑞典普通的超市、便利店或加油站只有浓度小于 
 .斯德哥尔干草广场 (Hötorget) 上的音乐之神俄耳甫斯群雕 (Orfeusgruppen)。
 image::https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/orfeusgruppen-hotorget-stockholm-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/orfeusgruppen-hotorget-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/orfeusgruppen-hotorget-stockholm-4x3-2400.avif 2400w"]
 
-在干草广场上，音乐厅的斜对面，就是斯德哥尔摩最著名的干草广场食品大厅 (Hötorgshallen)。在连接着干草广场和塞尔格尔广场 (Sergels torg) 的塞尔格尔步行街 (Sergelgatan) 上，可以找到食品大厅和酒类专卖店的临街入口，门上挂着醒目的绿色 Systembolaget 招牌，而酒类专卖店就在食品大厅的地下。
+在干草广场上，音乐厅的斜对面，就是斯德哥尔摩最著名的干草广场食品大厅 (Hötorgshallen)。
+
+++++
+{% include maplibre.html
+   lng=18.06254
+   lat=59.33428
+   title="干草广场食品大厅"
+   description="酒类专卖店 (Systembolaget) 在干草广场食品大厅 (Hötorgshallen) 的地下一层。"
+%}
+++++
+
+干草广场食品大厅的入口门上挂着醒目的绿色 Systembolaget 招牌，而酒类专卖店就在食品大厅的地下。
 
 .斯德哥尔干草广场食品大厅 Hötorgshallen 外的 Systembolaget 招牌。
 image::https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/systembolaget-stockholm-sweden-exterior-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/systembolaget-stockholm-sweden-exterior-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/systembolaget-stockholm-sweden-exterior-4x3-2400.avif 2400w"]
