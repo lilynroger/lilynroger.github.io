@@ -1,0 +1,82 @@
+// ==========================================================================
+// MapLibre Custom Marker Component (Optimized Size & Fixed Light Theme)
+// ==========================================================================
+
+$lr-marker-size:          24px; // 缩小尺寸，防止十多个点过于拥挤
+$lr-marker-color-primary: #ff4500;
+$lr-marker-text-color:    #ffffff;
+
+.lr-marker-container {
+  width: $lr-marker-size;
+  height: $lr-marker-size;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  will-change: transform;
+
+  .lr-marker-pin {
+    width: $lr-marker-size;
+    height: $lr-marker-size;
+    border-radius: 50% 50% 50% 0;
+    background-color: $lr-marker-color-primary !important; // 强固颜色
+    transform: rotate(-45deg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease-in-out;
+  }
+
+  .lr-marker-label {
+    transform: rotate(45deg);
+    color: $lr-marker-text-color !important; // 强固数字始终为白色
+    font-weight: 700;
+    font-size: 12px; // 保持原有字号
+    font-family: var(--bs-font-sans-serif);
+    user-select: none;
+    line-height: 1;
+  }
+
+  &:hover {
+    .lr-marker-pin {
+      filter: brightness(0.9);
+      transform: rotate(-45deg) scale(1.1);
+    }
+  }
+}
+
+// 强制覆盖 MapLibre 弹窗，确保不论文章是黑夜还是白天，地图弹窗始终呈优雅的亮色卡片
+.lr-custom-popup {
+  .maplibregl-popup-content {
+    background-color: #ffffff !important; // 强固白色背景
+    border-radius: 0.5rem;
+    padding: 0.75rem;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(0, 0, 0, 0.08);
+  }
+  
+  .maplibregl-popup-close-button {
+    padding: 4px 8px;
+    font-size: 14px;
+    color: #6c757d !important;
+    border-top-right-radius: 0.5rem;
+    &:hover { background-color: rgba(0,0,0,0.05); color: #000 !important; }
+  }
+  
+  .maplibregl-popup-anchor-top .maplibregl-popup-tip    { border-bottom-color: #ffffff !important; }
+  .maplibregl-popup-anchor-bottom .maplibregl-popup-tip { border-top-color: #ffffff !important; }
+  .maplibregl-popup-anchor-left .maplibregl-popup-tip   { border-right-color: #ffffff !important; }
+  .maplibregl-popup-anchor-right .maplibregl-popup-tip  { border-left-color: #ffffff !important; }
+
+  // 内部排版样式强制固定为亮色系（不随 Bootstrap 暗黑主题变化）
+  .lr-popup-content {
+    h5 {
+      color: #212529 !important; // 强固深色标题
+      font-weight: 600;
+    }
+    p {
+      color: #495057 !important; // 强固灰色正文
+    }
+  }
+}

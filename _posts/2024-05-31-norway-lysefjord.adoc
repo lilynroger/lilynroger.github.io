@@ -7,12 +7,15 @@ image:
   sources:
     - srcset: https://assets.lilyroger.com/images/trips/2024/scandinavia/norway-lysefjord/pulpit-rock-preikestolen-lysefjord-norway-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/norway-lysefjord/pulpit-rock-preikestolen-lysefjord-norway-4x3-2400.avif 2400w
 
+map: true
+map_poi_source: norway-lysefjord-pois
 layout: article
 categories: posts
 date: 2024-05-31 17:00:00 +0200
-last_modified_at: 2026-10-23 12:00:00 +0800
+last_modified_at: 2026-10-27 10:30:00 +0800
 tags: [2024-Scandinavia, 欧洲, 北欧, 挪威, 挪威峡湾, 挪威四大峡湾, 挪威三大奇石, 布道石, 奇迹石, 徒步]
 tagline: “三大奇石”之布道石和奇迹石
+description: 吕瑟峡湾 (Lysefjord) 是挪威“四大峡湾”中最南边的一条，“三大奇石”中的布道石 (Preikestolen) 和奇迹石 (Kjeragbolten) 都在这里。这篇攻略包含周边主要兴趣点的交互式地图。
 ---
 = 挪威四大峡湾之吕瑟峡湾：奇石和徒步
 :page-liquid: true
@@ -43,38 +46,114 @@ tagline: “三大奇石”之布道石和奇迹石
 
 这里是我们整理的笔记，有助于快速认识吕瑟峡湾。下面的地图中标记出了吕瑟峡湾周围主要的兴趣点：
 
-.斯塔万格和吕瑟峡湾的兴趣点地图。
-image::https://assets.lilyroger.com/images/trips/2024/scandinavia/norway-lysefjord/stavanger-lysefjord-poi-map-3200-1800.avif[width=3200,height=1800]
+++++
+<div id="map" class="lr-map-container"></div>
 
-. 斯塔万格 (Stavanger): 探索吕瑟峡湾最佳的基地。从斯塔万格出发，向北经过收费海底隧道系统 (2) 可以前往峡湾，特别是布道石 (5) 的徒步起点 (4)；向南同样可以去往峡湾，经陆路或者水陆结合前往奇迹石 (14) 的徒步起点 (13)，或前往弗洛尔利 (15)。
+<script>
+(function() {
+    let map = null;
 
-. 收费海底隧道系统 (https://ferde.no/bomanlegg-og-priser/ryfast[Ryfast]): 前往布道石 (5) 最快捷的路线。
+    function initMap() {
+        const mapContainer = document.getElementById('map');
+        // Prevent double initialization if the event fires twice
+        if (!mapContainer || map) return; 
 
-. 布道石路 (Preikestolvegen): 前往布道石 (5) 的徒步起点 (4) 在这个路口向东转入布道石路。
+        // Safely access deep nested JSON properties via Jekyll Liquid syntax
+        const poiList = {{ site.data.map.posts[page.map_poi_source] | jsonify }};
+        if (!poiList || poiList.length === 0) return;
 
-. 布道石大本营 (Preikestolen BaseCamp): 布道石 (5) 徒步路线的起点。附近有 P1 和 P2 两个停车场。
+        // Automatically calculate optimal bounding center box to fit all pins cleanly
+        let bounds = new maplibregl.LngLatBounds();
+        poiList.forEach(poi => bounds.extend(poi.coords));
 
-. 布道石 (Preikestolen): 布道石徒步路线的目的地，“三大奇石”中最热门的一个。
+        // Corrected API Namespace: maplibregl
+        map = new maplibregl.Map({
+            container: 'map',
+            style: 'https://tiles.openfreemap.org/styles/liberty',
+            bounds: bounds,
+            fitBoundsOptions: { 
+                padding: 60, // Safe pixel margins around your farthest pins (Stavanger Airport to Lysebotn)
+                maxZoom: 13 
+            }
+        });
 
-. 桑内斯 (Sandnes): 紧邻斯塔万格南边的小城。自驾前往劳维克 (7) 奇迹石 (14) 的时候途经这里。这里和斯塔万格之间也通火车，很方便。
+        // Loop and attach professional 'lr-' prefixed HTML DOM markers
+        poiList.forEach((poi, index) => {
+            const el = document.createElement('div');
+            el.className = 'lr-marker-container';
+            el.innerHTML = `
+                <div class="lr-marker-pin">
+                    <span class="lr-marker-label">${index + 1}</span>
+                </div>
+            `;
 
-. 劳维克 (Lauvvik): 或者更接近挪威语发音的“莱于维克”，位于吕瑟峡湾入口，从斯塔万格乘车或者自驾可以到达这里。这里有轮渡跨海前往奥内斯 (8) 的码头。更重要的是，劳维克是前往奇迹石 (14) 附近的吕瑟博滕村 (12) 最核心的轮渡码头，无论是自驾还是存粹依靠公共交通，这里通常是最便捷的登船点。
+            // 用内联样式再次加固文本颜色，防止被主题机制穿透
+            const popupContent = `
+                <div class="lr-popup-content p-1">
+                    <h5 class="fs-6 fw-bold mb-1" style="color: #212529 !important;">${poi.title}</h5>
+                    <p class="small mb-0" style="font-size: 12px; line-height: 1.4; color: #495057 !important;">${poi.description}</p>
+                </div>
+            `;
 
-. 奥内斯 (Oanes): 吕瑟峡湾入口西侧的小镇，这里有连接劳维克 (7) 的轮渡。自驾的话，也可以从劳维克 (7) 乘汽车轮渡跨海先到奥内斯，然后前往布道石 (5)。
+            // 由于标志尺寸缩小到了 24px，弹窗向上平移的垂直 Offset 需同步微调为 -24px
+            const popup = new maplibregl.Popup({ 
+                offset: [0, -24], 
+                closeButton: true,
+                className: 'lr-custom-popup'
+            }).setHTML(popupContent);
 
-. 吕瑟峡湾大桥 (Lysefjordbrua): 横跨吕瑟峡湾入口的大桥，自驾来往于吕瑟峡湾东西两侧十分方便，比如上午自驾去徒步布道石 (5)，之后跨过吕瑟峡湾大桥前往福桑 (10) 搭乘汽车渡轮前往奇迹石 (14) 附近的吕瑟博滕 (12) 都可以。
+            // anchor: 'bottom' 确保水滴尖端死死钉在精确的坐标上，消除任何向东北方向的偏移
+            new maplibregl.Marker({ 
+                element: el, 
+                anchor: 'bottom' 
+            })
+            .setLngLat(poi.coords)
+            .setPopup(popup)
+            .addTo(map);
+        });
+    }
 
-. 福桑 (Forsand): 吕瑟峡湾入口东侧风景如画的小村子。前往峡湾尽头的吕瑟博滕 (12) 的轮渡经停这里，拥有完善的基础设施，高分的民宿和露营地。如果想亲近峡湾而不是城市，福桑是探索吕瑟峡湾，徒步布道石 (4) 和奇迹石 (14) 的最佳基地。
+    // 4. Fire immediately if DOM is ready, otherwise wait for standard DOMContentLoaded
+    if (document.readyState === "complete" || document.readyState === "interactive") {
+        initMap();
+    } else {
+        document.addEventListener("DOMContentLoaded", initMap);
+    }
+})();
+</script>
+++++
 
-. 奥尔戈尔 (Ålgård): 斯塔万格以南的小城。自驾从斯塔万格经 450 号公路绕行峡湾南侧的大山前往奇迹石 (14) 时经过这里。值得一提的是，挪威本土户外品牌 Norrøna 线下折扣店之一就在这里，还有很多其他品牌的运动和户外用品折扣店。我们就是在这里采购的户外装备。
+. 斯塔万格 (Stavanger): 探索吕瑟峡湾最佳的基地。从斯塔万格出发，向北经过收费海底隧道系统 (3) 可以前往峡湾，特别是布道石 (6) 的徒步起点 (5)；向南同样可以去往峡湾，经陆路或者水陆结合前往奇迹石 (15) 的徒步起点 (14)，或前往弗洛尔利 (16)。
 
-. 吕瑟博滕 (Lysebotn): 吕瑟峡湾东部尽头的小村子，可以从吕瑟峡湾入口的劳维克 (7) 或者福桑 (10) 乘轮渡前往, 也可以自驾从南边绕过峡湾南侧的大山到达。从这里沿着拥有 27 道发卡弯的吕瑟路 (Lysevegen) 就可以到达半山腰的奇迹石全景餐厅 (13)。这里虽小，但是设施齐全，民宿、露营地等应用尽有。不想赶时间的话，这里是徒步奇迹石的理想营地。
+. 斯塔万格机场 (Stavanger Airport, SVG): 斯塔万格机场位于斯塔万格西南约 10 公里的索拉 (Sola) 自治区。
+
+. 海底隧道 (https://ferde.no/bomanlegg-og-priser/ryfast[Ryfast]): 收费的海底隧道系统 (Ryfylke Tunnel) 是前往布道石 (6) 最快捷的路线。
+
+. 布道石路 (Preikestolvegen): 前往布道石 (6) 的徒步起点 (5) 在这个路口 (Preikestolvegen/Ryfylkevegen) 向东转入布道石路。
+
+. 布道石大本营 (Preikestolen BaseCamp): 布道石 (6) 徒步路线的官方起点。附近有 P1 和 P2 两个停车场。
+
+. 布道石 (Preikestolen): 布道石 (Preikestolen) 是挪威“三大奇石”中最热门的一个。
+
+. 桑内斯 (Sandnes): 紧邻斯塔万格南边的小城。自驾前往劳维克 (8) 奇迹石 (15) 的时候途经这里。这里和斯塔万格之间也通火车，很方便。
+
+. 劳维克 (Lauvvik): 或者更接近挪威语发音的“莱于维克”，位于吕瑟峡湾入口，从斯塔万格乘车或者自驾可以到达这里。这里有轮渡跨海前往奥内斯 (9) 的码头。更重要的是，劳维克是前往奇迹石 (15) 附近的吕瑟博滕村 (13) 最核心的轮渡码头，无论是自驾还是存粹依靠公共交通，这里通常是最便捷的登船点。
+
+. 奥内斯 (Oanes): 吕瑟峡湾入口西侧的小镇，这里有连接劳维克 (8) 的轮渡。自驾的话，也可以从劳维克 (8) 乘汽车轮渡跨海先到奥内斯，然后前往布道石 (6)。
+
+. 吕瑟峡湾大桥 (Lysefjordbrua): 横跨吕瑟峡湾入口的大桥，自驾来往于吕瑟峡湾东西两侧十分方便，比如上午自驾去徒步布道石 (6)，之后跨过吕瑟峡湾大桥前往福桑 (11) 搭乘汽车渡轮前往奇迹石 (15) 附近的吕瑟博滕 (13) 都可以。
+
+. 福桑 (Forsand): 吕瑟峡湾入口东侧风景如画的小村子。前往峡湾尽头的吕瑟博滕 (13) 的轮渡经停这里，拥有完善的基础设施，高分的民宿和露营地。如果想亲近峡湾而不是城市，福桑是探索吕瑟峡湾，徒步布道石 (5) 和奇迹石 (15) 的最佳基地。
+
+. 奥尔戈尔 (Ålgård): 斯塔万格以南的小城。自驾从斯塔万格经 450 号公路绕行峡湾南侧的大山前往奇迹石 (15) 时经过这里。值得一提的是，挪威本土户外品牌 Norrøna 线下折扣店之一就在这里，还有很多其他品牌的运动和户外用品折扣店。我们就是在这里采购的户外装备。
+
+. 吕瑟博滕 (Lysebotn): 吕瑟峡湾东部尽头的小村子，可以从吕瑟峡湾入口的劳维克 (8) 或者福桑 (11) 乘轮渡前往, 也可以自驾从南边绕过峡湾南侧的大山到达。从这里沿着拥有 27 道发卡弯的吕瑟路 (Lysevegen) 就可以到达半山腰的奇迹石全景餐厅 (14)。这里虽小，但是设施齐全，民宿、露营地等应用尽有。不想赶时间的话，这里是徒步奇迹石的理想营地。
 
 . 奇迹石全景餐厅 (Kjerag Cafe & Restaurant): 奇迹石徒步官方起点，位于半山腰的绝壁之上，所以也被形象地叫做“鹰巢”。这里也是奇迹石停车场 (Kjerag Parkering) 的所在地。
 
-. 奇迹石 (Kjeragbolten): 奇迹石徒步的目的地。
+. 奇迹石 (Kjeragbolten):奇迹石 (Kjeragbolten) 是挪威“三大奇石”之一。
 
-. 弗洛尔利 (Flørli): 世界最长的木质阶梯的所在地，只能从吕瑟峡湾入口的劳维克 (7) 或者福桑 (10) 乘轮渡前往。
+. 弗洛尔利 (Flørli): 世界最长的木质阶梯的所在地，只能从吕瑟峡湾入口的劳维克 (8) 或者福桑 (11) 乘轮渡前往。
 
 [TIP]
 前往吕瑟峡湾的的公共交通极其有限，周六公共渡轮可能停航，周日公交车停运。如果依赖公共交通，一定要提前查询规划好时间。
@@ -85,4 +164,3 @@ image::https://assets.lilyroger.com/images/trips/2024/scandinavia/norway-lysefjo
 * 如果你的行程订的足够早，可以看看是否能订到 https://www.thebolder.no/[The Bolder] 这一家，俯瞰峡湾的小木屋。
 
 更多信息可以参考吕瑟峡湾的官方网站 https://lysefjorden365.com/[lysefjorden365.com]。
-
