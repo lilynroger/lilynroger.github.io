@@ -8,7 +8,6 @@ image:
     - srcset: https://assets.lilyroger.com/images/trips/2024/scandinavia/norway-lysefjord/pulpit-rock-preikestolen-lysefjord-norway-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/norway-lysefjord/pulpit-rock-preikestolen-lysefjord-norway-4x3-2400.avif 2400w
 
 map: true
-map_poi_source: norway-lysefjord-pois
 layout: article
 categories: posts
 date: 2024-05-31 17:00:00 +0200
@@ -47,80 +46,9 @@ description: 吕瑟峡湾 (Lysefjord) 是挪威“四大峡湾”中最南边的
 这里是我们整理的笔记，有助于快速认识吕瑟峡湾。下面的地图中标记出了吕瑟峡湾周围主要的兴趣点：
 
 ++++
-<div id="map" class="lr-map-container"></div>
-
-<script>
-(function() {
-    let map = null;
-
-    function initMap() {
-        const mapContainer = document.getElementById('map');
-        // Prevent double initialization if the event fires twice
-        if (!mapContainer || map) return; 
-
-        // Safely access deep nested JSON properties via Jekyll Liquid syntax
-        const poiList = {{ site.data.map.posts[page.map_poi_source] | jsonify }};
-        if (!poiList || poiList.length === 0) return;
-
-        // Automatically calculate optimal bounding center box to fit all pins cleanly
-        let bounds = new maplibregl.LngLatBounds();
-        poiList.forEach(poi => bounds.extend(poi.coords));
-
-        // Corrected API Namespace: maplibregl
-        map = new maplibregl.Map({
-            container: 'map',
-            style: 'https://tiles.openfreemap.org/styles/liberty',
-            bounds: bounds,
-            fitBoundsOptions: { 
-                padding: 60, // Safe pixel margins around your farthest pins (Stavanger Airport to Lysebotn)
-                maxZoom: 13 
-            }
-        });
-
-        // Loop and attach professional 'lr-' prefixed HTML DOM markers
-        poiList.forEach((poi, index) => {
-            const el = document.createElement('div');
-            el.className = 'lr-marker-container';
-            el.innerHTML = `
-                <div class="lr-marker-pin">
-                    <span class="lr-marker-label">${index + 1}</span>
-                </div>
-            `;
-
-            // 用内联样式再次加固文本颜色，防止被主题机制穿透
-            const popupContent = `
-                <div class="lr-popup-content p-1">
-                    <h5 class="fs-6 fw-bold mb-1" style="color: #212529 !important;">${poi.title}</h5>
-                    <p class="small mb-0" style="font-size: 12px; line-height: 1.4; color: #495057 !important;">${poi.description}</p>
-                </div>
-            `;
-
-            // 由于标志尺寸缩小到了 24px，弹窗向上平移的垂直 Offset 需同步微调为 -24px
-            const popup = new maplibregl.Popup({ 
-                offset: [0, -24], 
-                closeButton: true,
-                className: 'lr-custom-popup'
-            }).setHTML(popupContent);
-
-            // anchor: 'bottom' 确保水滴尖端死死钉在精确的坐标上，消除任何向东北方向的偏移
-            new maplibregl.Marker({ 
-                element: el, 
-                anchor: 'bottom' 
-            })
-            .setLngLat(poi.coords)
-            .setPopup(popup)
-            .addTo(map);
-        });
-    }
-
-    // 4. Fire immediately if DOM is ready, otherwise wait for standard DOMContentLoaded
-    if (document.readyState === "complete" || document.readyState === "interactive") {
-        initMap();
-    } else {
-        document.addEventListener("DOMContentLoaded", initMap);
-    }
-})();
-</script>
+{%
+include map.html source="norway-lysefjord-pois"
+%} 
 ++++
 
 . 斯塔万格 (Stavanger): 探索吕瑟峡湾最佳的基地。从斯塔万格出发，向北经过收费海底隧道系统 (3) 可以前往峡湾，特别是布道石 (6) 的徒步起点 (5)；向南同样可以去往峡湾，经陆路或者水陆结合前往奇迹石 (15) 的徒步起点 (14)，或前往弗洛尔利 (16)。
@@ -137,7 +65,7 @@ description: 吕瑟峡湾 (Lysefjord) 是挪威“四大峡湾”中最南边的
 
 . 桑内斯 (Sandnes): 紧邻斯塔万格南边的小城。自驾前往劳维克 (8) 奇迹石 (15) 的时候途经这里。这里和斯塔万格之间也通火车，很方便。
 
-. 劳维克 (Lauvvik): 或者更接近挪威语发音的“莱于维克”，位于吕瑟峡湾入口，从斯塔万格乘车或者自驾可以到达这里。这里有轮渡跨海前往奥内斯 (9) 的码头。更重要的是，劳维克是前往奇迹石 (15) 附近的吕瑟博滕村 (13) 最核心的轮渡码头，无论是自驾还是存粹依靠公共交通，这里通常是最便捷的登船点。
+. 劳维克 (Lauvvik): 或者更接近挪威语发音的“莱于维克”，位于吕瑟峡湾入口，从斯塔万格乘车或者自驾可以到达这里。这里有轮渡跨海前往奥内斯 (9) 的码头。更重要的是，劳维克是前往奇迹石 (15) 附近的吕瑟博滕村 (13) 最核心的轮渡码头，无论是自驾还是依靠公共交通，这里通常是最便捷的登船点。
 
 . 奥内斯 (Oanes): 吕瑟峡湾入口西侧的小镇，这里有连接劳维克 (8) 的轮渡。自驾的话，也可以从劳维克 (8) 乘汽车轮渡跨海先到奥内斯，然后前往布道石 (6)。
 
@@ -158,9 +86,9 @@ description: 吕瑟峡湾 (Lysefjord) 是挪威“四大峡湾”中最南边的
 [TIP]
 前往吕瑟峡湾的的公共交通极其有限，周六公共渡轮可能停航，周日公交车停运。如果依赖公共交通，一定要提前查询规划好时间。
 
-在我们的link:{url-scandinavia}[斯堪的纳维亚之旅]中，核心目标是峡湾徒步，而吕瑟峡湾是第一站。我们选择了斯塔万格是作为 7 天 6 晚的吕瑟峡湾行程的基地。如果想住在峡湾附近，福桑 (10) 是最理想的大本营。下面两处是我们曾经重点考虑的峡湾住宿选项:
+在我们的link:{url-scandinavia}[斯堪的纳维亚之旅]中，核心目标是峡湾徒步，而吕瑟峡湾是第一站。我们选择了斯塔万格是作为 7 天 6 晚的吕瑟峡湾行程的基地。如果想住在峡湾附近，福桑 (11) 是最理想的大本营。下面两处是我们曾经重点考虑的峡湾住宿选项:
 
-* 私家农场 https://lysefjorden.com/goysa-gard/[Gøysa Gard] 就在福桑 (10) 的极佳位置，坐拥峡湾和群山的美景。
-* 如果你的行程订的足够早，可以看看是否能订到 https://www.thebolder.no/[The Bolder] 这一家，俯瞰峡湾的小木屋。
+* 私家农场 https://lysefjorden.com/goysa-gard/[Gøysa Gard] 就在福桑 (11) 的极佳位置，坐拥峡湾和群山的美景。
+* 如果你的行程订得足够早，可以看看是否能订到 https://www.thebolder.no/[The Bolder] 这一家，俯瞰峡湾的小木屋。
 
 更多信息可以参考吕瑟峡湾的官方网站 https://lysefjorden365.com/[lysefjorden365.com]。

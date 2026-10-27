@@ -1,0 +1,77 @@
+<div id="map" class="lr-map-container"></div>
+
+<script>
+(function() {
+    let map = null;
+
+    function initMap() {
+        const mapContainer = document.getElementById('map');
+        // Prevent double initialization if the event fires twice
+        if (!mapContainer || map) return; 
+
+        // Safely access deep nested JSON properties via Jekyll Liquid syntax
+        const poiList = {{ site.data.map.posts[include.source] | jsonify }};
+        if (!poiList || poiList.length === 0) return;
+
+        // Automatically calculate optimal bounding center box to fit all pins cleanly
+        let bounds = new maplibregl.LngLatBounds();
+        poiList.forEach(poi => bounds.extend(poi.coords));
+
+        // Corrected API Namespace: maplibregl
+        map = new maplibregl.Map({
+            container: 'map',
+            style: 'https://tiles.openfreemap.org/styles/liberty',
+            bounds: bounds,
+            fitBoundsOptions: { 
+                padding: 40,
+                maxZoom: 13 
+            },
+            attributionControl: {
+                compact: false,
+                customAttribution: '© <a href="https://lilyroger.com" target="_blank">lilyroger.com</a>'
+            }
+        });
+
+        poiList.forEach((poi, index) => {
+            const el = document.createElement('div');
+            el.className = 'lr-marker-container';
+            el.innerHTML = `
+                <div class="lr-marker-pin">
+                    <span class="lr-marker-label">${index + 1}</span>
+                </div>
+            `;
+
+            // 用内联样式再次加固文本颜色，防止被主题机制穿透
+            const popupContent = `
+                <div class="lr-popup-content p-1">
+                    <h5 class="fs-6 fw-bold mb-1" style="color: #212529 !important;">${poi.title}</h5>
+                    <p class="small mb-0" style="font-size: 12px; line-height: 1.4; color: #495057 !important;">${poi.description}</p>
+                </div>
+            `;
+
+            // 由于标志尺寸缩小到了 24px，弹窗向上平移的垂直 Offset 需同步微调为 -24px
+            const popup = new maplibregl.Popup({ 
+                offset: [0, -24], 
+                closeButton: true,
+                className: 'lr-custom-popup'
+            }).setHTML(popupContent);
+
+            // anchor: 'bottom' 确保水滴尖端死死钉在精确的坐标上，消除任何向东北方向的偏移
+            new maplibregl.Marker({ 
+                element: el, 
+                anchor: 'bottom' 
+            })
+            .setLngLat(poi.coords)
+            .setPopup(popup)
+            .addTo(map);
+        });
+    }
+
+    // 4. Fire immediately if DOM is ready, otherwise wait for standard DOMContentLoaded
+    if (document.readyState === "complete" || document.readyState === "interactive") {
+        initMap();
+    } else {
+        document.addEventListener("DOMContentLoaded", initMap);
+    }
+})();
+</script>
