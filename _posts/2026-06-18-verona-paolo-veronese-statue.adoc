@@ -1,0 +1,42 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-paolo-veronese-statue/paolo-veronese-statue-verona-4x3-1200.avif
+  alt: 维罗纳的保罗·委罗内塞雕像。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-paolo-veronese-statue/paolo-veronese-statue-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-paolo-veronese-statue/paolo-veronese-statue-verona-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+map: true
+date: 2026-06-18 18:30:00 +0200
+last_modified_at: 2026-10-30 09:45:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 艺术, 委罗内塞]
+tagline: 小维罗纳的委罗内塞
+---
+= 维罗纳的保罗·委罗内塞 (Paolo Veronese) 雕像
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-paolo-veronese-statue/
+:link-santa-anastasia: link:{% post_url 2026-06-17-verona-basilica-santa-anastasia %}[圣安娜斯塔西亚教堂]
+
+在维罗纳，穿过石桥 (Ponte Pietra) 就到了阿迪杰河左岸的小维罗纳区 (Veronetta)。在河畔不远处有一座安静的小花园，其中竖立着文艺复兴时期“威尼斯画派三杰”之一**保罗·委罗内塞** (Paolo Veronese, 1528–1588) 的纪念雕像。
+
+委罗内塞原名**保罗·卡利亚里** (Paolo Caliari)。他出生于维罗纳，后来移居威尼斯。因为来自维罗纳，人们习惯叫他“维罗纳的保罗”或者干脆“那个维罗纳人”，在意大利语里“委罗内塞”的字面意思就是“维罗纳人”。最终，“委罗内塞”就成了他广为人知的名号，与**提香** (Titian) 和**丁托列托** (Tintoretto) 并称“文艺复兴威尼斯画派三杰”，以其宏大的宴席场景、华丽的色彩和戏剧性的建筑背景而闻名。
+
+这座委罗内塞雕像由维罗纳本土雕塑家**罗密欧·克里斯坦尼**（Romeo Cristani）制作，于 1888 年 6 月 3 日揭幕，旨在纪念委罗内塞逝世三百周年。最初，它安放在{link-santa-anastasia}前，在 1910 年移到了这个名为**贾里纳** (La Giarina) 的小花园中。这里属于小维罗纳区，正是委罗内塞出生的地方。
+
+.维罗纳的保罗·委罗内塞雕像。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-paolo-veronese-statue/paolo-veronese-statue-verona-3x4-900.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-paolo-veronese-statue/paolo-veronese-statue-verona-3x4-900.avif 900w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-paolo-veronese-statue/paolo-veronese-statue-verona-3x4-1800.avif 1800w"]
+
+这座委罗内塞雕像在众多维罗纳的景点中有点不起眼，对大多数游客而言，并不值得特意去打卡。不过，如果你像我们一样喜欢委罗内塞，正在彼得拉桥附近的阿迪杰河左岸漫步，可以多走几步路，顺路来看看。
+
+++++
+{%
+include map.html source="verona-paolo-veronese-statue-poi"
+%} 
+++++
+
