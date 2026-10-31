@@ -9,8 +9,9 @@ image:
 
 layout: article
 categories: posts
+map: true
 date: 2026-06-18 18:00:00 +0200
-last_modified_at: 2026-10-21 19:30:00 +0800
+last_modified_at: 2026-10-31 18:30:00 +0800
 tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 教堂, 艺术, 委罗内塞, 吉罗拉莫·戴·利布里, 弗朗西斯科·卡罗托, 保罗·法里纳蒂]
 tagline: 除了华丽的色彩，委罗内塞还有“银色祭坛画”。
 description: 在维罗纳的圣保罗教堂 (San Paolo in Campo Marzio) 中，珍藏着保罗·委罗内塞 (Paolo Veronese) 的《马罗尼亚祭坛画》 (Pala Marogna)，人们称之为“银色祭坛画”。
@@ -24,10 +25,16 @@ description: 在维罗纳的圣保罗教堂 (San Paolo in Campo Marzio) 中，�
 
 在维罗纳的**圣保罗教堂** (San Paolo in Campo Marzio) 中，仍然原址珍藏着文艺复兴“威尼斯画派三杰”之一，来自维罗纳的**保罗·委罗内塞** (Paolo Veronese) 创作的《马罗尼亚祭坛画》 (Pala Marogna)。这幅画在艺术史上被称为“银色祭坛画”，是委罗内塞成熟期的重要作品之一。
 
-圣保罗教堂坐落在维罗纳的维罗内塔区 (Veronetta) ，也就是**小维罗纳**，位于古城区以东，阿迪杰河 (Adige) 的左岸。教堂始建于公元 11-12 世纪，在 18 世纪改建成为新古典主义风格。虽然在二战中遭遇盟军轰炸而严重损毁，但是在战后依原貌被精心重建。
+圣保罗教堂坐落在维罗纳的维罗内塔区 (Veronetta) ，也就是**小维罗纳**，位于古城区以东，阿迪杰河 (Adige) 的左岸。
+
+++++
+{% include map.html source="italy-verona-chiesa-san-paolo-poi" %} 
+++++
+
+教堂始建于公元 11-12 世纪，在 18 世纪改建成为新古典主义风格。虽然在二战中遭遇盟军轰炸而严重损毁，但是在战后依原貌被精心重建。
 
 [TIP]
-教堂的全称 Chiesa di San Paolo in Campo Marzio 常被翻译成“战神广场圣保罗教堂”。其中“战神广场” (Campo Marzio) 是意大利历史中非常常见的一个地名，起源于古罗马时期。和罗马著名的战神广场一样，维罗纳圣保罗教堂的所在地过去也曾经是城外一片军队操练和集结的广场，因而得名。
+教堂的全称 Chiesa di San Paolo in Campo Marzio 常被翻译成“战神广场的圣保罗教堂”。其中“战神广场” (Campo Marzio) 是意大利历史中非常常见的一个地名，起源于古罗马时期。和罗马著名的战神广场一样，维罗纳圣保罗教堂的所在地过去也曾经是城外一片军队操练和集结的广场，因而得名。
 
 .维罗纳的圣保罗教堂 (San Paolo in Campo Marzio)。
 image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/chiesa-san-paolo-campo-marzio-verona-facade-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/chiesa-san-paolo-campo-marzio-verona-facade-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-chiesa-san-paolo-campo-marzio/chiesa-san-paolo-campo-marzio-verona-facade-4x3-2400.avif 2400w"]
