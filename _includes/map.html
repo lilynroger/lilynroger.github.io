@@ -1,3 +1,11 @@
+{% assign poi_count = site.data.map.posts[include.source] | size %}
+{% assign showLabel = false %}
+{% if poi_count > 1 or include.showLabel == true %}
+  {% assign showLabel = true %}
+{% elsif poi_count == 1 or include.showLabel == false %}
+  {% assign showLabel = false %}
+{% endif %}
+
 <div id="map" class="lr-map-container"></div>
 
 <script>
@@ -7,7 +15,7 @@
     function initMap() {
         const mapContainer = document.getElementById('map');
         // Prevent double initialization if the event fires twice
-        if (!mapContainer || map) return; 
+        if (!mapContainer || map) return;
 
         // Safely access deep nested JSON properties via Jekyll Liquid syntax
         const poiList = {{ site.data.map.posts[include.source] | jsonify }};
@@ -22,9 +30,9 @@
             container: 'map',
             style: 'https://tiles.openfreemap.org/styles/liberty',
             bounds: bounds,
-            fitBoundsOptions: { 
+            fitBoundsOptions: {
                 padding: 40,
-                maxZoom: 16 
+                maxZoom: 14
             },
             attributionControl: {
                 compact: false,
@@ -32,12 +40,13 @@
             }
         });
 
+        const showLabel = {{ showLabel }};
         poiList.forEach((poi, index) => {
             const el = document.createElement('div');
             el.className = 'lr-marker-container';
             el.innerHTML = `
                 <div class="lr-marker-pin">
-                    <span class="lr-marker-label">${index + 1}</span>
+                    ${showLabel ? `<span class="lr-marker-label">${index + 1}</span>` : ''}
                 </div>
             `;
 
@@ -50,16 +59,16 @@
             `;
 
             // 由于标志尺寸缩小到了 24px，弹窗向上平移的垂直 Offset 需同步微调为 -24px
-            const popup = new maplibregl.Popup({ 
-                offset: [0, -24], 
+            const popup = new maplibregl.Popup({
+                offset: [0, -24],
                 closeButton: true,
                 className: 'lr-custom-popup'
             }).setHTML(popupContent);
 
             // anchor: 'bottom' 确保水滴尖端死死钉在精确的坐标上，消除任何向东北方向的偏移
-            new maplibregl.Marker({ 
-                element: el, 
-                anchor: 'bottom' 
+            new maplibregl.Marker({
+                element: el,
+                anchor: 'bottom'
             })
             .setLngLat(poi.coords)
             .setPopup(popup)

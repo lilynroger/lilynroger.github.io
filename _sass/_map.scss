@@ -26,6 +26,16 @@ $lr-marker-text-color:    #ffffff;
     align-items: center;
     box-shadow: 0 0.2rem 0.4rem rgba(0, 0, 0, 0.2);
     transition: all 0.2s ease-in-out;
+
+    // add the inner circle when no label is present
+    &:not(:has(.lr-marker-label))::after {
+      content: '';
+      width: calc($lr-marker-size / 3);
+      height: calc($lr-marker-size / 3);
+      background-color: $lr-marker-text-color;
+      border-radius: 50%;
+      display: block;
+    }
   }
 
   .lr-marker-label {
