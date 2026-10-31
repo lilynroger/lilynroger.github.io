@@ -1,0 +1,102 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fisketorget-stavanger-4x3-1200.avif
+  alt: 挪威的斯塔万格渔市 (Fisketorget Stavanger) 集餐厅和海鲜零售柜台于一身。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fisketorget-stavanger-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fisketorget-stavanger-4x3-2400.avif 2400w
+
+map: true
+layout: article
+categories: posts
+date: 2024-06-01 08:00:00 +0200
+last_modified_at: 2026-10-31 11:30:00 +0800
+tags: [2024-Scandinavia, 欧洲, 北欧, 挪威, 斯塔万格, 美食, 海鲜]
+tagline: “愿鱼与你同在”
+---
+= 挪威最好的“海鲜市场”之一斯塔万格渔市 (Fisketorget Stavanger)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/
+:url-scandinavia: {% post_url 2024-05-27-scandinavia %}
+
+挪威海鲜举世闻名，而全挪威最著名的“海鲜市场”之一**斯塔万格渔市** (https://fisketorget-stavanger.no/en/frontpage/[Fisketorget Stavanger]) 就在斯塔万格港口中心。这里是集餐馆和海鲜零售柜台于一身的美食地标。试过斯塔万格渔市之后我们才知道，原来海虹（青口）可以这么好吃。
+
+[TIP]
+挪威另一处最著名、名气甚至更大的渔市是**卑尔根渔市** (Fisketorget i Bergen)。
+
+挪威语中的 _Fisketorget_ 一词由两部分组成。前半部分 _Fiske-_ 意思是“鱼”；而后半部分 _-torget_ 在整个斯堪的纳维亚的地名中都极其常见，意思就是“集市/广场”。合起来的字面意思就是“渔市”。
+
+斯塔万格渔市的招牌上 Fisketorget Restaurant & Sjømatutsalg 写的明白，它既有餐馆 (Restaurant)，也有海鲜零售柜台 (Sjømatutsalg)。餐馆在前；右后侧有一个小门进去则是海鲜零售柜台。
+
+在渔市餐馆中，我们推荐两道最具标志性的菜：煮海虹 (Steamed mussels) 和鱼汤 (Fish soup)。
+
+.斯塔万格渔市餐馆中海虹和鱼汤。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fisketorget-stavanger-food-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fisketorget-stavanger-food-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fisketorget-stavanger-food-4x3-2400.avif 2400w"]
+
+凭借地理和气候的优势，挪威拥有世界上最干净，风味最清甜的海虹。斯塔万格渔市的煮海虹加入了椰奶、泰式青咖喱和香菜，是必点菜之一。
+
+鱼汤是用新鲜的鱼、虾，加上牛奶、蔬菜、香葱和面包脆片煮成。因为“物美价廉”，同样也是必点菜之一。
+
+我们这几年去了几次挪威，见证了不停上涨的的海鲜价格，现在已经可以说贵得离谱了。斯塔万格渔市号称“最精致的海鲜市场”，餐馆里点菜价格毫不含糊。小份煮海虹的价格今年 (2026) 已经是 295 挪威克朗了（在 2024 年还是 239 挪威克朗）；小份鱼汤则（从 2024 年的 285 挪威克朗）涨到了 370 挪威克朗；而三道菜的晚餐是 1000 挪威克朗每人 (2026)。
+
+贵是贵，可来都来了，怎么能错过挪威的海鲜。省钱的办法是，从斯塔万格渔市的海鲜零售柜台买回住处，自己下厨。
+
+.斯塔万格渔市的海鲜零售柜台。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fisketorget-stavanger-sjomatutsalg-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fisketorget-stavanger-sjomatutsalg-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fisketorget-stavanger-sjomatutsalg-4x3-2400.avif 2400w"]
+
+我们非常喜欢挪威的海虹，但不太喜欢餐馆里加的椰奶。所以，在斯塔万格渔市的餐馆体验了一次之后，我们改从它的海鲜零售柜台每天买一公斤一袋的海虹，回民宿用清水煮着吃，比餐馆的还要好吃。现在每次想起挪威，除了峡湾和徒步，海虹就是我们回味最多的了。
+
+从斯塔万格渔市零售柜台买海虹，一公斤是 129 挪威克朗（在 2024 年时是 99 挪威克朗），虽然也不便宜，但比前面的餐馆实惠得太多了。
+
+[#visit]
+== 位置和营业时间
+
+斯塔万格渔市位于斯塔万格市中心的港湾心脏位置。
+
+++++
+{%
+include map.html source="norway-stavanger-fisketorget-poi"
+%} 
+++++
+
+其中餐馆的营业时间是：
+
+* 周一到周六：11:00 - 00:00 （厨房 22:00 收工）
+* 周日全天休息
+
+需要注意的是，海鲜零售柜台每天关门的时间要早的多，一定要赶早：
+
+* 周一到周五：10:00 - 17:00
+* 周六：09:00 - 15:00
+* 周日全天休息
+
+[#vocabulary]
+== 常用海鲜词汇
+
+这里附上挪威海鲜市场和餐馆中最常用的单词对照，分别是中文，英文和挪威语：
+
+* 海 · Sea · sjø
+* 食品 · Food · mat
+* 海鲜 · Seafood · sjømat
+* 鲜活 · Fresh · fersk
+* 熟的 · Cooked · kokt
+* **挪威鳌虾** · Langoustine · sjøkreps
+* **海虹** · Mussels · blåskjell
+* **三文鱼** · Salmon · laks
+* **北极鳕鱼** · Arctic cod · skrei
+* 鳕鱼 · Cod · torsk
+* 大比目鱼 · Halibut · kveite
+* 龙虾 · Lobster · hummer
+* 鲱鱼 · Herring · sild
+* 生蚝 · Oyster · østers
+* 海鳟鱼 · Sea trout · sjøørret
+* 大虾 · Prawns · reker
+
+最后，借用斯塔万格渔市门上的一句话：“愿鱼与你同在” (May The Fish Be With You)。
+
+.斯塔万格渔市门上的一句话：“愿鱼与你同在”。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fisketorget-stavanger-may-the-fish-be-with-you-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fisketorget-stavanger-may-the-fish-be-with-you-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fisketorget-stavanger-may-the-fish-be-with-you-4x3-2400.avif 2400w"]
