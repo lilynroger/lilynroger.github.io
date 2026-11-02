@@ -58,9 +58,7 @@ image::https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fi
 斯塔万格渔市位于斯塔万格市中心的港湾心脏位置。
 
 ++++
-{%
-include map.html source="norway-stavanger-fisketorget-poi"
-%} 
+{% include map.html source="norway-stavanger-fisketorget-poi" %} 
 ++++
 
 其中餐馆的营业时间是：
@@ -68,7 +66,7 @@ include map.html source="norway-stavanger-fisketorget-poi"
 * 周一到周六：11:00 - 00:00 （厨房 22:00 收工）
 * 周日全天休息
 
-需要注意的是，海鲜零售柜台每天关门的时间要早的多，一定要赶早：
+需要注意的是，海鲜零售柜台每天关门的时间要早得多，一定要赶早：
 
 * 周一到周五：10:00 - 17:00
 * 周六：09:00 - 15:00
