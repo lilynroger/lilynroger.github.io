@@ -1,0 +1,92 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/andrea-mantegna-san-zeno-altarpiece-verona-peter-paul-4x3-1200.avif
+  alt: 安德烈亚·曼特尼亚的《圣泽诺祭坛画》的局部曾经作为维罗纳城市卡的封面。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/andrea-mantegna-san-zeno-altarpiece-verona-peter-paul-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/andrea-mantegna-san-zeno-altarpiece-verona-peter-paul-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+map: true
+date: 2026-06-18 11:00:00 +0200
+last_modified_at: 2026-11-02 16:45:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 艺术, 文艺复兴, 安德烈亚·曼特尼亚]
+tagline: 维罗纳文艺复兴的开端
+description: 意大利北部文艺复兴奠基人安德烈亚·曼特尼亚 (Andrea Mantegna) 的《圣泽诺祭坛画》 (San Zeno Altarpiece) 是维罗纳必去景点之一的圣泽诺大教堂 (Basilica di San Zeno) 的镇馆之宝。
+---
+= 安德烈亚·曼特尼亚的《圣泽诺祭坛画》：维罗纳圣泽诺大教堂的镇馆之宝
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums!:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/
+:link-verona-card: link:{% post_url 2026-06-17-verona-card %}[维罗纳卡 (Verona Card)]
+:link-juliet-balcony: link:{% post_url 2026-06-18-verona-juliets-house-guide %}[朱丽叶的阳台]
+
+如果只能选择一件艺术品代表维罗纳，那可能就是珍藏在圣泽诺大教堂 (Basilica di San Zeno) 中，安德烈亚·曼特尼亚创作的《圣泽诺祭坛画》 (San Zeno Altarpiece, 1459)。
+
+安德烈亚·曼特尼亚 (Andrea Mantegna, c. 1431–1506) 是意大利文艺复兴早期的画家和版画家，帕多瓦画派的巅峰人物，同时也是狂热的古罗马考古学者。他被公认为是 15 世纪意大利北部文艺复兴的奠基人和第一巨匠。
+
+维罗纳的**圣泽诺大教堂** (Basilica di San Zeno) 是这座城市的主保圣人**圣泽诺**的长眠之地，也是中世纪罗曼式建筑在意大利北部最杰出的典范之一。曼特尼亚的《圣泽诺祭坛画》就珍藏在教堂圣坛区的高祭坛上，正是它最初安放的地方。
+
+.安德烈亚·曼特尼亚的《圣泽诺祭坛画》珍藏在维罗纳圣泽诺大教堂的圣坛区。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/basilica-san-zeno-verona-altarpiece-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/basilica-san-zeno-verona-altarpiece-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/basilica-san-zeno-verona-altarpiece-4x3-2400.avif 2400w"]
+
+在 15 世纪时，圣泽诺大教堂是本笃会圣泽诺大隐修院的附属大殿。在 1456–1457 年间，当时的大隐修院院长**格里高利·科雷尔** (Gregorio Correr) 委托曼特尼亚创作教堂的主祭坛画。
+
+在 1459 年，曼特尼亚在帕多瓦完成了创作，并随画作前往维罗纳，亲自在圣泽诺大教堂完成了交付和安装。它标志着维罗纳文艺复兴的正式开端。
+
+[TIP]
+安德烈亚·曼特尼亚完成《圣泽诺祭坛画》的几个月之后的 1460 年春天，就彻底告别了帕多瓦和维罗纳，前往曼托瓦出任宫廷画师，一干就是 46 年，直至去世。
+
+.安德烈亚·曼特尼亚的《圣泽诺祭坛画》的细节。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/andrea-mantegna-san-zeno-altarpiece-verona-detail-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/andrea-mantegna-san-zeno-altarpiece-verona-detail-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/andrea-mantegna-san-zeno-altarpiece-verona-detail-4x3-2400.avif 2400w"]
+
+在曼特尼亚的《圣泽诺祭坛画》中的人物分别是：
+
+* 圣母子在一群小天使的簇拥下端坐在宝座之上；
+
+* 画面左侧的四位圣人由外到内分别是手持天国钥匙的圣彼得，手扶长剑的圣保罗，低头注视着福音书的使徒圣约翰，和维罗纳的城市守护神圣泽诺；
+
+* 画面右侧的四位圣人由外到内分别是施洗者圣约翰，教宗圣格里高利一世，圣劳伦斯，和圣本笃。
+
+此外，祭坛画主画的下方，还有三个小长方形框，叫做底座画，描绘了耶稣受难的连环叙事场景。
+
+当时年仅 28 岁的曼特尼亚在这幅画中展现了“革命性的线性透视、空间错觉、对古罗马文化的痴迷和卓越的雕塑一般的绘画技法”：
+
+* 中世纪传统的哥特式多联祭坛画中，不同面板中的圣徒被框限在各自完全独立的空间中，背景多是扁平金色的。曼特尼亚在《圣泽诺祭坛画》中把把圣人和天使都放进了一个古典的建筑空间中。
+
+* 由曼特尼亚本人设计的金色木雕画框和立柱与画面中手绘的古典石柱创造出了非常逼真的三维错觉。
+
+* 由于这幅祭坛画放置在圣泽诺大教堂的高祭坛上，曼特尼亚将画面的视平线设定在略高于人物脚部的位置，运用了精准的线性仰角透视，虚构出了三维空间。这在当时的意大利北部，这绝对是划时代的开山之作。
+
+* 画面中充满了水果花环、铭文、柱式、纹章和浮雕等古罗马元素。特别是最右侧的施洗者圣约翰摆脱了中世纪的僵硬站姿，表现出 S 形的古典雕塑站姿。凭借深厚的考古学背景，曼特尼亚细致入微地再现了古典主义的审美。
+
+一个值得一提的细节是，曼特尼亚没有为圣母头顶画上常见的金色光环，而是复刻了圣泽诺大教堂在建筑史上被视为丰碑的“命运之轮”玫瑰花窗。
+
+.维罗纳圣泽诺大教堂 (Basilica di San Zeno) 的玫瑰花窗被称为“命运之轮”。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/basilica-san-zeno-verona-rosone-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/basilica-san-zeno-verona-rosone-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/basilica-san-zeno-verona-rosone-4x3-2400.avif 2400w"]
+
+曼特尼亚的《圣泽诺祭坛画》经历颇为传奇。在 1798 年拿破仑入侵时，它曾遭拆解劫掠到了法国。虽然主画最终归还，但下方的三幅底座画却被法国人扣留了。如今在圣泽诺大教堂祭坛上的三幅底座画都是复制品，只有去巴黎卢浮宫和图尔美术馆才能一睹原作真容。
+
+为什么法国人要强行留下那三幅底座画？复制品是不是看着丝毫不起眼？看看其中的一幅原作吧：
+
+.安德烈亚·曼特尼亚的《圣泽诺祭坛画》中的底座画之一《花园里的苦难》，现藏于法国图尔美术馆。图片：卢浮宫的曼特尼亚大展。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/andrea-mantegna-san-zeno-altarpiece-verona-predella-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/andrea-mantegna-san-zeno-altarpiece-verona-predella-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/andrea-mantegna-san-zeno-altarpiece-verona-predella-4x3-2400.avif 2400w"]
+
+这组底座画被公认为曼特尼亚早期写实主义与叙事技巧的最高巅峰。曼特尼亚在《圣泽诺祭坛画》主画中还需要克制的仪式感，但是在底座画上，他不受束缚地展现了最存粹的艺术追求和技艺。
+
+[#veronacard]
+== 后记
+
+我们一到维罗纳就买了纸质版的{link-verona-card}。从那一刻起，就在疑惑卡封面上的画是什么，收藏在哪。可是直到离开维罗纳，也没能找到答案。在整理这篇文章，仔细欣赏曼特尼亚的《圣泽诺祭坛画》时才发现，原来维罗纳卡的封面正是画中圣彼得和圣保罗的局部。
+
+.曾经的纸质维罗纳城市卡就是用安德烈亚·曼特尼亚的《圣泽诺祭坛画》的局部做的封面。
+image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/verona-card-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/verona-card-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-andrea-mantegna-san-zeno-altarpiece/verona-card-4x3-2400.avif 2400w"]
+
+[TIP]
+纸质版的维罗纳卡正逐步退出历史舞台。从 2026 年 9 月开始，维罗纳开始全面推进电子版的城市卡。在这些年不遗余力的推动下，维罗纳的顶流文化符号无疑是莎士比亚笔下的罗密欧和朱丽叶。新的维罗纳卡的封面正是{link-juliet-balcony}。
+
+
