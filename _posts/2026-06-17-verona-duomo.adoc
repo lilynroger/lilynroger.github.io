@@ -20,6 +20,7 @@ tagline: 探寻提香在维罗纳的唯一真迹《圣母升天》
 :toclevels: 2
 :sectnums:
 :imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-duomo/
+:link-wheel-fortune: link:{% post_url 2026-06-18-verona-basilica-san-zeno-rose-window-wheel-fortune %}[命运之轮玫瑰窗]
 
 这篇指南是维罗纳大教堂 (https://duomodiverona.mymuseum.it/en[Duomo di Verona]) 的深度游览攻略。带领您深入建筑群，欣赏提香在维罗纳的唯一真迹《圣母升天》，圣约翰洗礼堂的红大理石洗礼盆，圣海伦娜教堂的古罗马遗迹，中世纪的门廊，以及更多值得品味的看点。
 
@@ -58,7 +59,7 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-duomo/duo
 
 洗礼盆的外壁由中世纪维罗纳著名雕刻和建筑家**布里奥洛托** (Brioloto) 和他的作坊在 1220 年前后雕刻。共有八幅连续的叙事浮雕，刻画了基督降生到受洗的重大事件：天使报喜，圣母访亲与基督降生，天使向牧羊人报喜，三王来朝，希律王下令屠杀无辜婴儿，无辜婴儿的屠杀，逃亡埃及，基督受洗。其中进门后面对的第一面浮雕就是基督受洗。
 
-**布里奥洛托的命运之轮：** 布里奥洛托 (Brioloto de Balneo) 后来因为建造维罗纳**圣泽诺大教堂** (Basilica di San Zeno Maggiore) 被称为“命运之轮”的玫瑰花窗而一举成名。
+**布里奥洛托的命运之轮：** 布里奥洛托 (Brioloto de Balneo) 因为建造维罗纳**圣泽诺大教堂** (Basilica di San Zeno Maggiore) 的{link-wheel-fortune}而一举成名。
 
 .维罗纳大教堂 (Duomo di Verona) 的圣约翰洗礼堂 (Battistero di San Giovanni in Fonte)。
 image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-duomo/duomo-verona-baptismal-font-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2026/dolomites/verona-duomo/duomo-verona-baptismal-font-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-duomo/duomo-verona-baptismal-font-4x3-2400.avif 2400w"]

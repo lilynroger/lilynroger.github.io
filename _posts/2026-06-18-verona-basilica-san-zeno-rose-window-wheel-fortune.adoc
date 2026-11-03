@@ -1,0 +1,59 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-san-zeno-rose-window-wheel-fortune/wheel-fortune-rose-window-basilica-san-zeno-verona-4x3-1200.avif
+  alt: 意大利维罗纳 (Verona) 圣泽诺大教堂 (Basilica di San Zeno) 的命运之轮 (Wheel of Fortune) 玫瑰窗。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-san-zeno-rose-window-wheel-fortune/wheel-fortune-rose-window-basilica-san-zeno-verona-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-san-zeno-rose-window-wheel-fortune/wheel-fortune-rose-window-basilica-san-zeno-verona-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+map: true
+date: 2026-06-18 11:30:00 +0200
+last_modified_at: 2026-11-03 15:30:00 +0800
+tags: [2026-Dolomites, 欧洲, 南欧, 意大利, 维罗纳, 教堂, 罗曼式, 布里奥洛托·德·巴尔内奥]
+tagline: “我就是命运，独自掌控着凡人”
+description: 作为维罗纳必去景点之一的圣泽诺大教堂 (Basilica di San Zeno) 是罗曼式建筑在意大利北部最杰出的典范之一，正立面上的玫瑰窗被称为“命运之轮”，是中世纪建筑艺术的丰碑之作。
+---
+= 命运之轮：维罗纳圣泽诺大教堂 (Basilica di San Zeno) 的玫瑰窗
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2026/dolomites/verona-basilica-san-zeno-rose-window-wheel-fortune/
+:link-verona-red-ammonites: link:{% post_url 2026-06-17-verona-red-ammonites %}[维罗纳红大理石]
+:link-verona-duomo: link:{% post_url 2026-06-17-verona-duomo %}[维罗纳大教堂]
+
+维罗纳**圣泽诺大教堂** (Basilica di San Zeno) 是罗曼式建筑在意大利北部最杰出的典范之一。教堂正立面上的玫瑰窗被称为“命运之轮”，是世界上最早的玫瑰窗之一，展示了中世纪神学和哲学关于“命运无常”的主题，是这个题材在大教堂建筑中最成功的、也著名的丰碑之作。
+
+[TIP]
+你需要强大的变焦能力，才能拍到命运之轮的细节。我们的相机镜头拍不到玫瑰窗中心的铭文。
+
+远远望去，圣泽诺大教堂的玫瑰窗就像一个有着 12 根辐条的马车车轮。完全由{link-verona-red-ammonites}雕刻而成的 12 对立柱，将圆形的大理石窗分割成 12 朵“花瓣”。据说分别代表着一天中的 24 小时和一年中的 12 个月。
+
+在玫瑰窗灰色的最外圈上，嵌入了 6 个形态各异的高浮雕人物，刻画了一个人在转动的命运之轮上的不同境遇：
+
+* 在顶部的人物端坐在宝座上，处于人生巅峰，加冕为王；
+* 在两点钟的人物开始滑落，几乎赤裸，只有手臂上还搭着一块布；
+* 在四点钟的人物是头朝下直直跌落，一丝不挂；
+* 在六点钟的人物被厄运死死压在下面动弹不得；
+* 在八点钟的人物穿上了外衣正在起身；
+* 在十点中的人物还披起了斗篷，继续向上攀爬。
+
+在玫瑰窗中心白色的石质外环上，还刻有中世纪拉丁语的诗歌，大意是：
+
+[quote]
+看啊，我就是命运，独自掌控着凡人；让人得势，让人落魄；降祸福于所有人。
+
+[TIP]
+如果你有兴趣，这是拉丁文原文: +
+_EN EGO FORTVNA MODEROR MORTALIBVS VNA ELEVO DEPONO BONA CVNCTIS VEL M(A)LA DONO_ 
+
+像圣泽诺大教堂的命运之轮这种，带有辐射状分割的圆窗，也叫“车轮窗”。车轮窗可以追溯到古罗马建筑的圆形开孔（比如罗马万神殿顶部的圆孔）。圣泽诺大教堂的命运之轮是罗曼式车轮窗的巅峰，甚至已经有了花瓣形状的窗格，是向哥特式玫瑰花窗（比如巴黎圣母院）过渡的里程碑。
+
+圣泽诺大教堂的命运之轮玫瑰窗由 12 世纪末至 13 世纪初活跃在维罗纳的本土雕刻大师**布里奥洛托·德·巴尔内奥** (Brioloto de Balneo) 主持设计。布里奥洛托因为命运之轮而一举成名，在{link-verona-duomo}洗礼堂中著名的红大理石洗礼盆也是出自他之手。
+
+++++
+{% include map.html source="italy-verona-basilica-san-zeno-poi" %} 
+++++
