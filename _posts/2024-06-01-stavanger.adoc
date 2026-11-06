@@ -1,0 +1,172 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/stavanger-norway-harbor-4x3-1200.avif
+  alt: 挪威斯塔万格 (Stavanger) 市中心的湾区。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/stavanger-norway-harbor-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/stavanger-norway-harbor-4x3-2400.avif 2400w
+
+map: true
+layout: article
+categories: posts
+date: 2024-06-01 05:00:00 +0200
+last_modified_at: 2026-11-06 11:30:00 +0800
+tags: [2024-Scandinavia, 欧洲, 北欧, 挪威, 斯塔万格, 目的地]
+tagline: 布道石和奇迹石的门户
+---
+= 挪威斯塔万格攻略：最佳景点、交通和住宿（更新至 2026 年）
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/
+:url-scandinavia: {% post_url 2024-05-27-scandinavia %}
+:link-fisketorget: link:{% post_url 2024-06-01-fisketorget %}[斯塔万格渔市]
+:link-preikestolen-express-bus: https://gofjords.com/experiences/hiking/stavanger/preikestolen-express-bus-round-trip/[Preikestolen Express Bus]
+:link-lysevegen: https://lysefjorden365.com/lysevegen/[Lysevegen]
+:link-flybussen: https://www.flybussen.no/en[Flybussen]
+:link-gofjords: https://gofjords.com/[Go Fjords]
+:link-stavanger-parkering: https://stavanger-parkering.no/en/parkering/p-hus/[Stavanger Parkering]
+:alliance-radisson-blu-stavanger: https://t.ctrip.cn/sqhZ26I[Radisson Blu Atlantic Hotel, Stavanger]
+:alliance-staysville-kong-carls-gate: https://t.ctrip.cn/xzSpXvA[Staysville - Kong Carls Gate]
+:alliance-lysefjorden-gøysa-gard: https://t.ctrip.cn/rG4LPhs[Lysefjorden - Gøysa Gard]
+:alliance-lysefjorden-gøysa-gard: https://t.ctrip.cn/rG4LPhs[Lysefjorden - Gøysa Gard]
+
+**斯塔万格** (Stavanger) 是挪威的第四大城市，西海岸的枢纽之一，同时还是石油之都。这里不但拥有历史悠久的老城和多彩的步行街，更是前往挪威四大峡湾之一**吕瑟峡湾** (Lysefjord) 的门户，是挑战挪威三大奇石中**布道石** (Preikestolen/Pulpit Rock) 和**奇迹石** (Kjeragbolten) 的理想大本营。
+
+toc::[]
+
+[#when-to-visit-stavanger]
+== 前往斯塔万格的最佳时间
+
+公认的前往斯塔万格的最佳时间是夏季的六月到八月，而我们认为这期间最好的是六月。
+
+实际上，当地交通方面有两个可能影响你的行程的因素：
+
+* 每年的四月到九月间，斯塔万格和布道石之间是有摆渡大巴 ({link-preikestolen-express-bus}) 运营的。四五月只有周末才有；六月每天两班；七八月则每天四班。虽然自驾是推荐的方式，不过可以从摆渡大巴的运营安排上了解到游客数量的大体变化。
+
+* 自驾前往奇迹石的最后一段路叫**吕瑟路** ({link-lysevegen})，也就是拥有著名的 27 道发卡弯的那条路。这条公路是季节性的，只在五月底雪完全化了之后才开放，而在九月初雪后就会关闭。
+
+六月份拥有最长的日照时间，旅游设施都已经开放了，布道石上还没有到熙熙攘攘的程度，奇迹石前的队伍也不太长，是前往斯塔万格，徒步布道石和奇迹石的最佳时间。
+
+[#getting-to-stavanger]
+== 如何前往斯塔万格
+
+斯塔万格机场是挪威第二大国际机场，从奥斯陆或者欧洲其他枢纽城市乘飞机前往斯塔万格都非常方便。我们就是从斯德哥尔摩经奥斯陆飞到斯塔万格的。
+
+如果喜欢坐火车，奥斯陆和斯塔万格之间也有火车，就是时间长了点，八个小时。
+
+[#airport-transport]
+== 斯塔万格机场到市区
+
+在斯塔万格机场和市区间最方便且经济的交通方式是乘坐 https://www.flybussen.no/en[Flybussen] 的 FB40 路机场大巴，每 20 分钟一班，行程大约 25 分钟。购票时选择的出发和到达站是**斯塔万格机场** (Stavanger lufthavn) 和**巴士总站** (Stavanger bussterminal)。单程票价 179 挪威克朗.
+
+斯塔万格机场非常小，租车的话就在机场大厅车行对面的停车场取车和还车，相当方便。注意：斯塔万格市中心也很小，旅馆多半没有停车场，最好提前规划好在市区靠近旅馆的公共停车场的自驾路线，免得开着车乱转。机场到市中心自驾只有约 14 公里的路程，需要 15 分钟左右。
+
+[#getting-around-stavanger]
+== 斯塔万格交通
+
+斯塔万格市中心非常紧凑，游客的去处基本上都在步行距离之内，市区的公共交通也很方便。去往吕瑟峡湾的公共交通就比较麻烦了。虽然坐公交车和轮渡基本上哪里都可以到，但是都非常有限，尤其是星期天完全没有公共交通了。对于布道石和奇迹石徒步，公共交通理论上虽然是可以的，但行程规划不易。
+
+如果确实不想自驾，有一个选项就是乘坐由 https://gofjords.com/[Go Fjords] 运营, 从市中心到布道石和奇迹石徒步起点的往返直达摆渡大巴。缺点是必须提前预订。如果不想顶着风雨徒步的话，只能提前一两天紧盯着天气预报，随时抢订。
+
+[TIP]
+天气预报推荐下载挪威的 https://www.yr.no/en[Yr.no] 手机应用，实测这个相对更可靠。
+
+综合公共交通和天气等因素，自驾是布道石和奇迹石徒步的最佳选项。挪威租车无论是取车还是还车都非常地简单，分分钟搞定。
+
+**注意：**斯塔万格市区内酒店基本上都没有自己的停车场。停车只能是公共停车场，费用不菲。参考斯塔万格市政停车公司 ({link-stavanger-parkering}) 的官网信息，我们停在丽笙酒店和中央车站附近的 P-St. Olav 地下车库。根据更新的价目表，每日停车费封顶 310 挪威克朗。
+
+[#accommodation]
+== 斯塔万格住宿
+
+斯塔万格是我们挪威峡湾徒步的第一站。我们选择住在了斯塔万格城里，这样天公作美随时出发去峡湾，阴雨天也可以在城里逛逛，吃吃喝喝，不至于无事可做。由于预订的原因，我们先是在酒店里住了 2 晚，然后搬到了一间公寓式旅馆住了 4 晚。
+
+* {alliance-radisson-blu-stavanger}: 丽笙
+* {alliance-staysville-kong-carls-gate}: 公寓
+
+丽笙坐拥市中心最佳的位置，面对着城市公园，距离火车站、巴士总站、港口、老城、步行街都在几百米范围之内。设施不错，有健身房和桑拿室，自助早餐属于平均水平。丽笙没有自己的停车场。最近的公共停车场是其背后的圣奥拉夫地下停车场 (P-St.Olav, Stavanger)。
+
+去往布道石和奇迹石的直达大巴就在丽笙前门停车，非常方便。
+
+我们随后住的公寓是一家公寓式的旅馆，在一个安静的社区中，距离丽笙也就 800 米，即使步行去市中心各处也还是比较方便的。公寓中电器和厨房设施一应俱全。自驾的话是社区内路边停车，每天停车费 250 挪威克朗。
+
+.斯塔万格的 Kong Carls Gate 街区。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/staysville-kong-carls-gate-stavanger-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/staysville-kong-carls-gate-stavanger-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/staysville-kong-carls-gate-stavanger-4x3-2400.avif 2400w"]
+
+我们推荐在斯塔万格租住这种有厨房的公寓或者旅馆。挪威最有名的海鲜市场之一{link-fisketorget}就在码头上。那里有海鲜零售柜台，强烈推荐买些海虹回公寓自己下厨煮了吃。
+
+我们在计划行程时，还曾经考虑过住进峡湾里。下面两处是我们曾经重点考虑的峡湾住宿选项：
+
+* {alliance-lysefjorden-gøysa-gard}: 私家农场，吕瑟峡湾入口，坐拥峡湾和群山的美景。
+* https://www.thebolder.no/[The Bolder]: 如果你的行程订的足够早，可以试试能不能抢到，俯瞰峡湾的悬崖木屋。
+
+[#attractions]
+== 斯塔万格最佳景点
+
+斯塔万格市区主要的去处有个半天基本上就够了（而且六月的挪威几乎没有黑夜了）。这里罗列一些我们觉得市区和附近值得一去的地方：
+
+* Vågen i Stavanger: 斯塔万格湾区
+* Gamle Stavanger: 斯塔万格老城
+* Øvre Holmegate: 多彩步行街
+* Fisketorget Stavanger: 最有名的海鲜市场和餐馆之一
+* Sverd i fjell: 石中剑，也称三剑纪念碑
+* Ålgård: 户外装备奥特莱斯
+
+[#vagen-i-stavanger]
+=== 斯塔万格湾区
+
+斯塔万格的湾区 (Vågen) 指的是位于市中心小海湾东西两侧的码头区域，包括 Strandkaien 和 Skagenkaien 两条大街。这里是斯塔万格的心脏，拥有成排的18 世纪彩色木屋，餐馆和酒吧林立，不可能错过这里。
+
+.斯塔万格的湾区 (Vågen)。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/vagen-stavanger-skagenkaien-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/vagen-stavanger-skagenkaien-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/vagen-stavanger-skagenkaien-4x3-2400.avif 2400w"]
+
+[#gamle-stavanger]
+=== 斯塔万格老城
+
+斯塔万格老城 (Gamle Stavanger) 位于湾区的西侧，这里有 173 座保存完好、建于 18 到 19 世纪的木屋，绝大部分都是白色的。斯塔万格老城是北欧保存最完好的木屋建筑群。在一个晴朗的夏日，花上一小时漫步老城，拍一些不错的照片还是非常值得的。
+
+.斯塔万格老城 (Gamle Stavanger)。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/gamle-stavanger-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/gamle-stavanger-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/gamle-stavanger-4x3-2400.avif 2400w"]
+
+[#fargegaten]
+=== 多彩步行街
+
+在斯塔万格湾区的东侧有一条叫做 Øvre Holmegate 的街道，本地人管它叫“多彩街” (Fargegaten)。过去这里只是一个僻静而无聊的街道，一个理发师 Tom Kjørsvik 突发奇想，提出改造这条老街的点子。艺术家 Craig Flannagan 提供了色彩的设计。经过数年的努力，想法成为现实。这里已经是斯塔万格最主要的景点之一，五颜六色，鳞次栉比的各种店铺，是斯塔万格最出片的地方。
+
+.斯塔万格的多彩步行街 (Fargegaten)。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/fargegaten-stavanger-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/fargegaten-stavanger-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/fargegaten-stavanger-4x3-2400.avif 2400w"]
+
+[#fisketorget]
+=== 斯塔万格渔市
+
+挪威的海鲜举世闻名，而挪威最有名的海鲜市场之一渔市 (Fisketorget) 就在斯塔万格湾区的中心。
+
+++++
+{% related slugs="fisketorget" %}
+++++
+
+[#sverd-i-fjell]
+=== 石中剑
+
+三把高达十米的巨型青铜剑直插于海边的岩石之中，被称为“石中剑” (Sverd i fjell)，中文中也常被叫做“三剑纪念碑”。石中剑是为了纪念发生这里的**哈夫斯峡湾** (Hafrsfjord) 战役而建造的。在这场战役中，传奇的维京英雄**金发王哈拉尔** (Harald Fairhair) 击败其他王国，从而第一次统一了挪威。纪念碑是由雕塑家 Fritz Røed 设计建造，并在 1983 年由当时的国王奥拉夫五世 (King Olav) 亲自揭幕。
+
+.斯塔万格的石中剑 (Sverd i fjell)。
+image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/sverd-i-fjell-stavanger-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/sverd-i-fjell-stavanger-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/sverd-i-fjell-stavanger-4x3-2400.avif 2400w"]
+
+只是为了石中剑，可能不太值得抽出时间离开市中心。但是这里峡湾沿岸的步道和公园风景秀丽，是我们在斯塔万格最喜欢的地方。在布道石徒步的隔天，我们来到这里悠闲地度过了三个小时的时间。尤其不要错过**霍哈马伦桥** (Håhammaren Bro) 那里，一座极具设计感的步道桥。
+
+[#outlet]
+=== 奥特莱斯
+
+斯塔万格往南半小时车程，有一个叫奥尔戈尔 (Ålgård) 的小镇，这里有**挪威奥特莱斯斯塔万格店** (Norwegian Outlet Stavanger)，挪威最大的室内奥特莱斯。很多知名的户外运动品牌在这里都有折扣店，特别是挪威本土品牌 Norrøna、Helly Hansen、Devold、Bergans、Kari Traa 等等。自驾前往奇迹石徒步的路线也会经过这里，是采购户外装备的天堂。
+
+[#final-thought]
+== 后记
+
+斯塔万格、卑尔根和奥勒松同为峡湾挪威西海岸的主要城市，从游客角度来看如何比较呢？
+
+在我们看来，卑尔根有着作为世界遗产的码头和名气最大的渔市；奥勒松有着童话一般的绝美建筑。两座城市本身就是旅行目的地，都值得花上一两天探索和细细品味。
+
+斯塔万格城市本身并没有太多的亮点，对游客而言，可能更多地是把斯塔万格作为探索吕瑟峡湾、徒步布道石和奇迹石的大本营。甚至，也可以只把斯塔万格当作进出吕瑟峡湾的门户，顺路花上两三个小时逛逛，或许吃上一顿海鲜就可以了。把基地设在吕瑟峡湾周边的小村子，可以近距离地体验峡湾，更好地安排徒步的行程。
