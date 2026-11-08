@@ -161,13 +161,14 @@ image::https://assets.lilyroger.com/images/trips/2024/scandinavia/stavanger/sver
 
 只是为了石中剑，可能不太值得抽出时间离开市中心。但是这里峡湾沿岸的步道和公园风景秀丽，是我们在斯塔万格最喜欢的地方。在布道石徒步的隔天，我们来到这里悠闲地度过了三个小时的时间。尤其不要错过**霍哈马伦桥** (Håhammaren Bro) 那里，一座极具设计感的步道桥。
 
-[#outlet]
-=== 奥特莱斯
-
-斯塔万格往南半小时车程，有一个叫奥尔戈尔 (Ålgård) 的小镇，这里有**挪威奥特莱斯斯塔万格店** (Norwegian Outlet Stavanger)，挪威最大的室内奥特莱斯。很多知名的户外运动品牌在这里都有折扣店，特别是挪威本土品牌 Norrøna、Helly Hansen、Devold、Bergans、Kari Traa 等等。自驾前往奇迹石徒步的路线也会经过这里，是采购户外装备的天堂。
-
 [#final-thought]
 == 后记
+
+附上斯塔万格极其周边兴趣点的交互式地图：
+
+++++
+{% include map-pois.html id="map-stavanger-pois" source="norway-stavanger-pois" %}
+++++
 
 斯塔万格、卑尔根和奥勒松同为峡湾挪威西海岸的主要城市，从游客角度来看如何比较呢？
 

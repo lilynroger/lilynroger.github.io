@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "title": "斯塔万格湾区",
+        "description": "斯塔万格湾区 (Vågen) 是市中心小海湾两侧的码头区域，是斯塔万格的心脏地带。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7287817,
+          58.9723799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "title": "斯塔万格老城",
+        "description": "斯塔万格老城  (Gamle Stavanger) 拥有 173 座保存完好的 18 至 19 世纪白色木屋。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7254859,
+          58.9724101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "title": "多彩步行街",
+        "description": "多彩步行街指的是斯塔万格湾区东侧的 Øvre Holmegate 街，当地称“多彩街” (Fargegaten)。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7335175,
+          58.9727164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "title": "斯塔万格渔市",
+        "description": "斯塔万格渔市 (Fisketorget) 是集餐厅和海鲜门店于一身的知名海鲜市场。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7306016,
+          58.9703903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "title": "石中剑",
+        "description": "石中剑 (Sverd i fjell) 又称三剑纪念碑，为纪念第一次统一挪威的著名战役而建。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6718992,
+          58.9413693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "title": "斯塔万格机场",
+        "description": "斯塔万格机场 (Stavanger Airport, Sola) 位于市区西南方向的索拉 (Sola)。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6373,
+          58.8767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "title": "丽笙蓝光亚特兰大酒店",
+        "description": "Radisson Blu Atlantic Hotel。我们在斯塔万格住过 2 晚的酒店。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7304948,
+          58.968088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "title": "Staysville - Kong Carls Gate",
+        "description": "我们在斯塔万格住过 4 晚的公寓式旅馆，位于 Kong Carls gate 一带，距丽笙约 800 米。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7280511,
+          58.9619577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "title": "Håhammaren Bro",
+        "description": "哈夫斯峡湾 (Hafrsfjord) 海岸步道上的桥，也是欣赏海湾和峡湾景色的好去处。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6476081,
+          58.9321542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "title": "Gøysa Gard",
+        "description": "位于福桑 (Forsand) 的私家农场住宿，可欣赏吕瑟峡湾和群山景色。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0979566,
+          58.9003299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "title": "The Bolder",
+        "description": "位于吕瑟峡湾旁的悬崖木屋。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1073792,
+          58.9483366
+        ]
+      }
+    }
+  ]
+}
