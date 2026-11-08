@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "保罗·委罗内塞的雕像",
+        "description": "位于维罗纳阿迪杰河左岸的贾里纳 (La Giarina) 小花园中。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.00219,
+          45.44594
+        ]
+      },
+      "id": 1
+    }
+  ]
+}

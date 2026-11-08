@@ -1,0 +1,97 @@
+{% comment %}
+参数:
+- source (必填): _data/map/ 下的 GeoJSON 文件名, 不含 .json 后缀.
+- id (可选): 地图容器 ID, 默认为 "map". 同一页面有多张地图时应指定不同 ID.
+- showLabels (可选): 设为 true 时显示 POI 编号标签; 省略或设为 false 时不显示.
+- POI properties.variant (可选): primary 或 secondary; 缺省为 primary.
+
+示例:
+{% include map-pois.html source="norway-major-cities-stavanger-focus-pois" id="norway-map" showLabels="true" %}
+{% endcomment %}
+{% assign map_id = include.id | default: "map" %}
+<div id="{{ map_id }}" class="lr-map-container"></div>
+
+<script>
+(function() {
+    // 将 Liquid include 参数序列化为 JavaScript 值。
+    const mapId = {{ map_id | jsonify }};
+    const poiData = {{ site.data.map[include.source] | jsonify }};
+    {% if include.showLabels == true or include.showLabels == 'true' %}
+    const showLabels = true;
+    {% else %}
+    const showLabels = false;
+    {% endif %}
+
+    if (!poiData || poiData.type !== 'FeatureCollection' || poiData.features.length === 0) {
+        console.error('Map source must be a non-empty GeoJSON FeatureCollection.');
+        return;
+    }
+
+    // 根据所有 POI 坐标确定初始视野。
+    const bounds = new maplibregl.LngLatBounds();
+    poiData.features.forEach(feature => bounds.extend(feature.geometry.coordinates));
+
+    // 按容器宽度计算留白，并限制范围，避免小屏太挤或大屏缩放过度。
+    const container = document.getElementById(mapId);
+    const fitBoundsPadding = Math.min(80, Math.max(40, container.clientWidth * 0.08));
+    const map = new maplibregl.Map({
+        container: container,
+        style: 'https://tiles.openfreemap.org/styles/liberty',
+        bounds: bounds,
+        fitBoundsOptions: {
+            padding: fitBoundsPadding,
+            maxZoom: 14
+        },
+        attributionControl: {
+            compact: true,
+            customAttribution: '© <a href="https://lilyroger.com" target="_blank">lilyroger.com</a>'
+        }
+    });
+
+    map.addControl(new maplibregl.NavigationControl(), 'top-right');
+
+    poiData.features.forEach((feature, index) => {
+        // 未指定样式或值无效时回退到 primary。
+        const properties = feature.properties;
+        const validVariants = ['primary', 'secondary'];
+        const variant = validVariants.includes(properties.variant)
+            ? properties.variant
+            : 'primary';
+        if (properties.variant && variant !== properties.variant) {
+            console.error(`Invalid marker variant for POI: ${properties.title}`);
+        }
+
+        // 用原生按钮支持键盘操作，并为屏幕阅读器提供地点名称。
+        const markerElement = document.createElement('button');
+        markerElement.type = 'button';
+        markerElement.className = `lr-map-marker lr-map-marker-${variant}`;
+        markerElement.setAttribute('aria-label', properties.title);
+        if (showLabels) {
+            const label = document.createElement('span');
+            label.className = 'lr-map-marker-label';
+            label.textContent = String(index + 1);
+            markerElement.append(label);
+        }
+
+        // 使用 textContent，避免把 GeoJSON 文本当作 HTML 解析。
+        const popupContent = document.createElement('div');
+        popupContent.className = 'lr-map-popup-content';
+        const title = document.createElement('div');
+        title.className = 'lr-map-popup-title';
+        title.textContent = properties.title;
+        const description = document.createElement('p');
+        description.className = 'lr-map-popup-description';
+        description.textContent = properties.description;
+        popupContent.append(title, description);
+
+        new maplibregl.Marker({ element: markerElement, anchor: 'bottom' })
+            .setLngLat(feature.geometry.coordinates)
+            .setPopup(new maplibregl.Popup({
+                offset: [0, -24],
+                closeButton: true,
+                className: 'lr-map-popup'
+            }).setDOMContent(popupContent))
+            .addTo(map);
+    });
+})();
+</script>

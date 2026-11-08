@@ -28,7 +28,7 @@ description: 在维罗纳的圣保罗教堂 (San Paolo in Campo Marzio) 中，�
 圣保罗教堂坐落在维罗纳的维罗内塔区 (Veronetta) ，也就是**小维罗纳**，位于古城区以东，阿迪杰河 (Adige) 的左岸。
 
 ++++
-{% include map.html source="italy-verona-chiesa-san-paolo-poi" %} 
+{% include map-pois.html source="italy-verona-chiesa-san-paolo-poi" %}
 ++++
 
 教堂始建于公元 11-12 世纪，在 18 世纪改建成为新古典主义风格。虽然在二战中遭遇盟军轰炸而严重损毁，但是在战后依原貌被精心重建。

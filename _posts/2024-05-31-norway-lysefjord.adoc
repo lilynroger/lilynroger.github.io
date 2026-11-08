@@ -47,7 +47,7 @@ description: 吕瑟峡湾 (Lysefjord) 是挪威“四大峡湾”中最南边的
 
 ++++
 {%
-include map.html source="norway-lysefjord-pois"
+include map-pois.html source="norway-lysefjord-pois" showLabels="true"
 %} 
 ++++
 

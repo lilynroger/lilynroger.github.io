@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1,
+                "title": "奥斯陆 (Oslo)",
+                "description": "挪威首都。",
+                "variant": "secondary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7522,
+                    59.9139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "title": "斯塔万格 (Stavanger)",
+                "description": "探索吕瑟峡湾、布道石和奇迹石的理想大本营。"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7331,
+                    58.9699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 3,
+                "title": "卑尔根 (Bergen)",
+                "description": "挪威西海岸的历史名城，也是峡湾之旅的重要门户。",
+                "variant": "secondary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3221,
+                    60.39299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 4,
+                "title": "奥勒松 (Ålesund)",
+                "description": "挪威西海岸以新艺术风格建筑闻名的城市。",
+                "variant": "secondary"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1549,
+                    62.4722
+                ]
+            }
+        }
+    ]
+}

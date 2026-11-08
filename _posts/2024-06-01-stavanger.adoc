@@ -35,6 +35,10 @@ tagline: 布道石和奇迹石的门户
 
 **斯塔万格** (Stavanger) 是挪威的第四大城市，西海岸的枢纽之一，同时还是石油之都。这里不但拥有历史悠久的老城和多彩的步行街，更是前往挪威四大峡湾之一**吕瑟峡湾** (Lysefjord) 的门户，是挑战挪威三大奇石中**布道石** (Preikestolen/Pulpit Rock) 和**奇迹石** (Kjeragbolten) 的理想大本营。
 
+++++
+{% include map-pois.html source="norway-major-cities-stavanger-focus-pois" %}
+++++
+
 toc::[]
 
 [#when-to-visit-stavanger]

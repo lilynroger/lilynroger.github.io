@@ -58,7 +58,7 @@ image::https://assets.lilyroger.com/images/trips/2024/scandinavia/fisketorget/fi
 斯塔万格渔市位于斯塔万格市中心的港湾心脏位置。
 
 ++++
-{% include map.html source="norway-stavanger-fisketorget-poi" %} 
+{% include map-pois.html source="norway-stavanger-fisketorget-poi" %}
 ++++
 
 其中餐馆的营业时间是：

@@ -55,5 +55,5 @@ _EN EGO FORTVNA MODEROR MORTALIBVS VNA ELEVO DEPONO BONA CVNCTIS VEL M(A)LA DONO
 圣泽诺大教堂的命运之轮玫瑰窗由 12 世纪末至 13 世纪初活跃在维罗纳的本土雕刻大师**布里奥洛托·德·巴尔内奥** (Brioloto de Balneo) 主持设计。布里奥洛托因为命运之轮而一举成名，在{link-verona-duomo}洗礼堂中著名的红大理石洗礼盆也是出自他之手。
 
 ++++
-{% include map.html source="italy-verona-basilica-san-zeno-poi" %} 
+{% include map-pois.html source="italy-verona-basilica-di-san-zeno-poi" %}
 ++++

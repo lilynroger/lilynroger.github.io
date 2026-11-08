@@ -36,7 +36,6 @@ image::https://assets.lilyroger.com/images/trips/2026/dolomites/verona-paolo-ver
 
 ++++
 {%
-include map.html source="verona-paolo-veronese-statue-poi"
+include map-pois.html source="verona-paolo-veronese-statue-poi"
 %} 
 ++++
-
