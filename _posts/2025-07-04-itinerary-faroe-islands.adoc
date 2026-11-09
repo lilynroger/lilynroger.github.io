@@ -1,7 +1,7 @@
 = 法罗群岛游记 - 罗弗敦群岛和法罗群岛之旅行程 (上)
 :page-subtitle: Lofoten Islands and Faroe Islands Itinerary Part 1 - Faroe Islands
 :page-image: /assets/images/2025/lofoten-faroe/itinerary-faroe-islands/mikladalur.webp
-:page-last_modified_at: 2025-09-21 18:00:00 +0800
+:page-last_modified_at: 2026-11-09 23:30:00 +0800
 :page-date: 2025-07-04 12:00:00 +0100
 :page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦群岛, 丹麦, 法罗群岛, 运动, 徒步, 行程]
 :page-categories: posts
@@ -10,6 +10,7 @@
 :toc:
 :toclevels: 1
 :sectnums:
+:url-itinerary-lofoten-faroe: {% post_url 2025-06-07-itinerary-lofoten-faroe %}
 :url-itinerary-lofoten: {% post_url 2025-07-16-itinerary-lofoten %}
 :url-gasadalur-apartments: https://www.booking.com/hotel/fo/gasadalur-apartments-world-famous-waterfall.html
 :url-scandic-palace: https://www.booking.com/hotel/dk/scandic-palace.html
@@ -18,90 +19,12 @@
 :url-old-town-and-tinganes-of-torshavn: {% post_url 2025-07-03-old-town-and-tinganes-of-torshavn %}
 :url-fly-to-lofoten-from-faroe-islands: {% post_url 2025-07-04-fly-to-lofoten-from-faroe-islands %}
 
-挪威的罗弗敦群岛拥有山峰, 峡湾, 岛屿和沙滩, 吸引着来自世界各地的徒步, 登山, 冲浪和皮划艇爱好者来到这座户外运动的天堂. 而丹麦的法罗群岛作为北大西洋上最后的的秘境, 世界的边缘, 同样拥有峡湾, 悬崖, 海蚀柱, 童话般的草顶村落, 此外还有蠢萌的海鹦. 我们在这个十八天的旅行中, 一次完成两个人生目标.
+这是我们十八天的罗弗敦群岛 (The Lofoten Islands) 和法罗群岛 (The Faroe Islands) 之旅行程的上篇，包含了在丹麦哥本哈根和法罗群岛的每日行程。
 
-这一篇游记是上篇, 包含了整个行程的住宿, 航班和租车的汇总信息, 以及在丹麦的哥本哈根和法罗群岛的 D1 - D8 的每日行程. 在挪威的罗弗敦群岛和奥斯陆的的行程记录在游记的下篇: link:{url-itinerary-lofoten}[罗弗敦群岛和法罗群岛之旅行程 (下) - 罗弗敦群岛].
+整个行程的住宿、航班和租车的汇总信息，以及在挪威罗弗敦群岛和奥斯陆的每日行程，分别记录在游记的序篇和下篇中：
 
-[#stays]
-== 住宿
-
-罗弗敦群岛是我们此行的主要目的地, 然后是法罗群岛. 我们分别在罗弗敦群岛和法罗群岛住了 9 晚和 6 晚. 此外, 乘机到达和离开北欧时分别在哥本哈根和奥斯陆停留了 1 晚和 2 晚. 下面是此行的住宿一览表:
-
-.住宿一览表
-[cols="4,6,2"]
-|===
-| 地点 | 住宿 | 停留
-
-| 哥本哈根
-| Scandic Palace Hotel
-| 1 晚
-
-| 法罗群岛, Gásadalur
-| Gásadalur Apartments @ World famous waterfall
-| 3 晚
-
-| 法罗群岛, 托尔斯港 (Tórshavn)
-| Tórshavn - Central - City & Ocean Views - 3BR
-| 3 晚
-
-| 罗弗敦群岛, Henningsvær
-| Henningsvær Rorbuer
-| 2 晚
-
-| 罗弗敦群岛, Reine
-| May's Apartments by May's
-| 5 晚
-
-| 罗弗敦群岛, Svolvær
-| Anker Brygge
-| 2 晚
-
-| 奥斯陆
-| Thon Hotel Europa, Oslo
-| 2 晚
-|===
-
-[#flights]
-== 航班
-
-往返北欧的航班我们选择了阿联酋航空. 在哥本哈根, 法罗群岛, 罗弗敦群岛和奥斯陆之间也选择搭乘飞机. 下面是此行的航班一览表:
-
-.航班一览表
-|===
-| 出发 - 中转 - 到达 | 航空公司
-
-| 北京 - 迪拜 - 哥本哈根
-| 阿联酋航空 (Emirates)
-
-| 哥本哈根 - 法罗群岛
-| 大西洋航空公司 (Atlantic Airways)
-
-| 法罗群岛 - 卑尔根 (Bergen) - 博德 (Bodø) - 斯沃尔韦尔 (Svolvær)
-| 维德罗航空 (Widerøe)
-
-| 斯沃尔韦尔 (Svolvær) - 博德 (Bodø) - 奥斯陆
-| 维德罗航空 (Widerøe), 挪威航空 (Norwegian Air Shuttle)
-
-| 北京 - 迪拜 - 哥本哈根
-| 阿联酋航空 (Emirates)
-|===
-
-[#cars]
-== 租车
-
-罗弗敦群岛和法罗群岛的公共交通都相当有限. 初次探访两地, 租车是最佳选择. 下面是此行租车的一览表:
-
-.租车一览表
-[cols="9,3"]
-|===
-| 租车地点 | 租车公司
-
-| 法罗群岛沃格机场 (Vágar Airport, 机场代码: FAE)
-| Alamo
-
-| 罗弗敦群岛斯沃尔韦尔机场 (Svolvaer Airport, 机场代码: SVJ)
-| Hertz
-|===
+* link:{url-itinerary-lofoten-faroe}[十八天的罗弗敦群岛和法罗群岛之旅 (序)]
+* link:{url-itinerary-lofoten}[罗弗敦群岛和法罗群岛之旅行程 (下) - 罗弗敦群岛]
 
 [#day1]
 == D1: 抵达丹麦哥本哈根
@@ -292,4 +215,4 @@ image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/boarding-wideroe
 
 * 法罗群岛官方旅游推广机构: https://visitfaroeislands.com/en[Visit Faroe Islands]
 * 法罗群岛机场: https://www.fae.fo/en[Vágar Airport]
-* 法罗群岛的国家工程管理局官 - 旅游观光公路: https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Sóljuleiðir]
+* 法罗群岛的国家工程管理局 - 旅游观光公路: https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Sóljuleiðir]
