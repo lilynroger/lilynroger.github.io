@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "哥本哈根机场 (CPH)",
+        "description": "本次行程从这里进入申根区，也是前往法罗群岛的出发地。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6508,
+          55.6181
+        ]
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "沃格机场 (FAE)",
+        "description": "法罗群岛唯一的机场，本次行程的第一站。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.2775,
+          62.0636
+        ]
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "卑尔根机场 (BGO)",
+        "description": "从法罗群岛飞往罗弗敦群岛途中经停的机场。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2181,
+          60.2934
+        ]
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "博德机场 (BOO)",
+        "description": "前往罗弗敦群岛途中经停的机场。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3653,
+          67.2692
+        ]
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "斯沃尔韦尔机场 (SVJ)",
+        "description": "罗弗敦群岛的机场，本次行程的第二站。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.6692,
+          68.2433
+        ]
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "奥斯陆机场 (OSL)",
+        "description": "行程结束后从这里离开申根区。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1004,
+          60.1939
+        ]
+      },
+      "id": 6
+    }
+  ]
+}

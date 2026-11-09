@@ -7,6 +7,7 @@ image:
   sources:
     - srcset: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/lofoten-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/lofoten-faroe-4x3-2400.avif 2400w
 
+map: true
 layout: article
 categories: posts
 date: 2025-06-07 08:00:00 +0800
@@ -46,6 +47,12 @@ description: 这是我们十八天的罗弗敦群岛 (The Lofoten Islands) 和�
 在最初计划这次旅行时，我们在法罗群岛和罗弗敦群岛之间犹豫不决，究竟去哪个群岛呢？直到做功课时，意外发现法罗群岛竟然有直飞挪威卑尔根的航班，而且票价还算公道。相比从法罗群岛原路飞回根本哈根，直接飞去挪威就可以不走回头路了。成年人不做选择，干脆一次打卡两个群岛。
 
 这次旅行时间有限，去两个群岛的话，两段行程都会比较紧凑。不过问题不大，两个群岛都属于我们最喜欢的目的地类型，都不会只去一次的。这次旅行只是对两个群岛的初体验，并不求全。
+
+下面的地图标出了这次旅行途经的主要城市和群岛：我们从哥本哈根进入申根区，最后由奥斯陆离开。
+
+++++
+{% include map-pois.html source="lofoten-faroe-itinerary-pois" showLabels="true" %}
+++++
 
 [#goals-in-faroe]
 == 法罗群岛目标
@@ -177,4 +184,3 @@ image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lo
 
 * 法罗群岛官方旅游推广机构: https://visitfaroeislands.com/en[Visit Faroe Islands]
 * 法罗群岛的国家工程管理局 - 旅游观光公路: https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Sóljuleiðir]
-
