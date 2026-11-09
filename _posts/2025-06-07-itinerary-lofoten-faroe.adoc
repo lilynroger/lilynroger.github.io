@@ -1,0 +1,180 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/lofoten-faroe-4x3-1200.avif
+  alt: 丹麦法罗群岛被峡湾环抱的村庄（左）；挪威罗弗敦群岛的萨克里岛（右）。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/lofoten-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/lofoten-faroe-4x3-2400.avif 2400w
+
+layout: article
+categories: posts
+date: 2025-06-07 08:00:00 +0800
+last_modified_at: 2026-11-09 22:30:00 +0800
+tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 挪威, 罗弗敦群岛, 丹麦, 法罗群岛, 行程]
+tagline: 北大西洋中的两个群岛，哪一个最美?
+description: 这是我们十八天的罗弗敦群岛 (The Lofoten Islands) 和法罗群岛 (The Faroe Islands) 之旅行程的序篇，包含了整个行程的纵览，以及住宿、航班和租车的汇总信息。
+---
+= 十八天的罗弗敦群岛和法罗群岛之旅 (序)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/
+:url-itinerary-faroe: {% post_url 2025-07-04-itinerary-faroe-islands %}
+:url-itinerary-lofoten: {% post_url 2025-07-16-itinerary-lofoten %}
+:url-vagar: {% post_url 2025-06-29-one-day-road-trip-on-vagar-island %}
+:url-kalsoy: {% post_url 2025-07-02-day-trip-to-kalsoy %}
+:url-road-trip: {% post_url 2025-07-01-one-day-island-hopping-road-trip %}
+:url-torshavn: {% post_url 2025-07-03-old-town-and-tinganes-of-torshavn %}
+:url-festvaagtind: {% post_url 2025-07-05-hiking-festvaagtind %}
+:url-reinebringen: {% post_url 2025-07-07-hiking-reinebringen %}
+:url-ryten-kvalvika: {% post_url 2025-07-08-hiking-ryten-and-kvalvika-in-lofoten-norway %}
+:url-floya-djevelporten: {% post_url 2025-07-12-hiking-floya-and-djevelporten %}
+:url-haaheia-haaen: {% post_url 2025-07-10-hike-to-haaheia-and-haaen %}
+
+挪威的罗弗敦群岛 (The Lofoten Islands) 拥有山峰、峡湾、岛屿和沙滩，吸引着来自世界各地的徒步、登山、冲浪和皮划艇爱好者来到这座户外运动的天堂。而丹麦的法罗群岛 (The Faroe Islands) 作为北大西洋上最后的的秘境，世界的边缘，同样拥有峡湾、悬崖、海蚀柱、童话般的草顶村落，此外还有呆萌的海鹦。我们在十八天的罗弗敦群岛和法罗群岛之旅中，一次完成两个人生目标。
+
+这一篇游记是序篇，包含了整个行程的纵览，以及住宿、航班和租车的汇总信息。具体的每日行程参考：
+
+* link:{url-itinerary-faroe}[罗弗敦群岛和法罗群岛之旅行程 (上) - 法罗群岛]
+* link:{url-itinerary-lofoten}[罗弗敦群岛和法罗群岛之旅行程 (下) - 罗弗敦群岛]
+
+[#idea]
+== 计划
+
+在最初计划这次旅行时，我们在法罗群岛和罗弗敦群岛之间犹豫不决，究竟去哪个群岛呢？直到做功课时，意外发现法罗群岛竟然有直飞挪威卑尔根的航班，而且票价还算公道。相比从法罗群岛原路飞回根本哈根，直接飞去挪威就可以不走回头路了。成年人不做选择，干脆一次打卡两个群岛。
+
+这次旅行时间有限，去两个群岛的话，两段行程都会比较紧凑。不过问题不大，两个群岛都属于我们最喜欢的目的地类型，都不会只去一次的。这次旅行只是对两个群岛的初体验，并不求全。
+
+[#goals-in-faroe]
+== 法罗群岛目标
+
+首次探索法罗群岛，核心是link:{url-road-trip}[法罗群岛旅游观光公路自驾游]，多看看几个岛和岛上的村镇。其他的主要目标包括：
+
+* link:{url-vagar}[沃格岛] (Vágar) 的穆拉瀑布 (Múlafossur)，法罗群岛的名片之一；
+* 米基内斯岛 (Mykines) 看海鹦;
+* link:{url-kalsoy}[卡尔索伊岛] (Kalsoy) 的卡鲁尔灯塔 (Kallur Lighthouse) 和詹姆斯·邦德的墓碑；
+* 法罗群岛首都link:{url-torshavn}[托尔斯港]。
+
+[TIP]
+**海鹦：**由于天气原因，我们没能前往米基内斯岛。不过我们在卡尔索伊岛的詹姆斯·邦德墓碑那里看到了海鹦。
+
+.法罗群岛沃格岛 (Vágar) 上的穆拉瀑布 (Múlafossur)。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-mulafossur-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-mulafossur-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-mulafossur-4x3-2400.avif 2400w"]
+
+[#goals-in-lofoten]
+== 罗弗敦群岛目标
+
+罗弗敦群岛是此行的主要目的地。继上一年徒步挪威“三大奇石”之后，这次我们将徒步罗弗敦群岛。目标有五个：
+
+* link:{url-festvaagtind}[菲斯特沃格峰 (Festvågtind)]
+* link:{url-reinebringen}[雷讷布林根峰 (Reinebringen)]
+* link:{url-ryten-kvalvika}[雷腾山和鲸湾海滩 (Ryten & Kvalvika)]
+* link:{url-floya-djevelporten}[弗洛亚和魔鬼之门 (Fløya & Djevelporten)]
+* link:{url-haaheia-haaen}[鲨鱼高地和鲨鱼峰 (Håheia & Håen)]
+
+虽然看起来有点多，不过我们有心理准备，即便体能允许，也不可能每天都是适合徒步的好天气。所以，天公作美的话，完成一个算一个。
+
+[TIP]
+**鲨鱼高地和鲨鱼峰：**由于天气原因，我们没能登上罗弗敦群岛的瓦罗伊岛 (Værøy)，因此没能徒步岛上的鲨鱼高地和鲨鱼峰。不过，这条路线是罗弗敦少数可以在冬季去的徒步，我们随后的罗弗敦冬季之旅中终于登上了瓦罗伊岛，集齐了最后这个徒步。不久将奉上冬季徒步鲨鱼高地和鲨鱼峰的攻略。
+
+.罗弗敦群岛萨克里岛 (Sakrisøya) 上的黄色传统渔屋 (Rorbuer)。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/lofoten-sakrisoya-rorbuer-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/lofoten-sakrisoya-rorbuer-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/lofoten-sakrisoya-rorbuer-4x3-2400.avif 2400w"]
+
+[#stays]
+== 住宿
+
+罗弗敦群岛是我们此行的主要目的地，然后是法罗群岛。我们分别在罗弗敦群岛和法罗群岛住了 9 晚和 6 晚。此外，乘机到达和离开北欧时分别在哥本哈根和奥斯陆停留了 1 晚和 2 晚。下面是此行的住宿一览表：
+
+.住宿一览表
+[cols="4,6,2"]
+|===
+| 地点 | 住宿 | 停留
+
+| 哥本哈根
+| Scandic Palace Hotel
+| 1 晚
+
+| 法罗群岛，Gásadalur
+| Gásadalur Apartments @ World famous waterfall
+| 3 晚
+
+| 法罗群岛，Tórshavn
+| Tórshavn - Central - City & Ocean Views - 3BR
+| 3 晚
+
+| 罗弗敦群岛，Henningsvær
+| Henningsvær Rorbuer
+| 2 晚
+
+| 罗弗敦群岛，Reine
+| May's Apartments by May's
+| 5 晚
+
+| 罗弗敦群岛，Svolvær
+| Anker Brygge
+| 2 晚
+
+| 奥斯陆
+| Thon Hotel Europa, Oslo
+| 2 晚
+|===
+
+.法罗群岛沃格岛 (Vágar) 上的加萨达鲁尔村 (Gásadalur)。我们就住在带有草皮屋顶的公寓中。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-gasadalur-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-gasadalur-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-gasadalur-4x3-2400.avif 2400w"]
+
+[#flights]
+== 航班
+
+往返北欧的航班我们选择了阿联酋航空。在哥本哈根、法罗群岛、罗弗敦群岛和奥斯陆之间也选择搭乘飞机。下面是此行的航班一览表：
+
+.航班一览表
+|===
+| 出发 - 中转 - 到达 | 航空公司
+
+| 北京 - 迪拜 - 哥本哈根
+| 阿联酋航空 (Emirates)
+
+| 哥本哈根 - 法罗群岛
+| 大西洋航空公司 (Atlantic Airways)
+
+| 法罗群岛 - 卑尔根 - 博德 (Bodø) - 斯沃尔韦尔 (Svolvær)
+| 威德罗航空 (Widerøe)
+
+| 斯沃尔韦尔 (Svolvær) - 博德 (Bodø) - 奥斯陆
+| 威德罗航空 (Widerøe)、挪威航空 (Norwegian Air Shuttle)
+
+| 奥斯陆 - 迪拜 - 北京
+| 阿联酋航空 (Emirates)
+|===
+
+.威德罗航空 (Widerøe) 从法罗群岛飞往卑尔根的航班。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-wideroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-wideroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-wideroe-4x3-2400.avif 2400w"]
+
+[#cars]
+== 租车
+
+罗弗敦群岛和法罗群岛的公共交通都相当有限。初次探访两地，全程租车是最佳选择。下面是此行租车的一览表：
+
+.租车一览表
+[cols="9,3"]
+|===
+| 租车地点 | 租车公司
+
+| 法罗群岛沃格机场 (Vágar Airport, FAE)
+| Alamo
+
+| 罗弗敦群岛斯沃尔韦尔机场 (Svolvaer Airport, SVJ)
+| Hertz
+|===
+
+.后视镜中的法罗群岛村庄。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-in-mirror-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-in-mirror-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-in-mirror-4x3-2400.avif 2400w"]
+
+[#resources]
+== 参考资源
+
+* 法罗群岛官方旅游推广机构: https://visitfaroeislands.com/en[Visit Faroe Islands]
+* 法罗群岛的国家工程管理局 - 旅游观光公路: https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Sóljuleiðir]
+
