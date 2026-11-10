@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "title": "斯塔万格 (Stavanger)",
+        "description": "前往布道石徒步路线的大本营城市，驾车到停车场约需 40 分钟。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7331,
+          58.9699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "title": "海底隧道系统 (Ryfast)",
+        "description": "斯塔万格前往布道石的收费海底隧道系统。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.841,
+          59.042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "title": "P1 第一停车场 / 布道石大本营",
+        "description": "布道石徒步的主要停车场和官方起点。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1378,
+          58.9925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "title": "第二停车场 (P2 Moslimyrå)",
+        "description": "当 P1 停满时使用的上停车场。海拔较高，但到布道石的徒步距离比从 P1 出发更长。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1363341,
+          58.9973145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "title": "应急避难山屋",
+        "description": "徒步途中可供紧急避险或求助的避难山屋 (Preikestolen nødbu)，距 P1 起点约 3 公里。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1753049,
+          58.988634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "title": "布道石 (Preikestolen)",
+        "description": "徒步终点，吕瑟峡湾之上的天然岩石平台。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1886,
+          58.9864
+        ]
+      }
+    }
+  ]
+}

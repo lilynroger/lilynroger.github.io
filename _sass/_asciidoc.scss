@@ -58,7 +58,7 @@ span.icon>.fa {
   cursor: default;
 }
 
-.admonitionblock.tip {
+.admonitionblock {
   margin: 2rem 0;
   border-top: 1px solid var(--bs-border-color);
   border-bottom: 1px solid var(--bs-border-color);
@@ -66,20 +66,20 @@ span.icon>.fa {
 }
 
 /* 重置原表格 */
-.admonitionblock.tip table,
-.admonitionblock.tip tr,
-.admonitionblock.tip td {
+.admonitionblock table,
+.admonitionblock tr,
+.admonitionblock td {
   display: block !important;
   width: 100% !important;
   padding: 0 !important;
   border: none !important;
 }
 
-.admonitionblock.tip td.icon {
+.admonitionblock td.icon {
   display: none !important;
 }
 
-.admonitionblock.tip td.content {
+.admonitionblock td.content {
   color: var(--bs-secondary-color);
   font-size: 1rem;
 }

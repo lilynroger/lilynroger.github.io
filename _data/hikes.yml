@@ -275,4 +275,29 @@ routes:
             title: Måtind (408 masl)
             website: visitvesteralen.com
             createdOn: 2025-11-06
+
+    rogaland:
+      preikestolen:
+        name: 布道石 (Preikestolen / The Pulpit Rock)
+        type:
+          value: outAndBack
+        difficulty:
+          value: blue
+          system: norway
+        altitude:
+          value: 604
+          unit: m
+        elevationGain:
+          value: 500
+          unit: m
+        distance:
+          value: 8
+          unit: km
+          roundTrip: true
+        estimatedTime:
+          value: 4
+          unit: h
+          roundTrip: true
+        season:
+          yearRound: true
           
