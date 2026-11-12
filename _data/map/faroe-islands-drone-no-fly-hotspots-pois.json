@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "title": "悬湖 (Sørvágsvatn/Leitisvatn)",
+        "description": "位于沃格机场 5 公里限飞范围内，未经许可不要飞行。标记为景点位置，不代表限飞边界。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.228,
+          62.045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "title": "米基内斯岛 (Mykines)",
+        "description": "米基内斯岛全岛禁止无人机飞行。标记显示岛上村庄位置，并非禁飞范围边界。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.64592,
+          62.10211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "title": "克拉克斯维克的 Klakkur",
+        "description": "位于克拉克斯维克直升机着陆点 2 公里限飞范围内，未经许可不要飞行。标记为观景点位置，不代表限飞边界。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5891,
+          62.2305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "title": "托尔斯港的 Tinganes",
+        "description": "位于托尔斯港南部的直升机着陆点 2 公里限飞范围内，未经许可不要飞行。标记为景点位置，不代表限飞边界。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7719,
+          62.0097
+        ]
+      }
+    }
+  ]
+}
