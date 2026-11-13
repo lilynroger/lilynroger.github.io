@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "干草广场食品大厅",
+        "description": "酒类专卖店 (Systembolaget) 在干草广场食品大厅 (Hötorgshallen) 的地下一层。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.06254,
+          59.33428
+        ]
+      },
+      "id": 1
+    }
+  ]
+}

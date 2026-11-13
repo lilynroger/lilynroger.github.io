@@ -10,7 +10,7 @@ image:
 layout: article
 categories: posts
 date: 2024-05-30 05:00:00 +0200
-last_modified_at: 2026-10-25 08:45:00 +0800
+last_modified_at: 2026-11-13 09:45:00 +0800
 map: true
 tags: [2024-Scandinavia, 欧洲, 北欧, 瑞典, 斯德哥尔摩]
 tagline: 北欧三国买酒之瑞典篇
@@ -35,12 +35,7 @@ image::https://assets.lilyroger.com/images/trips/2024/scandinavia/systembolaget/
 在干草广场上，音乐厅的斜对面，就是斯德哥尔摩最著名的干草广场食品大厅 (Hötorgshallen)。
 
 ++++
-{% include maplibre.html
-   lng=18.06254
-   lat=59.33428
-   title="干草广场食品大厅"
-   description="酒类专卖店 (Systembolaget) 在干草广场食品大厅 (Hötorgshallen) 的地下一层。"
-%}
+{% include map-pois.html source="sweden-stockholm-hotorgshallen-poi" %}
 ++++
 
 干草广场食品大厅的入口门上挂着醒目的绿色 Systembolaget 招牌，而酒类专卖店就在食品大厅的地下。
