@@ -7,10 +7,11 @@ image:
   sources:
     - srcset: https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/gamla-stan-stockholm-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2024/scandinavia/stockholm-gamla-stan/gamla-stan-stockholm-4x3-2400.avif 2400w
 
+map: true
 layout: article
 categories: posts
 date: 2024-05-28 11:30:00 +0200
-last_modified_at: 2026-10-12 07:15:00 +0800
+last_modified_at: 2026-11-13 11:15:00 +0800
 tags: [2024-Scandinavia, 欧洲, 北欧, 瑞典, 斯德哥尔摩, 景点]
 tagline: 大广场、王宫、教堂和小众打卡点
 description: 这篇攻略涵盖斯德哥尔摩老城 (Gamla Stan / Old Town) 中包括大广场 (Stortorget)、王宫 (Kungliga Slottet)、大教堂 (Storkyrkan) 等最佳景点，还有一些小众打卡点。
@@ -27,7 +28,10 @@ description: 这篇攻略涵盖斯德哥尔摩老城 (Gamla Stan / Old Town) 中
 
 这篇攻略涵盖包括大广场 (Stortorget)、王宫 (Kungliga Slottet)、大教堂 (Storkyrkan) 等核心景点，还有一些小众宝藏店铺，当然也有“最窄小巷” 和“最小户外雕像”这种有点离谱的网红打卡点。
 
-[TIP]
+++++
+{% include map-pois.html source="sweden-stockholm-gamla-stan-pois" %}
+++++
+
 广义的老城还包括西侧的骑士岛 (Riddarholmen) 和北侧的圣灵岛 (Helgeandsholmen) 两座更小的岛。骑士岛也是斯德哥尔摩必游景点之一，参考我们的攻略：{link-riddarholmen}。
 
 toc::[]

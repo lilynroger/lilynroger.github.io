@@ -1,0 +1,140 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大广场",
+        "description": "大广场 (Stortorget) 是斯德哥尔摩老城的中心广场，以西侧色彩鲜明的历史建筑闻名；北侧是现今的诺贝尔奖博物馆。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0707,
+          59.325
+        ]
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "瑞典王宫",
+        "description": "瑞典王宫 (Kungliga Slottet) 是瑞典国王的官邸和主要办公场所，也是皇家卫兵换岗仪式的地点。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0717,
+          59.3268
+        ]
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "大教堂",
+        "description": "大教堂 (Storkyrkan) 是紧邻王宫的斯德哥尔摩主教座堂，镇馆之宝是中世纪木雕《圣乔治屠龙》。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.070391,
+          59.325760
+        ]
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "商人广场",
+        "description": "商人广场 (Köpmantorget) 上有《圣乔治屠龙》青铜复制品，可近距离欣赏雕像细节。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07354,
+          59.32509
+        ]
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "芬兰教堂",
+        "description": "橘黄色的芬兰教堂 (Finska kyrkan) 旁有一处安静的小花园，里面藏着斯德哥尔摩最小的公共雕塑“钢铁男孩” (Järnpojken)。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.072327,
+          59.325673
+        ]
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "莫滕·特罗齐格巷",
+        "description": "莫滕·特罗齐格巷 (Mårten Trotzigs Gränd) 是斯德哥尔摩最窄的街道，最窄处约 90 厘米，巷中有 36 级台阶。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.072748,
+          59.322990
+        ]
+      },
+      "id": 6
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "波尔卡糖果店",
+        "description": "波尔卡糖果店 (Polkagriskokeri) 是一家明星传统手工糖果店，店里现场制作和售卖瑞典传统拐杖糖。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.07062,
+          59.32324
+        ]
+      },
+      "id": 7
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "老城自行车店",
+        "description": "老城自行车店 (Gamla Stans Cykel) 售卖和修理自行车。如果你更喜欢骑自行车游览老城，这里也可以租到三档变速的城市自行车。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0685521,
+          59.3237777
+        ]
+      },
+      "id": 8
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "克里斯托弗花店",
+        "description": "克里斯托弗花店 (Christoffers Blommor) 是藏在中世纪狭窄弄堂中的一个漂亮花店。在花店开门，摆出鲜花的时候，这里就成了老城里最有电影胶片质感的地方。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.069444,
+          59.324525
+        ]
+      },
+      "id": 9
+    }
+  ]
+}
