@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "哥本哈根机场",
+        "description": "北欧最大航空枢纽，位于市中心东南约 8 公里的凯斯楚普。",
+        "name": "Copenhagen Airport",
+        "local_name": "Københavns Lufthavn (CPH)",
+        "category": "Airport",
+        "address": "Lufthavnsboulevarden 6, 2770 Kastrup, Denmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.6509822, 55.6091281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "哥本哈根机场 3 号航站楼",
+        "description": "主力航站楼与抵达大厅，地下直通火车站及地铁 M2 线。",
+        "name": "Terminal 3 Copenhagen Airport",
+        "local_name": "Københavns Lufthavn Terminal 3",
+        "category": "Airport Terminal",
+        "address": "Lufthavnsboulevarden 6, Terminal 3, 2770 Kastrup, Denmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.6494120, 55.6295840]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "哥本哈根机场 2 号航站楼",
+        "description": "主要承担国际及廉价航空值机，与 3 号航站楼室内相连。",
+        "name": "Terminal 2 Copenhagen Airport",
+        "local_name": "Københavns Lufthavn Terminal 2",
+        "category": "Airport Terminal",
+        "address": "Vestvej 8, 2770 Kastrup, Denmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.6456800, 55.6287600]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "哥本哈根中央车站",
+        "description": "丹麦最大铁路枢纽，紧邻蒂沃利公园，乘火车约 15 分钟直达机场。",
+        "name": "Copenhagen Central Station",
+        "local_name": "Københavns Hovedbanegård (København H)",
+        "category": "Train Station",
+        "address": "Banegårdspladsen 7, 1570 København V, Denmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5652300, 55.6727600]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "新港",
+        "description": "新港 (Nyhavn) 是哥本哈根地标性 17 世纪滨水运河区，以彩色联排老屋与运河游船闻名。",
+        "name": "Nyhavn",
+        "local_name": "Nyhavn",
+        "category": "Tourist Attraction",
+        "address": "Nyhavn, 1051 København K, Denmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5908856, 55.6797358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "国王新广场地铁站",
+        "description": "国王新广场地铁站 (Kongens Nytorv) 是地铁 M1 至 M4 四线交汇的枢纽站，紧邻新港与步行街，直通机场与中央车站。",
+        "name": "Kongens Nytorv Metro Station",
+        "local_name": "Kongens Nytorv Station",
+        "category": "Metro Station",
+        "address": "Kongens Nytorv 11, 1050 København K, Denmark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5850800, 55.6796300]
+      }
+    }
+  ]
+}
