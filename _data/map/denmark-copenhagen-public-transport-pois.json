@@ -1,0 +1,197 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5906,
+          55.6798
+        ]
+      },
+      "properties": {
+        "name": "新港",
+        "name_en": "Nyhavn",
+        "category": "景点",
+        "description": "新港 (Nyhavn) 是建于 17 世纪的标志性滨水运河区，沿岸排列着色彩斑斓的历史联排房屋与木帆船，是哥本哈根最受欢迎的餐饮与休闲地标，童话作家安徒生曾在此居住多年。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5993,
+          55.6929
+        ]
+      },
+      "properties": {
+        "name": "小美人鱼",
+        "name_en": "The Little Mermaid",
+        "category": "景点",
+        "description": "小美人鱼是坐落于长堤公园海滨岩石上的青铜雕塑，灵感源自安徒生同名童话，自 1913 年落成以来一直是哥本哈根的象征。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5683,
+          55.6736
+        ]
+      },
+      "properties": {
+        "name": "蒂沃利公园",
+        "name_en": "Tivoli Gardens",
+        "category": "景点",
+        "description": "蒂沃利公园 (Tivoli Gardens) 开放于 1843 年，是世界第二古老游乐园，毗邻哥本哈根中央车站。园内融合了复古游乐设施、奇幻园林与音乐厅，夜间璀璨的灯饰与季节性庆典尤为著名。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5696,
+          55.6838
+        ]
+      },
+      "properties": {
+        "name": "哥本哈根大集",
+        "name_en": "TorvehallerneKBH",
+        "category": "景点",
+        "description": "哥本哈根大集 (TorvehallerneKBH) 是现代室内美食市场，汇聚 60 余个摊位，提供丹麦传统美食、新鲜海产及各国特色美食。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5772,
+          55.6858
+        ]
+      },
+      "properties": {
+        "name": "罗森堡宫",
+        "name_en": "Rosenborg Castle",
+        "category": "景点",
+        "description": "罗森堡宫 (Rosenborg Castle) 是建于 17 世纪初的荷兰文艺复兴风格皇家夏宫，坐落在历史悠久的国王花园（Kongens Have）内，地下珍宝馆常年展出丹麦王室的王冠与皇室珠宝。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5758,
+          55.6814
+        ]
+      },
+      "properties": {
+        "name": "圆塔",
+        "name_en": "Rundetårn",
+        "category": "景点",
+        "description": "圆塔 (Rundetårn) 是建于 1642 年的巴洛克式天文观测塔，也是欧洲现存最古老的仍在运行的天文台。游客可沿独特的无台阶螺旋坡道登顶，俯瞰哥本哈根老城全景。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5688,
+          55.6760
+        ]
+      },
+      "properties": {
+        "name": "市政厅广场",
+        "name_en": "City Hall Square (Rådhuspladsen)",
+        "category": "景点",
+        "description": "位于哥本哈根市政厅前方的核心公共广场，紧连欧洲最长步行购物街斯楚格街（Strøget）起点，毗邻蒂沃利公园与地铁 M3/M4 线站点。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6493,
+          55.6308
+        ]
+      },
+      "properties": {
+        "name": "哥本哈根机场站",
+        "name_en": "Copenhagen Airport Station",
+        "category": "交通枢纽",
+        "description": "位于哥本哈根机场 3 号航站楼，地铁 M2 线终点站，约 15 分钟即可直达市中心。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5861,
+          55.6797
+        ]
+      },
+      "properties": {
+        "name": "国王新广场站",
+        "name_en": "Kongens Nytorv",
+        "category": "地铁站",
+        "description": "国王新广场站 (Kongens Nytorv) 是哥本哈根市中心地铁换乘枢纽，可以换乘全部四条地铁线路，出站即达新港、皇家剧院与斯楚格步行街。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5648,
+          55.6726
+        ]
+      },
+      "properties": {
+        "name": "哥本哈根中央车站",
+        "name_en": "København H",
+        "category": "交通枢纽",
+        "description": "哥本哈根中央车站 (København H) 是丹麦最大的综合性铁路枢纽，汇集长途列车、区域火车、城市快铁（S-tog）及地铁 M3/M4 线，紧邻蒂沃利公园正门。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5718,
+          55.6834
+        ]
+      },
+      "properties": {
+        "name": "北门车站",
+        "name_en": "Nørreport",
+        "category": "交通枢纽",
+        "description": "北门车站 (Nørreport) 是丹麦客流量最大的地下综合换乘站，连接地铁 M1/M2 线、全部 S-tog 城市快铁及区域铁路，出站步行可达哥本哈根大集、圆塔与国王花园。"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5873,
+          55.6926
+        ]
+      },
+      "properties": {
+        "name": "东门车站",
+        "name_en": "Østerport",
+        "category": "交通枢纽",
+        "description": "东门车站 (Østerport) 是位于市中心北侧的重要换乘站，提供地铁 M3/M4 线、S-tog 城市快铁及海岸线区域火车服务，是前往小美人鱼铜像的最近车站。"
+      }
+    }
+  ]
+}

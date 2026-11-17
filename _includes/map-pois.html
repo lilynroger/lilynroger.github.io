@@ -78,7 +78,7 @@
         popupContent.className = 'lr-map-popup-content';
         const title = document.createElement('div');
         title.className = 'lr-map-popup-title';
-        title.textContent = properties.title;
+        title.textContent = properties.name ? properties.name: properties.title;
         const description = document.createElement('p');
         description.className = 'lr-map-popup-description';
         description.textContent = properties.description;
