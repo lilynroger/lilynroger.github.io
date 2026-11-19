@@ -81,8 +81,8 @@ IMPORTANT: 以上信息仅供参考. 航班计划每年都会持续变化, 请�
 
 目前斯沃尔韦尔机场所有的航班都是小型的螺旋桨飞机.
 
-.威德罗航空 (Widerøe) 的螺旋桨飞机
-image::assets/images/2025/lofoten-faroe/airport-svj/aircraft.webp[威德罗航空 (Widerøe) 的螺旋桨飞机]
+.维德勒航空 (Widerøe) 的螺旋桨飞机
+image::assets/images/2025/lofoten-faroe/airport-svj/aircraft.webp[维德勒航空 (Widerøe) 的螺旋桨飞机]
 
 [#public-transport]
 == 公共交通

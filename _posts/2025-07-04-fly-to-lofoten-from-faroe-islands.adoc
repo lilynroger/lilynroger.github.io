@@ -17,7 +17,7 @@
 
 我们是先从丹麦的哥本哈根入境去的法罗群岛, 法罗群岛之后去的罗弗敦群岛, 最后从挪威的奥斯陆出境, 全程没有走回头路. 其中, 重点是我们从法罗群岛飞罗弗敦的飞行路径.
 
-.搭乘威德罗航空 (Widerøe) 的航班从法罗群岛 (Faroe Islands) 出发, 经由挪威的卑尔根 (Bergen) 和博德 (Bodø), 到达罗弗敦 (Lofoten) 的斯沃尔韦尔 (Svolvær)
+.搭乘维德勒航空 (Widerøe) 的航班从法罗群岛 (Faroe Islands) 出发, 经由挪威的卑尔根 (Bergen) 和博德 (Bodø), 到达罗弗敦 (Lofoten) 的斯沃尔韦尔 (Svolvær)
 image::assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/flight-path.webp[从法罗群岛飞罗弗敦的飞行路径]
 
 从法罗群岛飞罗弗敦的整个行程是联程机票, 当日到达, 行李从法罗群岛托运到最终目的地罗弗敦的斯沃尔韦尔. 
@@ -29,7 +29,7 @@ IMPORTANT: 因为法罗群岛不属于申根区, 所以从法罗群岛到卑尔�
 .中午 11:50 从法罗群岛机场出发, 经停卑尔根机场和博德机场, 夜间 20:35 到达斯沃尔韦尔机场
 image::assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/faroe-lofoten.webp[法罗群岛飞罗弗敦的联程机票的行程信息]
 
-下面的表格列出了航班的关键信息. 作为参考, 我们提前两个多月在威德罗航空官网预定的单程联程机票. 联程机票包含两次中转和托运行李的总价是 3060 丹麦克朗, 大约相当于人民币 2200 元左右.
+下面的表格列出了航班的关键信息. 作为参考, 我们提前两个多月在维德勒航空官网预定的单程联程机票. 联程机票包含两次中转和托运行李的总价是 3060 丹麦克朗, 大约相当于人民币 2200 元左右.
 
 .从法罗群岛飞罗弗敦的航班详细信息
 |===
@@ -49,7 +49,7 @@ image::assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/faroe-
 
 此外, 大西洋航空每周有两班直飞挪威的奥斯陆的航班: https://www.directflights.com/FAE-OSL[Faroe Islands (FAE) - Oslo (OSL)]. 这个航线提供了可能的飞行线路的替代方案.
 
-重点是, 挪威的威德罗航空每周有两班从法罗群岛直飞挪威的卑尔根的航班: https://www.directflights.com/FAE-BGO[Faroe Islands (FAE) - Bergen (BGO)], 分别在周一和周五. 这个飞行线路太完美了, 不用再次经过奥斯陆或者哥本哈根. 而且卑尔根是挪威比较重要的机场, 航线和航班比较多; 加之卑尔根小而美, 机场交通便利, 是非常好的中转停留地.
+重点是, 挪威的维德勒航空每周有两班从法罗群岛直飞挪威的卑尔根的航班: https://www.directflights.com/FAE-BGO[Faroe Islands (FAE) - Bergen (BGO)], 分别在周一和周五. 这个飞行线路太完美了, 不用再次经过奥斯陆或者哥本哈根. 而且卑尔根是挪威比较重要的机场, 航线和航班比较多; 加之卑尔根小而美, 机场交通便利, 是非常好的中转停留地.
 
 [#bergen]
 == 卑尔根
@@ -88,7 +88,7 @@ IMPORTANT: 再次提醒, 如果是当日联程航班, 从法罗群岛出发到�
 
 IMPORTANT: 事实上, 我们在 2025 年夏季的这个飞行路径在 2026 年会发生变化, 当日联程可能已经无法实现了. 如果你发现了更好的方案, 烦请分享给我们.
 
-举例而言, 从法罗群岛飞往卑尔根的只有一班, 就是威德罗的航班, 航班号是 WF291. 通过 Flight.info 可以了解这个航班的时刻表等详细信息. 参见: https://www.flight.info/WF291[Widerøe WIF291 / WF291].
+举例而言, 从法罗群岛飞往卑尔根的只有一班, 就是维德勒的航班, 航班号是 WF291. 通过 Flight.info 可以了解这个航班的时刻表等详细信息. 参见: https://www.flight.info/WF291[Widerøe WIF291 / WF291].
 
 .Widerøe WF291 的时刻表
 image::assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/wf291-schedule.webp[Widerøe WF291 的时刻表]
@@ -121,8 +121,8 @@ image::assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/bgo-bo
 * 用 https://www.flight.info/[Flightinfo] 或者其他类似在线工具了解特定航班的时刻表, 特别是时刻表可能的变化.
 * 用 https://www.flightaware.com[FlightAware] 或者其他类似在线工具了解特定航班的平均延误等信息, 制定更可靠的行程.
 
-.搭乘威德罗航空 (Widerøe) 的航班到达罗弗敦 (Lofoten) 的斯沃尔韦尔 (Svolvær)
-image::assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/wideroe-flight-at-svolvar.webp[搭乘威德罗航空 (Widerøe) 的航班到达罗弗敦 (Lofoten) 的斯沃尔韦尔 (Svolvær)]
+.搭乘维德勒航空 (Widerøe) 的航班到达罗弗敦 (Lofoten) 的斯沃尔韦尔 (Svolvær)
+image::assets/images/2025/lofoten-faroe/fly-to-lofoten-from-faroe-islands/wideroe-flight-at-svolvar.webp[搭乘维德勒航空 (Widerøe) 的航班到达罗弗敦 (Lofoten) 的斯沃尔韦尔 (Svolvær)]
 
 [#reources]
 == 参考资源

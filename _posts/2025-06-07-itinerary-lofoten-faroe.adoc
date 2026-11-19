@@ -147,16 +147,16 @@ image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lo
 | 大西洋航空公司 (Atlantic Airways)
 
 | 法罗群岛 - 卑尔根 - 博德 (Bodø) - 斯沃尔韦尔 (Svolvær)
-| 威德罗航空 (Widerøe)
+| 维德勒航空 (Widerøe)
 
 | 斯沃尔韦尔 (Svolvær) - 博德 (Bodø) - 奥斯陆
-| 威德罗航空 (Widerøe)、挪威航空 (Norwegian Air Shuttle)
+| 维德勒航空 (Widerøe)、挪威航空 (Norwegian Air Shuttle)
 
 | 奥斯陆 - 迪拜 - 北京
 | 阿联酋航空 (Emirates)
 |===
 
-.威德罗航空 (Widerøe) 从法罗群岛飞往卑尔根的航班。
+.维德勒航空 (Widerøe) 从法罗群岛飞往卑尔根的航班。
 image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-wideroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-wideroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/itinerary-lofoten-faroe/faroe-islands-wideroe-4x3-2400.avif 2400w"]
 
 [#cars]
