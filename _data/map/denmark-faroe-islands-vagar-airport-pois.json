@@ -1,0 +1,135 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "沃格机场",
+        "name_en": "Vágar Airport",
+        "category": "airport",
+        "icon": "airport-15",
+        "description": "法罗群岛唯一的民用机场，位于沃格岛，是往返群岛的国际航空枢纽及岛际直升机总站。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -7.27578, 62.06326 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "托尔斯港",
+        "name_en": "Tórshavn",
+        "category": "city",
+        "icon": "city-15",
+        "description": "法罗群岛首府及最大城市，位于斯特莱默岛东南部，拥有历史悠久的廷加内斯半岛旧城区与主要客运港口。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -6.77076, 62.01197 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "克拉克斯维克",
+        "name_en": "Klaksvík",
+        "category": "city",
+        "icon": "city-15",
+        "description": "法罗群岛第二大城市及渔业中心，位于博罗伊岛，是连接北部诸岛的交通门户与岛际直升机重要起降点。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -6.58805, 62.22655 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "瑟沃格村",
+        "name_en": "Sørvágur",
+        "category": "village",
+        "icon": "village-15",
+        "description": "沃格岛西部的海滨村庄，紧邻沃格机场，也是前往米基内斯岛的轮渡出发港。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -7.30914, 62.07115 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "米基内斯岛",
+        "name_en": "Mykines",
+        "category": "island",
+        "icon": "harbor-15",
+        "description": "法罗群岛最西端的岛屿，可通过轮渡或机场直升机抵达，夏季聚集着成千上万只大西洋海鹦。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -7.64441, 62.10396 ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "机场至托尔斯港公路（含沃格海底隧道）",
+        "name_en": "Vágar Airport - Tórshavn Road (Vágatunnilin)",
+        "category": "route",
+        "route_type": "road_tunnel",
+        "description": "连接沃格岛与斯特莱默岛的 11 号与 10 号主干道，途经全长 4.9 公里的沃格海底隧道（Vágatunnilin），车程约 45 分钟。"
+      },
+      "geometry": {
+        "type": "LineString",
+      "coordinates": [
+          [ -7.27578, 62.06326 ],
+          [ -7.24350, 62.05480 ],
+          [ -7.19820, 62.04910 ],
+          [ -7.15280, 62.05740 ],
+          [ -7.08150, 62.06520 ],
+          [ -7.02640, 62.08450 ],
+          [ -6.96850, 62.11820 ],
+          [ -6.88540, 62.11250 ],
+          [ -6.83120, 62.07640 ],
+          [ -6.79850, 62.03810 ],
+          [ -6.77076, 62.01197 ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岛际直升机航线（机场 - 米基内斯）",
+        "name_en": "Heli-Route: Vágar - Mykines",
+        "category": "route",
+        "route_type": "helicopter",
+        "description": "大西洋航空运营的短途直升机航线，从沃格机场飞往米基内斯岛仅需约 11 分钟。"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [ -7.27578, 62.06326 ],
+          [ -7.64441, 62.10396 ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "岛际直升机航线（机场 - 克拉克斯维克）",
+        "name_en": "Heli-Route: Vágar - Klaksvík",
+        "category": "route",
+        "route_type": "helicopter",
+        "description": "大西洋航空跨岛直升机航线，横跨群岛连接西部机场与东北部克拉克斯维克。"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [ -7.27578, 62.06326 ],
+          [ -6.58805, 62.22655 ]
+        ]
+      }
+    }
+  ]
+}
