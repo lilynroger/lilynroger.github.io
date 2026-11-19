@@ -1,14 +1,16 @@
 {% comment %}
 参数:
 - source (必填): _data/map/ 下的 GeoJSON 文件名, 不含 .json 后缀.
-- id (可选): 地图容器 ID, 默认为 "map". 同一页面有多张地图时应指定不同 ID.
-- showLabels (可选): 设为 true 时显示 POI 编号标签; 省略或设为 false 时不显示.
+- id (可选): 地图容器 ID, 默认根据 source 自动生成 (如 "map-faroe-pois"). 仅在同一页面多次引用相同 source 时需手动指定.
+- showLabels (可选): 设为 true 时显示 POI 的 id 标签; 省略或设为 false 时不显示.
+- Feature.id / properties.id (可选): 手工指定的 POI 编号或短标签 (如 1, 2, "A").
 - POI properties.variant (可选): primary 或 secondary; 缺省为 primary.
 
 示例:
 {% include map-pois.html source="norway-major-cities-stavanger-focus-pois" id="norway-map" showLabels="true" %}
 {% endcomment %}
-{% assign map_id = include.id | default: "map" %}
+{% assign default_map_id = include.source | slugify | prepend: "map-" %}
+{% assign map_id = include.id | default: default_map_id %}
 <div id="{{ map_id }}" class="lr-map-container"></div>
 
 <script>
@@ -29,7 +31,11 @@
 
     // 根据所有 POI 坐标确定初始视野。
     const bounds = new maplibregl.LngLatBounds();
-    poiData.features.forEach(feature => bounds.extend(feature.geometry.coordinates));
+    poiData.features.forEach(feature => {
+        if (feature.geometry && feature.geometry.type === 'Point') {
+            bounds.extend(feature.geometry.coordinates);
+        }
+    });
 
     // 按容器宽度计算留白，并限制范围，避免小屏太挤或大屏缩放过度。
     const container = document.getElementById(mapId);
@@ -50,26 +56,32 @@
 
     map.addControl(new maplibregl.NavigationControl(), 'top-right');
 
-    poiData.features.forEach((feature, index) => {
+    poiData.features.forEach(feature => {
+        if (!feature.geometry || feature.geometry.type !== 'Point') return;
+
         // 未指定样式或值无效时回退到 primary。
-        const properties = feature.properties;
+        const properties = feature.properties || {};
         const validVariants = ['primary', 'secondary'];
         const variant = validVariants.includes(properties.variant)
             ? properties.variant
             : 'primary';
+        const labelText = properties.name ? properties.name : (properties.title || '');
         if (properties.variant && variant !== properties.variant) {
-            console.error(`Invalid marker variant for POI: ${properties.title}`);
+            console.error(`Invalid marker variant for POI: ${labelText}`);
         }
 
         // 用原生按钮支持键盘操作，并为屏幕阅读器提供地点名称。
         const markerElement = document.createElement('button');
         markerElement.type = 'button';
         markerElement.className = `lr-map-marker lr-map-marker-${variant}`;
-        markerElement.setAttribute('aria-label', properties.title);
-        if (showLabels) {
+        markerElement.setAttribute('aria-label', labelText);
+
+        // 直接使用 Feature 的 id（或 properties.id）作为标签文本。
+        const featureId = feature.id != null ? feature.id : properties.id;
+        if (showLabels && featureId != null && String(featureId).trim() !== '') {
             const label = document.createElement('span');
             label.className = 'lr-map-marker-label';
-            label.textContent = String(index + 1);
+            label.textContent = String(featureId);
             markerElement.append(label);
         }
 
@@ -78,16 +90,16 @@
         popupContent.className = 'lr-map-popup-content';
         const title = document.createElement('div');
         title.className = 'lr-map-popup-title';
-        title.textContent = properties.name ? properties.name: properties.title;
+        title.textContent = labelText;
         const description = document.createElement('p');
         description.className = 'lr-map-popup-description';
-        description.textContent = properties.description;
+        description.textContent = properties.description || '';
         popupContent.append(title, description);
 
-        new maplibregl.Marker({ element: markerElement, anchor: 'bottom' })
+        new maplibregl.Marker({ element: markerElement, anchor: 'center' })
             .setLngLat(feature.geometry.coordinates)
             .setPopup(new maplibregl.Popup({
-                offset: [0, -24],
+                offset: [0, -14],
                 closeButton: true,
                 className: 'lr-map-popup'
             }).setDOMContent(popupContent))
