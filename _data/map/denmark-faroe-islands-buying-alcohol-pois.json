@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rúsan - Tórshavn",
+        "category": "酒类专卖局",
+        "description": "首都托尔斯港国营酒类专卖店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.7655, 62.0225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rúsan - Miðvágur",
+        "category": "酒类专卖局",
+        "description": "沃格岛 Miðvágur 村国营酒类专卖店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.20901, 62.04733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rúsan - Norðskáli",
+        "category": "酒类专卖局",
+        "description": "东岛 Norðskáli 村国营酒类专卖店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.00158, 62.20982]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rúsan - Klaksvík",
+        "category": "酒类专卖局",
+        "description": "克拉克斯维克国营酒类专卖店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.59317, 62.22886]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Føroya Bjór",
+        "category": "本地酿酒厂",
+        "description": "克拉克斯维克老字号酿酒厂"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.5881, 62.2267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OY Brewing",
+        "category": "本地酿酒厂",
+        "description": "托尔斯港精酿啤酒厂"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.7709, 62.0203]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gásadalsgarður Café",
+        "category": "餐馆",
+        "description": "Gásadalur 村持照餐馆"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.43897, 62.11037]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duty Free FAE (Vágar Airport)",
+        "category": "机场免税店",
+        "description": "沃格机场免税店"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.2772, 62.0636]
+      }
+    }
+  ]
+}
