@@ -70,12 +70,12 @@ image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/rosenborg-castle
 [#where_we_stayed_on_vagar]
 === 我们在沃格岛的住处
 
-沃格岛最西端的山谷中隐藏着加萨达鲁尔村 (Gásadalur). 直到 2004 年随着穿山隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最著名的穆拉瀑布 (Múlafossur) 的所在地. 我们选择住在这里最具代表性的一家民宿: {url-gasadalur-apartments}[Gásadalur Apartments].
+沃格岛最西端的山谷中隐藏着戈萨达鲁尔村 (Gásadalur). 直到 2004 年随着穿山隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最著名的穆拉瀑布 (Múlafossur) 的所在地. 我们选择住在这里最具代表性的一家民宿: {url-gasadalur-apartments}[Gásadalur Apartments].
 
 下面这张照片中的瀑布就是穆拉瀑布. 瀑布背景中的小村子就是 Gásadalur 村, 而村子前排右边连着的三间公寓就是 Gásadalur Apartments 了. 住在这个世界边缘的尽头, 绝对是终身难忘的体验.
 
-.穆拉瀑布 (Múlafossur) 和加萨达鲁尔村 (Gásadalur)
-image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/mulafossur.webp[穆拉瀑布 (Múlafossur) 和加萨达鲁尔村 (Gásadalur)]
+.穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)
+image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/mulafossur.webp[穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)]
 
 [#day3]
 == D3: 沃格岛自驾游
@@ -99,11 +99,11 @@ image::assets/images/2025/lofoten-faroe/itinerary-faroe-islands/mulafossur.webp[
 | 南湾 (Southern Bay)
 
 | Vatnsoyrar
-| 瓦图索伊拉
+| 瓦滕索伊拉尔
 | 湖边砾石滩 (Lake Gravel Bank)
 
 | Miðvágur
-| 米德沃格
+| 米沃格
 | 中湾 (Middle Bay)
 
 | Sandavágur
