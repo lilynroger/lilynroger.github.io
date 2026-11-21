@@ -1,149 +1,182 @@
-= 法罗群岛沃格岛自驾一日游
-:page-layout: post
-:page-categories: posts
-:page-date: 2025-06-29 08:00:00 +0100
-:page-image: /assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/sandavagur.webp
-:page-subtitle: One Day Road Trip on Vágar Island
-:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 运动, 徒步, 自驾]
-:page-liquid:
-:toc:
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/sandavagur-vagar-faroe-4x3-1200.avif
+  alt: 法罗群岛沃格岛 (Vágar) 南岸的桑达沃格 (Sandavágur) 村，名字的含义是“沙湾”。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/sandavagur-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/sandavagur-vagar-faroe-4x3-2400.avif 2400w
+
+layout: article
+map: true
+categories: posts
+date: 2025-06-29 08:00:00 +0100
+last_modified_at: 2026-11-21 10:00:00 +0800
+tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 运动, 徒步, 自驾]
+tagline: 法罗群岛的缩影
+description: 浓缩法罗群岛精华的沃格岛一日自驾游记和攻略。从戈萨达鲁尔村与穆拉瀑布出发，串联伯尔村、瑟沃格村、沃格机场、海上悬湖、奴隶悬崖、桑达沃格及女巫手指徒步，轻松打卡标志性风光。
+---
+= 法罗群岛沃格岛自驾一日游：村庄、瀑布、湖泊、海蚀柱和徒步
+:page-liquid: true
+:toc: macro
+:toclevels: 2
 :sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/
 
-沃格岛 (Vágar) 是法罗群岛 18 个岛中的第三大岛. 西边是海鹦岛米基内斯岛 (Mykines), 东边是首都托尔斯港 (Tórshavn) 所在的斯特莱默岛 (Streymoy). 因其丰富的自然奇观而被称为 "缩小版的法罗群岛". 法罗群岛唯一的机场也在沃格岛上, 大多数游客法罗群岛之行的起点就在这里. 这篇游记记录了我们在沃格岛的第二天, 自驾沃格岛一日游.
+沃格岛 (Vágar) 是法罗群岛十八个岛中的第三大岛。西边是海鹦岛米基内斯岛 (Mykines)，东边是首都托尔斯港 (Tórshavn) 所在的斯特莱默岛 (Streymoy)。因其丰富的自然奇观而被称为“法罗群岛的缩影”。法罗群岛唯一的机场也在沃格岛上，大多数游客法罗群岛之行的起点就是这里。这篇游记详细记录了我们沃格岛自驾一日游的行程。
 
-[#_summary]
+toc::[]
+
+[#itinerary-summary]
 == 行程基本信息
 
-我们住在沃格岛最西侧的 Gásadalur, 从这里出发, 一直到岛东侧的 Sandavágur 然后原路返回. 自西向东依次是下面这几个村子:
+我们在法罗群岛的前几天是住在沃格岛最西侧的戈萨达鲁尔村 (Gásadalur)。从这里出发，一直到岛东侧的桑达沃格村 (Sandavágur) 然后原路返回。自西向东依次是下面这几个村子：
 
 |===
 | 法罗语名 | 音译 | 字面意思
 
 | Gásadalur
 | 戈萨达鲁尔
-| 鹅谷 (Goose Valley)
+| 鹅谷
 
 | Bøur
 | 伯尔
-| 家园, 农庄 (Homestead, Farmstead)
+| 农庄
 
 | Sørvágur
 | 瑟沃格
-| 南湾 (Southern Bay)
+| 南湾
 
 | Vatnsoyrar
-| 瓦图索伊拉
-| 湖边砾石滩 (Lake Gravel Bank)
+| 瓦滕索伊拉尔
+| 湖边浅滩
 
 | Miðvágur
-| 米德沃格
-| 中湾 (Middle Bay)
+| 米沃格
+| 中湾
 
 | Sandavágur
 | 桑达沃格
-| 沙湾 (Sandy Bay)
+| 沙湾
 |===
 
-需要注意的是上面列表中的地名音译不是 "官方" 的, 列在这里仅供参考, 以便于行程中和同伴交流.
+需要注意的是上面列表中的地名音译不是“官方”的，列在这里仅供参考，以便于行程中和同伴交流。
 
-TIP: 法罗语中的地名有很多常见的构成部分, 比如 -dalur 的意思是 "山谷", 而 -vágur 的意思是 "海湾". 其他的部分也通常比较形象和直白, 如果 gás- 是 "鹅". 了解最基本的一点北欧语言的词汇, 对地名记忆很有帮助. 你可能猜到了, 沃格岛的名字 Vágar 也是 "海湾" 的意思, 沃格岛也就是 "海湾之岛".
+[TIP]
+法罗语中的地名有很多常见的构成部分，比如 _-dalur_ 的意思是“山谷”；而 _-vágur_ 的意思是“港湾”。其他的部分也通常比较形象和直白，比如 _gás-_ 是“鹅”。了解一点最基本的北欧语言的词汇，对地名记忆很有帮助。你可能猜到了，沃格岛的名字 Vágar 正是“港湾”的意思，沃格岛也就是“港湾之岛”。
 
-沃格岛不是很大, 自驾一日游并不需要很多时间, 时间规划相对轻松. 什么时间出发主要考虑的因素还是当天的天气变化情况.
+沃格岛不是很大，自驾一日游并不需要很多时间，时间规划相对轻松。什么时间出发主要考虑的因素还是当天的天气变化情况。
 
-[#_gasadalur]
-== Gásadalur
+[#gasadalur]
+== 戈萨达鲁尔
 
-沃格岛最西端的山谷中隐藏着 Gásadalur. 直到 2004 年随着穿山隧道的打通, 这座近乎与世隔绝的小村子才通了公路. 这里是法罗群岛最著名的穆拉瀑布 (Múlafossur) 的所在地. 向西可以看见似乎永远笼罩在云雾里的米基内斯岛. 中间相隔的就是米基内斯峡湾 (Mykinesfjørður).
+沃格岛最西端的山谷中藏着戈萨达鲁尔村。直到 2004 年随着穿山隧道的打通，这座近乎与世隔绝的小村子才通了公路。这里是法罗群岛最具标志性的穆拉瀑布 (Múlafossur) 的所在地。向西可以看见总是笼罩在云雾里的米基内斯岛，而中间与之相隔的就是米基内斯峡湾 (Mykinesfjørður)。下面这张照片中的瀑布就是穆拉瀑布，瀑布背景中的小村子就是戈萨达鲁尔村。
 
-位于世界边缘尽头 Gásadalur 毫无疑问是法罗群岛最漂亮的村庄. 我们在法罗群岛的前半段行程就选择住在这里的 https://www.booking.com/hotel/fo/gasadalur-apartments-world-famous-waterfall.html[Gásadalur Apartments], 一家非常有代表性的公寓民宿. 下面这张照片中的瀑布就是穆拉瀑布. 瀑布背景中的小村子就是 Gásadalur 村. 我们就住在村子右边连着的三间黑色的公寓之一, 终身难忘的体验.
+.穆拉瀑布和戈萨达鲁尔村。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/mulafossur-gasadalur-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/mulafossur-gasadalur-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/mulafossur-gasadalur-vagar-faroe-4x3-2400.avif 2400w"]
 
-.穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)
-image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/mulafossur.webp[穆拉瀑布 (Múlafossur) 和戈萨达鲁尔村 (Gásadalur)]
+位于世界边缘尽头戈萨达鲁尔村毫无疑问是法罗群岛最漂亮的村庄。我们在法罗群岛的前半段行程就选择住在这里的一家非常有代表性的公寓民宿。我们就住在村子右边连着的三间黑色的公寓之一，终身难忘的体验。
 
-从戈萨达鲁尔村 (Gásadalur) 一直延伸到机场所在的瑟沃格村 (Sørvágur) 的 45 号公路, 被称为 "鹅谷之路" (Gásadalsleið), 是法罗群岛旅游观光公路中的一条.
+.戈萨达鲁尔村。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/gasadalur-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/gasadalur-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/gasadalur-vagar-faroe-4x3-2400.avif 2400w"]
 
-TIP: 法罗群岛的旅游观光公路 (Tourist Routes) 在法罗语中被称为 https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Sóljuleiðir], 译成英语是 Buttercup Routes. 这是以法罗群岛的 "国花" Buttercup 命名的. 直译就是 "黄油杯子", 中文学名毛茛 (gèn), 是一种黄油色杯形的小花. 这种花遍布法罗群岛的草丛中.
+从戈萨达鲁尔村到机场所在的瑟沃格村 (Sørvágur) 之间的 45 号公路，被称为“鹅谷之路” (Gásadalsleið)，是法罗群岛旅游观光公路中的一条。
 
-下面这张照片就是戈萨达鲁尔村 (Gásadalur) 的 "鹅谷之路":
+[TIP]
+法罗群岛的旅游观光公路被称为 https://www.landsverk.fo/en-gb/weather-and-driving-conditions/tourist-routes-in-the-faroe-islands[Sóljuleiðir]，以法罗群岛的国花命名。这种花是一种油亮的黄色杯状小野花，在夏季遍布法罗群岛的草丛中。它的法罗语名字 Sólja 直译就是“小太阳”，在中文中则叫毛茛 (gèn)。所以，法罗群岛的旅游公路可以叫做“小太阳花之路”，或者“毛茛花之路”。在路牌上，由一朵醒目的小黄花作为标识。
 
-.戈萨达鲁尔村 (Gásadalur) 的 "鹅谷之路"
-image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/gasadalur.webp[戈萨达鲁尔村 (Gásadalur) 的 "鹅谷之路"]
+.法罗群岛旅游观光公路中的“鹅谷之路”。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/gasadalsleid-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/gasadalsleid-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/gasadalsleid-vagar-faroe-4x3-2400.avif 2400w"]
 
-法罗群岛的名字的含义就是 "绵羊之岛". 在法罗群岛自驾, 一定要时刻小心这些无处不在的羊!
+法罗群岛名字的含义就是“绵羊之岛”。在法罗群岛自驾，一定要时刻小心这些无处不在的羊！
 
-[#_bour]
-== Bøur
+[#bour]
+== 伯尔
 
-从 Gásadalur 向东穿过隧道, 沿着海滨公路不远就到了 Bøur, 一个宁静的小村庄. 在村子的东侧驶下公路有一个小停车场可以停车, 然后可以漫步这个典型的法罗群岛村庄. 这里有很多草皮屋顶的房子, 一座教堂, 还有一个山涧瀑布. 也许还会碰到两条热情的牧羊犬, 一定要陪着你逛完村子直到离开.
+从戈萨达鲁尔向东穿过隧道，沿着海滨公路不远就到了伯尔 (Bøur)，一个宁静的小村庄。在村子的东侧驶下公路有一个小停车场可以停车，然后可以漫步这个典型的法罗群岛村庄。这里有很多草皮屋顶的房子，一座教堂，还有一个山涧瀑布。也许还会碰到两条热情的牧羊犬，一定要陪着你逛完村子才肯离开。
 
-.Bøur 村
-image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/bour.webp[Bøur 村]
+.沃格岛的伯尔村。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/bour-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/bour-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/bour-vagar-faroe-4x3-2400.avif 2400w"]
 
-从 Bøur 继续向东不远, 在峡湾边的坡地上就是 https://www.theview.fo[The View Cottage]. 这里的几间温馨的草顶小屋也是附近绝佳的住宿选项之一. 拥有鹅谷之路上最佳的海景. 在远处就是著名的大海蚀柱和小海蚀柱 (Drangarnir), 高耸的无人岛尖峰岛 (Tindhólmur) 和鹅岛 (Gáshólmur), 还有一如既往笼罩云雾中的 Mykines 岛.
+从伯尔村继续向东不远，在峡湾边的坡地上就是 https://www.theview.fo[The View] 度假小屋。这里的几间温馨的草顶小屋是附近绝佳的住宿选项之一，拥有鹅谷之路上最佳的海景。在远处就是人称“海上拱门”的大小海蚀柱 (Drangarnir)，高耸的无人岛尖峰岛 (Tindhólmur) 和低矮的鹅岛 (Gáshólmur)，还有一如既往笼罩在云雾中的米基内斯岛。
 
-.The View Cottage
-image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/the-view-cottage.webp[The View Cottage]
+.海边的 The View 草顶度假小屋。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/the-view-cottage-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/the-view-cottage-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/the-view-cottage-vagar-faroe-4x3-2400.avif 2400w"]
 
-无人岛 Tindhólmur 名字也是典型的维京名字, 第一部分 tind 很常见, 意思是 "峰 (Peak)", 第二部分 hólmur 更常见, 意思是 "小岛". 这个名字是因为这座岛的的五个明显的尖峰. 有趣的是, 五个尖峰也都有名字, 译成中文分别是 "最远的", "鹰", "小的", "宽的", "弯的". 第二个大概是因为看上去像一只蹲着的鹰, 其他的不用多说了.
+远处的尖峰岛的名字 Tindhólmur 也是典型的维京名字。第一部分 _tind_ 很常见，意思是“尖峰”；第二部分 _hólmur_ 更常见，意思是“小岛”。这个名字是因为这座岛的五个明显的小尖峰。有趣的是，五个小尖峰也都有名字。译成中文分别是“最远的”、“鹰”、“小的”、“宽的”和“弯的”。第二个大概是因为看上去像一只蹲着的鹰，其他的不言自明。
 
-[#_sorvagur]
-== Sørvágur
+[#sorvagur]
+== 瑟沃格
 
-从 Bøur 继续向东下一个村子就是 https://visitvagar.fo/en/about5/about-vagar-and-mykines/the-villages/sorvagur[Sørvágur] 了. 这个村子地处峡湾的尽头. 峡湾和村庄同名, 法罗语是 Sørvágsfjørður, 也就是南湾峡湾. 峡湾一直延伸到西边的 Bøur 村.
+从伯尔继续向东下一个村子就是瑟沃格 (https://visitvagar.fo/en/about5/about-vagar-and-mykines/the-villages/sorvagur[Sørvágur]) 了。
 
-作为沃格岛上最大的村庄, Sørvágur 是岛上的中心和交通枢纽. 沃格机场就在 Sørvágur 村的东侧. 这里的港口也是前往海鹦岛 Mykines 的门户. 来往 Sørvágur 和 Mykines 之间的 https://www.ssl.fo/en/timetable/ferry/36-soervagur-mykines/[Jósup] 号轮渡就在这里的港口停靠. 这艘船还服务于一些热门的乘船游览项目, 比如 https://guidetofaroeislands.fo/book-holiday-trips/drangarnir-sea-stacks-boat-tour/[Drangarnir Sea Stacks Boat Tour].
+作为沃格岛上最大的村庄，瑟沃格村是岛上的中心和交通枢纽。沃格机场 (Vágar Airport) 就在瑟沃格村的东侧。村子里的港口也是前往海鹦岛米基内斯岛的门户。来往瑟沃格村和米基内斯岛之间的 https://www.ssl.fo/en/timetable/ferry/36-soervagur-mykines/[Jósup] 号轮渡就在这里的港口停靠。这艘船还服务于一些热门的乘船游览项目，比如 https://guidetofaroeislands.fo/book-holiday-trips/drangarnir-sea-stacks-boat-tour/[Drangarnir Sea Stacks Boat Tour]。
 
-.往返 Sørvágur 和 Mykines 之间的 Jósup 号轮渡
-image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/ferry-josup.webp[往返 Sørvágur 和 Mykines 之间的 Jósup 号轮渡]
+.来往瑟沃格村和米基内斯岛之间的 Jósup 号轮渡。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/ferry-josup-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/ferry-josup-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/ferry-josup-vagar-faroe-4x3-2400.avif 2400w"]
 
-沃格岛主要的超市之一 https://visitfaroeislands.com/dk/whatson/places/place/a-sorvagur0[Á Sørvágur] 也在村子的中央, 交通和停车都很方便. 这里是采购食品, 水果和其他生活用品的理想去处. 如果刚刚搭乘飞机到达法罗群岛, 而且是自驾游, 推荐这里作为第一站.
+沃格岛主要的超市之一 https://visitfaroeislands.com/dk/whatson/places/place/a-sorvagur0[Á Sørvágur] 也在村子的中央，交通和停车都很方便。虽然很小，但这里已经是岛上采购食品、水果和其他生活用品最理想的地方了。如果刚刚搭乘飞机到达法罗群岛，而且是租车自驾，推荐这里作为第一站。
 
-[#_vatnsoyrar]
-== Vatnsoyrar
+[#vatnsoyrar]
+== 瓦滕索伊拉尔
 
-从 Sørvágur 向东继续前行是 11 号公路. 过了机场不远就是 Vatnsoyrar 村了. 它就在法罗群岛最大的湖 - 悬湖 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/the-lakes/lake-leitisvatn-sorvagsvatn[Sørvágsvatn/Leitisvatn]) 的砾石滩之上, 是岛上唯一不在海边, 而是在湖边的 "内陆" 定居点.
+从瑟沃格村向东是 11 号公路，过了机场不远就是紧邻瑟沃格湖 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/the-lakes/lake-leitisvatn-sorvagsvatn[Sørvágsvatn]) 的小村子**瓦滕索伊拉尔** (Vatnsoyrar)。实际上，这个村的名字的含义就是“湖边浅滩”。它是整个法罗群岛唯一不靠海，而是在湖边的“内陆”村庄。
 
-如果你的行程很悠闲, 不妨拐下公路去湖边. 法罗群岛的文化标志之一, 取材于当地传说的 https://visitvagar.fo/en/whatson/places/place/the-nix-statue[The Nix] 雕像就伫立在悬湖近岸的浅水中.
+瑟沃格湖是法罗群岛最大的湖泊。它的另一个更广为人知的名字是悬湖 (Leitisvatn)。从南岸高耸的奴隶悬崖 (Trælanípa) 望过去，湖面仿佛悬浮在北大西洋的海面之上，形成了举世闻名的“海上悬湖”奇观（从下一个村子出发，可以徒步去看海上悬湖）。
 
-[#_midvagur]
-== Miðvágur
+如果你的行程很悠闲，不妨拐下公路去湖边。法罗群岛的文化标志之一，取材于当地传说的水马雕像 (https://visitvagar.fo/en/whatson/places/place/the-nix-statue[The Nix]) 就伫立在悬湖岸边的浅水中。
 
-从 Vatnsoyrar 沿着湖边公路向东南方向下一个村子就是 https://visitvagar.fo/en/about5/about-vagar-and-mykines/the-villages/midvagur[Miðvágur] 了. 如果有时间, 这个村子有几处值得稍加停留去探访的地方.
+.沃格岛瑟沃格湖岸边幻化为马的水妖雕像 (The Nix)。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/nix-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/nix-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/nix-vagar-faroe-4x3-2400.avif 2400w"]
 
-多数游客来到 Miðvágur 是因为 Trælanípa/Bøsdalafossur 徒步路线的起点就在这个村子的教堂边. 徒步的终点就是奴隶悬崖  (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/tralanipa[Trælanípa]) 和 Bøsdalafossur 瀑布.
+[#midvagur]
+== 米沃格
 
-需要注意的是走 Trælanípa/Bøsdalafossur 这条徒步路线需要在土地拥有者设立在起点的接待处签到, 并支付不菲的徒步费 (2025 年时每成人 200 克朗). 详细信息参考 https://www.tralanipan.fo[Trælanípa 土地拥有者的网站].
+从湖边的小村子沿着湖岸公路向南，下一个村子就是**米沃格** (https://visitvagar.fo/en/about5/about-vagar-and-mykines/the-villages/midvagur[Miðvágur]) 了。
 
-[#_sandavagur]
-== Sandavágur
+大多数游客来到米沃格是因为徒步奴隶悬崖和悬湖瀑布 (https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/tralanipa[Trælanípa/Bøsdalafossur]) 的起点就在这个村子的教堂边。
 
-自驾游在沃格岛西侧的最后一站是 https://visitvagar.fo/en/about5/about-vagar-and-mykines/the-villages/sandavagur[Sandavágur] 村. 从这里沿着 11 号公路一直向北前行就是连接沃格岛和斯特莱默岛 (Streymoy) 的海底隧道了.
+需要注意的是走这条徒步路线需要在土地拥有者设立在起点的接待处签到，并支付不菲的徒步费 (每人 200 丹麦克朗)。详细信息参考奴隶悬崖土地拥有者的网站 https://www.tralanipan.fo[tralanipan.fo]。
 
-这个村庄是我们最喜欢的一站, 风景如画, 特别是村庄教堂极具特色的红色屋顶使其成为法罗群岛最漂亮的教堂之一. 教堂旁边还有一个取材于民间传说的牧羊人雕像 (https://visitvagar.fo/en/about5/stories-and-legends0/the-shepherd-of-sondum[The Shepherd of Sondum]).
+[#sandavagur]
+== 桑达沃格
 
-.Sandavágur
-image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/sandavagur.webp[Sandavágur]
+沃格岛西侧的最后一个村子是桑达沃格 (https://visitvagar.fo/en/about5/about-vagar-and-mykines/the-villages/sandavagur[Sandavágur])。从这里沿着 11 号公路一直向北行驶就是连接沃格岛和法罗群岛的主岛斯特莱默岛 (Streymoy) 的海底隧道了。
 
-当然, 在 Sandavágur 最吸引人的, 莫过于从村子出发徒步去看当地人称为 https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1[Trøllkonufingur] 的奇石了. 它的名字的字面意思就是 Troll Woman's Finger 或者 The Witch's Finger, 也就是 "女巨魔的手指" 或者 "女巫的手指". 看看下面的照片, 有那么一点像.
+这个村庄是我们最喜欢的一站，风景如画，特别是村庄教堂极具特色的红色屋顶使其成为法罗群岛最漂亮的教堂之一。教堂旁边还有一个取材于民间传说的牧羊人雕像 (https://visitvagar.fo/en/about5/stories-and-legends0/the-shepherd-of-sondum[The Shepherd of Sondum]).
 
-.女巫手指 (Trøllkonufingur)
-image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/trollkonufingur.webp[女巫手指 (Trøllkonufingur)]
+.沃格岛的桑达沃格村 (Sandavágur)。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/church-sandavagur-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/church-sandavagur-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/church-sandavagur-vagar-faroe-4x3-2400.avif 2400w"]
 
-女巫手指徒步路线是法罗群岛热门徒步路线中少有的几个免费的之一. 详细信息可以参考我们的攻略: link:{% post_url 2025-06-29-hiking-trollkonufingur %}[徒步法罗群岛女巫手指].
+当然，在桑达沃格最吸引人的，莫过于从村子出发徒步去看当地人称为 https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1[Trøllkonufingur] 的奇石了。它的名字的字面意思就是“女巫手指”。看看下面的照片，有那么一点像。
 
-徒步回来后, 推荐在 Sandavágur 东南端的海鲜餐馆 https://visitvagar.fo/en/whatson/places/place/fiskastykkid0?region=7[Fiskastykkið] 犒赏一下自己. 餐馆主打均衡营养的海鲜菜式, 内部装潢很有当地特色, 尤其是其中的的鱼皮吊灯.
+.沃格岛上的女巫手指 (Trøllkonufingur)。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/trollkonufingur-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/trollkonufingur-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/trollkonufingur-vagar-faroe-4x3-2400.avif 2400w"]
 
-.海鲜餐厅 Fiskastykkið
-image::assets/images/2025/lofoten-faroe/one-day-road-trip-on-vagar-island/fiskastykkid.webp[海鲜餐厅 Fiskastykkið]
+在法罗群岛热门徒步路线中，女巫手指是少数几个免费的路线之一。详细信息可以参考我们的攻略：link:{% post_url 2025-06-29-hiking-trollkonufingur %}[徒步法罗群岛女巫手指]。
 
-[#_hikings_with_fees]
+徒步回来后，推荐在桑达沃格东南端的海鲜餐馆 https://visitvagar.fo/en/whatson/places/place/fiskastykkid0?region=7[Fiskastykkið] 犒赏一下自己。餐馆主打均衡营养的海鲜菜式，内部装潢很有当地特色，尤其是其中的的鱼皮吊灯。
+
+.沃格岛上的 Fiskastykkið 海鲜餐厅。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/fiskastykkid-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/fiskastykkid-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/day-trip-vagar-faroe/fiskastykkid-vagar-faroe-4x3-2400.avif 2400w"]
+
+[#hikings-with-fees]
 == 收费的徒步
 
-如果时间和精力非常充足, 特别是不差钱, 在沃格岛有几个需要支付徒步费或者必须跟当地导游的徒步游览项目, 绝对值得尝试, 当然也价格不菲.
+如果时间和精力非常充足，特别是还不差钱，在沃格岛有几个需要支付徒步费或者必须跟当地导游的徒步游览项目，绝对值得尝试，当然也价格不菲。
 
-* https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/drangarnir[Drangarnir]: 法罗群岛最有名的海蚀柱, 海拱门, 需要当地导游
-* https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/dunnesdrangar[Dunnesdrangar]: 两个海蚀柱, 需要当地导游
-* https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/tralanipa[Trælanípa]: 奴隶悬崖, 瀑布和悬湖, 需要向地主支付徒步费
+* https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/drangarnir[Drangarnir]: 法罗群岛最有名的海蚀柱，海拱门，需要当地导游；
+* https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/dunnesdrangar[Dunnesdrangar]: 两个海蚀柱，需要当地导游；
+* https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/tralanipa[Trælanípa]: 奴隶悬崖，悬湖瀑布，需要向地主支付徒步费。
+
+[#pois-map]
+== 兴趣点地图
+
+附上法罗群岛沃格岛一日游的兴趣点交互式地图：
+
+++++
+{% include map-pois.html source="denmark-faroe-islands-vagar-day-trip-pois" %}
+++++
 
 [#_resources]
 == 参考资源
