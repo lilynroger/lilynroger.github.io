@@ -22,8 +22,97 @@ difficulties:
         title: Grading of trails
         publisher: The Norwegian Trekking Association, DNT, dnt.no
         year: 2024
-
+  faroe:
+    name: 步道难度 - 法罗群岛官方旅游局 (Visit Faroe Islands)
+    levels:
+      easy:
+        label: 简单（绿色） Easy (Green)
+        icon: |-
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 85" width="18" height="18" style="vertical-align: -0.15em; display: inline-block;" aria-label="Easy trail icon">
+            <circle cx="62" cy="18" r="9" fill="none" stroke="#333333" stroke-width="5"/>
+            <polygon points="8,76 42,20 76,76" fill="#2E7D32"/>
+            <polyline points="29,42 36,36 42,41 48,36 55,42" fill="none" stroke="#333333" stroke-width="4" stroke-linejoin="round"/>
+            <polygon points="46,76 70,36 94,76" fill="#2E7D32"/>
+            <polyline points="60,53 65,48 70,52 75,48 80,53" fill="none" stroke="#333333" stroke-width="4" stroke-linejoin="round"/>
+            <polyline points="8,76 42,20 58,46" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+            <polyline points="46,76 70,36 94,76" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+          </svg>
+      medium:
+        label: 中等（蓝色） Medium (Blue)
+        icon: |-
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 85" width="18" height="18" style="vertical-align: -0.15em; display: inline-block;" aria-label="Medium trail icon">
+            <circle cx="62" cy="18" r="9" fill="none" stroke="#333333" stroke-width="5"/>
+            <polygon points="8,76 42,20 76,76" fill="#1D6398"/>
+            <polyline points="29,42 36,36 42,41 48,36 55,42" fill="none" stroke="#333333" stroke-width="4" stroke-linejoin="round"/>
+            <polygon points="46,76 70,36 94,76" fill="#1D6398"/>
+            <polyline points="60,53 65,48 70,52 75,48 80,53" fill="none" stroke="#333333" stroke-width="4" stroke-linejoin="round"/>
+            <polyline points="8,76 42,20 58,46" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+            <polyline points="46,76 70,36 94,76" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+          </svg>
+      challenging:
+        label: 困难（红色） Challenging (Red)
+        icon: |-
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 85" width="18" height="18" style="vertical-align: -0.15em; display: inline-block;" aria-label="Challenging trail icon">
+            <circle cx="62" cy="18" r="9" fill="none" stroke="#333333" stroke-width="5"/>
+            <polygon points="8,76 42,20 76,76" fill="#A63A33"/>
+            <polyline points="29,42 36,36 42,41 48,36 55,42" fill="none" stroke="#333333" stroke-width="4" stroke-linejoin="round"/>
+            <polygon points="46,76 70,36 94,76" fill="#A63A33"/>
+            <polyline points="60,53 65,48 70,52 75,48 80,53" fill="none" stroke="#333333" stroke-width="4" stroke-linejoin="round"/>
+            <polyline points="8,76 42,20 58,46" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+            <polyline points="46,76 70,36 94,76" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+          </svg>
+      expert:
+        label: 专业（黑色） Expert (Black)
+        icon: |-
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 85" width="18" height="18" style="vertical-align: -0.15em; display: inline-block;" aria-label="Expert trail icon">
+            <circle cx="62" cy="18" r="9" fill="none" stroke="#333333" stroke-width="5"/>
+            <polygon points="8,76 42,20 76,76" fill="#1A1A1A"/>
+            <polyline points="29,42 36,36 42,41 48,36 55,42" fill="none" stroke="#555555" stroke-width="4" stroke-linejoin="round"/>
+            <polygon points="46,76 70,36 94,76" fill="#1A1A1A"/>
+            <polyline points="60,53 65,48 70,52 75,48 80,53" fill="none" stroke="#555555" stroke-width="4" stroke-linejoin="round"/>
+            <polyline points="8,76 42,20 58,46" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+            <polyline points="46,76 70,36 94,76" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+          </svg>
+    links:
+      - url: https://visitfaroeislands.com/en/see-do/activities/hiking/trail-difficulty
+        title: Grading Of Trails
+        publisher: Visit Faroe Islands, visitfaroeislands.com
 routes:
+  denmark:
+    faroe:
+      trollkonufingur:
+        name: 女巫手指 (Trøllkonufingur)
+        names:
+          - value: Trøllkonufingur
+            language: Faroese
+            languageTag: fo
+        type:
+          value: outAndBack
+        difficulty:
+          value: easy
+          system: faroe
+        altitude:
+          value: 130
+          unit: m
+        elevationGain:
+          value: 70
+          unit: m
+        distance:
+          value: 3
+          unit: km
+          roundTrip: true
+        estimatedTime:
+          value: 1
+          unit: h
+          roundTrip: true
+        season:
+          yearRound: true
+        links:
+          vvtf:
+            url: https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1
+            title: Trøllkonufingur
+            publisher: visitvagar.fo
+
   norway:
     nordland:
       floyaAndDjevelporten:

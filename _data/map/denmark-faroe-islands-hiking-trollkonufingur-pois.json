@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "P",
+                "name": "女巫手指徒步起点停车场",
+                "category": "parking",
+                "address": "Traðarvegur / Undir Halgaheyggi / Úti á Trøð 交汇处, 360 Sandavágur, Faroe Islands",
+                "osm_url": "https://www.openstreetmap.org/node/13031931701",
+                "description": "距离女巫手指徒步路线最近的小停车场，位于三条公路的汇合点。由此沿破旧老路 Úti á Trøð 步行前往观景点（该路段仅限步行，自驾车辆需停放于此）。"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1450739,
+                    62.0509315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "V",
+                "name": "女巫手指观景点",
+                "category": "viewpoint",
+                "address": "Úti á Trøð 步道终点, 360 Sandavágur, Faroe Islands",
+                "osm_url": "https://www.openstreetmap.org/node/4918755823",
+                "description": "女巫手指徒步路线终点观景台。从停车场出发沿老路步行穿过栅栏门并跨过小溪上坡即达，可正面眺望313米高的海蚀柱奇石与远处的科尔图尔岛。"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.12569,
+                    62.04475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "T",
+                "name": "女巫手指",
+                "category": "natural_cliff",
+                "address": "Sandavágur 东南海岸, Vágar, Faroe Islands",
+                "osm_url": "https://www.openstreetmap.org/node/302101358",
+                "description": "女巫手指 (Trøllkonufingur) 是高 313 米的巍峨海蚀柱。传说中化作石头的女巫沉入海底后，唯有手指与后脑勺仍露出海面。"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.08770,
+                    62.04664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "F",
+                "name": "Fiskastykkið 海鲜餐馆",
+                "category": "restaurant",
+                "address": "Úti á Bakka 12, 360 Sandavágur, Faroe Islands",
+                "osm_url": "https://www.openstreetmap.org/node/7835458985",
+                "description": "位于桑达沃格 (Sandavágur) 东南端的特色海鲜餐馆，主打营养均衡的当地海鲜菜式，店内标志性的鱼皮吊灯极具法罗群岛渔村风情，适合徒步后休憩用餐。"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.15034,
+                    62.04956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "C",
+                "name": "桑达沃格教堂",
+                "category": "landmark",
+                "address": "360 Sandavágur, Vágar, Faroe Islands",
+                "osm_url": "https://www.openstreetmap.org/way/229119005",
+                "description": "建于 1917 年的地标村庄教堂，醒目红色屋顶与白色墙体在山海间极具辨识度，是法罗群岛最漂亮的教堂之一。"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.15147,
+                    62.05388
+                ]
+            }
+        }
+    ]
+}

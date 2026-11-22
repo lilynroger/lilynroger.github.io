@@ -1,77 +1,107 @@
-= 徒步法罗群岛的女巫手指
-:page-subtitle: Hiking Trøllkonufingur in Foroe Islands
-:page-date: 2025-06-29 12:00:00 +0100
-:page-image: /assets/images/2025/lofoten-faroe/hiking-trollkonufingur/trollkonufingur.webp
-:page-layout: post
-:page-categories: posts
-:page-tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 运动, 徒步]
-:page-liquid:
-:toc:
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/hiking-trollkonufingur-4x3-1200.avif
+  alt: 矗立在法罗群岛沃格岛 (Vágar) 悬崖边的女巫手指海蚀柱 (Trøllkonufingur) 。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/hiking-trollkonufingur-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/hiking-trollkonufingur-4x3-2400.avif 2400w
+
+layout: article
+map: true
+categories: posts
+date: 2025-06-29 12:00:00 +0100
+last_modified_at: 2026-11-22 10:45:00 +0800
+tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 运动, 徒步]
+tagline: 法罗群岛的缩影
+description: 法罗语 Trøllkonufingur 直译是“女巨魔的手指”，常被叫做“女巫手指”。它是在法罗群岛沃格岛 (Vágar) 东南海岸悬崖边上的一座标志性的海蚀柱。这篇攻略介绍如何徒步前往它的观景点。
+---
+= 徒步法罗群岛：沃格岛的女巫手指海蚀柱 (Trøllkonufingur) 
+:page-liquid: true
+:toc: macro
+:toclevels: 2
 :sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/
 :url-trail-difficulty: https://visitfaroeislands.com/en/see-do/activities/hiking/trail-difficulty
 
-法罗语 https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1[Trøllkonufingur] 的意思是 Troll Woman's Finger/The Witch's Finger, 女巨魔的手指或女巫的手指. 它是一座巍峨耸立于海平面上高 313 米的奇石, 在沃格岛 (Vágar) 上的 Sandavágur 村的东南端. 前往女巫手指的观景点需要徒步, 是法罗群岛少数无需徒步费的热门徒步路线之一.
+法罗语 https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1[Trøllkonufingur] 直译是“女巨魔的手指”，不过常被叫做“女巫手指”。它是耸立在法罗群岛沃格岛 (Vágar) 东南海岸悬崖边上的一座高 313 米的海蚀柱。这篇攻略介绍如何从徒步前往女巫手指的观景点。这条徒步路线是法罗群岛少数无需徒步费的热门徒步路线之一。
 
-.女巫手指 (Trøllkonufingur)
-image::assets/images/2025/lofoten-faroe/hiking-trollkonufingur/trollkonufingur.webp[女巫手指 (Trøllkonufingur)]
+[#quick-facts]
+== 徒步基本信息
 
-== 徒步路线基本信息
+{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.denmark.faroe.trollkonufingur %}
 
-* *路线类型*: 往返 (Out-and-Back)
-* *距离*: 3 公里 (往返)
-* *累计爬升*: 100 米
-* *用时*: 1 小时
-* *难度*: 简单 (Easy), {url-trail-difficulty}[法罗群岛步道难度]
+[#legend]
+== 民间传说
 
-== 传说
+在北欧的神话传说中，巨魔（Troll，法罗语：Trøll）是最具代表性的神话人物。他们体型巨大，有时堪比山岳；力大无穷，甚至能移山填海。但是，巨魔们差不多都有怕阳光的致命弱点，一旦黎明前没能躲回山洞，阳光会把他们变成石头。
 
-当地传说一个女巫曾想将法罗群岛扔到冰岛那边去. 可当她来到沃格岛南部的海洋时, 太阳升起, 她被化成了石头, 掉到了海水中. 她非常巨大, 以至于当她到了海底时, 她的后脑勺和手指仍然在海面之上. 她的后脑勺是远处的科尔图尔岛 (Koltur), 而手指就是 Trøllkonufingur.
+在法罗群岛当地的民间传说中，一个女巨魔在沃格岛南部的海洋中活动时，不慎被升起的太阳化成了石头，掉到了海里。她非常巨大，以至于当她沉到了海底时，她的手指仍然在海面之上，变成了那座女巫手指海蚀柱。
 
+[#getting-to-trailhead]
 == 如何前往
 
-女巫手指在法罗群岛的沃格岛东侧的 https://visitvagar.fo/en/about5/about-vagar-and-mykines/the-villages/sandavagur[Sandavágur] 村. 这个村庄是我们在沃格岛最喜欢的村子之一, 风景如画, 特别是村庄教堂极具特色的红色屋顶使其成为法罗群岛最漂亮的教堂之一.
+女巫手指在法罗群岛的沃格岛最东边的村落**桑达沃格** (https://visitvagar.fo/en/about5/about-vagar-and-mykines/the-villages/sandavagur[Sandavágur])。这个村庄是我们在沃格岛最喜欢的村子之一，风景如画，特别是红顶白墙的村庄教堂极具特色，是法罗群岛最漂亮的教堂之一。
 
-.Sandavágur
-image::assets/images/2025/lofoten-faroe/hiking-trollkonufingur/sandavagur.webp[Sandavágur]
+.沃格岛的桑达沃格村 (Sandavágur)。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/sandavagur-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/sandavagur-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/sandavagur-vagar-faroe-4x3-2400.avif 2400w"]
 
-女巫手指徒步的起点在 Sandavágur 村东南端. 驾车的话可以盘桓而上开到最高的一条名叫 Traðarvegur 的公路, 直到在下面三条路的汇合点, 这里有一个距离徒步路线最近的小停车场:
+前往女巫手指的步道起点在桑达沃格村的东南端。驾车的话可以盘桓而上开到地势最高的一条名叫 Traðarvegur 的公路上。这条公路的尽头有一个距离步道最近的小停车场，是以下三条路的三叉路口：
 
 * Traðarvegur
-* undir Halgheyggi
+* Undir Halgheyggi
 * Úti á Trøð
 
-其中 Úti á Trøð 是一条破旧的老路, 就是沿着这条路去往女巫手指的观景点. 
+其中 Úti á Trøð 是一条破旧的老路，就是沿着这条路徒步前往女巫手指的观景点。参考下面的地图（标记 P 是停车场，而 V 就是观景点）：
 
-.女巫手指徒步路线的地图
-image::assets/images/2025/lofoten-faroe/hiking-trollkonufingur/trollkonufingur-map.webp[女巫手指徒步路线的地图]
+++++
+{% include map-pois.html source="denmark-faroe-islands-hiking-trollkonufingur-pois" showLabels="true" %}
+++++
 
-注意  Úti á Trøð 这条路必须有土地拥有者的允许才能开车, 所以只能徒步, 车要停在停车场. 如果这个路口的停车场停满了, 村子低处还有另外的停车场, 不过稍远些. 值得一提的是有的导航软件中会标记出这个小停车场, 而有的则没有. 导航到公路汇合点就可以了.
+**注意：**在 Úti á Trøð 这条路必须有土地拥有者的允许才能开车，所以只能徒步，车要停在停车场。如果这个三叉路口的停车场停满了，村子低处还有另外的停车场，不过稍远些。值得一提的是有的导航软件中会标记出这个小停车场，而有的则没有，导航到公路汇合点就可以了。
 
+[#trail-detail]
 == 徒步路线
 
-沿着 Úti á Trøð 就可以走到女巫手指的观景点. 离开停车场不远, 就可以看到女巫手指的信息指示牌:
+沿着 Úti á Trøð 就可以一直走到女巫手指的观景点。离开停车场不远, 就可以看到路旁的女巫手指解说牌：
 
-.女巫手指信息指示牌
-image::assets/images/2025/lofoten-faroe/hiking-trollkonufingur/trollkonufingur-info.webp[女巫手指信息指示牌]
+.女巫手指的解说牌。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/interpretive-sign-trollkonufingur-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/interpretive-sign-trollkonufingur-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/interpretive-sign-trollkonufingur-vagar-faroe-4x3-2400.avif 2400w"]
 
-这条路虽然有点破旧, 但对徒步来说是非常好了, 路线起伏也不大. 沿途风景秀丽, 道路旁边不远就是海湾, 可以看到三文鱼养殖场的巨大圆形围网和工作船. 整体来说是一条非常轻松惬意的徒步路线.
+这条小路虽然有点破旧，但对徒步来说是非常好了。路线起伏不大，沿途风景秀丽，整体来说是一条非常轻松惬意的徒步路线。
 
-.女巫手指徒步路线
-image::assets/images/2025/lofoten-faroe/hiking-trollkonufingur/trollkonufingur-trail.webp[女巫手指徒步路线]
+.在女巫手指观景点回望来时的步道。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/trail-trollkonufingur-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/trail-trollkonufingur-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/trail-trollkonufingur-vagar-faroe-4x3-2400.avif 2400w"]
 
-沿着 Úti á Trøð 一直走到一处栅栏门, 进门跨过小溪上坡就是女巫手指的观景点了.
+步道旁不远处的水域是沃格峡湾 (Vágafjørður)，可以看到三文鱼网箱养殖场的巨大圆形围网和工作船。
 
-据说在 1844 年, 丹麦王室随行人员的一名成员爬上了女巫手指, 在山顶向乘船经过的弗雷德里克王储挥手. 当他下山时意识到自己把一只手套留在了山顶. 他决定再爬上去取回手套. 由于他刚刚爬完第一遍, 已经很累了, 结果不慎摔下山崖致死.
+.沃格峡湾 (Vágafjørður) 中的海上三文鱼养殖场。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/salmon-farming-cages-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/salmon-farming-cages-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/salmon-farming-cages-vagar-faroe-4x3-2400.avif 2400w"]
 
-截止至 2022 年, 已知只有 11 人爬到过女巫手指的顶峰, 最近一次成功的攀登是在 2016 年.
+沿着 Úti á Trøð 一直走到一处栅栏门，**进门后记得关上门**，免得里面的羊都跑了。
 
+.通往女巫手指观景点的栅栏门。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/gate-trollkonufingur-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/gate-trollkonufingur-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/gate-trollkonufingur-vagar-faroe-4x3-2400.avif 2400w"]
+
+跨过门后的小溪，上坡就是女巫手指的观景点了。悬崖边上高耸的海蚀柱就是女巫手指，正后方背景中的大岛是法罗群岛的主岛、首都托尔斯港所在的斯特莱默岛 (Streymoy)。如果继续向右，会看到一座像个馒头一样的岛，那是科尔图尔岛 (Koltur)，传说是化成石头的女巫露在海面上的后脑勺。
+
+.沃格岛的女巫手指 (Trøllkonufingur) 海蚀柱。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/trollkonufingur-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/trollkonufingur-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/trollkonufingur-vagar-faroe-4x3-2400.avif 2400w"]
+
+[#fiskastykkid]
 == 餐馆 Fiskastykkið
 
-徒步女巫手指回来后, 推荐在 Sandavágur 东南端的海鲜餐馆 https://visitvagar.fo/en/whatson/places/place/fiskastykkid0?region=7[Fiskastykkið] 犒赏一下自己. 餐馆主打均衡营养的海鲜菜式, 内部装潢很有当地特色, 尤其是其中的的鱼皮吊灯.
+徒步女巫手指回来后，推荐在桑达沃格村子东南端的海鲜餐馆 https://visitvagar.fo/en/whatson/places/place/fiskastykkid0?region=7[Fiskastykkið] 犒赏一下自己。餐馆内部装潢很有当地特色，尤其是其中的的鱼皮吊灯。
 
-.海鲜餐馆 Fiskastykkið
-image::assets/images/2025/lofoten-faroe/hiking-trollkonufingur/fiskastykkid.webp[海鲜餐馆 Fiskastykkið]
+.桑达沃格村中的特色海鲜餐馆 Fiskastykkið 的内部。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/fiskastykkid-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/fiskastykkid-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/fiskastykkid-vagar-faroe-4x3-2400.avif 2400w"]
 
+餐馆主打均衡营养的海鲜菜式：
+
+.桑达沃格村中的特色海鲜餐馆 Fiskastykkið 的菜式。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/dishes-fiskastykkid-vagar-faroe-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/dishes-fiskastykkid-vagar-faroe-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-trollkonufingur/dishes-fiskastykkid-vagar-faroe-4x3-2400.avif 2400w"]
+
+[#resources]
 == 参考资源
 
 * 法罗群岛旅游官网之女巫手指: https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1[Trøllkonufingur]
