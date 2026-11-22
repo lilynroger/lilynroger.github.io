@@ -1,22 +1,37 @@
 types:
   loop:
-    label: 环形 (Loop)
-  outAndBack:
-    label: 往返 (Out-and-Back)
-  pointToPoint:
-    label: 点对点 (Point-to-Point)
+    label: 环形
+    label_en: Loop
+  out_and_back:
+    label: 往返
+    label_en: Out-and-Back
+  point_to_point:
+    label: 点对点
+    label_en: Point-to-Point
 difficulties:
   norway:
     name: 步道分级系统 - 挪威徒步旅行协会 (The Norwegian Trekking Association, DNT)
     levels:
       green:
-        label: 绿色 | 简单 (Green | Easy)
+        label: 绿色 | 简单
+        label_en: Green | Easy
+        icon: |-
+          <svg focusable="false" aria-hidden="true" viewBox="0 0 16 16" width="1em" height="1em"><rect x="0.5" y="0.5" width="15" height="15" fill="#00b432" stroke="#ffffff" stroke-width="0.75"/><path transform="translate(14.4 1.6) scale(-0.8 0.8)" fill="#ffffff" d="M9.06739 4.55078C9.37058 6.07189 10.4861 7.29516 11.9443 7.74121V8.8916H11.9434C10.6727 8.73319 9.54542 8.11344 8.73048 7.20703L8.40919 8.11621L10.127 11.4404L10.5654 15H9.42188L8.84962 12.0918L7.65724 10.2568L7.1338 11.75L5.99024 14.998H4.84669L5.54981 11.5264L5.99024 9.35352L5.85743 8.2373L7.37403 3.9375L9.06739 4.55078ZM4.52931 3.8125C4.69169 3.36709 5.18348 3.13718 5.62892 3.29883L6.43556 3.59277L4.8711 7.8916L4.06446 7.59863C3.61963 7.43625 3.39013 6.94445 3.55177 6.49902L4.52931 3.8125ZM9.13575 1C9.76745 1 10.2793 1.51186 10.2793 2.14355C10.2793 2.77525 9.76745 3.28711 9.13575 3.28711C8.50411 3.28704 7.9922 2.77521 7.9922 2.14355C7.9922 1.5119 8.50411 1.00007 9.13575 1Z"/></svg>
       blue:
-        label: 蓝色 | 中等 (Blue | Moderate)
+        label: 蓝色 | 中等
+        label_en: Blue | Moderate
+        icon: |-
+          <svg focusable="false" aria-hidden="true" viewBox="0 0 16 16" width="1em" height="1em"><rect x="0.5" y="0.5" width="15" height="15" fill="#1f78ff" stroke="#ffffff" stroke-width="0.75"/><path transform="translate(14.4 1.6) scale(-0.8 0.8)" fill="#ffffff" d="M9.06739 4.55078C9.37058 6.07189 10.4861 7.29516 11.9443 7.74121V8.8916H11.9434C10.6727 8.73319 9.54542 8.11344 8.73048 7.20703L8.40919 8.11621L10.127 11.4404L10.5654 15H9.42188L8.84962 12.0918L7.65724 10.2568L7.1338 11.75L5.99024 14.998H4.84669L5.54981 11.5264L5.99024 9.35352L5.85743 8.2373L7.37403 3.9375L9.06739 4.55078ZM4.52931 3.8125C4.69169 3.36709 5.18348 3.13718 5.62892 3.29883L6.43556 3.59277L4.8711 7.8916L4.06446 7.59863C3.61963 7.43625 3.39013 6.94445 3.55177 6.49902L4.52931 3.8125ZM9.13575 1C9.76745 1 10.2793 1.51186 10.2793 2.14355C10.2793 2.77525 9.76745 3.28711 9.13575 3.28711C8.50411 3.28704 7.9922 2.77521 7.9922 2.14355C7.9922 1.5119 8.50411 1.00007 9.13575 1Z"/></svg>
       red:
-        label: 红色 | 困难 (Red | Demanding)
+        label: 红色 | 困难
+        label_en: Red | Demanding
+        icon: |-
+          <svg focusable="false" aria-hidden="true" viewBox="0 0 16 16" width="1em" height="1em"><rect x="0.5" y="0.5" width="15" height="15" fill="#ff0000" stroke="#ffffff" stroke-width="0.75"/><path transform="translate(14.4 1.6) scale(-0.8 0.8)" fill="#ffffff" d="M9.06739 4.55078C9.37058 6.07189 10.4861 7.29516 11.9443 7.74121V8.8916H11.9434C10.6727 8.73319 9.54542 8.11344 8.73048 7.20703L8.40919 8.11621L10.127 11.4404L10.5654 15H9.42188L8.84962 12.0918L7.65724 10.2568L7.1338 11.75L5.99024 14.998H4.84669L5.54981 11.5264L5.99024 9.35352L5.85743 8.2373L7.37403 3.9375L9.06739 4.55078ZM4.52931 3.8125C4.69169 3.36709 5.18348 3.13718 5.62892 3.29883L6.43556 3.59277L4.8711 7.8916L4.06446 7.59863C3.61963 7.43625 3.39013 6.94445 3.55177 6.49902L4.52931 3.8125ZM9.13575 1C9.76745 1 10.2793 1.51186 10.2793 2.14355C10.2793 2.77525 9.76745 3.28711 9.13575 3.28711C8.50411 3.28704 7.9922 2.77521 7.9922 2.14355C7.9922 1.5119 8.50411 1.00007 9.13575 1Z"/></svg>
       black:
-        label: 黑色 | 专业 (Black | Expert)
+        label: 黑色 | 专业
+        label_en: Black | Expert
+        icon: |-
+          <svg focusable="false" aria-hidden="true" viewBox="0 0 16 16" width="1em" height="1em"><rect x="0.5" y="0.5" width="15" height="15" fill="#000000" stroke="#ffffff" stroke-width="0.75"/><path transform="translate(14.4 1.6) scale(-0.8 0.8)" fill="#ffffff" d="M9.06739 4.55078C9.37058 6.07189 10.4861 7.29516 11.9443 7.74121V8.8916H11.9434C10.6727 8.73319 9.54542 8.11344 8.73048 7.20703L8.40919 8.11621L10.127 11.4404L10.5654 15H9.42188L8.84962 12.0918L7.65724 10.2568L7.1338 11.75L5.99024 14.998H4.84669L5.54981 11.5264L5.99024 9.35352L5.85743 8.2373L7.37403 3.9375L9.06739 4.55078ZM4.52931 3.8125C4.69169 3.36709 5.18348 3.13718 5.62892 3.29883L6.43556 3.59277L4.8711 7.8916L4.06446 7.59863C3.61963 7.43625 3.39013 6.94445 3.55177 6.49902L4.52931 3.8125ZM9.13575 1C9.76745 1 10.2793 1.51186 10.2793 2.14355C10.2793 2.77525 9.76745 3.28711 9.13575 3.28711C8.50411 3.28704 7.9922 2.77521 7.9922 2.14355C7.9922 1.5119 8.50411 1.00007 9.13575 1Z"/></svg>
     links:
       - url: https://www.dnt.no/om-dnt/english/need-to-know-about-norwegian-outdoor-life/grading-of-trails/
         title: Grading of trails
@@ -26,52 +41,56 @@ difficulties:
     name: 步道难度 - 法罗群岛官方旅游局 (Visit Faroe Islands)
     levels:
       easy:
-        label: 简单（绿色） Easy (Green)
+        label: 简单（绿色）
+        label_en: Easy (Green)
         icon: |-
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 85" width="18" height="18" style="vertical-align: -0.15em; display: inline-block;" aria-label="Easy trail icon">
-            <circle cx="62" cy="18" r="9" fill="none" stroke="#333333" stroke-width="5"/>
+            <circle cx="62" cy="18" r="9" fill="none" stroke="currentColor" stroke-width="5"/>
             <polygon points="8,76 42,20 76,76" fill="#2E7D32"/>
-            <polyline points="29,42 36,36 42,41 48,36 55,42" fill="none" stroke="#333333" stroke-width="4" stroke-linejoin="round"/>
+            <polyline points="29,42 36,36 42,41 48,36 55,42" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
             <polygon points="46,76 70,36 94,76" fill="#2E7D32"/>
-            <polyline points="60,53 65,48 70,52 75,48 80,53" fill="none" stroke="#333333" stroke-width="4" stroke-linejoin="round"/>
-            <polyline points="8,76 42,20 58,46" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
-            <polyline points="46,76 70,36 94,76" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+            <polyline points="60,53 65,48 70,52 75,48 80,53" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+            <polyline points="8,76 42,20 58,46" fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+            <polyline points="46,76 70,36 94,76" fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
           </svg>
       medium:
-        label: 中等（蓝色） Medium (Blue)
+        label: 中等（蓝色）
+        label_en: Medium (Blue)
         icon: |-
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 85" width="18" height="18" style="vertical-align: -0.15em; display: inline-block;" aria-label="Medium trail icon">
-            <circle cx="62" cy="18" r="9" fill="none" stroke="#333333" stroke-width="5"/>
+            <circle cx="62" cy="18" r="9" fill="none" stroke="currentColor" stroke-width="5"/>
             <polygon points="8,76 42,20 76,76" fill="#1D6398"/>
-            <polyline points="29,42 36,36 42,41 48,36 55,42" fill="none" stroke="#333333" stroke-width="4" stroke-linejoin="round"/>
+            <polyline points="29,42 36,36 42,41 48,36 55,42" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
             <polygon points="46,76 70,36 94,76" fill="#1D6398"/>
-            <polyline points="60,53 65,48 70,52 75,48 80,53" fill="none" stroke="#333333" stroke-width="4" stroke-linejoin="round"/>
-            <polyline points="8,76 42,20 58,46" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
-            <polyline points="46,76 70,36 94,76" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+            <polyline points="60,53 65,48 70,52 75,48 80,53" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+            <polyline points="8,76 42,20 58,46" fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+            <polyline points="46,76 70,36 94,76" fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
           </svg>
       challenging:
-        label: 困难（红色） Challenging (Red)
+        label: 困难（红色）
+        label_en: Challenging (Red)
         icon: |-
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 85" width="18" height="18" style="vertical-align: -0.15em; display: inline-block;" aria-label="Challenging trail icon">
-            <circle cx="62" cy="18" r="9" fill="none" stroke="#333333" stroke-width="5"/>
+            <circle cx="62" cy="18" r="9" fill="none" stroke="currentColor" stroke-width="5"/>
             <polygon points="8,76 42,20 76,76" fill="#A63A33"/>
-            <polyline points="29,42 36,36 42,41 48,36 55,42" fill="none" stroke="#333333" stroke-width="4" stroke-linejoin="round"/>
+            <polyline points="29,42 36,36 42,41 48,36 55,42" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
             <polygon points="46,76 70,36 94,76" fill="#A63A33"/>
-            <polyline points="60,53 65,48 70,52 75,48 80,53" fill="none" stroke="#333333" stroke-width="4" stroke-linejoin="round"/>
-            <polyline points="8,76 42,20 58,46" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
-            <polyline points="46,76 70,36 94,76" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+            <polyline points="60,53 65,48 70,52 75,48 80,53" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+            <polyline points="8,76 42,20 58,46" fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+            <polyline points="46,76 70,36 94,76" fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
           </svg>
       expert:
-        label: 专业（黑色） Expert (Black)
+        label: 专业（黑色）
+        label_en: Expert (Black)
         icon: |-
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 85" width="18" height="18" style="vertical-align: -0.15em; display: inline-block;" aria-label="Expert trail icon">
-            <circle cx="62" cy="18" r="9" fill="none" stroke="#333333" stroke-width="5"/>
+            <circle cx="62" cy="18" r="9" fill="none" stroke="currentColor" stroke-width="5"/>
             <polygon points="8,76 42,20 76,76" fill="#1A1A1A"/>
-            <polyline points="29,42 36,36 42,41 48,36 55,42" fill="none" stroke="#555555" stroke-width="4" stroke-linejoin="round"/>
+            <polyline points="29,42 36,36 42,41 48,36 55,42" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
             <polygon points="46,76 70,36 94,76" fill="#1A1A1A"/>
-            <polyline points="60,53 65,48 70,52 75,48 80,53" fill="none" stroke="#555555" stroke-width="4" stroke-linejoin="round"/>
-            <polyline points="8,76 42,20 58,46" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
-            <polyline points="46,76 70,36 94,76" fill="none" stroke="#333333" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+            <polyline points="60,53 65,48 70,52 75,48 80,53" fill="none" stroke="currentColor" stroke-width="4" stroke-linejoin="round"/>
+            <polyline points="8,76 42,20 58,46" fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+            <polyline points="46,76 70,36 94,76" fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
           </svg>
     links:
       - url: https://visitfaroeislands.com/en/see-do/activities/hiking/trail-difficulty
@@ -85,28 +104,29 @@ routes:
         names:
           - value: Trøllkonufingur
             language: Faroese
-            languageTag: fo
+            language_tag: fo
         type:
-          value: outAndBack
+          value: out_and_back
         difficulty:
           value: easy
           system: faroe
         altitude:
           value: 130
           unit: m
-        elevationGain:
+        elevation_gain:
           value: 70
           unit: m
+          round_trip: true
         distance:
           value: 3
           unit: km
-          roundTrip: true
-        estimatedTime:
+          round_trip: true
+        estimated_time:
           value: 1
           unit: h
-          roundTrip: true
+          round_trip: true
         season:
-          yearRound: true
+          year_round: true
         links:
           vvtf:
             url: https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1
@@ -115,31 +135,32 @@ routes:
 
   norway:
     nordland:
-      floyaAndDjevelporten:
+      floya_and_djevelporten:
         name: 弗洛亚和魔鬼之门 (Fløya and Djevelporten)
         names:
           - value: Fløya and Djevelporten
             language: English
-            languageTag: en
+            language_tag: en
         type:
-          value: outAndBack
+          value: out_and_back
         difficulty:
           value: black
           system: norway
         altitude:
           value: 590
           unit: m
-        elevationGain:
+        elevation_gain:
           value: 590
           unit: m
+          round_trip: true
         distance:
           value: 4
           unit: km
-          roundTrip: true
-        estimatedTime:
+          round_trip: true
+        estimated_time:
           value: 4
           unit: h
-          roundTrip: true
+          round_trip: true
         season:
           min: 3
           max: 11
@@ -155,22 +176,23 @@ routes:
         names:
           - value: Festvågtinden
             language: Norwegian
-            languageTag: no
+            language_tag: no
         type:
-          value: outAndBack
+          value: out_and_back
         difficulty:
           value: red
           system: norway
         altitude:
           value: 541
           unit: m
-        elevationGain:
+        elevation_gain:
           value: 541
           unit: m
+          round_trip: true
         distance:
           value: 2.6
           unit: km
-          roundTrip: true
+          round_trip: true
         slope:
           grade:
             value: 42
@@ -178,11 +200,11 @@ routes:
           angle:
             value: 23
             unit: °
-        estimatedTime:
+        estimated_time:
           min: 2
           max: 4
           unit: h
-          roundTrip: true
+          round_trip: true
         season:
           min: 5
           max: 10
@@ -194,30 +216,31 @@ routes:
             publisher: visitlofoten.com
             year: 2025
 
-      innersandToRyten:
+      innersand_to_ryten:
         name: 雷腾山和鲸湾海滩 (Ryten and Kvalvika)
         type:
-          value: outAndBack
+          value: out_and_back
         difficulty:
           value: blue
           system: norway
         altitude:
           value: 543
           unit: m
-        elevationGain:
+        elevation_gain:
           value: 540
           unit: m
+          round_trip: true
         distance:
           value: 7.2
           unit: km
-          roundTrip: true
-        estimatedTime:
+          round_trip: true
+        estimated_time:
           min: 3
           max: 5
           unit: h
-          roundTrip: true
+          round_trip: true
         season:
-          yearRound: true
+          year_round: true
         links:
           vlkr:
             url: https://visitlofoten.com/en/guide/kvalvika-and-ryten-543-m/
@@ -228,25 +251,26 @@ routes:
       reinebringen:
         name: 雷讷布林根 (Reinebringen)
         type:
-          value: outAndBack
+          value: out_and_back
         difficulty:
           value: blue
           system: norway
         altitude:
           value: 484
           unit: m
-        elevationGain:
+        elevation_gain:
           value: 448
           unit: m
+          round_trip: true
         distance:
           value: 2.2
           unit: km
-          roundTrip: true
-        estimatedTime:
+          round_trip: true
+        estimated_time:
           min: 2
           max: 4
           unit: h
-          roundTrip: true
+          round_trip: true
         steps:
           value: 1978
           notes: 数据来自步道起点的徒步导览图.
@@ -260,10 +284,10 @@ routes:
             publisher: visitlofoten.com
             year: 2025
 
-      haaheiaAndHaaen:
+      haaheia_and_haaen:
         name: 鲨鱼高地和鲨鱼峰 (Håheia and Håen)
         type:
-          value: outAndBack
+          value: out_and_back
         difficulty:
           value: green
           system: norway
@@ -271,20 +295,21 @@ routes:
         altitude:
           value: 438
           unit: m
-        elevationGain:
+        elevation_gain:
           value: 415
           unit: m
+          round_trip: true
         distance:
           value: 6.2
           unit: km
-          roundTrip: true
-        estimatedTime:
+          round_trip: true
+        estimated_time:
           min: 2
           max: 3
           unit: h
-          roundTrip: true
+          round_trip: true
         season:
-          yearRound: true
+          year_round: true
         links:
           vlhv:
             url: https://visitlofoten.com/en/activity/hiking/hike-to-haheia-at-vaeroy-438-m/
@@ -301,7 +326,7 @@ routes:
       hesten:
         name: 赫斯滕峰 (Hesten), 塞尼亚 (Senja)
         type:
-          value: outAndBack
+          value: out_and_back
         difficulty:
           value: blue
           system: norway
@@ -309,47 +334,49 @@ routes:
         altitude:
           value: 556
           unit: m
-        elevationGain:
+        elevation_gain:
           value: 489
           unit: m
+          round_trip: true
         distance:
           value: 4.5
           unit: km
-          roundTrip: true
-        estimatedTime:
+          round_trip: true
+        estimated_time:
           value: 3
           unit: h
-          roundTrip: true
+          round_trip: true
         season:
-          yearRound: true
+          year_round: true
         links:
           uths:
             url: https://ut.no/turforslag/112336088/fottur-til-hesten-og-stavelitippen-i-fjordgard
             title: Fottur til Hesten og Stavelitippen i Fjordgård
             website: ut.no
-            createdOn: 2025-11-06
+            created_on: 2025-11-06
 
       matinden:
         name: 莫廷恩/莫峰 (Måtinden), 安岛 (Andøya), 西奥伦群岛 (Vesterålen)
         type:
-          value: outAndBack
+          value: out_and_back
         difficulty:
           value: blue
           system: norway
         altitude:
           value: 408
           unit: m
-        elevationGain:
+        elevation_gain:
           value: 498
           unit: m
+          round_trip: true
         distance:
           value: 7.4
           unit: km
-          roundTrip: true
-        estimatedTime:
+          round_trip: true
+        estimated_time:
           value: 3
           unit: h
-          roundTrip: true
+          round_trip: true
         season:
           min: 6
           max: 10
@@ -358,35 +385,36 @@ routes:
             url: https://ut.no/turforslag/1112157119/matind
             title: Fottur til Måtinden 408 moh
             website: ut.no
-            createdOn: 2025-11-06
+            created_on: 2025-11-06
           vvma:
             url: https://visitvesteralen.com/en/hikers-paradise/matind
             title: Måtind (408 masl)
             website: visitvesteralen.com
-            createdOn: 2025-11-06
+            created_on: 2025-11-06
 
     rogaland:
       preikestolen:
         name: 布道石 (Preikestolen / The Pulpit Rock)
         type:
-          value: outAndBack
+          value: out_and_back
         difficulty:
           value: blue
           system: norway
         altitude:
           value: 604
           unit: m
-        elevationGain:
+        elevation_gain:
           value: 500
           unit: m
+          round_trip: true
         distance:
           value: 8
           unit: km
-          roundTrip: true
-        estimatedTime:
+          round_trip: true
+        estimated_time:
           value: 4
           unit: h
-          roundTrip: true
+          round_trip: true
         season:
-          yearRound: true
+          year_round: true
           

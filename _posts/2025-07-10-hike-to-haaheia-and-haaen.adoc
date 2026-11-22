@@ -20,7 +20,9 @@
 
 鲨鱼高地和鲨鱼峰 (Håheia and Håen) 徒步的基本信息如下:
 
-{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.haaheiaAndHaaen %}
+++++
+{% include hike-route-facts.html route=site.data.hikes.routes.norway.nordland.haaheia_and_haaen %}
+++++
 
 [#about-names]
 == 关于名字

@@ -21,6 +21,7 @@ description: 弗洛亚峰 (Fløya) 坐落在罗弗敦群岛 (Lofoten) 的斯沃�
 = 徒步罗弗敦的弗洛亚和魔鬼之门
 :toc:
 :sectnums:
+:page-liquid:
 :aff-link-anker-brygge: https://expedia.com/affiliates/svolvaer-hotels-anker-brygge.i2yFnCB
 :aff-link-thon-hotel-lofoten: https://expedia.com/affiliates/svolvaer-hotels-thon-hotel-lofoten.LnZGG7E
 
@@ -38,7 +39,9 @@ image::assets/images/2025/lofoten-faroe/hiking-floya-and-djevelporten/floya-from
 
 弗洛亚和魔鬼之门徒步的基本信息如下:
 
-{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.floyaAndDjevelporten %}
+++++
+{% include hike-route-facts.html route=site.data.hikes.routes.norway.nordland.floya_and_djevelporten %}
+++++
 
 以上数据为徒步起点经魔鬼之梯, 魔鬼之门, 到弗洛亚峰的数据, 不包含途中绕道去斯沃尔韦尔山羊峰的路线部分.
 

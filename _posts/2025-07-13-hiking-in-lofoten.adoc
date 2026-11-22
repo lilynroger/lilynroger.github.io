@@ -29,7 +29,9 @@ image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/svolvaergeita.webp[在
 
 弗洛亚和魔鬼之门徒步的基本信息如下:
 
-{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.floyaAndDjevelporten %}
+++++
+{% include hike-route-facts.html route=site.data.hikes.routes.norway.nordland.floya_and_djevelporten %}
+++++
 
 以上数据为徒步起点经魔鬼之梯, 魔鬼之门, 到弗洛亚峰的数据, 不包含途中绕道去斯沃尔韦尔山羊峰的路线部分.
 
@@ -50,7 +52,9 @@ image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/torsketunga.webp[在�
 
 菲斯特沃格峰 (Festvågtind) 徒步的基本信息如下:
 
-{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.festvaagtind %}
+++++
+{% include hike-route-facts.html route=site.data.hikes.routes.norway.nordland.festvaagtind %}
+++++
 
 以上数据中不包含鳕鱼舌徒步. 途中去鳕鱼舌往返距离有 1 公里, 需要 1 小时左右.
 
@@ -73,7 +77,9 @@ image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/on-the-way-from-inners
 
 雷腾山和鲸湾海滩 (Ryten and Kvalvika) 徒步的基本信息如下:
 
-{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.innersandToRyten %}
+++++
+{% include hike-route-facts.html route=site.data.hikes.routes.norway.nordland.innersand_to_ryten %}
+++++
 
 [#reinebringen]
 == 雷讷布林根 (Reinebringen), 罗弗敦
@@ -85,7 +91,9 @@ image::assets/images/2025/lofoten-faroe/hiking-reinebringen/panorama-from-reineb
 
 雷讷布林根 (Reinebringen) 徒步的基本信息如下:
 
-{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.reinebringen %}
+++++
+{% include hike-route-facts.html route=site.data.hikes.routes.norway.nordland.reinebringen %}
+++++
 
 有关雷讷布林根 (Reinebringen) 徒步的详细信息可以参考我们的攻略: link:{% post_url 2025-07-07-hiking-reinebringen %}[徒步罗弗敦 (Lofoten) 的 Reinebringen].
 
@@ -99,7 +107,9 @@ image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/haheia-and-haen.webp[�
 
 鲨鱼高地和鲨鱼峰 (Håheia and Håen) 徒步的基本信息如下:
 
-{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.haaheiaAndHaaen %}
+++++
+{% include hike-route-facts.html route=site.data.hikes.routes.norway.nordland.haaheia_and_haaen %}
+++++
 
 详细信息可以参考我们的笔记: link:{% post_url 2025-07-10-hike-to-haaheia-and-haaen %}[徒步罗弗敦 (Lofoten) 的鲨鱼高地和鲨鱼峰 (Håheia and Håen)].
 
@@ -123,7 +133,9 @@ image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/segla.webp[在塞尼�
 
 赫斯滕峰 (Hesten) 徒步路线的基本信息如下:
 
-{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.hesten %}
+++++
+{% include hike-route-facts.html route=site.data.hikes.routes.norway.nordland.hesten %}
+++++
 
 塞尼亚是我们的下一个目标. 我们计划在冬季去打卡塞格拉峰.
 
@@ -139,7 +151,9 @@ image::assets/images/2025/lofoten-faroe/hiking-in-lofoten/matinden.webp[午夜�
 
 莫廷恩/莫峰 (Måtinden) 徒步路线的基本信息如下:
 
-{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.nordland.matinden %}
+++++
+{% include hike-route-facts.html route=site.data.hikes.routes.norway.nordland.matinden %}
+++++
 
 需要注意的是, 在冬季由于连接安岛和塞尼亚岛之间的汽车轮渡停航, 自驾去安岛要绕行几百公里. 专程去莫峰十分不易.
 

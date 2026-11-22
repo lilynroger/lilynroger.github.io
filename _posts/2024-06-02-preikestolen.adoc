@@ -47,7 +47,9 @@ description: 布道石 (Preikestolen) 是吕瑟峡湾 (Lysefjord) 之上的一�
 
 布道石徒步路线的基本信息如下：
 
-{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.norway.rogaland.preikestolen %}
+++++
+{% include hike-route-facts.html route=site.data.hikes.routes.norway.rogaland.preikestolen %}
+++++
 
 布道石是link:{url-norwegian-scenic-hikes}[挪威国家风景徒步路线]之一，在挪威有名的徒步路线中算是最轻松的了。在去往布道石的路上，总会看到很多小朋友跟着父母一起，还有很多父母背着婴儿，当然还少不了很多狗狗走在主人前面。但即便如此，也不能大意，尤其是在恶劣的天气中。实际上，最好避免在恶劣的天气中徒步布道石。
 

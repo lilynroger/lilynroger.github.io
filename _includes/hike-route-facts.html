@@ -1,0 +1,153 @@
+{% assign layout_class = "lr-route-facts-grid" %}
+{% if include.horizontal %}
+{% assign layout_class = "lr-route-facts-horizontal" %}
+{% endif %}
+{% if include.route %}
+<ul class="lr-route-facts {{ layout_class }} list-unstyled">
+  {% if include.route.type %}
+  <li>
+    <div class="lr-route-fact h-100 rounded border p-3">
+      <div class="lr-route-fact-heading d-flex align-items-center gap-2 mb-2">
+        <span class="lr-route-fact-icon flex-shrink-0" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="5" r="2"/><circle cx="18" cy="19" r="2"/><path d="M6 7v4a4 4 0 0 0 4 4h4a4 4 0 0 1 4 4"/></svg>
+        </span>
+        <span class="lr-route-fact-label">路线类型</span>
+      </div>
+      <div class="lr-route-fact-value">{{ site.data.hikes.types[include.route.type.value].label }}</div>
+      <div class="lr-route-fact-value-en small text-body-secondary mt-1" lang="en">{{ site.data.hikes.types[include.route.type.value].label_en }}</div>
+    </div>
+  </li>
+  {% endif %}
+
+  {% if include.route.difficulty %}
+  {% assign difficulty_system = site.data.hikes.difficulties[include.route.difficulty.system] %}
+  {% assign difficulty_level = difficulty_system.levels[include.route.difficulty.value] %}
+  <li>
+    <div class="lr-route-fact h-100 rounded border p-3">
+      <div class="lr-route-fact-heading d-flex align-items-center gap-2 mb-2">
+        <span class="lr-route-fact-icon lr-route-fact-icon--difficulty flex-shrink-0" aria-hidden="true">
+          {% if difficulty_level.icon %}{{ difficulty_level.icon }}{% else %}
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m3 20 7-13 4 7 3-5 4 11H3Z"/><path d="m8 20 3-5 2 3 2-2 2 4"/></svg>
+          {% endif %}
+        </span>
+        <span class="lr-route-fact-label">难度等级</span>
+      </div>
+      <div class="lr-route-fact-value">{{ difficulty_level.label }}</div>
+      <div class="lr-route-fact-value-en small text-body-secondary mt-1" lang="en">{{ difficulty_level.label_en }}</div>
+    </div>
+  </li>
+  {% endif %}
+
+  {% if include.route.altitude %}
+  <li>
+    <div class="lr-route-fact h-100 rounded border p-3">
+      <div class="lr-route-fact-heading d-flex align-items-center gap-2 mb-2">
+        <span class="lr-route-fact-icon flex-shrink-0" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m3 20 7-13 4 7 3-5 4 11H3Z"/><path d="M10 7V3m-2 2 2-2 2 2"/></svg>
+        </span>
+        <span class="lr-route-fact-label">海拔高度</span>
+      </div>
+      <div class="lr-route-fact-value">{{ include.route.altitude.value }} {{ include.route.altitude.unit }}</div>
+    </div>
+  </li>
+  {% endif %}
+
+  {% if include.route.elevation_gain %}
+  <li>
+    <div class="lr-route-fact h-100 rounded border p-3">
+      <div class="lr-route-fact-heading d-flex align-items-center gap-2 mb-2">
+        <span class="lr-route-fact-icon flex-shrink-0" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5m0 14h16"/><path d="m7 15 4-4 3 2 5-6"/><path d="M15 7h4v4"/></svg>
+        </span>
+        <span class="lr-route-fact-label">累计爬升</span>
+      </div>
+      <div class="lr-route-fact-value">{{ include.route.elevation_gain.value }} {{ include.route.elevation_gain.unit }}</div>
+      {% if include.route.elevation_gain.round_trip %}<div class="lr-route-fact-value-note small text-body-secondary mt-1">往返</div>{% endif %}
+    </div>
+  </li>
+  {% endif %}
+
+  {% if include.route.distance %}
+  <li>
+    <div class="lr-route-fact h-100 rounded border p-3">
+      <div class="lr-route-fact-heading d-flex align-items-center gap-2 mb-2">
+        <span class="lr-route-fact-icon flex-shrink-0" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="18" r="2"/><circle cx="19" cy="6" r="2"/><path d="M7 18h3a3 3 0 0 0 3-3v-3a3 3 0 0 1 3-3h1"/></svg>
+        </span>
+        <span class="lr-route-fact-label">距离</span>
+      </div>
+      <div class="lr-route-fact-value">
+        {% if include.route.distance.value %}{{ include.route.distance.value }}{% else %}{{ include.route.distance.min }} - {{ include.route.distance.max }}{% endif %}
+        {{ include.route.distance.unit }}
+      </div>
+      {% if include.route.distance.round_trip %}<div class="lr-route-fact-value-note small text-body-secondary mt-1">往返</div>{% endif %}
+    </div>
+  </li>
+  {% endif %}
+
+  {% if include.route.slope %}
+  <li>
+    <div class="lr-route-fact h-100 rounded border p-3">
+      <div class="lr-route-fact-heading d-flex align-items-center gap-2 mb-2">
+        <span class="lr-route-fact-icon flex-shrink-0" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19h16L4 5v14Z"/><path d="M8 15h3v3m2-6h3v3m-1-8 3 3"/></svg>
+        </span>
+        <span class="lr-route-fact-label">坡度</span>
+      </div>
+      <div class="lr-route-fact-value">
+        {% if include.route.slope.angle %}{{ include.route.slope.angle.value }}{{ include.route.slope.angle.unit }}{% elsif include.route.slope.grade %}{{ include.route.slope.grade.value }}{{ include.route.slope.grade.unit }}{% endif %}
+      </div>
+      {% if include.route.slope.angle and include.route.slope.grade %}<div class="lr-route-fact-value-note small text-body-secondary mt-1">{{ include.route.slope.grade.value }}{{ include.route.slope.grade.unit }}</div>{% endif %}
+    </div>
+  </li>
+  {% endif %}
+
+  {% if include.route.steps %}
+  <li>
+    <div class="lr-route-fact h-100 rounded border p-3">
+      <div class="lr-route-fact-heading d-flex align-items-center gap-2 mb-2">
+        <span class="lr-route-fact-icon flex-shrink-0" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19h5v-4h5v-4h5V7h2"/></svg>
+        </span>
+        <span class="lr-route-fact-label">台阶</span>
+      </div>
+      <div class="lr-route-fact-value">{{ include.route.steps.value }} 级</div>
+    </div>
+  </li>
+  {% endif %}
+
+  {% if include.route.estimated_time %}
+  <li>
+    <div class="lr-route-fact h-100 rounded border p-3">
+      <div class="lr-route-fact-heading d-flex align-items-center gap-2 mb-2">
+        <span class="lr-route-fact-icon flex-shrink-0" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>
+        </span>
+        <span class="lr-route-fact-label">估计用时</span>
+      </div>
+      <div class="lr-route-fact-value">
+        {% if include.route.estimated_time.value %}{{ include.route.estimated_time.value }}{% else %}{{ include.route.estimated_time.min }} - {{ include.route.estimated_time.max }}{% endif %}
+        {{ include.route.estimated_time.unit }}
+      </div>
+      {% if include.route.estimated_time.round_trip %}<div class="lr-route-fact-value-note small text-body-secondary mt-1">往返</div>{% endif %}
+    </div>
+  </li>
+  {% endif %}
+
+  {% if include.route.season %}
+  <li>
+    <div class="lr-route-fact h-100 rounded border p-3">
+      <div class="lr-route-fact-heading d-flex align-items-center gap-2 mb-2">
+        <span class="lr-route-fact-icon flex-shrink-0" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M16 3v4M8 3v4M3 10h18"/></svg>
+        </span>
+        <span class="lr-route-fact-label">季节</span>
+      </div>
+      <div class="lr-route-fact-value">
+        {% if include.route.season.year_round %}全年{% elsif include.route.season.value %}{{ include.route.season.value }} 月{% else %}{{ include.route.season.min }} - {{ include.route.season.max }} 月{% endif %}
+      </div>
+    </div>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}

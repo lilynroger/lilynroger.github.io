@@ -29,7 +29,9 @@ description: 法罗语 Trøllkonufingur 直译是“女巨魔的手指”，常�
 [#quick-facts]
 == 徒步基本信息
 
-{% include adoc/hiking-route-facts.adoc route=site.data.hikes.routes.denmark.faroe.trollkonufingur %}
+++++
+{% include hike-route-facts.html route=site.data.hikes.routes.denmark.faroe.trollkonufingur %}
+++++
 
 [#legend]
 == 民间传说
