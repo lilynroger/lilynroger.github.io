@@ -33,7 +33,15 @@
         <span class="lr-route-fact-label">难度等级</span>
       </div>
       <div class="lr-route-fact-value">{{ difficulty_level.label }}</div>
-      <div class="lr-route-fact-value-en small text-body-secondary mt-1" lang="en">{{ difficulty_level.label_en }}</div>
+      <div class="lr-route-fact-value-en small text-body-secondary mt-1 d-flex align-items-center justify-content-center gap-1" lang="en">
+        <span>{{ difficulty_level.label_en }}</span>
+        {% assign difficulty_link = difficulty_system.links.first %}
+        {% if difficulty_link %}
+        <a class="lr-route-fact-info-link" href="{{ difficulty_link.url }}" target="_blank" rel="noopener noreferrer" aria-label="{{ difficulty_link.title }}" title="{{ difficulty_link.title }}">
+          <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0ZM7.25 6.75h1.5v5h-1.5v-5ZM8 5.75a.95.95 0 1 1 0-1.9.95.95 0 0 1 0 1.9Z"/></svg>
+        </a>
+        {% endif %}
+      </div>
     </div>
   </li>
   {% endif %}
