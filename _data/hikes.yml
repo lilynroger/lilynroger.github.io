@@ -208,7 +208,8 @@ routes:
         season:
           min: 5
           max: 10
-        notes: 包括坡度在内的部分信息来自步道起点的徒步导览图.
+        notes:
+          - content: 包括坡度在内的部分信息来自步道起点的徒步导览图。
         links:
           vlft:
             url: https://visitlofoten.com/en/guide/festvagtinden-541-m/
@@ -273,7 +274,8 @@ routes:
           round_trip: true
         steps:
           value: 1978
-          notes: 数据来自步道起点的徒步导览图.
+          notes:
+            - content: 数据来自步道起点的导览图。
         season:
           min: 5
           max: 10
@@ -291,7 +293,8 @@ routes:
         difficulty:
           value: green
           system: norway
-          notes: 根据徒步起点的导览图
+          notes:
+            - content: 难度等级信息来自徒步起点的导览图。
         altitude:
           value: 438
           unit: m
@@ -330,7 +333,8 @@ routes:
         difficulty:
           value: blue
           system: norway
-          notes: 大部分路段简单, 接近山顶的时候有一些陡峭需要攀爬的部分. 步道路标标记为蓝色.
+          notes:
+            - content: 步道路标标记为蓝色。大部分路段简单，接近山顶的时候有一些陡峭需要攀爬的部分。
         altitude:
           value: 556
           unit: m

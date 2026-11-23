@@ -1,0 +1,19 @@
+{% assign route = include.route %}
+{% assign difficulty_system = site.data.hikes.difficulties[route.difficulty.system] %}
+{% assign difficulty_level = difficulty_system.levels[route.difficulty.value] %}
+{% if route.notes or route.type.notes or route.difficulty.notes or route.altitude.notes or route.elevation_gain.notes or route.distance.notes or route.slope.notes or route.steps.notes or route.estimated_time.notes or route.season.notes %}
+<section class="lr-route-fact-notes" aria-label="路线备注">
+  <ul class="lr-route-fact-notes-list list-unstyled">
+    {% include _hike-route-fact-notes-group.html notes=route.notes kind="route" label="路线备注" %}
+    {% include _hike-route-fact-notes-group.html notes=route.type.notes kind="type" label="路线类型备注" %}
+    {% include _hike-route-fact-notes-group.html notes=route.difficulty.notes kind="difficulty" label="难度等级备注" difficulty_level=difficulty_level %}
+    {% include _hike-route-fact-notes-group.html notes=route.altitude.notes kind="altitude" label="海拔高度备注" %}
+    {% include _hike-route-fact-notes-group.html notes=route.elevation_gain.notes kind="elevation_gain" label="累计爬升备注" %}
+    {% include _hike-route-fact-notes-group.html notes=route.distance.notes kind="distance" label="距离备注" %}
+    {% include _hike-route-fact-notes-group.html notes=route.slope.notes kind="slope" label="坡度备注" %}
+    {% include _hike-route-fact-notes-group.html notes=route.steps.notes kind="steps" label="台阶备注" %}
+    {% include _hike-route-fact-notes-group.html notes=route.estimated_time.notes kind="estimated_time" label="估计用时备注" %}
+    {% include _hike-route-fact-notes-group.html notes=route.season.notes kind="season" label="季节备注" %}
+  </ul>
+</section>
+{% endif %}
