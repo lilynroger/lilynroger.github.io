@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "node/358472374",
+      "properties": {
+        "name": "沃格隧道沃格岛出入口",
+        "description": "沃格隧道 (Vágatunnilin) 西端出入口，在沃格岛 (Vágar) 上，靠近桑达沃格 (Sandavágur) 和沃格机场。隧道全长 4.9 公里。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.1165191,
+          62.0990822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/358480514",
+      "properties": {
+        "name": "沃格隧道斯特莱默岛出入口",
+        "description": "沃格隧道 (Vágatunnilin) 东端官方出入口，位于斯特莱默岛 (Streymoy) 西海岸的村庄莱纳 (Leynar)。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0434756,
+          62.1232804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/395388857",
+      "properties": {
+        "name": "北方诸岛隧道东岛出入口",
+        "description": "北方诸岛隧道 (Norðoyatunnilin) 西端官方出入口，位于东岛 (Eysturoy) 东海岸历史悠久的渔村莱尔维克 (Leirvík)。隧道全长 6.2 公里。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.6814648,
+          62.2075012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/395392985",
+      "properties": {
+        "name": "北方诸岛隧道博罗伊岛出入口",
+        "description": "北方诸岛隧道 (Norðoyatunnilin) 东端官方出入口，位于博罗伊岛 (Borðoy) 的克拉克斯维克 (Klaksvík)。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.5740405,
+          62.2181464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3906819976",
+      "properties": {
+        "name": "东岛隧道的托尔斯港出入口",
+        "description": "东岛隧道 (Eysturoyartunnilin) 南端主线官方出入口，位于斯特莱默岛 (Streymoy) 上的首都托尔斯港 (Tórshavn) 北郊。隧道全长 11.2 公里，于 2020 年通车。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7806492,
+          62.0467223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/886483795",
+      "properties": {
+        "name": "东岛隧道的海底环岛",
+        "description": "世界首座海底交通环岛，位于海平面下 72.6 米，连通三条支线。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7579533,
+          62.0986738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3906819960",
+      "properties": {
+        "name": "东岛隧道的鲁纳维克出入口",
+        "description": "东岛隧道 (Eysturoyartunnilin) 东侧支线官方出入口，位于东岛之上，紧邻村庄鲁纳维克 (Runavík)。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7329866,
+          62.1104473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/3906819987",
+      "properties": {
+        "@id": "node/3906819987",
+        "tunnel": "Eysturoyartunnilin",
+        "type": "portal",
+        "official_name": "Sjógv (Strendur)",
+        "name": "东岛隧道的斯特伦杜尔出入口",
+        "description": "东岛隧道 (Eysturoyartunnilin) 北侧支线官方出入口，位于东岛之上，在斯特伦杜尔 (Strendur) 村庄的北侧。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.7557534,
+          62.1129186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6781437897",
+      "properties": {
+        "name": "沙岛隧道的斯特莱默岛出入口",
+        "description": "沙岛隧道 (Sandoyartunnilin) 北端官方出入口，位于斯特莱默岛甘姆拉雷特 (Gamlarætt) 码头。隧道全长 10.8 公里，于 2023 年底通车。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.815492,
+          61.9617622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7310404724",
+      "properties": {
+        "name": "沙岛隧道的沙岛出入口",
+        "description": "沙岛隧道 (Sandoyartunnilin) 南端官方出入口，位于沙岛之上的桑杜尔 (Sandur) 和斯科蓬 (Skopun) 两个村庄之间。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.8394501,
+          61.871318
+        ]
+      }
+    }
+  ]
+}
