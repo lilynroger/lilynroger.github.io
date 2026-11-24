@@ -11,9 +11,9 @@ layout: article
 map: true
 categories: posts
 date: 2025-06-29 12:00:00 +0100
-last_modified_at: 2026-11-22 10:45:00 +0800
+last_modified_at: 2026-11-24 08:15:00 +0800
 tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 运动, 徒步]
-tagline: 法罗群岛的缩影
+tagline: 法罗群岛也有入门难度的免费徒步
 description: 法罗语 Trøllkonufingur 直译是“女巨魔的手指”，常被叫做“女巫手指”。它是在法罗群岛沃格岛 (Vágar) 东南海岸悬崖边上的一座标志性的海蚀柱。这篇攻略介绍如何徒步前往它的观景点。
 ---
 = 徒步法罗群岛：沃格岛的女巫手指海蚀柱 (Trøllkonufingur) 
@@ -25,6 +25,8 @@ description: 法罗语 Trøllkonufingur 直译是“女巨魔的手指”，常�
 :url-trail-difficulty: https://visitfaroeislands.com/en/see-do/activities/hiking/trail-difficulty
 
 法罗语 https://visitvagar.fo/en/see-do0/culture-attractions/viewpoints/trollkonufingur1[Trøllkonufingur] 直译是“女巨魔的手指”，不过常被叫做“女巫手指”。它是耸立在法罗群岛沃格岛 (Vágar) 东南海岸悬崖边上的一座高 313 米的海蚀柱。这篇攻略介绍如何徒步前往女巫手指的观景点。这条路线是法罗群岛少数无需徒步费的热门徒步路线之一。
+
+toc::[]
 
 [#quick-facts]
 == 徒步基本信息
@@ -111,3 +113,17 @@ image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/hiking-troll
 * 法罗群岛旅游局官网: https://visitfaroeislands.com/en[Visit Faroe Islands]
 * 法罗群岛旅游推广机构官网 - 步道难度: https://visitfaroeislands.com/en/see-do/activities/hiking/trail-difficulty[Trail Difficulty]
 
+[#midvagur-viewpoint]
+== 后记
+
+我们从法罗群岛回来之后，意外了解到拍摄女巫手指的另一个绝佳机位。详细的信息整理在这里，下次去的时候一定要补上。
+
+这个隐藏机位在海湾对岸的米沃格 (Miðvágur) 东侧岬角。法罗群岛官方旅游局的许多经典宣传大片正是出自这里。将车停在米沃格教堂 (Miðvágs kirkja) 的停车场，沿着海湾南岸的草甸步行十几分钟即可抵达崖边。注意：最后的这段土路是**禁止游客车辆驶入**的。
+
+在这个角度的经典构图是同伴站在前方草坡边缘作为前景比例尺，拍摄远景中的女巫手指。
+
+附上相关的点位地图：
+
+++++
+{% include map-pois.html source="denmark-faroe-islands-hiking-trollkonufingur-midvagur-pois" showLabels="true" %}
+++++

@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "V",
+                "name": "米沃格东侧拍摄机位",
+                "description": "位于米沃格（Miðvágur）东侧海湾南岸向海突出的草甸岩石岬角。适合使用中长焦拍摄女巫手指脱离主悬崖的侧影。",
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1707483,
+                    62.0395902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "T",
+                "name": "女巫手指海蚀柱",
+                "name_fo": "Trøllkonufingur",
+                "category": "Landmark",
+                "description": "女巫手指 (Trøllkonufingur) 是位于法罗群岛沃格岛（Vágar）东南端的高达 313 米的独立玄武岩海蚀柱。"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.08770,
+                    62.04664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "P",
+                "name": "米沃格教堂",
+                "name_fo": "Miðvágs kirkja",
+                "address": "23 Leitisvegur, Miðvágur, Faroe Islands",
+                "category": "Parking / Landmark",
+                "description": "米沃格教堂 (Miðvágs kirkja) 可以停车。从此向东步行约 1.5 公里即可抵达岬角拍摄机位（最后一段牧场土路禁止游客车辆驶入）。",\
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.19438,
+                    62.04817
+                ]
+            }
+        }
+    ]
+}
