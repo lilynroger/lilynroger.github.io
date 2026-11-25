@@ -1,0 +1,119 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-kalsoy-bus-506-4x3-1200.avif
+  alt: 法罗群岛卡尔索伊岛 (Kalsoy) 上的 506 路公交车。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-kalsoy-bus-506-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-kalsoy-bus-506-4x3-2400.avif 2400w
+
+layout: article
+map: true
+categories: posts
+date: 2025-07-01 08:00:00 +0100
+last_modified_at: 2026-11-25 09:15:00 +0800
+tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛, 交通]
+tagline: 法罗群岛的直升机算公共交通！
+description: 尽管法罗群岛的公共交通非常有限，可是前往某些地方却只能依赖公共交通。这篇攻略介绍法罗群岛的公共交通工具，包括公交车、轮渡、还有直升机。
+---
+= 法罗群岛的公共交通：公交车、轮渡和直升机
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/
+:url-undersea-tunnels: {% post_url 2025-07-01-undersea-tunnels-in-the-faroe-islands %}
+
+法罗群岛很多景点位置偏远，甚至近乎与世隔绝。而法罗群岛的公共交通非常有限，首都托尔斯港之外甚至可以说是极其不便。自驾无疑是游览法罗群岛的最佳方式。可是另一方面，前往法罗群岛的某些地方却只能依赖公共交通。这篇攻略介绍法罗群岛的公共交通工具，包括公交车、轮渡、还有直升机。是的，你没看错，法罗群岛的直升机也算公共交通！
+
+toc::[]
+
+我们先来粗略地了解一下法罗群岛的陆路交通连接，知道自驾都可以去哪里。然后，再去认识法罗群岛的公共交通，知道什么时候需要公交车、轮渡甚至直升机。
+
+[#road-connections]
+== 陆路交通连接
+
+法罗群岛一共有 18 座岛，其中主要的 5 座岛由 4 条收费的海底隧道连接，驾车可达。
+
+* 沃格隧道 (Vágatunnilin) 连接机场所在的沃格岛 (Vágar) 和首都托尔斯港 (Tórshavn) 所在的主岛斯特莱默岛 (Streymoy)；
+* 东岛隧道 (Eysturoyartunnilin) 连接东岛 (Eysturoy) 和斯特莱默岛；
+* 北方诸岛隧道 (Norðoyatunnilin) 连接北方诸岛中、法罗群岛第二大城市克拉克斯维克 (Klaksvík) 所在的博罗伊岛 (Borðoy) 和东岛；
+* 沙岛隧道 (Sandoyartunnilin) 连接沙岛 (Sandoy) 和主岛斯特莱默岛。 
+
+海底隧道的详细信息，可以参考我们的link:{url-undersea-tunnels}[法罗群岛海底隧道攻略]。
+
+除了海底隧道之外，法罗群岛的其它交通连接设施包括山岭隧道，和连接岛屿的海峡大桥和堤道。
+
+法罗群岛唯一的跨海峡大桥是**斯特莱默大桥** (Streymin Bridge)。这座大桥横跨在主岛斯特莱默岛与东岛之间，是连接托尔斯港和克拉克斯维克之间的 10 号国家公路的一部分。它对自驾游客的意义在于它是免费的，可以省去东岛隧道的通行费。
+
+法罗群岛北方诸岛中的两个岛通过跨海堤道连接到交通枢纽博罗伊岛：
+
+* 维多伊岛 (Viðoy)
+* 库诺伊岛 (Kunoy)
+
+这两条堤道使得可以自驾前往的岛从海底隧道连接的 5 个岛增加到了 7 个岛。
+
+.后视镜中的法罗群岛。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-in-mirror-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-in-mirror-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-in-mirror-4x3-2400.avif 2400w"]
+
+[#buses]
+== 公交车
+
+法罗群岛的国家公共交通公司 (https://www.ssl.fo/en[Strandfaraskip Landsins, SSL]) 负责运营和管理公交车。在首都托尔斯港以外的公共交通非常有限，而且真的非常贵，起步价 25 丹麦克朗；从沃格机场到托尔斯港需要 95 丹麦克朗。参考官网上的公交车票价信息 https://www.ssl.fo/en/prices/prices/buses[Prices of Buses]。
+
+公交车虽然不是理想的交通工具，但有些行程需要乘坐公交车。比如卡尔索伊岛 (Kalsoy) 因为汽车轮渡运力非常有限，岛上很多单车道山岭隧道，所以强烈建议游客不要带车上岛。岛上的公交车完全接驳轮渡和岛上的热门景点，包括海豹女雕像、卡卢林灯塔 (Kallurin) 和 007 邦德墓碑等等。
+
+.卡尔索伊岛 (Kalsoy) 上行驶在简陋的单车道山岭隧道中的 506 路公交车。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-kalsoy-bus-506-in-tunnel-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-kalsoy-bus-506-in-tunnel-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-kalsoy-bus-506-in-tunnel-4x3-2400.avif 2400w"]
+
+[#ferries]
+== 轮渡
+
+法罗群岛的轮渡也是 SSL 负责运营的，所有 7 条轮渡线路中有 3 条岛间的线路是汽车轮渡：
+
+7 Suðuroy - Tórshavn:: 轮渡 7 号线，苏杜罗伊岛 - 托尔斯港，航程: 2 小时 5 分钟
+56 Klaksvík - Kalsoy:: 轮渡 56 号线，克拉克斯维克 - 卡尔索伊岛，航程: 20 分钟
+90 Tórshavn - Nólsoy:: 轮渡 90 号线，托尔斯港 - 诺尔索伊岛，航程: 30 分钟
+
+尽管有汽车轮渡，诺尔索伊岛 (Nólsoy) 完全不值得开车过去。这个岛很小，只有一个定居点，步行就足够了。去这个岛的游客很多是为了徒步诺尔索伊岛灯塔，开车也没什么用。
+
+卡尔索伊岛 (Kalsoy) 正如前面所说，公交接驳不错，自驾不易，最好不带车上岛。
+
+苏杜罗伊岛 (Suðuroy) 比较大，景点分散而且偏远，岛上公交非常有限，强烈建议带车上岛。
+
+这样，海底隧道连通了 5 个岛，堤道连通了 2 个，汽车渡轮连通了 3 个，可以自驾到达的岛有 10 个。
+
+其他的客轮线路中，最重要的莫过于下面这个了：
+
+36 Sørvágur - Mykines:: 轮渡 https://www.ssl.fo/en/timetable/ferry/36-soervagur-mykines[36] 号线，瑟沃格 - 米基内斯岛，航程: 45 分钟
+
+这个轮渡线路往返于沃格岛的瑟沃格和海鹦之岛米基内斯岛，是夏季最热门的轮渡线路，需要提前很久预订。不幸的是，由于米基内斯岛那边的码头简陋，而且位置特殊，稍有风雨，轮渡就会停航，甚至连停几天。规划行程时，最好在行程的两头预留弹性的时间。
+
+.我们预订的 36 路约瑟夫号轮渡 (Jósup) 停航了。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-ferry-36-josup-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-ferry-36-josup-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-ferry-36-josup-4x3-2400.avif 2400w"]
+
+[#helicopter]
+== 直升机
+
+有意思的是，在法罗群岛直升机也属于“公共交通”，也有固定的航线和时间表，而且价格还算合理。如果没能订到轮渡需要替代方案，或者只是想体验一下，也可以考虑直升机.
+
+举例来说，非常热门的从沃格岛飞海鹦岛 Mykines 的link:https://www.atlanticairways.com/helicopter/fares-conditions/[直升机票价]是 435 丹麦克朗。作为对比，link:https://www.ssl.fo/en/prices/prices-ferries[轮渡的预订价格]是 123 丹麦克朗。
+
+此外值得一提的是，**大迪门岛** (Stóra Dímun) 是法罗群岛最小的有人居住的岛，岛上只有两家人，其中一家连续八代生活在岛上，因而就姓“迪门”。迪门家除了养羊种地之外，还经营一家小型的民宿。寻求极致隔绝体验的人注意，直升机是前往大迪门岛的唯一方式。
+
+需要注意的是本地人乘坐直升机的价格非常便宜，比如沃格岛飞海鹦岛 Mykines 只要 145 丹麦克朗，所以本地人也经常坐直升机。而且直升机班次很少，座位也很少，一定要尽可能提前预订直升机。此外，为了防止人们“过度使用”直升机，直升机不可以预订当天往返票，同一天的行程只能是单程。这就意味着当天往返的行程需要提前预订好直升机加轮渡。
+
+法罗群岛的直升机也是由 SSL 负责管理的，运营则是由法罗群岛的“国航”大西洋航空负责运营。
+
+.法罗群岛的直升机 (atlanticairways.com)。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-helicopter-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-helicopter-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-public-transport/faroe-islands-helicopter-4x3-2400.avif 2400w"]
+
+[#resources]
+== 参考资源
+
+附上一些有用的在线资源：
+
+* 法罗群岛海底隧道的官网: https://www.tunnil.fo/english[tunnil.fo]
+* 法罗群岛国家公共交通公司官网: https://www.ssl.fo/en[ssl.fo]
+* 大西洋航空的直升机官网: https://www.atlanticairways.com/en/helicopter/[atlanticairways.com]
+
