@@ -1,0 +1,103 @@
+---
+image:
+  path: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-mulafossur-4x3-1200.avif
+  alt: 法罗群岛的戈萨达鲁尔村 (Gásadalur) 和穆拉瀑布 (Múlafossur)。
+  width: 1200
+  height: 900
+  sources:
+    - srcset: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-mulafossur-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-mulafossur-4x3-2400.avif 2400w
+
+layout: article
+map: true
+categories: posts
+date: 2025-07-02 08:00:00 +0100
+last_modified_at: 2026-11-26 20:30:00 +0800
+tags: [2025-Lofoten-Faroe, 欧洲, 北欧, 斯堪的纳维亚, 丹麦, 法罗群岛]
+tagline: 维京鸡蛋和穆拉瀑布啤酒
+description: 位于法罗群岛沃格岛 (Vágar) 上的戈萨达鲁尔村 (Gásadalur) 是穆拉瀑布 (Múlafossur) 的所在地。这篇指南介绍戈萨达鲁尔的亮点，包括住宿、餐馆、海鹦、徒步路线，以及名字由来。
+---
+= 法罗群岛的戈萨达鲁尔村 (Gásadalur)：鹅谷和穆拉瀑布 (Múlafossur)
+:page-liquid: true
+:toc: macro
+:toclevels: 2
+:sectnums:
+:imagesdir: https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/
+
+在法罗群岛沃格岛 (Vágar) 西部的山谷中，隐藏着戈萨达鲁尔村。这里是法罗群岛最具标志性的穆拉瀑布 (Múlafossur) 的所在地。三面被沃格岛最高的山峦环绕，西面隔海相望的是海鹦之岛米基内斯岛 (Mykines)。在 2004 年山岭隧道打通前，这里曾是法罗群岛最后一个没有通公路的村庄，近乎与世隔绝。
+
+从词源上看，戈萨达鲁尔的法罗语名字 Gásadalur 由两部分组成，其中 _Gása-_ 的意思是“鹅”；而 _-dalur_ 在法罗群岛的地名中很常见，意思是“山谷”；合起来的字面意思就是“鹅谷”。据说是因为这个地方自古以来就有野鹅在夏季栖息在山谷中。
+
+戈萨达鲁尔只有十几个居民。除了养羊种地之外，他们还经营着餐馆、民宿和礼品店。
+
+.戈萨达鲁尔村的羊（法罗群岛名字的含义就是“绵羊之岛”）。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-sheep-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-sheep-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-sheep-4x3-2400.avif 2400w"]
+
+{% assign links = site.data.affiliate.links %}
+
+戈萨达鲁尔村无疑是法罗群岛最值得体验的村庄之一。我们在法罗群岛的前半段行程就选择住在村里的 {{ links.denmark-faroe-gasadalur-apartments.url }}[Gásadalur Apartments] 度假公寓。深藏在世界边缘的山谷中，紧邻壮丽的穆拉瀑布，终身难忘的体验。
+
+.戈萨达鲁尔村的 Gásadalur Apartments 度假公寓（紧邻公交车站）。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-apartments-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-apartments-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-apartments-4x3-2400.avif 2400w"]
+
+戈萨达鲁尔村只有一家名叫 Gásadalsgarður 的家庭咖啡馆（字面意思是“鹅谷农场”），同时也是一家客栈，每年的三月底到九月初营业。
+
+.戈萨达鲁尔村的 Gásadalsgarður 咖啡馆。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-gasadalsgardur-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-gasadalsgardur-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-gasadalsgardur-4x3-2400.avif 2400w"]
+
+食物方面，咖啡、蛋糕和简餐只能说中规中矩。不过来都来了，推荐尝尝这里的特色的穆拉瀑布红色艾尔 (Múlafossur Red Ale) 啤酒。这是一款由本地的法罗群岛啤酒厂 (Föroya Bjór) 与戈萨达鲁尔村农场主合作酿造的爱尔兰红艾尔。卖点是用了当地的大麦和穆拉瀑布的水源。
+
+.戈萨达鲁尔村的 Gásadalsgarður 咖啡馆中的穆拉瀑布红色艾尔 (Múlafossur Red Ale) 啤酒。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-gasadalsgardur-beer-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-gasadalsgardur-beer-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-gasadalsgardur-beer-4x3-2400.avif 2400w"]
+
+在咖啡馆的斜对面，还有一家当地夫妇经营的小礼品店。
+
+.戈萨达鲁尔村的家庭礼品店 Uanni。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-uanni-giftshop-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-uanni-giftshop-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-uanni-giftshop-4x3-2400.avif 2400w"]
+
+这家礼品店主要是卖点羊皮和羊毛编织的衣物，据说是女主人亲手编织的。我们看到窗户上开门营业的灯，可是不知道这是家什么店。男主人看到我们在门外张望，就开门把我们让了进去，热心地介绍起来。
+
+.戈萨达鲁尔村的礼品店 Uanni 的羊皮和羊毛编织。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-uanni-giftshop-interior-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-uanni-giftshop-interior-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-uanni-giftshop-interior-4x3-2400.avif 2400w"]
+
+看摆设，这家小礼品店有时还会卖点咖啡和冰激凌什么的。男主人还向我们推销他家的鸡蛋，说是古代跟着维京人来到这里定居的“维京母鸡”下的蛋。不过，这些维京鸡蛋 10 个卖到 50 丹麦克朗，属实太贵了。
+
+出了礼品店，我们就碰到了浩浩荡荡的维京鸡队伍，一路跟着它们来到村里的一处空地。
+
+.戈萨达鲁尔村的维京鸡。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-viking-chicken-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-viking-chicken-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-viking-chicken-4x3-2400.avif 2400w"]
+
+在上面的照片背景中，可以看到几间深入山谷的小木屋，它们是穆拉瀑布度假小屋 ({{ links.denmark-faroe-mulafossur-cottages.url }}[Múlafossur Cottages])。下次如果有机会，一定要试试住两天看看。
+
+需要注意的是，萨达鲁尔村连个杂货店都没有。如果选择住在村里，记得在来的路上，在靠近机场的瑟沃格超市 (Á Sørvágur) 采购食材。
+
+如果既想住得离超市、机场和码头近一点，又想坐拥美景，也可以考虑住在临近的伯尔村 (Bøur)。特别伯尔边上是一家名字叫 {{ links.denmark-faroe-the-view.url }}[The View] 的度假小屋，就在机场通往戈萨达鲁尔村的“鹅谷之路”旁，独占海上拱门大海蚀柱和尖峰岛的无敌视角。海边斜坡上的几间草顶木屋本身就是法罗群岛最具标志性的景观之一。
+
+.伯尔村 (Bøur) 的 The View 度假小屋。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-bour-the-view-cottages-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-bour-the-view-cottages-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-bour-the-view-cottages-4x3-2400.avif 2400w"]
+
+[what-to-do-in-gasadalur]
+== 在戈萨达鲁尔村做什么
+
+在戈萨达鲁尔村不只有穆拉瀑布，这里还有经典徒步路线。运气够好，还能偶遇可爱的海鹦。
+
+戈萨达鲁尔三面环山，另一面是悬崖，船很难停靠。在山岭隧道开通前，来往戈萨达鲁尔和伯尔两个小村子之间的居民和邮差只能徒步翻越山脊，因此这条徒步路线常被称为“邮差小径”。
+
+当从伯尔出发来到山脊上时，米基内斯岛、尖峰岛、海上拱门海蚀柱尽收眼底。下山时，终点是法罗群岛最具标志性的穆拉瀑布，背景是世界尽头的遗世村落。最后再加上厚重的历史感。戈萨达鲁尔和伯尔之间的邮差小径是法罗群岛热门的徒步路线之一。
+
+.戈萨达鲁尔 - 伯尔村 (Gásadalur - Bøur) 徒步路线。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-bour-hike-interpretive-sign-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-bour-hike-interpretive-sign-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-bour-hike-interpretive-sign-4x3-2400.avif 2400w"]
+
+邮差小径的难度等级标记为困难，在山脊附近有一段陡峭且暴露感很强的路段。我们尝试了这条路线，在接近山脊的悬崖时，山雨欲来，几米之外都笼罩在快速掠过的云雾中，只好放弃了。
+
+如果想走一段轻松点的徒步，从穆拉瀑布的观景点出发，沿着山谷断崖边的步道平缓上行，可以来到村子后方的另一观景点。一路上都是北大西洋的壮丽美景。在夏季，如果运气好，还有机会在山崖的小土坡上看到海鹦。
+
+在经过悬崖边的观景点之后，不要急着回到村里。沿着水平的小路向山谷的方向走可以来到戈萨达鲁尔村的后上方，这里有着俯瞰戈萨达鲁尔的绝佳视角。
+
+.俯瞰云雾中的戈萨达鲁尔村 (Gásadalur)。
+image::https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-aerial-view-4x3-1200.avif[srcset="https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-aerial-view-4x3-1200.avif 1200w, https://assets.lilyroger.com/images/trips/2025/lofoten-faroe/faroe-islands-gasadalur/faroe-islands-gasadalur-aerial-view-4x3-2400.avif 2400w"]
+
+这段小路的尽头是一处栅栏门，这里有一个岔路向下可以回到村子里。
+
+++++
+{% include map-pois.html source="faroe-islands-gasadalur-pois" %}
+++++

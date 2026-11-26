@@ -1,0 +1,210 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "G",
+      "properties": {
+        "name": "戈萨达鲁尔",
+        "place": "village",
+        "description": "戈萨达鲁尔 (Gásadalur) 是沃格岛西侧的最后一个村落，毗邻穆拉瀑布 (Múlafossur)。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4360093,
+          62.109738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "A",
+      "properties": {
+        "name": "戈萨达鲁尔公寓",
+        "tourism": "apartment",
+        "address": "3 Langagerði, Gásadalur 387, Faroe Islands",
+        "description": "戈萨达鲁尔公寓 (Gásadalur Apartments) 包括 ABC 三个独立的栋现代化双卧度假公寓。",
+        "website": "https://visitfaroeislands.com/en/whatson/places/place/gasadalur-apartments0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4373,
+          62.1107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5773275957",
+      "properties": {
+        "osm_id": 5773275957,
+        "osm_type": "node",
+        "name": "Gásadalsgarður",
+        "description": "鹅谷农场 (Gásadalsgarður) 是一家季节性的家庭咖啡馆和简易客栈。",
+        "amenity": "cafe",
+        "tourism": "guest_house",
+        "address": "5 Lækjutún, Gásadalur 387, Faroe Islands",
+        "phone": "+298 277013",
+        "website": "http://www.gasadal.fo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.43897,
+          62.11037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5588327765",
+      "properties": {
+        "osm_id": 5588327765,
+        "osm_type": "node",
+        "name": "UannI",
+        "shop": "gift",
+        "description": "由一对热情的当地夫妇经营的小礼品店，主要售卖店主亲手编织的法罗羊毛衫、羊皮制品及当地纪念品，还有维京鸡蛋。",
+        "address": "2 Lækjutún, Gásadalur 387, Faroe Islands",
+        "phone": "+298 332832",
+        "website": "https://www.facebook.com/uanni.fo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.43895,
+          62.11066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "C",
+      "properties": {
+        "osm_id": 11348437689,
+        "osm_type": "node",
+        "name": "穆拉瀑布度假小屋",
+        "tourism": "chalet",
+        "address": "1-6 Líðarvegur, Gásadalur 387, Faroe Islands",
+        "description": "穆拉瀑布度假小屋 (Múlafossur Cottages) 包含 6 栋传统草皮屋顶独栋原木度假屋。",
+        "website": "https://www.mulafossur.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4302855,
+          62.1129501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5376090599",
+      "properties": {
+        "name": "穆拉瀑布",
+        "waterway": "waterfall",
+        "tourism": "attraction",
+        "address": "Gásadalur, 387 Vágar, Faroe Islands",
+        "description": "穆拉瀑布 (Múlafossur) 是法罗群岛最著名的地标，溪流从悬崖直落北大西洋。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.4357778,
+          62.1075047
+        ]
+      }
+    },
+    {
+      "type": "FeatureCollection",
+      "features": [
+        {
+          "type": "Feature",
+          "id": "node/11348437689",
+          "properties": {
+            "osm_id": 11348437689,
+            "osm_type": "node",
+            "name": "Múlafossur Cottages",
+            "tourism": "chalet",
+            "internet_access": "wlan",
+            "website": "https://mulafossur.com"
+          },
+          "geometry": {
+            "type": "Point",
+            "coordinates": [
+              -7.4302855,
+              62.1129501
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "伯尔村",
+        "category": "村落景点",
+        "address": "386 Bøur, Faroe Islands",
+        "description": "伯尔村 (Bøur) 是保留传统草皮屋顶的古村，正对海峡中的小岛。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.371450,
+          62.087980
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The View",
+        "name_zh": "海景草顶小屋",
+        "category": "住宿与观景",
+        "address": "Bíggjarvegur 12, 386 Bøur, Faroe Islands",
+        "description": "位于伯尔村 (Bøur) 东侧的传统草顶度假小屋，坐拥无敌海景。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.362700,
+          62.083100
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "瑟沃格超市",
+        "name_fo": "Á Sørvágur",
+        "category": "补给购物",
+        "address": "Í Bygdini 3, 380 Sørvágur, Faroe Islands",
+        "description": "瑟沃格超市 (Á Sørvágur) 是村庄上的小超市，适合自驾途中采购补给。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.307360,
+          62.071640
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "沃格机场",
+        "category": "交通枢纽",
+        "address": "Flogvøllurin 6, 380 Sørvágur, Faroe Islands",
+        "description": "沃格机场 (Vágar Airport) 法罗群岛唯一的国际机场及主要租车取还车点。"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.277222,
+          62.063611
+        ]
+      }
+    }
+  ]
+}

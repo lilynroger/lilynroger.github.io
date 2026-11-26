@@ -62,3 +62,12 @@ links:
       macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=297399&hotelId=9906657&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[Henningsvær Rorbuer]
     nyvagar-rorbuhotell:
       macro: link:https://hotels.ctrip.com/hotels/detail/?cityId=297399&hotelId=9877246&AllianceID=7230392&sid=267087507&ouid=kfptpcljzh[Nyvågar Rorbuhotell - by Classic Norway Hotels]
+  denmark-faroe-gasadalur-apartments:
+    macro: link:https://www.booking.com/hotel/fo/gasadalur-apartments-world-famous-waterfall.html[Gásadalur Apartments]
+    url: https://www.booking.com/hotel/fo/gasadalur-apartments-world-famous-waterfall.html
+  denmark-faroe-mulafossur-cottages:
+    macro: link:https://www.booking.com/hotel/fo/mulafossur-cottage-by-waterfall-in-gasadalur.html[Múlafossur Cottages]
+    url: https://www.booking.com/hotel/fo/mulafossur-cottage-by-waterfall-in-gasadalur.html
+  denmark-faroe-the-view:
+    macro: link:https://www.theview.fo/[The View]
+    url: https://www.theview.fo/
