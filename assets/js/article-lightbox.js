@@ -40,7 +40,7 @@
   closeButton.className = 'lr-lightbox__close';
   closeButton.type = 'button';
   closeButton.setAttribute('aria-label', '关闭图片');
-  closeButton.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="m6 6 12 12M18 6 6 18"/></svg>';
+  closeButton.innerHTML = '<svg viewBox="0 0 32 32" width="1em" height="1em" aria-hidden="true" focusable="false"><path fill="currentColor" d="M28.8 4.6L17.4 16l11.4 11.4-1.4 1.4L16 17.4 4.6 28.8l-1.4-1.4L14.6 16 3.2 4.6l1.4-1.4L16 14.6 27.4 3.2l1.4 1.4z"></path></svg>';
 
   media.append(imageButton, caption);
   figure.append(media);
