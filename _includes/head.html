@@ -21,7 +21,7 @@
 
   <link rel="stylesheet" href="{{ '/assets/bootstrap@5.3.8/dist/css/bootstrap.min.css' | relative_url }}"
     crossorigin="anonymous">
-  <link rel="stylesheet" href="{{ '/assets/styles/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/styles/main.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
   <!-- <script src="https://kit.fontawesome.com/408e71f0ed.js" crossorigin="anonymous"></script> -->
   <script src="/assets/js/theme-toggler.js"></script>
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
