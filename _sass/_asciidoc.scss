@@ -400,9 +400,10 @@ article,
   }
 
   .figure-img {
-    // width: 100%;
+    display: block;
     max-width: 100%;
     height: auto;
+    margin-inline: auto;
   }
 
   .figure-caption {
@@ -435,7 +436,6 @@ article,
   }
 
 }
-
 
 .post {
   .halign-right {

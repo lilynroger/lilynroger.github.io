@@ -8,7 +8,7 @@ layout: skeleton
       <article class="article" itemscope itemtype="http://schema.org/BlogPosting">
 
         <header class="article-header">
-          <div class="article-image mb-5">
+          <div class="article-image mb-5 imageblock">
             <figure class="figure mx-auto">
               <div class="content">
                 <picture>
@@ -21,6 +21,14 @@ layout: skeleton
                   <img src="{{ page.image.path }}" class="figure-img img-fluid" alt="{{ page.image.alt }}"
                     width="{{ page.image.width }}" height="{{ page.image.height }}" />
                 </picture>
+                <button class="lr-lightbox-trigger" type="button" aria-label="放大图片" aria-haspopup="dialog">
+                  <svg class="lr-lightbox-trigger__icon" aria-hidden="true" height="1em" role="presentation"
+                    viewBox="0 0 48 48" width="1em" xmlns="http://www.w3.org/2000/svg" data-icon="view-fullscreenEnter">
+                    <path fill="currentColor"
+                      d="M6.48 11.24V16h3.04V9.52H16V6.48H6.48v4.76M32 8v1.52h6.48V16h3.04V6.48H32V8M6.48 36.76v4.76H16v-3.04H9.52V32H6.48v4.76m32-1.52v3.24H32v3.04h9.52V32h-3.04v3.24">
+                    </path>
+                  </svg>
+                </button>
               </div>
               <figcaption class="title figure-caption">{{page.image.alt}}</figcaption>
             </figure>
@@ -96,3 +104,4 @@ layout: skeleton
     </div>
   </div>
 </main>
+<script src="{{ '/assets/js/article-lightbox.js' | relative_url }}" defer></script>
